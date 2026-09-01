@@ -1,0 +1,1702 @@
+[
+  {
+    "candidateSetKey": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1:direct:1",
+    "electionId": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 1,
+    "candidateIds": [
+      "38e1f606-08e7-438e-887e-0afa9f40afbd",
+      "b2ad97c1-0939-46b2-b0b7-f8a67364122a",
+      "a3b37e9c-dfed-4862-9821-ad9e8ae9d7ec",
+      "e4e64c99-29ae-4e19-95e3-9c0546b3c898",
+      "d24c2bbc-59e0-48d1-859d-c5122c9afc50"
+    ],
+    "activeCandidateIds": [
+      "38e1f606-08e7-438e-887e-0afa9f40afbd",
+      "b2ad97c1-0939-46b2-b0b7-f8a67364122a",
+      "a3b37e9c-dfed-4862-9821-ad9e8ae9d7ec",
+      "e4e64c99-29ae-4e19-95e3-9c0546b3c898",
+      "d24c2bbc-59e0-48d1-859d-c5122c9afc50"
+    ]
+  },
+  {
+    "candidateSetKey": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1:direct:2",
+    "electionId": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 2,
+    "candidateIds": [
+      "58a8acf7-09ad-44ec-a06f-38c71e08d3f5",
+      "015154b4-9641-4e40-bb3b-a5a11b34fea9",
+      "e76a1bc3-73e0-45fe-93ce-b3018b358f1e",
+      "cbbf7f9a-7182-4a47-b654-cef2901f782b",
+      "62ccd1f3-0fe1-449a-8246-7e68d0c44eb7",
+      "d27da072-fcb6-4b3a-b74a-938e22146291",
+      "1c9eb272-b94e-443e-8999-8e3d788e2eca"
+    ],
+    "activeCandidateIds": [
+      "58a8acf7-09ad-44ec-a06f-38c71e08d3f5",
+      "015154b4-9641-4e40-bb3b-a5a11b34fea9",
+      "cbbf7f9a-7182-4a47-b654-cef2901f782b",
+      "62ccd1f3-0fe1-449a-8246-7e68d0c44eb7",
+      "d27da072-fcb6-4b3a-b74a-938e22146291",
+      "1c9eb272-b94e-443e-8999-8e3d788e2eca"
+    ]
+  },
+  {
+    "candidateSetKey": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1:direct:3",
+    "electionId": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 3,
+    "candidateIds": [
+      "aa15642a-2f62-4603-a859-ffa903f2ee00",
+      "71e7709b-c124-445b-a36e-14da9f162b1e",
+      "494e45ca-4da4-4c97-b047-44142c33542d",
+      "6a3acb2e-3bd8-47aa-b4d8-4f860a2dd828",
+      "ead273a3-7787-41de-b7a0-83e125bce601",
+      "890919c7-89be-45b5-b622-5b6e530aa3ac"
+    ],
+    "activeCandidateIds": [
+      "aa15642a-2f62-4603-a859-ffa903f2ee00",
+      "71e7709b-c124-445b-a36e-14da9f162b1e",
+      "494e45ca-4da4-4c97-b047-44142c33542d",
+      "6a3acb2e-3bd8-47aa-b4d8-4f860a2dd828",
+      "ead273a3-7787-41de-b7a0-83e125bce601",
+      "890919c7-89be-45b5-b622-5b6e530aa3ac"
+    ]
+  },
+  {
+    "candidateSetKey": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1:direct:4",
+    "electionId": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 4,
+    "candidateIds": [
+      "2b8552b2-8067-4445-86c2-ad945761995a",
+      "e1b4fb16-1c05-408b-ad36-1dc95159826e",
+      "ef249af1-d4ef-448c-816d-79de5fe0d78f",
+      "0a20927e-9a9b-48fe-b4c7-d561bcc8605b",
+      "e48907dd-bd47-4e4b-93fa-e3d734839e80",
+      "948776c2-840d-44ce-b02e-8604cbdee87b",
+      "1fb940de-e58f-4763-892c-b3a8005c0668"
+    ],
+    "activeCandidateIds": [
+      "2b8552b2-8067-4445-86c2-ad945761995a",
+      "e1b4fb16-1c05-408b-ad36-1dc95159826e",
+      "ef249af1-d4ef-448c-816d-79de5fe0d78f",
+      "0a20927e-9a9b-48fe-b4c7-d561bcc8605b",
+      "948776c2-840d-44ce-b02e-8604cbdee87b",
+      "1fb940de-e58f-4763-892c-b3a8005c0668"
+    ]
+  },
+  {
+    "candidateSetKey": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1:direct:5",
+    "electionId": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 5,
+    "candidateIds": [
+      "9e1e9efc-cc2e-42ef-8236-6259fbf98109",
+      "38387c42-16c9-4872-919b-92b2a6744fc7",
+      "cbe62775-1d23-4963-a8f0-ed981c012dd7",
+      "f4114003-5636-4ffa-b50c-842834fa1cf2",
+      "0f3249fe-ce1a-4c50-9337-2fa1c39a4492",
+      "a3ed7135-435f-4253-8f04-323120d7c61d",
+      "8fc7c291-d94d-49ac-a991-f038db475f4a"
+    ],
+    "activeCandidateIds": [
+      "9e1e9efc-cc2e-42ef-8236-6259fbf98109",
+      "38387c42-16c9-4872-919b-92b2a6744fc7",
+      "cbe62775-1d23-4963-a8f0-ed981c012dd7",
+      "f4114003-5636-4ffa-b50c-842834fa1cf2",
+      "0f3249fe-ce1a-4c50-9337-2fa1c39a4492",
+      "a3ed7135-435f-4253-8f04-323120d7c61d",
+      "8fc7c291-d94d-49ac-a991-f038db475f4a"
+    ]
+  },
+  {
+    "candidateSetKey": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1:direct:6",
+    "electionId": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 6,
+    "candidateIds": [
+      "0bdcac54-4b38-4da7-9d6e-56b3cb70dd5d",
+      "c0e53aca-7690-40b0-9405-2062ea2dca7a",
+      "f024913d-9080-4938-b3f5-e947bfc592b0",
+      "6ee1d8eb-2457-420f-9363-e38d7727c09b",
+      "50feb9ad-aa54-406e-87b1-380c9132feaa",
+      "3550f921-946c-49a5-a9de-5eaf981921c8",
+      "b03c4da3-738d-4b37-bb00-390325b6b33e"
+    ],
+    "activeCandidateIds": [
+      "c0e53aca-7690-40b0-9405-2062ea2dca7a",
+      "f024913d-9080-4938-b3f5-e947bfc592b0",
+      "6ee1d8eb-2457-420f-9363-e38d7727c09b",
+      "50feb9ad-aa54-406e-87b1-380c9132feaa",
+      "3550f921-946c-49a5-a9de-5eaf981921c8",
+      "b03c4da3-738d-4b37-bb00-390325b6b33e"
+    ]
+  },
+  {
+    "candidateSetKey": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1:direct:7",
+    "electionId": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 7,
+    "candidateIds": [
+      "f166f5e3-3f9f-4742-a625-09f19fe7a47c",
+      "3599654c-cdef-4292-80dd-6a0fb6a44bfd",
+      "cc3c0b79-b56a-4281-a085-2ad1325d2533",
+      "89c737cb-524b-4fc2-8636-d53fab0f3ffc",
+      "9fa10995-0a9f-4fcf-8e11-ac0e39bd9bdf",
+      "a666483c-9034-43c4-bb8b-8774ad5db964",
+      "945f6cbf-2515-460e-a57f-736cd8a2ff80"
+    ],
+    "activeCandidateIds": [
+      "f166f5e3-3f9f-4742-a625-09f19fe7a47c",
+      "3599654c-cdef-4292-80dd-6a0fb6a44bfd",
+      "cc3c0b79-b56a-4281-a085-2ad1325d2533",
+      "89c737cb-524b-4fc2-8636-d53fab0f3ffc",
+      "9fa10995-0a9f-4fcf-8e11-ac0e39bd9bdf",
+      "a666483c-9034-43c4-bb8b-8774ad5db964",
+      "945f6cbf-2515-460e-a57f-736cd8a2ff80"
+    ]
+  },
+  {
+    "candidateSetKey": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1:direct:8",
+    "electionId": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 8,
+    "candidateIds": [
+      "952b9632-a0f6-4ce2-8635-c8a3d6dbf248",
+      "bab16d4f-34eb-4a7d-934d-795ceaae31a8",
+      "90f757a5-391b-42fd-a75c-16a16e5bfc2c",
+      "558f4849-efe1-4cad-9114-b116f2182892",
+      "d8ba4487-b807-449c-9a0b-16be018115d1",
+      "45af414a-b7f2-4f3b-95fc-ce4d6fe4f850"
+    ],
+    "activeCandidateIds": [
+      "952b9632-a0f6-4ce2-8635-c8a3d6dbf248",
+      "bab16d4f-34eb-4a7d-934d-795ceaae31a8",
+      "90f757a5-391b-42fd-a75c-16a16e5bfc2c",
+      "558f4849-efe1-4cad-9114-b116f2182892",
+      "d8ba4487-b807-449c-9a0b-16be018115d1",
+      "45af414a-b7f2-4f3b-95fc-ce4d6fe4f850"
+    ]
+  },
+  {
+    "candidateSetKey": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1:direct:9",
+    "electionId": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 9,
+    "candidateIds": [
+      "17f858b1-de08-46e6-b2a2-03126389f18f",
+      "1e9b3986-798a-46cc-800f-7f3601557c80",
+      "702c2b68-a9f4-4cf0-82aa-f1079799a4a3",
+      "f973f377-41da-4d56-87a5-3adb2022c979",
+      "074444d9-18f0-4414-9a99-78146ef80256",
+      "a4ee30a7-8138-4eae-8ac5-fb92ff05a709",
+      "59046984-3783-4b71-92f6-140b19fe9386"
+    ],
+    "activeCandidateIds": [
+      "17f858b1-de08-46e6-b2a2-03126389f18f",
+      "1e9b3986-798a-46cc-800f-7f3601557c80",
+      "702c2b68-a9f4-4cf0-82aa-f1079799a4a3",
+      "f973f377-41da-4d56-87a5-3adb2022c979",
+      "074444d9-18f0-4414-9a99-78146ef80256",
+      "a4ee30a7-8138-4eae-8ac5-fb92ff05a709",
+      "59046984-3783-4b71-92f6-140b19fe9386"
+    ]
+  },
+  {
+    "candidateSetKey": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1:direct:10",
+    "electionId": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 10,
+    "candidateIds": [
+      "07af62ff-efc0-4dd3-bbd3-c55bb4194819",
+      "f6f435c2-d08c-4caf-a4be-5c9df869c97d",
+      "5d9e1593-9fdf-4ab8-b7b4-b1327485ee47",
+      "f230eab0-b436-458e-891c-a6569f8e8ebf",
+      "360963b3-0acb-4a82-ac7b-6fe254a8fcc6"
+    ],
+    "activeCandidateIds": [
+      "07af62ff-efc0-4dd3-bbd3-c55bb4194819",
+      "f6f435c2-d08c-4caf-a4be-5c9df869c97d",
+      "5d9e1593-9fdf-4ab8-b7b4-b1327485ee47",
+      "f230eab0-b436-458e-891c-a6569f8e8ebf",
+      "360963b3-0acb-4a82-ac7b-6fe254a8fcc6"
+    ]
+  },
+  {
+    "candidateSetKey": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1:direct:11",
+    "electionId": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 11,
+    "candidateIds": [
+      "171d6012-31bc-4501-9fde-266e90d49d27",
+      "8db50aaa-c7b1-4e7c-98d2-b6a2c0eefc0a",
+      "1ed7a71a-6ace-4289-acf0-452f7b462ea7",
+      "efbd83fe-eff7-4e5f-b8a3-d5764ea78211",
+      "e74edfe9-bca7-4aef-b241-e65ef6dc64f0",
+      "d2969ddb-d38f-4a91-9af2-c0f9f4ac749c",
+      "60371611-bb72-412a-8c17-4414b39d3810"
+    ],
+    "activeCandidateIds": [
+      "171d6012-31bc-4501-9fde-266e90d49d27",
+      "8db50aaa-c7b1-4e7c-98d2-b6a2c0eefc0a",
+      "1ed7a71a-6ace-4289-acf0-452f7b462ea7",
+      "efbd83fe-eff7-4e5f-b8a3-d5764ea78211",
+      "e74edfe9-bca7-4aef-b241-e65ef6dc64f0",
+      "d2969ddb-d38f-4a91-9af2-c0f9f4ac749c",
+      "60371611-bb72-412a-8c17-4414b39d3810"
+    ]
+  },
+  {
+    "candidateSetKey": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1:direct:12",
+    "electionId": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 12,
+    "candidateIds": [
+      "d3e13bd6-9151-4688-aa9c-b2d886341d79",
+      "65abf602-402a-49ac-84d7-3d5d8f7621e0",
+      "195cdbee-5f70-43ba-a4e2-9a38a6ef4d81",
+      "7da8bfc5-0f64-40e8-9c72-2d6c8cd63e0c",
+      "433df116-09e3-46f8-a906-e43e6b2bade6",
+      "87d161d8-2b6a-4752-94a1-b59545a28a04"
+    ],
+    "activeCandidateIds": [
+      "d3e13bd6-9151-4688-aa9c-b2d886341d79",
+      "65abf602-402a-49ac-84d7-3d5d8f7621e0",
+      "195cdbee-5f70-43ba-a4e2-9a38a6ef4d81",
+      "7da8bfc5-0f64-40e8-9c72-2d6c8cd63e0c",
+      "433df116-09e3-46f8-a906-e43e6b2bade6",
+      "87d161d8-2b6a-4752-94a1-b59545a28a04"
+    ]
+  },
+  {
+    "candidateSetKey": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1:direct:13",
+    "electionId": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 13,
+    "candidateIds": [
+      "3e7a3a78-cdd6-4f9e-83e6-81bbf41c7231",
+      "bcc93ef1-9765-4f5e-b4ad-882a352f09bd",
+      "6c50f7cb-3267-4ca7-9760-2fb5a5137e27",
+      "1dbfee95-2510-4662-ae09-972e9ffe7047",
+      "83969606-beb5-42ed-9e42-7091e0b53777",
+      "3c49dec1-8640-419a-92e0-42d9565a2252"
+    ],
+    "activeCandidateIds": [
+      "3e7a3a78-cdd6-4f9e-83e6-81bbf41c7231",
+      "bcc93ef1-9765-4f5e-b4ad-882a352f09bd",
+      "6c50f7cb-3267-4ca7-9760-2fb5a5137e27",
+      "1dbfee95-2510-4662-ae09-972e9ffe7047",
+      "83969606-beb5-42ed-9e42-7091e0b53777",
+      "3c49dec1-8640-419a-92e0-42d9565a2252"
+    ]
+  },
+  {
+    "candidateSetKey": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1:direct:14",
+    "electionId": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 14,
+    "candidateIds": [
+      "1e22c67f-b2f4-4db5-8c2a-3ce49174dbfe",
+      "da74fb68-0c24-45fb-9874-542c03626a9f",
+      "2019bcef-2383-4abb-aa84-860c0698e948",
+      "4c0195d6-d22c-441d-a3d5-1bc7cfdcd2c6",
+      "43dbb2dd-68c8-450a-b5da-ba878659f2ec",
+      "e6d0d187-06cd-486c-8dd3-e9350260f535",
+      "2e9e386a-8b33-4a43-a1b8-b49afb24a016"
+    ],
+    "activeCandidateIds": [
+      "1e22c67f-b2f4-4db5-8c2a-3ce49174dbfe",
+      "da74fb68-0c24-45fb-9874-542c03626a9f",
+      "2019bcef-2383-4abb-aa84-860c0698e948",
+      "4c0195d6-d22c-441d-a3d5-1bc7cfdcd2c6",
+      "43dbb2dd-68c8-450a-b5da-ba878659f2ec",
+      "e6d0d187-06cd-486c-8dd3-e9350260f535"
+    ]
+  },
+  {
+    "candidateSetKey": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1:direct:15",
+    "electionId": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 15,
+    "candidateIds": [
+      "db1a67af-ac3d-4239-8750-53b933fb8902",
+      "c7fd597c-eea2-45af-a999-1c2f4b8e8fe4",
+      "a505150e-a5ed-4fe4-82b8-7de3a31656fa",
+      "4d32fa43-4914-47b1-8a2b-03b35d203dd1",
+      "1918ba67-9fce-4455-80b4-5c6856b074e4",
+      "279d3f5a-bbaf-4d5c-a541-04a87cafeced"
+    ],
+    "activeCandidateIds": [
+      "db1a67af-ac3d-4239-8750-53b933fb8902",
+      "c7fd597c-eea2-45af-a999-1c2f4b8e8fe4",
+      "a505150e-a5ed-4fe4-82b8-7de3a31656fa",
+      "4d32fa43-4914-47b1-8a2b-03b35d203dd1",
+      "1918ba67-9fce-4455-80b4-5c6856b074e4",
+      "279d3f5a-bbaf-4d5c-a541-04a87cafeced"
+    ]
+  },
+  {
+    "candidateSetKey": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1:direct:16",
+    "electionId": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 16,
+    "candidateIds": [
+      "f030f1e6-97b2-44c5-9289-ee17a673aba0",
+      "f83ffff5-50b1-458e-95a0-2639b589b315",
+      "dc06522a-2e7a-4450-88be-c5bc7290b64f",
+      "fd9e166e-dc23-4698-bbeb-9ddb9c9972e9",
+      "ccdc049a-e227-4cab-b826-10dbf466e6c2",
+      "e2c3849a-930c-453d-877d-2084100c1ae9",
+      "e61ecf00-f7d5-442d-896e-4d76fccf9e66"
+    ],
+    "activeCandidateIds": [
+      "f030f1e6-97b2-44c5-9289-ee17a673aba0",
+      "f83ffff5-50b1-458e-95a0-2639b589b315",
+      "dc06522a-2e7a-4450-88be-c5bc7290b64f",
+      "fd9e166e-dc23-4698-bbeb-9ddb9c9972e9",
+      "ccdc049a-e227-4cab-b826-10dbf466e6c2",
+      "e2c3849a-930c-453d-877d-2084100c1ae9",
+      "e61ecf00-f7d5-442d-896e-4d76fccf9e66"
+    ]
+  },
+  {
+    "candidateSetKey": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1:direct:17",
+    "electionId": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 17,
+    "candidateIds": [
+      "2ae42656-05b5-4616-9963-df7604efe157",
+      "79f27dcd-f5d5-4f5c-acf6-fabfc1ebf25a",
+      "ebe9db31-de2c-4e20-8fc8-16e314478e7d",
+      "c6085d88-994d-4fa7-b737-5d913f0bac76",
+      "70547ee3-e2a5-4182-a297-894041080481",
+      "2e37c8cc-40ae-4064-b1f3-52151937c419",
+      "2480f05d-b5c2-461b-86c0-0caae08dad62"
+    ],
+    "activeCandidateIds": [
+      "2ae42656-05b5-4616-9963-df7604efe157",
+      "79f27dcd-f5d5-4f5c-acf6-fabfc1ebf25a",
+      "ebe9db31-de2c-4e20-8fc8-16e314478e7d",
+      "c6085d88-994d-4fa7-b737-5d913f0bac76",
+      "70547ee3-e2a5-4182-a297-894041080481",
+      "2e37c8cc-40ae-4064-b1f3-52151937c419",
+      "2480f05d-b5c2-461b-86c0-0caae08dad62"
+    ]
+  },
+  {
+    "candidateSetKey": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1:direct:18",
+    "electionId": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 18,
+    "candidateIds": [
+      "a46c3c71-c550-4102-9c42-a33c82e41141",
+      "432768af-f6a4-438f-83bf-b2b337739659",
+      "11218420-2949-42cd-be05-6ee83fb3ee3a",
+      "0c7cb31d-81bb-4533-9878-78c5e922049d",
+      "ee6ec9e9-3891-4337-95f2-bd53662267b0",
+      "06cff9d5-ce0c-4dd4-9174-65aa7eeea39e"
+    ],
+    "activeCandidateIds": [
+      "a46c3c71-c550-4102-9c42-a33c82e41141",
+      "432768af-f6a4-438f-83bf-b2b337739659",
+      "11218420-2949-42cd-be05-6ee83fb3ee3a",
+      "0c7cb31d-81bb-4533-9878-78c5e922049d",
+      "06cff9d5-ce0c-4dd4-9174-65aa7eeea39e"
+    ]
+  },
+  {
+    "candidateSetKey": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1:proportional",
+    "electionId": "f033ddc0-0da6-46e9-9ee6-4df4f729b1f1",
+    "ballotType": "association",
+    "scope": "election_wide",
+    "associationIds": [
+      "d7eda5ee-ddba-4f46-b56b-882e80bacb4f",
+      "c089cd34-1de7-4097-ba9e-2e00aa417382",
+      "c21aeb63-912e-43ed-91ad-9a2b1a0dfd41",
+      "09b91a88-e8fa-4cfe-a543-ec3f5d212c4b",
+      "bddb3d8f-8918-4756-a724-487b2168ae3f",
+      "b0f5efe2-41cc-453a-b46e-0254a4862f86",
+      "b26164a8-7edb-46b5-a16b-af11badf3d1f",
+      "a7ee99f9-d3f1-48d9-aae5-a94a1a086eb8",
+      "d9f26afe-0b11-49f2-b516-1011eaf1fd77",
+      "89a16b8a-1c7b-4670-8d07-5640e210f4e8"
+    ],
+    "registeredAssociationIds": [
+      "d7eda5ee-ddba-4f46-b56b-882e80bacb4f",
+      "c089cd34-1de7-4097-ba9e-2e00aa417382",
+      "c21aeb63-912e-43ed-91ad-9a2b1a0dfd41",
+      "09b91a88-e8fa-4cfe-a543-ec3f5d212c4b",
+      "bddb3d8f-8918-4756-a724-487b2168ae3f",
+      "b0f5efe2-41cc-453a-b46e-0254a4862f86",
+      "b26164a8-7edb-46b5-a16b-af11badf3d1f",
+      "a7ee99f9-d3f1-48d9-aae5-a94a1a086eb8",
+      "d9f26afe-0b11-49f2-b516-1011eaf1fd77",
+      "89a16b8a-1c7b-4670-8d07-5640e210f4e8"
+    ],
+    "unresolvedAssociationIds": [],
+    "listCandidateIds": [
+      "57c710f9-40c5-4b2e-9cde-fb8e35fde7d6",
+      "3d7a4c24-802d-4133-94c3-341a331d4eb4",
+      "4f458d06-e417-4a84-a974-f8a9fcda5d08",
+      "715cade0-11ba-42cc-a47c-6b9e6aae14f7",
+      "3bb249e4-6e6d-4fc4-9aa2-12db89a1753e",
+      "09e097eb-2e30-4030-95e2-f35b4c73e913",
+      "8c126753-6129-4aec-830b-4e676f2edbc1",
+      "ee98ab98-d15f-4177-8c99-6b4b3f41083d",
+      "82019c85-5bdb-4031-9ee5-86d11279e215",
+      "3cd91263-ecd4-451d-b888-f20b51c78e26",
+      "34676d9d-32bb-49be-9be4-4234e9bea213",
+      "e5e6adae-88fd-4fb1-a519-42c0a624f700",
+      "142d1ed7-cafe-4826-8f52-364837d217f2",
+      "866df50d-5d19-449e-a4ce-063abe11397a",
+      "4aac5a6c-8a0a-449c-b0a9-acf0a1b67863",
+      "59a115e7-34e2-46e5-827d-2c453cd21970",
+      "4bb3fc55-721d-417c-90f6-5eaf6f205a96",
+      "4610b632-945d-43dc-a0f4-11f902debdad",
+      "0375eda4-2907-4f81-98db-8d6ca1715334",
+      "48ad2788-d625-4547-9173-4b5776be7b29",
+      "4410a883-0984-49f6-95f7-e5c83dab0e25",
+      "9cac9d4b-fec3-49a7-96c9-274f9a816f18",
+      "4e59997e-e1a5-4ac3-8a01-c128d338f227",
+      "d5c72563-5f06-466d-b827-aca68e07dae2",
+      "340cc94e-c8f2-46b2-a17c-2cbd2182a3e8",
+      "a887b0d7-49be-4f1b-adb3-33ded34e3a66",
+      "a289feec-ea32-46f8-bcc7-f48d995150c1",
+      "33617688-bce5-4a3c-b5d4-b6e5e68db669",
+      "4d762a44-4186-47fc-ae6e-cc613493c68c",
+      "8d3d9885-d4c5-4420-b6c9-0162893ba7f5",
+      "6fca76b4-c17a-4762-839d-e8c78b5d8d1f",
+      "818f1a41-f891-43ef-beea-46aff457fd86",
+      "c8f9d204-5e75-4e50-bd32-2cb1f8b6f2c3",
+      "9ec9a389-c163-4929-b0ca-d75af75923af",
+      "f984f783-b709-4b58-9278-bbeced4c1f20",
+      "7fcfec62-2635-4cad-a741-85aafebad6fa",
+      "a46ff950-6b02-40f2-baf0-b71d37207ae5",
+      "25209652-ef0e-4d82-9522-864651e5c3ce",
+      "47599056-13d2-40b3-bdd5-3ed7f5fdb3c0",
+      "99232604-f964-40ca-8014-ee5a3b873fea",
+      "71e3580d-52c6-4f24-95d3-74ed5c36ac9f",
+      "ab98e744-e40f-4ae3-b5e2-f896f8409619",
+      "9c08a331-f791-44e1-bbd4-138d5df20b22",
+      "a1e792a5-0875-4fed-b1b3-d42edfb3d586",
+      "c5a157f6-947e-4e1b-bbfe-2ed44665e3d0",
+      "1bfc07e2-29b7-47ae-b7f6-1d796c00819a",
+      "dff21630-dcc9-4705-9c86-9184e5552333",
+      "0df1a5dc-8e0f-454d-8854-7ed98dc96193",
+      "ab67a1ed-c863-4ca0-a816-fd1658dc83b0",
+      "be38bd9d-21da-4415-bd8a-7ce73be6011c",
+      "9f39832e-f786-48a3-a260-63f933b4f038",
+      "1ad78942-b017-4e09-9d55-352108e341ff",
+      "314f95ac-b596-49a7-b987-3066844124ca",
+      "daefa7c9-ba92-496d-bb80-d7b656ce994c",
+      "1b48fbe5-6b6d-4ae6-a9de-bbef5fe1604b",
+      "26660edf-e4c8-4da1-84dd-e01537827e1a",
+      "448ae649-2f64-4bfe-b337-211775f96bd6",
+      "82b92e7b-ea67-4c3e-8ebb-7fdebbbd4972",
+      "b0532271-1e04-4666-93e1-f021c68048e4",
+      "a94b3ef4-ff4b-488b-9442-acdee2e0c7be",
+      "ed8e552b-2e0a-42de-a5b5-4624c9006441",
+      "de017ce3-0e6f-4ab6-845e-a0085d12c397",
+      "f0d023c1-0a92-40aa-9fba-2cf2394275c2",
+      "604e5866-dff9-4050-b172-a162fc757a05",
+      "0936fd79-2fc8-4f6d-9c2d-df17223d6f80",
+      "c4dc6313-241d-4fec-9151-27c894d51055",
+      "de97d5f1-dbe1-4226-9f22-933492524af8",
+      "f17c77fc-7491-4a97-b3a8-ae91e651d12f",
+      "e68f02bb-72ed-408d-ac1e-254bb9680193",
+      "4a9d2faf-f308-4e5d-8d03-3a851b4cd0f3",
+      "8642f339-151b-4c48-8a5b-431266fd8ca1",
+      "de3751d6-87a0-4bc5-83e4-f3666104b78e",
+      "e259803c-4249-4715-9028-f9bbeffaa77b",
+      "a978b6f2-2ae0-46d4-b31c-014a2705cfec",
+      "f5ac2bbc-66a3-43ba-bfa5-05bdfa1027e1",
+      "9dcccf4b-a22d-4e81-adb3-1d1a3751f215",
+      "0b9d65ac-e8df-40a3-a8d9-180a50abac3e",
+      "ffbf0538-2c5a-47e1-a8d4-76eb43cfbdd5",
+      "497b76bd-6b46-4c55-b102-c5a4234543c5",
+      "d1b9e4f1-de18-4c0b-a40f-137bc8fa70ff",
+      "eefc0bbb-4f57-4de4-8e46-5afd34b3198e",
+      "143371bd-28ec-49a2-a145-f79648df3ec7",
+      "e11f9816-694e-426e-910b-6218e6f2a38e",
+      "b4460873-ed70-4300-b415-047c645ab137",
+      "b1975ea4-b9cf-4760-8b10-14d9217b31e1",
+      "4a0e20b6-ea76-40fe-9a8d-7df3827fa26f",
+      "93b4fa8a-f520-4ff6-821e-8a6eab796ede",
+      "6dcd3ed8-466a-4a34-838d-5e9daf36e14d",
+      "fbf9a811-350e-4d92-8aea-056880ee4e9b",
+      "cff7061a-fd81-48a8-8194-e6465dc54048",
+      "53d61516-b178-4167-931d-7627f60658b8",
+      "0d3289e2-7fbb-4d84-adf1-d1765bd13feb",
+      "0b792fc0-8a7d-4e8c-9bb0-44cf126f25be",
+      "50e11d12-cf54-47b3-8360-f6ff17499559",
+      "d6d07966-cad0-4f6d-9d74-087e6d3a011a",
+      "7c2ce225-1552-432e-a89b-a46d01c3ceb2",
+      "66d6e8c1-cb99-4cb8-b32c-bb821d74f264",
+      "d148b333-fbdf-4cd4-91e0-1fbc036461cc",
+      "c025b685-b589-41c8-980b-1a4a8749e65f",
+      "67a508e7-db05-4709-bd4b-eb0324c21d4b",
+      "ffcc21a5-68ce-42f8-9992-21452d494a52",
+      "5ddd8bed-b3c7-41fc-98af-8c940606c9d8",
+      "41c5e996-8882-4b05-80e4-4f15ef78dfcf",
+      "679f7a9b-b4f2-450c-a14c-01cf400856ff",
+      "43c620ff-4f1b-4c1f-898d-81314fd3eda3",
+      "b07b23fb-3461-4b5e-b8bf-80d7e203143b",
+      "d53e5d23-db36-4f78-a992-c98b5310b297",
+      "f72ec89b-e995-46b3-88ad-140859582d5b",
+      "92dbcf13-9321-4341-ac75-0c59e0f6d3ca",
+      "16899a3e-9a3c-4983-b696-414567682437",
+      "82d74f72-f919-4664-9f9b-c2f9a8d5946b",
+      "fbdeb2eb-dd79-4805-9d6e-c40b0e09ac51",
+      "06acda45-becb-45d2-bc4e-bd3259655ec0",
+      "3f7f533b-51e9-4f33-9a6c-aeb2b9ef1f0c",
+      "0ed09852-5631-41f8-b12e-b64af73ecd34",
+      "4175ba9f-1c4e-4778-8374-8cd4ccf01baf",
+      "deb45aa2-99bb-4218-b97a-e321799d37bf",
+      "04b115e5-bf9a-4ac3-8e7a-2b11fd9e805f",
+      "fbf41e7c-65d4-4ccc-a4dc-c9c66dc1fb32",
+      "54846378-b5b5-4d9e-9e7b-39d8107c9afc",
+      "41573295-184c-43ad-9fec-e4f58bd163c7",
+      "6ce59854-553d-4e7c-94a9-d2f3fcf4541e",
+      "c4e64cee-7851-4957-b342-53259bfd3c44",
+      "adc5e65c-97a1-458a-afba-eabb2d1b4e3e",
+      "396fe8f0-c589-4d83-98c1-a6a5a27a2904",
+      "2afb9a74-01e8-4fe1-81a5-d7f3e58d140e",
+      "a3ce844a-e385-4602-a05e-b35d8d510f22",
+      "d9036d1a-6473-4e3a-b888-cc2a72d2712d",
+      "e5bb830c-4eec-41fd-a4d4-be4c9a672315",
+      "c14ba4f9-7db1-4ec4-a7a8-7eb2149439e2",
+      "6530fb0f-eb7b-4978-8983-1a7b2f3ce914",
+      "a12cd458-1808-41a7-883a-28de3a8fd245",
+      "b942d51f-6ea3-4ddd-8ed6-5871535345f2",
+      "ae670f9e-3511-4158-b46e-27a6491ecdda",
+      "9ba8ba86-2808-4f93-bc8e-39c7a35e1d79",
+      "68b9e62b-0bcd-4f33-924b-be755de55189",
+      "5e033b6c-ca74-44d3-850e-b9bed7e880af",
+      "6c16644e-3701-42d4-bb2d-e70405fa7f88",
+      "747705b8-f23c-49a8-ace5-b83c74466972",
+      "8cb9f493-7e19-4c1e-9ad5-647af1193733",
+      "3b6c8607-5bd8-48f7-bbad-5efcffe238c2",
+      "b2b52577-a987-4bc7-aabd-35e3781788d8",
+      "79f41628-fe2c-43d2-a8f0-1f8fe857ff8c",
+      "f1beeb97-12ed-4e45-8d06-95a33858a77d",
+      "adf5d9eb-214e-48f6-884e-28fe4b71f431",
+      "b3371d46-7211-48f9-a5e9-17bb12246ccd",
+      "2fae1641-b147-4dc0-9bb6-c2a0f418baa5",
+      "8c881dfc-5149-4537-b57d-18aebecad07a",
+      "d0b4658f-a7b2-40cb-82de-a00255734607",
+      "20907449-b967-49b2-8f4b-a68afcddc1c4",
+      "09997159-eac4-4dba-af7b-825746c2349f",
+      "c687e92f-fedf-4e29-95a0-0560ae9b2b6a",
+      "560dc84c-439c-4855-8698-64c656e17b0c",
+      "d5f97636-5ec6-408c-8e13-fbfc3141caa6",
+      "8cbb7e90-d3ec-4e73-9e77-102e45dc023a",
+      "cce09277-0872-4a6a-a0e4-9815b707525c",
+      "acee42bc-8595-48bb-a65f-0777b126bce6",
+      "089c5f88-48ae-40bf-bacc-894c700ebb95",
+      "c41f75ae-2d13-4789-bc3d-c684f5917171",
+      "29fc1ac4-ed01-49be-89c3-2b5e05283ee0",
+      "e8d59cfc-a0e8-43f5-92d2-b49ced0c4fc7",
+      "c32f6b8c-1136-4dd6-9d5c-b6bfffafa127",
+      "a32d206a-2f71-4307-a5a3-68dd9a516892",
+      "c30587a1-7e9e-4e17-a54d-c58da8cf799a",
+      "a6083ba8-0daf-4744-a509-6b2b4a648b9e",
+      "fc9a654f-3dde-46b1-aa37-870dc266837d",
+      "b2351c60-d833-4af6-93a9-eadc5cc7eaac",
+      "b7550dce-f9b0-44a4-ac64-8ca4e944190c",
+      "b605ca61-fe3b-4ff7-b889-3dbaba0a5492",
+      "346a0182-b4a3-402e-8d75-e1543554422b",
+      "756d130c-2f4b-41b1-affe-e6fe3d17cf25",
+      "160a5c5d-af44-4a52-a18c-3b51b5e3f1fb",
+      "19d9ab0f-1382-4c01-a333-7a53ec06be7f",
+      "cae328ee-b30f-463b-b679-ad0e00f3868f",
+      "758efcf8-cd4b-49ad-8223-effd65c936fe",
+      "6aae2305-b39f-412f-aef2-473604b20d1f",
+      "c1d287a3-fefa-40b3-8358-5b79d03eefed",
+      "d58bb676-a19e-4f7a-9493-7498cf1930fc",
+      "6e2e7d0d-b90d-4523-95f9-200e9f26fd3e",
+      "407a3714-b22b-4f90-bb57-d75ca9e7b66b",
+      "e4653474-7b0c-4fb9-abe1-494543c8f7c4",
+      "9ab0c5c4-5979-4a27-8455-d13327f2f12a",
+      "17455d2c-b3b6-4553-9d0e-d95459446f62",
+      "60093672-eb87-4477-84e0-7f7abf36d3a4",
+      "8dc1500b-8a62-46d9-adae-d889398c75c2",
+      "e8560816-972f-4b52-8033-a9f42881f434",
+      "3b2157d5-8c6f-4669-8e25-f78dc9cbec69",
+      "7ee0392c-71c0-43d2-9e93-99c6a7dd7f5b",
+      "0793ab1f-c102-4d27-be2b-92e733af81e3",
+      "ec229c1f-890c-4b15-b5d1-c7108ce5136b",
+      "91bc0d0c-9cbe-4c9f-af4b-977b1ab62c29",
+      "e5a68793-24a8-4643-94bf-1417e2d699eb",
+      "2025c03a-9ec0-443c-9d65-b437650723ae",
+      "66d0df9b-011f-486b-b06e-7a4b1f62201c",
+      "cf1eb9ba-2063-47d5-8c95-5cdd1b552b1b",
+      "8a9f9980-0a71-4638-b125-cadac30efe73",
+      "d0e7343e-3ebc-41e3-a0af-bc5eada9bb68",
+      "d5c330c5-c981-4e16-a8e3-bdd71f3696d2",
+      "0de0a90d-9456-4ae1-9bde-94611a7ed7a8",
+      "e9fb1be6-99af-497c-ae9d-2a8cbb40eeec",
+      "e331895f-a4f2-4f3d-bd8b-ea4714a9f4a9",
+      "1a209c01-b9e4-4c7a-8fbc-72efa7f97433",
+      "95cd4dfb-6289-4257-849e-f13635795ac2",
+      "2c22c73a-1641-4567-9573-81d94b12b308",
+      "64c8f278-7759-4325-a121-8610c16e78c0",
+      "dba6d0bb-087f-4f1f-b80c-33b73a8ead03",
+      "6dfe2ec0-1954-4875-b1f4-6166ff28ce57",
+      "f004a428-d93b-402b-97be-79ec49ee0faf",
+      "218d6adb-f08c-48cb-85f8-88c98403a870",
+      "12600942-075a-4730-ba80-45143dd91122",
+      "b32df79b-7544-4dbe-ba82-a49fa9251b8d",
+      "1a298294-b4c0-468d-9283-eea5428c2f1b",
+      "d6a5b3d2-f5f0-47b4-9f17-fb08b9a65f21",
+      "98d2e87f-ae9a-4bd8-82fb-8c42b2a49320",
+      "92ebe62e-69fb-42f3-9620-db5715556b96",
+      "a17f862c-ee5a-46ff-9e7f-19c23f36037d",
+      "8f71dc55-054d-46b0-8916-5b9dc282e1a6",
+      "29cf6756-f27e-496d-ac09-a84136c6507d",
+      "c82e6687-2e27-40ed-a70b-739e824e928f",
+      "cc7f16cc-4871-4ffc-87ff-50f663cc28ff",
+      "11079353-bdd0-46d9-814a-dbe7df3918cb",
+      "2a63639d-0379-45e0-a237-c0bb5836a060",
+      "6c1a2dd4-a7ba-42ae-ad89-861773993555",
+      "51110081-4108-49ca-a800-338ea822ee60",
+      "40807401-d903-471e-a5aa-97f3502ed0fe",
+      "375e44fa-e125-4e4e-a825-49eb3231fea5",
+      "e91b5376-c1ab-42b2-aafc-b8c8d736c7c7",
+      "7168488b-8dbf-4595-91f9-8402105d2ff6",
+      "891ea1ba-dd1b-4213-8d7f-7edeaf8ac11a",
+      "4620d334-9722-42de-82d9-9ac28edbd374",
+      "3847f0cf-87f1-49d0-a7b2-c8ab7d0727cd",
+      "d1acc160-c540-40cb-a7f2-29a244ac9454",
+      "f1bef7d2-7993-4574-92f9-0939230cc54a",
+      "067a167d-abf8-440a-910e-644788e62c13",
+      "4234124c-ba08-4e8e-bcb6-72bc9e7a5193",
+      "19d512f8-04e9-4038-99cf-2e83fb928cfd",
+      "6ad7941d-5564-473c-b234-b8fae322bc60",
+      "0c109384-d25e-46b0-a6e1-b4843199b33e",
+      "bc1c521e-ef26-41ac-a889-64bb6b638da1",
+      "ee4ef4a1-910a-4785-b0b8-4c6f5e85edac",
+      "0e72ae55-0972-41a9-b37b-94971b5f5a53",
+      "d6f7f941-e789-4a85-9973-8cf24ba56121",
+      "c2bfc014-3e54-4fce-aa92-0883ac904169",
+      "64b7a7ab-3b84-4c91-9e78-169f291ed759",
+      "419247a6-6a0f-4879-b9c9-8c671aa58ca8",
+      "cc25090d-a4c8-4992-bf6b-20dedc0b8327",
+      "12190d0d-d217-4ed7-88da-4997f370f81c",
+      "0ddb7d16-95de-4da5-91b6-0985f37736bd",
+      "890c5268-a0b0-4328-b3c0-ac190c33ae60",
+      "e90d37e1-f724-4313-b711-a34da07fe5c5",
+      "0d22cb37-3f6f-4037-b4e6-dd2147b89c88",
+      "8f785a24-43fd-4956-bec3-7569d8cbe941",
+      "98b1fcd5-0434-4dd1-b980-bdf614ec8bd6",
+      "2be909a2-1099-4113-b507-0ee5158de09d",
+      "504409aa-7e54-44e9-978e-370f42f04db8",
+      "d7855366-5e1e-4efd-a82d-ba4c97fa8405",
+      "786a87c0-e336-48e1-a513-a499206929de",
+      "93622f62-b8f4-4be5-b616-f1d6a2940cd6",
+      "9b6c6008-de69-43d8-9a3f-3c81a6287116",
+      "51ec3991-edc1-4f0f-931c-72176ec5fdc2",
+      "d95fddc8-d967-4ddf-b4e7-12eb6ab25a33",
+      "acd1fc5f-e03c-4773-aedd-3298d4817ada",
+      "75904074-0657-44ae-925e-3e71baa5b6c3",
+      "58dfdb33-4714-4bb3-baa1-bb126b61401c",
+      "737b27d9-0bc7-4cbb-9a94-6fd2e0f868c8",
+      "1e03e584-5321-45f0-b64f-e57109ee6ab9",
+      "e9b48358-ed77-4be5-9474-ea3e42d0973e",
+      "97fb143a-7890-4ecd-9b78-439c493375c9",
+      "5e0b5a9b-5048-4ee9-9557-b9acda95e554",
+      "27908741-a44f-49e5-a324-6533ac41bfa7",
+      "8ad5cda5-10a7-4aed-a116-7a13d2868baf",
+      "a7b45975-1587-4f95-917b-e96b6ca92a75",
+      "76fb7f85-13a1-436e-a458-a058d33bad68",
+      "a123fff0-3618-461f-b071-0e62cde5c4a8",
+      "e223484c-582c-432a-bba2-44fe8f5db7f0",
+      "6f20d7a1-b40a-4036-8032-7b20d6d182b5",
+      "18441831-0bf8-43ae-8cbb-1a0761dc5e97",
+      "0f8651c6-916a-4082-8cfd-845363c19ef9",
+      "9308b5c5-4474-472a-bd6a-e4ed4ff583e7",
+      "aa0523b0-8cb1-454b-bf41-5204e69871c0",
+      "45ea004c-c41f-4229-8e54-f06f7e281727",
+      "d848009c-374e-4c0f-809c-d9c0dbe49954",
+      "85e0913e-8e8c-4415-aaf4-e1a3b676e5d7",
+      "a5f21914-a7a5-457b-abf3-04b0c828f1c2",
+      "bc6e8ecf-1d15-4b96-8dca-3389e3b3993f",
+      "a463a8ef-c1ea-4282-970e-8979db9c8f89",
+      "9bbf0d68-1686-4ebf-a072-54a2b89dcb7c",
+      "46cd66d6-2d22-4bea-977c-abfa474f607f",
+      "62765597-bf1d-4441-8508-de0199d59bb2",
+      "14a64319-09e9-4341-8e8d-ee1ec005d467",
+      "143a0d62-6412-46c6-a82a-b1e11834ae84",
+      "864698d1-3e45-4941-a81d-ed598d1c2d52",
+      "f7e7c755-40b4-4123-be1e-d7c213c5022d",
+      "b29fc014-feed-4d75-b135-1fe1c7d71abc",
+      "6ef89c35-1b0c-463b-bceb-329695a55328"
+    ],
+    "unmatchedCandidateAssociationNames": []
+  },
+  {
+    "candidateSetKey": "9f1b2aec-962f-47f0-9a3a-dfcfd4262237:direct:all",
+    "electionId": "9f1b2aec-962f-47f0-9a3a-dfcfd4262237",
+    "ballotType": "candidate",
+    "scope": "election_wide",
+    "districtNumber": null,
+    "candidateIds": [
+      "f7f34624-ee62-4933-a0a6-f34cb6d48308",
+      "cf65fe1f-e0ba-424f-b6d1-3bd3f2e8c830"
+    ],
+    "activeCandidateIds": [
+      "f7f34624-ee62-4933-a0a6-f34cb6d48308",
+      "cf65fe1f-e0ba-424f-b6d1-3bd3f2e8c830"
+    ]
+  },
+  {
+    "candidateSetKey": "89233636-0289-4c6c-b681-a87a046862c5:direct:all",
+    "electionId": "89233636-0289-4c6c-b681-a87a046862c5",
+    "ballotType": "candidate",
+    "scope": "election_wide",
+    "districtNumber": null,
+    "candidateIds": [
+      "f9193ee3-f126-449c-95f6-98d2d5e380e5",
+      "81863da7-4491-4a78-89a0-c309ad669c48"
+    ],
+    "activeCandidateIds": [
+      "f9193ee3-f126-449c-95f6-98d2d5e380e5"
+    ]
+  },
+  {
+    "candidateSetKey": "c0185203-aa99-42d1-913b-e82a0e28f27c:direct:all",
+    "electionId": "c0185203-aa99-42d1-913b-e82a0e28f27c",
+    "ballotType": "candidate",
+    "scope": "election_wide",
+    "districtNumber": null,
+    "candidateIds": [
+      "20fbd6fd-094a-4704-8514-91ba2a816623",
+      "9638f2bb-5f35-416a-9db0-d24b3129c019"
+    ],
+    "activeCandidateIds": [
+      "20fbd6fd-094a-4704-8514-91ba2a816623"
+    ]
+  },
+  {
+    "candidateSetKey": "fb655c22-a1cb-4d2f-8a92-d3f179717448:direct:1",
+    "electionId": "fb655c22-a1cb-4d2f-8a92-d3f179717448",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 1,
+    "candidateIds": [
+      "5db7f176-f2d3-4e66-99b8-e1f353a853f9",
+      "cd3d0f0f-793b-44d9-a791-8391ca8436eb"
+    ],
+    "activeCandidateIds": []
+  },
+  {
+    "candidateSetKey": "89682070-2058-4641-985a-81e3cb31eea3:direct:1",
+    "electionId": "89682070-2058-4641-985a-81e3cb31eea3",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 1,
+    "candidateIds": [
+      "cf30bbbf-f352-4410-bfbd-2271a3635d9b",
+      "71ea1a39-fb7a-44de-b2a4-4cd4695adccf",
+      "a4c1a14c-fdaf-4e85-b4b5-6f048cbaa91b",
+      "f96707d7-b72a-4ad7-83c8-e9ffdaefec19",
+      "9feedc09-5901-4740-b098-2815784cc27b",
+      "622ef2b0-4292-4554-a8a9-050e16c4c484",
+      "391b148d-bd67-4f48-94f9-7870f6127c81"
+    ],
+    "activeCandidateIds": [
+      "cf30bbbf-f352-4410-bfbd-2271a3635d9b",
+      "a4c1a14c-fdaf-4e85-b4b5-6f048cbaa91b",
+      "f96707d7-b72a-4ad7-83c8-e9ffdaefec19",
+      "9feedc09-5901-4740-b098-2815784cc27b",
+      "622ef2b0-4292-4554-a8a9-050e16c4c484",
+      "391b148d-bd67-4f48-94f9-7870f6127c81"
+    ]
+  },
+  {
+    "candidateSetKey": "89682070-2058-4641-985a-81e3cb31eea3:direct:2",
+    "electionId": "89682070-2058-4641-985a-81e3cb31eea3",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 2,
+    "candidateIds": [
+      "12294c3c-4126-4914-a815-6c9969c1a8a7",
+      "d5374abc-d515-4561-ab05-ccb44893dd25",
+      "718476a9-7b6a-4442-8057-dac9052a6814",
+      "808030ea-ec70-4d86-bf1a-c0c9110f7830",
+      "136feb74-486b-4bf8-a2df-9a295fe23d72",
+      "7d95a6cd-8df4-4578-bccb-5fe779fe3c81"
+    ],
+    "activeCandidateIds": [
+      "12294c3c-4126-4914-a815-6c9969c1a8a7",
+      "d5374abc-d515-4561-ab05-ccb44893dd25",
+      "718476a9-7b6a-4442-8057-dac9052a6814",
+      "808030ea-ec70-4d86-bf1a-c0c9110f7830",
+      "136feb74-486b-4bf8-a2df-9a295fe23d72",
+      "7d95a6cd-8df4-4578-bccb-5fe779fe3c81"
+    ]
+  },
+  {
+    "candidateSetKey": "89682070-2058-4641-985a-81e3cb31eea3:direct:3",
+    "electionId": "89682070-2058-4641-985a-81e3cb31eea3",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 3,
+    "candidateIds": [
+      "9e705049-42a0-4cc7-a2b3-c6099b79ad22",
+      "ec0b9bad-da6d-4c04-a7dd-d48602ba7bd1",
+      "cfd67c41-f134-47c3-9c13-70f007b1ead5",
+      "d61c5bb4-1280-4174-bd5e-b6b359f789b9",
+      "3c5b8c57-4b22-4733-a9ec-f67b7e67b9a3",
+      "718a6474-d439-490f-83d1-2e79eb1ee5db",
+      "9df2cf10-b656-4560-a994-6d370dc9c929",
+      "a1676d30-61df-4dcb-8125-cdd1705bc7be"
+    ],
+    "activeCandidateIds": [
+      "9e705049-42a0-4cc7-a2b3-c6099b79ad22",
+      "ec0b9bad-da6d-4c04-a7dd-d48602ba7bd1",
+      "cfd67c41-f134-47c3-9c13-70f007b1ead5",
+      "d61c5bb4-1280-4174-bd5e-b6b359f789b9",
+      "3c5b8c57-4b22-4733-a9ec-f67b7e67b9a3",
+      "9df2cf10-b656-4560-a994-6d370dc9c929",
+      "a1676d30-61df-4dcb-8125-cdd1705bc7be"
+    ]
+  },
+  {
+    "candidateSetKey": "89682070-2058-4641-985a-81e3cb31eea3:direct:4",
+    "electionId": "89682070-2058-4641-985a-81e3cb31eea3",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 4,
+    "candidateIds": [
+      "2a657da3-4e21-4cd9-a3c8-4965330782ea",
+      "7e5fbb0f-37a2-42c1-8121-d8144fd391e2",
+      "2b109406-4e78-456a-afc2-d2ad7a6ac18f",
+      "fff40a80-b3dd-4700-ab59-2eaf2aa43ae9",
+      "9f5300fc-134e-4e7e-9587-68ac164b36e3",
+      "6552dcef-ad9b-4772-b480-52a200913848",
+      "470feb7e-fb55-4221-8dd2-fdf1b6f04f2c"
+    ],
+    "activeCandidateIds": [
+      "2a657da3-4e21-4cd9-a3c8-4965330782ea",
+      "7e5fbb0f-37a2-42c1-8121-d8144fd391e2",
+      "2b109406-4e78-456a-afc2-d2ad7a6ac18f",
+      "fff40a80-b3dd-4700-ab59-2eaf2aa43ae9",
+      "9f5300fc-134e-4e7e-9587-68ac164b36e3",
+      "6552dcef-ad9b-4772-b480-52a200913848",
+      "470feb7e-fb55-4221-8dd2-fdf1b6f04f2c"
+    ]
+  },
+  {
+    "candidateSetKey": "89682070-2058-4641-985a-81e3cb31eea3:direct:5",
+    "electionId": "89682070-2058-4641-985a-81e3cb31eea3",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 5,
+    "candidateIds": [
+      "74a3705b-d4a8-496e-8f33-983dbc523e33",
+      "20cedf63-1a08-4357-b213-ffda9ae95d16",
+      "ed421996-f5f5-44e6-a8ed-0bfad0583265",
+      "b14924bf-3df2-44c0-b4e3-11418efbe419",
+      "b9f95478-2d70-48aa-ba50-a619162c8297",
+      "3db4c5e9-9e66-471a-91c4-075ec6835184",
+      "a50b8317-50e0-4c22-b517-b57c9b0e3d46"
+    ],
+    "activeCandidateIds": [
+      "74a3705b-d4a8-496e-8f33-983dbc523e33",
+      "20cedf63-1a08-4357-b213-ffda9ae95d16",
+      "ed421996-f5f5-44e6-a8ed-0bfad0583265",
+      "b14924bf-3df2-44c0-b4e3-11418efbe419",
+      "b9f95478-2d70-48aa-ba50-a619162c8297",
+      "3db4c5e9-9e66-471a-91c4-075ec6835184",
+      "a50b8317-50e0-4c22-b517-b57c9b0e3d46"
+    ]
+  },
+  {
+    "candidateSetKey": "89682070-2058-4641-985a-81e3cb31eea3:direct:6",
+    "electionId": "89682070-2058-4641-985a-81e3cb31eea3",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 6,
+    "candidateIds": [
+      "e14eec12-7e7e-4094-8138-5761bdc22151",
+      "19e280d8-9009-4db5-af2c-98e1e506d8d8",
+      "1c0fa252-ad5f-4860-be08-0d5b07dbc525",
+      "7fe54d12-5b8a-4513-972e-e3410c7a7b93",
+      "76c534b5-459d-467a-94ec-315db48c1f62",
+      "eb72cb70-5cac-4e80-b27a-b1d6bcbf65c8",
+      "01a45f99-3582-44e9-97a2-91adca93e858"
+    ],
+    "activeCandidateIds": [
+      "e14eec12-7e7e-4094-8138-5761bdc22151",
+      "19e280d8-9009-4db5-af2c-98e1e506d8d8",
+      "1c0fa252-ad5f-4860-be08-0d5b07dbc525",
+      "7fe54d12-5b8a-4513-972e-e3410c7a7b93",
+      "76c534b5-459d-467a-94ec-315db48c1f62",
+      "eb72cb70-5cac-4e80-b27a-b1d6bcbf65c8",
+      "01a45f99-3582-44e9-97a2-91adca93e858"
+    ]
+  },
+  {
+    "candidateSetKey": "89682070-2058-4641-985a-81e3cb31eea3:direct:7",
+    "electionId": "89682070-2058-4641-985a-81e3cb31eea3",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 7,
+    "candidateIds": [
+      "ee187173-ecc7-4895-9153-c8351a027cfe",
+      "fd306ecf-f052-4258-b297-1a959a5e78c3",
+      "623b61eb-1798-455d-a7a5-3e773256077e",
+      "730035b0-7d48-4528-bac5-5e6ae65410f2",
+      "14b580a5-1450-4d60-a2c6-fd543acbc014",
+      "3dcac6d6-7515-49ce-8e6e-43a06ce14d19",
+      "3aa22543-0680-4b38-b6c7-b8a327ff3699",
+      "e4216661-ec80-4f2f-b036-f27f74b6b0d1",
+      "c990c580-591a-453b-81ce-5155e22eca5f"
+    ],
+    "activeCandidateIds": [
+      "fd306ecf-f052-4258-b297-1a959a5e78c3",
+      "730035b0-7d48-4528-bac5-5e6ae65410f2",
+      "14b580a5-1450-4d60-a2c6-fd543acbc014",
+      "3dcac6d6-7515-49ce-8e6e-43a06ce14d19",
+      "3aa22543-0680-4b38-b6c7-b8a327ff3699",
+      "e4216661-ec80-4f2f-b036-f27f74b6b0d1",
+      "c990c580-591a-453b-81ce-5155e22eca5f"
+    ]
+  },
+  {
+    "candidateSetKey": "89682070-2058-4641-985a-81e3cb31eea3:direct:8",
+    "electionId": "89682070-2058-4641-985a-81e3cb31eea3",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 8,
+    "candidateIds": [
+      "96d02d40-b0ea-4a99-8205-22b3eb3eec1c",
+      "8df67ffd-0fae-455e-9d24-658a4602082f",
+      "f6e92f14-9f9f-4162-9123-610a83b52f4e",
+      "d50c053c-f89c-49f7-8d57-99564a031f0e",
+      "fb568d2f-3409-4453-89fc-a1859797cc93",
+      "6a6cc990-93d6-4954-b09c-c5eacfb8627f",
+      "d21602b1-00a2-4b07-8e6b-5f9965dd0a19"
+    ],
+    "activeCandidateIds": [
+      "96d02d40-b0ea-4a99-8205-22b3eb3eec1c",
+      "8df67ffd-0fae-455e-9d24-658a4602082f",
+      "f6e92f14-9f9f-4162-9123-610a83b52f4e",
+      "d50c053c-f89c-49f7-8d57-99564a031f0e",
+      "fb568d2f-3409-4453-89fc-a1859797cc93",
+      "6a6cc990-93d6-4954-b09c-c5eacfb8627f",
+      "d21602b1-00a2-4b07-8e6b-5f9965dd0a19"
+    ]
+  },
+  {
+    "candidateSetKey": "89682070-2058-4641-985a-81e3cb31eea3:direct:9",
+    "electionId": "89682070-2058-4641-985a-81e3cb31eea3",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 9,
+    "candidateIds": [
+      "ccfcda98-7406-4451-bd2e-1c18b262071d",
+      "b8cf206f-2051-454c-8d6b-f71042583e77",
+      "e2f853d2-593c-4609-9c89-422af94a5db6",
+      "75829ebc-f971-4959-8d46-d7bfb8a62d60",
+      "7cc957fd-826f-4602-9f16-f7580e164cdc",
+      "e90d576f-aec2-4353-bc4b-dc334d6db236",
+      "649a6f51-dc75-4231-a761-a9169268e66d"
+    ],
+    "activeCandidateIds": [
+      "ccfcda98-7406-4451-bd2e-1c18b262071d",
+      "b8cf206f-2051-454c-8d6b-f71042583e77",
+      "e2f853d2-593c-4609-9c89-422af94a5db6",
+      "75829ebc-f971-4959-8d46-d7bfb8a62d60",
+      "7cc957fd-826f-4602-9f16-f7580e164cdc",
+      "e90d576f-aec2-4353-bc4b-dc334d6db236",
+      "649a6f51-dc75-4231-a761-a9169268e66d"
+    ]
+  },
+  {
+    "candidateSetKey": "89682070-2058-4641-985a-81e3cb31eea3:direct:10",
+    "electionId": "89682070-2058-4641-985a-81e3cb31eea3",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 10,
+    "candidateIds": [
+      "7100839b-e294-44a6-bd16-78e49fb5dbce",
+      "8e32b5c1-e5e0-4e50-843f-5da1aac030b9",
+      "01388430-e7d1-494a-8abe-904a15e965d4",
+      "823375ef-854a-46d0-b70b-7d9f450e22b4",
+      "8a15f709-0312-4879-93d2-52c5acc08bc7",
+      "e059a4d0-8c1d-4c1b-85af-09623f5bd7a3"
+    ],
+    "activeCandidateIds": [
+      "7100839b-e294-44a6-bd16-78e49fb5dbce",
+      "8e32b5c1-e5e0-4e50-843f-5da1aac030b9",
+      "01388430-e7d1-494a-8abe-904a15e965d4",
+      "823375ef-854a-46d0-b70b-7d9f450e22b4",
+      "8a15f709-0312-4879-93d2-52c5acc08bc7",
+      "e059a4d0-8c1d-4c1b-85af-09623f5bd7a3"
+    ]
+  },
+  {
+    "candidateSetKey": "89682070-2058-4641-985a-81e3cb31eea3:direct:11",
+    "electionId": "89682070-2058-4641-985a-81e3cb31eea3",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 11,
+    "candidateIds": [
+      "6b4221af-400d-4e40-8a80-90ab58a7cfe8",
+      "ad8dc11a-2085-4e48-89b6-7c53146a8a2b",
+      "6bf7219c-5a29-489c-b25c-09e958459fdb",
+      "0f7215b2-e37d-42b4-a2bc-6bcaa1155e18",
+      "eb523ee6-a69f-45ab-89cc-bb6e388929d6",
+      "b923a9b0-53ee-4a51-93f0-c408323823f4",
+      "874b4fe7-8e65-42a2-952c-05dd6f48288d",
+      "87abc88b-ad1d-4f6a-807e-77cc5521e9ff"
+    ],
+    "activeCandidateIds": [
+      "6b4221af-400d-4e40-8a80-90ab58a7cfe8",
+      "ad8dc11a-2085-4e48-89b6-7c53146a8a2b",
+      "6bf7219c-5a29-489c-b25c-09e958459fdb",
+      "0f7215b2-e37d-42b4-a2bc-6bcaa1155e18",
+      "eb523ee6-a69f-45ab-89cc-bb6e388929d6",
+      "b923a9b0-53ee-4a51-93f0-c408323823f4",
+      "87abc88b-ad1d-4f6a-807e-77cc5521e9ff"
+    ]
+  },
+  {
+    "candidateSetKey": "89682070-2058-4641-985a-81e3cb31eea3:direct:12",
+    "electionId": "89682070-2058-4641-985a-81e3cb31eea3",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 12,
+    "candidateIds": [
+      "c1a9e928-a595-44fb-ba91-30d5f056c476",
+      "b0481a96-bdca-40ff-9056-674339829669",
+      "4a7b858b-f037-4105-8dcf-d0ab38fc3a41",
+      "f1ada57e-344b-41a1-8f0a-9843f62474b8",
+      "c61ec6ca-2737-4723-8a79-032317af00fa",
+      "9f775000-c884-46e7-88a8-859394410de7"
+    ],
+    "activeCandidateIds": [
+      "c1a9e928-a595-44fb-ba91-30d5f056c476",
+      "b0481a96-bdca-40ff-9056-674339829669",
+      "4a7b858b-f037-4105-8dcf-d0ab38fc3a41",
+      "f1ada57e-344b-41a1-8f0a-9843f62474b8",
+      "c61ec6ca-2737-4723-8a79-032317af00fa",
+      "9f775000-c884-46e7-88a8-859394410de7"
+    ]
+  },
+  {
+    "candidateSetKey": "89682070-2058-4641-985a-81e3cb31eea3:direct:13",
+    "electionId": "89682070-2058-4641-985a-81e3cb31eea3",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 13,
+    "candidateIds": [
+      "39a4559e-7e2a-42b5-beae-617172efb164",
+      "319f70d1-1f2b-4cc1-b554-d09434e473e5",
+      "7eb57e0a-0456-4c99-bade-4cedc5e2fe94",
+      "e05d242f-cc13-4e51-a101-9e5bbaa3ad2d",
+      "55eb99da-8a25-45fd-9c6a-b61640cacc66",
+      "716a9686-8b02-40f0-a5d5-33cfd54858d7",
+      "14009b6d-fa41-4584-bacf-e06d08d12212"
+    ],
+    "activeCandidateIds": [
+      "39a4559e-7e2a-42b5-beae-617172efb164",
+      "319f70d1-1f2b-4cc1-b554-d09434e473e5",
+      "7eb57e0a-0456-4c99-bade-4cedc5e2fe94",
+      "e05d242f-cc13-4e51-a101-9e5bbaa3ad2d",
+      "55eb99da-8a25-45fd-9c6a-b61640cacc66",
+      "716a9686-8b02-40f0-a5d5-33cfd54858d7",
+      "14009b6d-fa41-4584-bacf-e06d08d12212"
+    ]
+  },
+  {
+    "candidateSetKey": "89682070-2058-4641-985a-81e3cb31eea3:direct:14",
+    "electionId": "89682070-2058-4641-985a-81e3cb31eea3",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 14,
+    "candidateIds": [
+      "14ae5e4e-8b20-4b1a-a9db-b589748d01f0",
+      "35452f49-54ad-489b-a5a4-bece89a8180a",
+      "495d2da3-e728-4b0f-823b-4c7bbe8e76a5",
+      "875d29a5-c189-46a1-97af-77697a91cbee",
+      "47e2d755-f18f-464c-be92-53f28aac973a",
+      "7716673a-3d23-45cf-bf32-fa828ba95655"
+    ],
+    "activeCandidateIds": [
+      "14ae5e4e-8b20-4b1a-a9db-b589748d01f0",
+      "35452f49-54ad-489b-a5a4-bece89a8180a",
+      "495d2da3-e728-4b0f-823b-4c7bbe8e76a5",
+      "875d29a5-c189-46a1-97af-77697a91cbee",
+      "47e2d755-f18f-464c-be92-53f28aac973a",
+      "7716673a-3d23-45cf-bf32-fa828ba95655"
+    ]
+  },
+  {
+    "candidateSetKey": "89682070-2058-4641-985a-81e3cb31eea3:proportional",
+    "electionId": "89682070-2058-4641-985a-81e3cb31eea3",
+    "ballotType": "association",
+    "scope": "election_wide",
+    "associationIds": [
+      "26fe6616-f458-42ed-9d3b-fdaf6f25a245",
+      "1fd7dd37-bf11-4295-8f0f-ea4b45703303",
+      "aeee88c2-aa51-49ad-a533-83b83cf9c53e",
+      "6671235f-e927-4d50-88be-bc08d05e0d75",
+      "84c9617f-8fe8-4ff4-9893-e5095e8fd2b1",
+      "3fa03c48-9737-4cf5-94b9-2c0685c0061c",
+      "11a58e91-ed67-481b-8382-8f9325377b0a",
+      "cd412c53-18ac-4fa2-94e4-08c40fc80da8",
+      "33f039cd-2228-4923-beb1-f9ab4f7d6fbf",
+      "0a0cec65-0ca5-47de-9180-8d5118f20f8c",
+      "2e61d2c0-08d3-488d-8181-d5d98ce1d35f"
+    ],
+    "registeredAssociationIds": [
+      "26fe6616-f458-42ed-9d3b-fdaf6f25a245",
+      "1fd7dd37-bf11-4295-8f0f-ea4b45703303",
+      "aeee88c2-aa51-49ad-a533-83b83cf9c53e",
+      "6671235f-e927-4d50-88be-bc08d05e0d75",
+      "84c9617f-8fe8-4ff4-9893-e5095e8fd2b1",
+      "3fa03c48-9737-4cf5-94b9-2c0685c0061c",
+      "11a58e91-ed67-481b-8382-8f9325377b0a",
+      "cd412c53-18ac-4fa2-94e4-08c40fc80da8",
+      "33f039cd-2228-4923-beb1-f9ab4f7d6fbf",
+      "0a0cec65-0ca5-47de-9180-8d5118f20f8c"
+    ],
+    "unresolvedAssociationIds": [
+      "2e61d2c0-08d3-488d-8181-d5d98ce1d35f"
+    ],
+    "listCandidateIds": [
+      "62591688-5543-4ee5-b957-bd970952123e",
+      "ba7760e3-72d0-4cff-9a26-86524b76d519",
+      "d4107d60-d4c1-4769-a5a0-11ab4c57ab37",
+      "c59f1645-83a0-4172-bffb-1d90391ee210",
+      "e03b4861-95d3-419d-a639-7939b43a9f59",
+      "bdfa074f-ee87-4dc0-874d-a76c591e7a1f",
+      "c111ed6b-9ced-4822-82e4-721b4ee526b7",
+      "2da08701-07d7-4231-b4f4-cace1c5937ae",
+      "2988efdb-5d34-4996-abb3-a565130a5314",
+      "1faf4d52-b5ad-4d25-a918-4753242ec18e",
+      "f67ee753-53d2-46b2-91bd-3af5927de992",
+      "1473d84c-e8e2-42b4-a095-44a55e5fc263",
+      "efe6eb3d-2693-4fd1-967d-74e91cd98d2c",
+      "3e119a36-674a-4dd5-8bea-1a4c185ebc34",
+      "a9c73239-e0eb-44fe-a3d6-86c35f7316ac",
+      "2ee2c37c-971f-494d-9666-bf5e8a9e268b",
+      "76a60146-b0a9-474d-bcfa-1d8a5dfb1497",
+      "68e43410-0e96-4c7a-a508-febecb7899d2",
+      "fca75862-9a04-49d9-8d84-3643f332b58d",
+      "9448837d-5567-4677-bd08-8c6a5cc14fd3",
+      "856ec066-94af-45ca-ac04-8fa46e803d91",
+      "10ec7daa-bced-46ae-839e-b3f68e2db4b0",
+      "dbe68e6b-f384-4b1a-9b1e-7822c57b8127",
+      "c0ef82c6-aa56-4e21-bfe0-c74238c7181d",
+      "543b5b0e-d000-4b5a-8812-fd7aae88f229",
+      "c1efc0d4-b7c1-40c8-a9f4-fe8875ed017a",
+      "4049068f-cf0d-4ac9-81ed-aee6d62ef94e",
+      "cc27aae8-aebe-4c56-bdde-b93bccb23eb9",
+      "efa2755c-3070-44b5-83f1-77c67432646d",
+      "c6c2acc3-1d85-43ff-8679-248927dc67c3",
+      "7c4a7214-d8fb-413d-898c-2e92a82f7bbe",
+      "c978c4b6-8a63-4d61-88f6-9962f7b4478e",
+      "632d6619-d34a-4f04-8adc-faf82959bdbc",
+      "1882fbce-ea06-4754-a1bd-99fb8f2f8d6d",
+      "c52f27ff-c1dc-4bfa-b865-3c2998fd01ae",
+      "7eacdc7c-8bdf-4df1-b100-f9bc88aa0eaf",
+      "5f3f635f-d1c5-4cef-836e-65f2c137fe66",
+      "be8ef831-abf4-4220-83e4-995de34bcd1b",
+      "3d8ffc43-5f6f-4e3d-b3da-624b231204f9",
+      "ab8a908c-82f5-4474-b395-05eae4ee05cd",
+      "05077eef-8142-471c-a5f8-b59a50dfa692",
+      "4749ada6-3f41-4ce8-a99e-d8d4af7140b9",
+      "eb24d703-c6ab-41d2-9b92-c0e8f00a0ff3",
+      "bbae8c31-e611-4254-a0a8-dffc2ee3f755",
+      "d66528b6-52ef-49c9-b0c3-fc328027f87d",
+      "a3a14f26-28aa-4bad-90bc-f9daa5c00a40",
+      "f16887d0-7349-4373-8034-cdee69716fcf",
+      "1f8b8b52-c5c8-486e-8a50-30da3a01c478",
+      "b7b9713e-2635-4f03-bc8d-f2178e58e2ad",
+      "1ca49d4d-f6af-4881-b485-6df9b9496137",
+      "d34a502d-ef03-4db0-a66b-24d9b55c6bb3",
+      "6f82341a-61ae-4d69-9aba-bfa0bf0ca802",
+      "26d14def-57d3-4188-88da-6a33359058ef",
+      "5a90b41e-b9ca-4fdb-b611-a3c067fe21da",
+      "e63521be-6a13-4bab-8ec1-5564327cab8b",
+      "07b2af37-e92b-4f92-9354-bdadf2204dca",
+      "9d56ba8e-9dd6-4c89-b43d-bba69199966c",
+      "0a7791d8-79e2-4972-9575-d7d9988fcf03",
+      "1af6caad-1faa-454e-90f8-6501795f8664",
+      "f047cd3a-e386-45cf-89ba-af91e8cbefe9",
+      "2670c1c9-8eb3-4b14-b3ea-ee6d524733e4",
+      "794dbbf5-4477-4229-bfc7-6d9ee57ea749",
+      "b607c457-57a8-41eb-b3f7-c8f0d7794108",
+      "52968360-737a-4793-ad05-3290862e2f11",
+      "8d429306-0fe9-4e14-94a2-73dad3f738a2",
+      "9f694562-92eb-4ade-94d5-97b80b0d3c89",
+      "09a70aab-8bb1-4f83-91d7-125857f21033",
+      "6bce8f7a-dde9-4b18-b552-7991e2337a23",
+      "2ad7c168-197c-4db4-8c37-ee5f69ea7888",
+      "e163e168-e318-4005-932b-8aad962895c9",
+      "188a44a7-b38a-4471-badf-3fb01ba1b8cb",
+      "b72bbf9f-a34a-4b11-a379-e3829f186d86",
+      "30592e26-ccd1-4ed0-8091-74623ff3bb50",
+      "05982981-e699-4cc5-a950-79de0ff8d141",
+      "2fcf6228-ea09-4314-8c3a-2f3f8779a440",
+      "c80fd077-2666-42d0-bea6-6712c08e603a",
+      "bf1ac6fa-cb4b-4260-83d3-564d67e25efb",
+      "732003ae-6e5a-49eb-897a-030f6417cbdd",
+      "99fcb1fb-883b-4969-be28-db9ab9335a19",
+      "dc2d2eff-142a-4859-8832-19fb7bbdfc92",
+      "f0ecd021-3337-494c-8ad9-07dbea992bd4",
+      "76b92956-67c7-46b3-b83b-357d9c7eebb2",
+      "1ca7d036-8a1b-401b-a86a-1ff3dcad9278",
+      "cce08ac0-6f50-48c1-aaec-11dd50c17127",
+      "aeb7e395-468e-478d-947f-a393a7d62cec",
+      "8b735a90-af2e-4732-af49-b847c2cf1843",
+      "1cb2280d-7eb9-47ae-b23c-2249849218dc",
+      "cd59c31e-18e6-47c7-84e1-9fc651e8eab5",
+      "da009671-e18e-4693-a877-6c61ab50bcb1",
+      "9f3eb98c-1cb6-43a1-8d01-5577bf2b1d0f",
+      "6437f922-0102-4555-a257-b46a7825d4b0",
+      "ff7cdd55-25fd-4220-adce-838260a2f261",
+      "84a83616-8bd2-4182-8024-3814c45ecfa3",
+      "a1c4204a-e853-46f4-9b58-8f840b35e715",
+      "4fb72025-3af0-4c77-a6fc-3c488d7494d5",
+      "ea30ba49-5119-484d-86fd-6fc55dfa8092",
+      "cb47b7df-3183-4e65-be16-2e6280ac4e32",
+      "77fa5895-ce0d-4238-b73e-e75a57f57740",
+      "51ff8a8c-3045-46c1-8b0b-f7415b64a4f2",
+      "40cc6f36-93aa-4900-aa57-dc9acccbb8c1",
+      "bb178c55-03bb-4ac6-8b12-71a8f18e508b",
+      "6311c41f-cf65-4ab0-8cf7-6fa606152862",
+      "cf78ea60-2703-4bee-baef-98930d38ee52",
+      "e8acf196-1e7e-4290-8c27-933fab4a5346",
+      "38ffe20d-3840-4aac-9400-069b5fc0de8a",
+      "8ed3c1a0-2184-456a-aedd-c6d207ff808d",
+      "1c94ad53-ceb8-4da2-99dd-318c06d34fa9",
+      "3613f6dd-8241-416a-9585-dcd37fe99fbc",
+      "e62f88b2-003f-4ad9-9121-c36b7b5f36fb",
+      "d6ab4784-15bd-4ce7-b545-7a4ea5a30879",
+      "f55d5430-eac5-4430-b183-f2de7f23039c",
+      "2f2236d2-b96f-44cd-a4e7-b547ed99db4d",
+      "28bf0d5e-a0e0-4df0-b8e3-39c085245a7e",
+      "06fb43e9-16ec-4bc0-bb4e-bd421a3e6fe9",
+      "307a1ac1-a308-40fa-ad6f-9b5bf4f0a158",
+      "b75a8412-10b9-4b83-9844-80301b133162",
+      "aa2648e3-cb4c-48b0-9786-d13ebf668243",
+      "f6ff2dd2-dd89-4989-b966-d95e59a14289",
+      "7a7e756e-220a-4ddb-a84f-942ad5a796ef",
+      "0c5b44f6-ac61-443a-96f2-944e27de3826",
+      "e6f7919c-13a8-4c55-b6b5-d0b2522e4b79",
+      "fb515e09-e4fa-46d0-8f81-20896ae5bfe6",
+      "ca708985-5b48-4476-b3fe-149d08c8b79f",
+      "10aa0460-9db1-41f4-9fed-b82c712bc0bd",
+      "8b6ee3fd-03d0-4257-a67e-8064ab62d19f",
+      "41f414b2-7616-4909-929d-50c8b668bc19",
+      "266ea5b3-b28e-4b74-a449-3c0bd31412fb",
+      "bc425e0b-5a9a-4448-b770-75db7ca6e4a0",
+      "80e520ad-0331-47f2-a22a-6820ecb76be0",
+      "10c03c07-9584-4473-9bc1-eb5fb6434a66",
+      "1914a41e-be16-4109-97dc-a4e28316f543",
+      "4f36402e-d2d0-42ec-8f97-109a9f1815d7",
+      "77cbc5db-8c00-47f9-aeba-fd571618b36e",
+      "f19d99be-729b-4d27-8d65-fe3c37886cdb",
+      "62b733dd-6558-4bd1-b330-d2e5da858c7f",
+      "60cbb570-d3fa-462b-9a11-4404443d594d",
+      "caf0841d-88d5-4b3d-b74b-8cba7ca41620",
+      "f964581d-856e-4894-aa49-4245cd99922e",
+      "e5aee542-cff1-4517-a536-74971449af3d",
+      "0143e711-cd75-4baf-82bc-0d8ce2f81e5a",
+      "d4e9753e-5c6d-4c45-8144-f6e9a42de722",
+      "8f950d25-ce31-4d0d-ad0a-c6eb72e208e7",
+      "347cb283-b4a8-427f-9a91-256da2f43c09",
+      "3c7dd7ea-b46c-4e62-a8f7-35e63e951039",
+      "71844410-1d4d-42d3-be09-f70c185a4993",
+      "5a00f298-1a66-4c5b-b5c7-405615ebf37d",
+      "d65c9281-acb5-48cb-899f-94f07b51b78e",
+      "f093f7cb-59e9-4db2-94aa-75d6bea92709",
+      "f9b72d34-123c-4674-83a1-9ab4a81363fc",
+      "d7283c05-4d6c-409a-a781-26ab807588bc",
+      "64c38cbf-7ddd-4127-8edd-b2e80b9a45fc",
+      "23566b6e-d745-402c-9680-aed42752b53a",
+      "38b8cd75-5e9c-45e9-9c1b-0b7520977662",
+      "67386699-333a-485d-a6a0-78f7a9339674",
+      "a3ce8125-c1da-4269-9246-670fd994d5e7",
+      "d5b9dd50-d8f6-4c77-880b-019905fb62e8",
+      "91e1f661-8cdf-4b28-b5ae-256c3c9ba6da",
+      "a8df69a1-0f6d-49a2-be56-c607ef6cbc05",
+      "0472920f-05ae-4b3e-a5f4-f6e9a3530eb2",
+      "a19c0fa3-0591-4d35-ab41-a33d28f22a36",
+      "ee1ec3d8-b48d-4146-a533-b3ef34176598",
+      "7307400c-f420-409d-9a1b-9836a5faa802",
+      "29f63fd3-0e15-45db-b749-fda018eef108",
+      "8a2c8b91-fd11-47cb-a9a9-35a2360ef105",
+      "2e25fdd1-43c2-4385-afd4-a2c69adf3f0e",
+      "67b11aff-856d-431f-b521-f31e462b14e3",
+      "51283019-bdb2-4ffb-9e71-ccf5a0f9fd80",
+      "bc92df73-990f-4795-b744-21fe5d6a584c",
+      "9303ce2b-8fe7-44da-b3dd-37f44d3783b8",
+      "b25f42fd-24b6-4af8-8122-8a1f90afd0aa",
+      "4597513e-8480-4b51-95bb-24d5aceed091",
+      "90a014ed-2ca9-4255-9985-3b77ee22f87a",
+      "3ba661f2-5d77-40d3-9383-0a8675f6be5f",
+      "a90b1134-9a88-4de9-a5bb-5037169ee9dd",
+      "19d59eaa-6cf1-448c-9e9f-ecba8f7627e0",
+      "5ac42dbe-4843-49f4-ae1e-7184230b606a",
+      "3fc165c4-5fc1-4bd4-b863-2606b4f649c7",
+      "77af5ec7-87fd-4cb2-b525-3a0f9c25d41d",
+      "c5ed69dc-8fef-4708-81e9-e316d65a4f19",
+      "2434e9b6-7756-408a-bcd6-51adb2a27839",
+      "01ac6f78-b9f3-4451-b2bf-98ffd672d22b",
+      "bc2bdf4c-e854-4386-95ba-2cf2e94614d0",
+      "193915ad-5702-457e-b101-edcd262df333",
+      "08d9fc1c-4f62-4468-a258-b9e8b3a379cd",
+      "1b38b8c2-a6b2-4c18-9214-1ff894bf03cf",
+      "778aeee1-9035-48f7-8c7c-56bbda27187a",
+      "60ef1c68-70c3-4f4c-90a7-52f143715af1",
+      "ceff3be2-4bcb-418e-818c-56452eb75905",
+      "ebc1af74-cce7-4b4e-9add-c4040d3aa828",
+      "ea1aec94-d74c-4264-aa6c-7a21660c779f",
+      "e4b4ba58-52fd-495a-a59b-a726f0239ff3",
+      "18161328-cdf3-484e-be90-c18bb86b450f",
+      "c4c08c24-080f-4815-8b40-de523dab50f4",
+      "b9c4823a-3a38-424e-b704-98ebc5d47dbd",
+      "acc419f8-9399-4aac-addb-4c6018abb85d",
+      "d83a1334-032c-44e4-9790-7bb44a9f63e1",
+      "7a23554f-2212-4795-8d3c-83628e18a5e2",
+      "22032107-c3d9-4f1f-9779-e078910c5c2f",
+      "02c012aa-2aa9-45dc-93a6-0386bf765f7e",
+      "bedcf5ff-5cb8-4ec7-927f-131e615601a2",
+      "6de110c6-79db-4ee2-b059-87ad2007ed4b",
+      "e3c6abde-b8d4-4b04-898f-35077911ae05",
+      "4dfa3122-2f27-4ffd-8030-a87d157c6f52",
+      "7740c59b-3522-4fa5-bf8e-411efa67cf1b",
+      "0d8a244c-8109-4a2e-a5ac-03acf43f8b44",
+      "9b21553c-cf2a-4777-981d-90c168424502",
+      "8ba23da8-20b6-4300-9cc7-41dd3ac65eca",
+      "2b5ff92b-2e18-4b8f-ae3a-a80a397b66ed",
+      "a0d21f58-5f35-460c-bfa7-7e50978f4010",
+      "ba8a0739-9459-46ae-a70c-e21b8d8071a9",
+      "6126a730-c38f-498b-8951-90b7f4b6e55d",
+      "e3e844cb-056e-4ab9-9c4a-64793619b17d",
+      "02b881ea-a95f-4140-be7c-ce08972b47ad",
+      "ba63cfd8-03e9-46b8-b36b-b5c5b6f575e7",
+      "fe7e088e-266d-4fb0-8e3b-eab37c00e28b",
+      "ab77f873-3447-4d3a-ac55-a5b56f8d2077",
+      "f8272f5a-3b29-4b63-99e5-286c848206d0",
+      "0bb1cb6c-5c23-4a2a-b0a6-14405800f9e4",
+      "fb355134-a185-457a-b72a-ffcaf6a50192",
+      "41d1101d-ad4e-4861-b3d0-99e0b2c7f964",
+      "34ca13b1-d339-4d1a-a278-018cab2109ac",
+      "54e5d530-0323-45de-9e30-db7a649a91d5"
+    ],
+    "unmatchedCandidateAssociationNames": []
+  },
+  {
+    "candidateSetKey": "0a877b05-b1c8-40b6-8e89-23667f5e81fc:direct:1",
+    "electionId": "0a877b05-b1c8-40b6-8e89-23667f5e81fc",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 1,
+    "candidateIds": [
+      "2b87a3a7-3656-49ce-9906-18abfe9240c1"
+    ],
+    "activeCandidateIds": [
+      "2b87a3a7-3656-49ce-9906-18abfe9240c1"
+    ]
+  },
+  {
+    "candidateSetKey": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00:direct:1",
+    "electionId": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 1,
+    "candidateIds": [
+      "610310a8-b008-4954-a8d2-e563871b5707",
+      "40b18057-e264-4fc5-9c55-2edec6887d96",
+      "49f03981-5e2d-4ef4-8be6-c3af454d5763"
+    ],
+    "activeCandidateIds": [
+      "610310a8-b008-4954-a8d2-e563871b5707",
+      "40b18057-e264-4fc5-9c55-2edec6887d96",
+      "49f03981-5e2d-4ef4-8be6-c3af454d5763"
+    ]
+  },
+  {
+    "candidateSetKey": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00:direct:2",
+    "electionId": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 2,
+    "candidateIds": [
+      "97631604-d28c-4d0d-afdb-b62207c79c27",
+      "138903ef-a407-4fb6-9933-e4cdfe7ee533"
+    ],
+    "activeCandidateIds": [
+      "97631604-d28c-4d0d-afdb-b62207c79c27",
+      "138903ef-a407-4fb6-9933-e4cdfe7ee533"
+    ]
+  },
+  {
+    "candidateSetKey": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00:direct:3",
+    "electionId": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 3,
+    "candidateIds": [
+      "b2ccaa3c-1fb6-418b-9c1a-6c4dd1973f18",
+      "69a71e28-65d4-424e-a7c4-9a7e0e87c6b5",
+      "4377aeff-e387-4e01-ad7a-9c45a0b79512"
+    ],
+    "activeCandidateIds": [
+      "b2ccaa3c-1fb6-418b-9c1a-6c4dd1973f18",
+      "69a71e28-65d4-424e-a7c4-9a7e0e87c6b5",
+      "4377aeff-e387-4e01-ad7a-9c45a0b79512"
+    ]
+  },
+  {
+    "candidateSetKey": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00:direct:4",
+    "electionId": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 4,
+    "candidateIds": [
+      "74e140d5-6f5f-420b-85ee-c415bf233b67",
+      "af41ee5a-f16d-403a-9fc3-7274f990e7ad"
+    ],
+    "activeCandidateIds": [
+      "74e140d5-6f5f-420b-85ee-c415bf233b67",
+      "af41ee5a-f16d-403a-9fc3-7274f990e7ad"
+    ]
+  },
+  {
+    "candidateSetKey": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00:direct:5",
+    "electionId": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 5,
+    "candidateIds": [
+      "b5377762-c18a-4000-ae6c-6817dd71f41e"
+    ],
+    "activeCandidateIds": [
+      "b5377762-c18a-4000-ae6c-6817dd71f41e"
+    ]
+  },
+  {
+    "candidateSetKey": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00:direct:6",
+    "electionId": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 6,
+    "candidateIds": [
+      "b7f88e13-0d90-4f83-a374-d32567b1b882",
+      "a3ecf089-3df3-4382-a456-86d089c3f72a"
+    ],
+    "activeCandidateIds": [
+      "b7f88e13-0d90-4f83-a374-d32567b1b882",
+      "a3ecf089-3df3-4382-a456-86d089c3f72a"
+    ]
+  },
+  {
+    "candidateSetKey": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00:direct:7",
+    "electionId": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 7,
+    "candidateIds": [
+      "a8280e52-db1d-45be-9d73-1083f2d39593",
+      "a5f62065-4491-492c-85aa-4530c4169504",
+      "23415261-f9ed-4797-866a-62d17208471b"
+    ],
+    "activeCandidateIds": [
+      "a8280e52-db1d-45be-9d73-1083f2d39593",
+      "a5f62065-4491-492c-85aa-4530c4169504",
+      "23415261-f9ed-4797-866a-62d17208471b"
+    ]
+  },
+  {
+    "candidateSetKey": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00:direct:8",
+    "electionId": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 8,
+    "candidateIds": [
+      "3914240d-3053-4a36-b99a-fbc221037338"
+    ],
+    "activeCandidateIds": [
+      "3914240d-3053-4a36-b99a-fbc221037338"
+    ]
+  },
+  {
+    "candidateSetKey": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00:direct:9",
+    "electionId": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 9,
+    "candidateIds": [
+      "a9d0980a-2ecd-471f-82ed-77780c2bb046"
+    ],
+    "activeCandidateIds": [
+      "a9d0980a-2ecd-471f-82ed-77780c2bb046"
+    ]
+  },
+  {
+    "candidateSetKey": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00:direct:10",
+    "electionId": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 10,
+    "candidateIds": [
+      "16da5c1e-65ba-4d5d-a874-6b1101a2de76",
+      "6b48dfbb-f183-43df-a8f3-e6d25f52ed39"
+    ],
+    "activeCandidateIds": [
+      "16da5c1e-65ba-4d5d-a874-6b1101a2de76",
+      "6b48dfbb-f183-43df-a8f3-e6d25f52ed39"
+    ]
+  },
+  {
+    "candidateSetKey": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00:direct:11",
+    "electionId": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 11,
+    "candidateIds": [
+      "e50c9d5a-29cb-41da-bc01-a78b2f73898f",
+      "93b63fb2-de23-4bb3-aca9-978c0c13c45e"
+    ],
+    "activeCandidateIds": [
+      "e50c9d5a-29cb-41da-bc01-a78b2f73898f",
+      "93b63fb2-de23-4bb3-aca9-978c0c13c45e"
+    ]
+  },
+  {
+    "candidateSetKey": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00:direct:12",
+    "electionId": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 12,
+    "candidateIds": [
+      "1e9116a1-0894-477a-b1ef-2a249b24bd5d",
+      "329e4442-1413-4a84-ae92-4110340f68d5",
+      "a3160def-d8c3-4878-8b81-6dc53c538d84",
+      "6b557283-5cde-40a2-8813-425e5d570504"
+    ],
+    "activeCandidateIds": [
+      "1e9116a1-0894-477a-b1ef-2a249b24bd5d",
+      "329e4442-1413-4a84-ae92-4110340f68d5",
+      "a3160def-d8c3-4878-8b81-6dc53c538d84",
+      "6b557283-5cde-40a2-8813-425e5d570504"
+    ]
+  },
+  {
+    "candidateSetKey": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00:direct:13",
+    "electionId": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 13,
+    "candidateIds": [
+      "70dc74b3-861f-4b42-993d-18aecfd2e146",
+      "413740db-7083-477e-9239-be48744c0956"
+    ],
+    "activeCandidateIds": [
+      "70dc74b3-861f-4b42-993d-18aecfd2e146",
+      "413740db-7083-477e-9239-be48744c0956"
+    ]
+  },
+  {
+    "candidateSetKey": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00:direct:14",
+    "electionId": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 14,
+    "candidateIds": [
+      "5f057e5a-2d7a-455c-9ecd-e9c7c6317c5e",
+      "51e0728f-d227-4bcc-97e2-1d57373767e8"
+    ],
+    "activeCandidateIds": [
+      "5f057e5a-2d7a-455c-9ecd-e9c7c6317c5e",
+      "51e0728f-d227-4bcc-97e2-1d57373767e8"
+    ]
+  },
+  {
+    "candidateSetKey": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00:direct:15",
+    "electionId": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 15,
+    "candidateIds": [
+      "d5c455ca-8462-4a1d-9a01-f5827e5abdad"
+    ],
+    "activeCandidateIds": [
+      "d5c455ca-8462-4a1d-9a01-f5827e5abdad"
+    ]
+  },
+  {
+    "candidateSetKey": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00:direct:16",
+    "electionId": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 16,
+    "candidateIds": [
+      "da25602b-3046-4c11-ba9c-80e38679ea38",
+      "95202331-9fba-4dfe-bf83-ab45f6a6b5e9",
+      "290f281e-383f-4ca5-a8b2-329521930501"
+    ],
+    "activeCandidateIds": [
+      "da25602b-3046-4c11-ba9c-80e38679ea38",
+      "95202331-9fba-4dfe-bf83-ab45f6a6b5e9",
+      "290f281e-383f-4ca5-a8b2-329521930501"
+    ]
+  },
+  {
+    "candidateSetKey": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00:direct:17",
+    "electionId": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 17,
+    "candidateIds": [
+      "8c6ed6d6-0c2f-4d11-ac38-ebf2951257a1",
+      "bbe133fd-a208-46c3-ba0e-2fdbf11e5ca2"
+    ],
+    "activeCandidateIds": [
+      "8c6ed6d6-0c2f-4d11-ac38-ebf2951257a1",
+      "bbe133fd-a208-46c3-ba0e-2fdbf11e5ca2"
+    ]
+  },
+  {
+    "candidateSetKey": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00:direct:18",
+    "electionId": "96ce723c-a2b9-4fe2-8569-e1bae8bb1e00",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 18,
+    "candidateIds": [
+      "76ac68ae-7b63-4fbd-9271-5c21d644a7d7",
+      "b6b96e2e-418f-4ded-bbcb-6c39e6b6501f"
+    ],
+    "activeCandidateIds": [
+      "76ac68ae-7b63-4fbd-9271-5c21d644a7d7",
+      "b6b96e2e-418f-4ded-bbcb-6c39e6b6501f"
+    ]
+  }
+]

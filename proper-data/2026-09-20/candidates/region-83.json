@@ -1,0 +1,580 @@
+[
+  {
+    "candidateId": "9d3150f1-4635-4256-aaab-467ca1bc7374",
+    "electionId": "89921756-8a60-4c97-a78b-0b49c6091683",
+    "scope": "direct",
+    "districtNumber": null,
+    "fullName": "Левчакова Мария Сергеевна",
+    "birthDate": "1979-11-27",
+    "associationName": "Ненецкое региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-10",
+    "registrationDecisionDate": "2026-08-10",
+    "registrationDecisionNumber": "107",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=fe72a93cac8ff6edee98c8bdd1aa78530785d2bc8430b77979bd27f95e4fdc32",
+      "retrievedAt": "2026-08-30T14:46:24.903282+00:00",
+      "sha256": "5fc77f7b1878bf13798857ad0f8f345077397fd395f75b12f4422fc6a2dc8d53",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T08:52:58.823558Z"
+    }
+  },
+  {
+    "candidateId": "8784705a-75ac-4321-a72b-27a1b83fbd10",
+    "electionId": "89921756-8a60-4c97-a78b-0b49c6091683",
+    "scope": "direct",
+    "districtNumber": null,
+    "fullName": "Марюев Николай Васильевич",
+    "birthDate": "1984-12-07",
+    "associationName": "Местное отделение ВПП \"ЕДИНАЯ РОССИЯ\" МО \"Муниципальный район \"Заполярный район\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "96",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=fe72a93cac8ff6edee98c8bdd1aa78530785d2bc8430b77979bd27f95e4fdc32",
+      "retrievedAt": "2026-08-30T14:46:24.903282+00:00",
+      "sha256": "5fc77f7b1878bf13798857ad0f8f345077397fd395f75b12f4422fc6a2dc8d53",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T08:52:58.823558Z"
+    }
+  },
+  {
+    "candidateId": "935ef1a9-e71d-4726-a066-17dd53ced5ed",
+    "electionId": "89921756-8a60-4c97-a78b-0b49c6091683",
+    "scope": "direct",
+    "districtNumber": null,
+    "fullName": "Талеев Георгий Иванович",
+    "birthDate": "1989-01-26",
+    "associationName": "КПРФ - НЕНЕЦКОЕ ОКРУЖНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-09",
+    "registrationDecisionDate": "2026-08-09",
+    "registrationDecisionNumber": "106",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=fe72a93cac8ff6edee98c8bdd1aa78530785d2bc8430b77979bd27f95e4fdc32",
+      "retrievedAt": "2026-08-30T14:46:24.903282+00:00",
+      "sha256": "5fc77f7b1878bf13798857ad0f8f345077397fd395f75b12f4422fc6a2dc8d53",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T08:52:58.823558Z"
+    }
+  },
+  {
+    "candidateId": "208e6192-9fc3-473e-80cc-a68d149d7092",
+    "electionId": "73496fc8-d76b-42db-87d1-82c068fb37b8",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Вылка Дмитрий Григорьевич",
+    "birthDate": "1989-03-07",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registration_refused",
+      "label": "отказ в регистрации"
+    },
+    "electionStatus": null,
+    "ballotEligible": false,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": null,
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "114",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=720399957e05b130e794a24b3b476fdcab3eaa064d685b1e83a5dfa7e0a6811a",
+      "retrievedAt": "2026-08-30T14:46:25.145557+00:00",
+      "sha256": "853ef3c7ccdccefb83262bc7c02ce772ca36310fa36fbe4eda63beb9db4db411",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T08:57:43.645995Z"
+    }
+  },
+  {
+    "candidateId": "d3fc2b29-6e88-40e2-8878-a6ed3244e490",
+    "electionId": "73496fc8-d76b-42db-87d1-82c068fb37b8",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Выучейская Виктория Андреевна",
+    "birthDate": "2002-04-13",
+    "associationName": "Местное отделение ВПП \"ЕДИНАЯ РОССИЯ\" МО \"Муниципальный район \"Заполярный район\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "93",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=720399957e05b130e794a24b3b476fdcab3eaa064d685b1e83a5dfa7e0a6811a",
+      "retrievedAt": "2026-08-30T14:46:25.145557+00:00",
+      "sha256": "853ef3c7ccdccefb83262bc7c02ce772ca36310fa36fbe4eda63beb9db4db411",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T08:57:43.645995Z"
+    }
+  },
+  {
+    "candidateId": "cf0039fd-d9d8-41d9-9648-b8bee697d291",
+    "electionId": "73496fc8-d76b-42db-87d1-82c068fb37b8",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Горбачёв Кирилл Эдуардович",
+    "birthDate": "2001-02-02",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Ненецком автономном округе",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "94",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=720399957e05b130e794a24b3b476fdcab3eaa064d685b1e83a5dfa7e0a6811a",
+      "retrievedAt": "2026-08-30T14:46:25.145557+00:00",
+      "sha256": "853ef3c7ccdccefb83262bc7c02ce772ca36310fa36fbe4eda63beb9db4db411",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T08:57:43.645995Z"
+    }
+  },
+  {
+    "candidateId": "060b1cc5-45ab-4e72-96ff-80916d927ee3",
+    "electionId": "73496fc8-d76b-42db-87d1-82c068fb37b8",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Гордеева Анна Александровна",
+    "birthDate": "1982-02-27",
+    "associationName": "Ненецкое региональное отделение политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-10",
+    "registrationDecisionDate": "2026-08-10",
+    "registrationDecisionNumber": "110",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=720399957e05b130e794a24b3b476fdcab3eaa064d685b1e83a5dfa7e0a6811a",
+      "retrievedAt": "2026-08-30T14:46:25.145557+00:00",
+      "sha256": "853ef3c7ccdccefb83262bc7c02ce772ca36310fa36fbe4eda63beb9db4db411",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T08:57:43.645995Z"
+    }
+  },
+  {
+    "candidateId": "04ce7b05-9611-4512-847f-c9f9eda84456",
+    "electionId": "73496fc8-d76b-42db-87d1-82c068fb37b8",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Лаптандер Николай Андреевич",
+    "birthDate": "2007-05-23",
+    "associationName": "Ненецкое региональное отделение политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-10",
+    "registrationDecisionDate": "2026-08-10",
+    "registrationDecisionNumber": "111",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=720399957e05b130e794a24b3b476fdcab3eaa064d685b1e83a5dfa7e0a6811a",
+      "retrievedAt": "2026-08-30T14:46:25.145557+00:00",
+      "sha256": "853ef3c7ccdccefb83262bc7c02ce772ca36310fa36fbe4eda63beb9db4db411",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T08:57:43.645995Z"
+    }
+  },
+  {
+    "candidateId": "9d4bcde3-fc5a-4af4-9f19-a98981adada0",
+    "electionId": "73496fc8-d76b-42db-87d1-82c068fb37b8",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Левчакова Мария Сергеевна",
+    "birthDate": "1979-11-27",
+    "associationName": "Ненецкое региональное отделение политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-10",
+    "registrationDecisionDate": "2026-08-10",
+    "registrationDecisionNumber": "108",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=720399957e05b130e794a24b3b476fdcab3eaa064d685b1e83a5dfa7e0a6811a",
+      "retrievedAt": "2026-08-30T14:46:25.145557+00:00",
+      "sha256": "853ef3c7ccdccefb83262bc7c02ce772ca36310fa36fbe4eda63beb9db4db411",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T08:57:43.645995Z"
+    }
+  },
+  {
+    "candidateId": "a3e5a374-52ee-4b47-aa36-6af9d7cb9634",
+    "electionId": "73496fc8-d76b-42db-87d1-82c068fb37b8",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Ледков Василий Тимофеевич",
+    "birthDate": "1990-04-20",
+    "associationName": "Местное отделение ВПП \"ЕДИНАЯ РОССИЯ\" МО \"Муниципальный район \"Заполярный район\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "95",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=720399957e05b130e794a24b3b476fdcab3eaa064d685b1e83a5dfa7e0a6811a",
+      "retrievedAt": "2026-08-30T14:46:25.145557+00:00",
+      "sha256": "853ef3c7ccdccefb83262bc7c02ce772ca36310fa36fbe4eda63beb9db4db411",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T08:57:43.645995Z"
+    }
+  },
+  {
+    "candidateId": "631c386e-0d34-4c19-a7f3-8a479c541c35",
+    "electionId": "73496fc8-d76b-42db-87d1-82c068fb37b8",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Ледков Павел Григорьевич",
+    "birthDate": "1999-04-13",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registration_refused",
+      "label": "отказ в регистрации"
+    },
+    "electionStatus": null,
+    "ballotEligible": false,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": null,
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "115",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=720399957e05b130e794a24b3b476fdcab3eaa064d685b1e83a5dfa7e0a6811a",
+      "retrievedAt": "2026-08-30T14:46:25.145557+00:00",
+      "sha256": "853ef3c7ccdccefb83262bc7c02ce772ca36310fa36fbe4eda63beb9db4db411",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T08:57:43.645995Z"
+    }
+  },
+  {
+    "candidateId": "eb8e700d-cc79-4919-b948-9f92ef0f9c6b",
+    "electionId": "73496fc8-d76b-42db-87d1-82c068fb37b8",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Ледкова Алёна Геннадьевна",
+    "birthDate": "1988-02-27",
+    "associationName": "Местное отделение ВПП \"ЕДИНАЯ РОССИЯ\" МО \"Муниципальный район \"Заполярный район\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "112",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=720399957e05b130e794a24b3b476fdcab3eaa064d685b1e83a5dfa7e0a6811a",
+      "retrievedAt": "2026-08-30T14:46:25.145557+00:00",
+      "sha256": "853ef3c7ccdccefb83262bc7c02ce772ca36310fa36fbe4eda63beb9db4db411",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T08:57:43.645995Z"
+    }
+  },
+  {
+    "candidateId": "5f500dfe-28b6-43fa-95c2-60f793feaf63",
+    "electionId": "73496fc8-d76b-42db-87d1-82c068fb37b8",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Марюева Эльза Витальевна",
+    "birthDate": "1977-10-27",
+    "associationName": "Местное отделение ВПП \"ЕДИНАЯ РОССИЯ\" МО \"Муниципальный район \"Заполярный район\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "88",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=720399957e05b130e794a24b3b476fdcab3eaa064d685b1e83a5dfa7e0a6811a",
+      "retrievedAt": "2026-08-30T14:46:25.145557+00:00",
+      "sha256": "853ef3c7ccdccefb83262bc7c02ce772ca36310fa36fbe4eda63beb9db4db411",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T08:57:43.645995Z"
+    }
+  },
+  {
+    "candidateId": "3c23e81c-b225-4ae5-b84d-266fe5b85c80",
+    "electionId": "73496fc8-d76b-42db-87d1-82c068fb37b8",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Пырерко Елена Демьяновна",
+    "birthDate": "1973-07-16",
+    "associationName": "Местное отделение ВПП \"ЕДИНАЯ РОССИЯ\" МО \"Муниципальный район \"Заполярный район\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "113",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=720399957e05b130e794a24b3b476fdcab3eaa064d685b1e83a5dfa7e0a6811a",
+      "retrievedAt": "2026-08-30T14:46:25.145557+00:00",
+      "sha256": "853ef3c7ccdccefb83262bc7c02ce772ca36310fa36fbe4eda63beb9db4db411",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T08:57:43.645995Z"
+    }
+  },
+  {
+    "candidateId": "51ea944e-edf0-4e74-bca7-f75571b6dffd",
+    "electionId": "73496fc8-d76b-42db-87d1-82c068fb37b8",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Талеев Роман Михайлович",
+    "birthDate": "2003-03-27",
+    "associationName": "Местное отделение ВПП \"ЕДИНАЯ РОССИЯ\" МО \"Муниципальный район \"Заполярный район\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "92",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=720399957e05b130e794a24b3b476fdcab3eaa064d685b1e83a5dfa7e0a6811a",
+      "retrievedAt": "2026-08-30T14:46:25.145557+00:00",
+      "sha256": "853ef3c7ccdccefb83262bc7c02ce772ca36310fa36fbe4eda63beb9db4db411",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T08:57:43.645995Z"
+    }
+  },
+  {
+    "candidateId": "1400e049-74e7-4872-a407-427e86733b5a",
+    "electionId": "73496fc8-d76b-42db-87d1-82c068fb37b8",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Толстов Евгений Витальевич",
+    "birthDate": "1984-07-05",
+    "associationName": "Местное отделение ВПП \"ЕДИНАЯ РОССИЯ\" МО \"Муниципальный район \"Заполярный район\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "91",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=720399957e05b130e794a24b3b476fdcab3eaa064d685b1e83a5dfa7e0a6811a",
+      "retrievedAt": "2026-08-30T14:46:25.145557+00:00",
+      "sha256": "853ef3c7ccdccefb83262bc7c02ce772ca36310fa36fbe4eda63beb9db4db411",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T08:57:43.645995Z"
+    }
+  },
+  {
+    "candidateId": "5f056e10-810a-47fd-9c07-b743a64577d4",
+    "electionId": "73496fc8-d76b-42db-87d1-82c068fb37b8",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Фомина Маргарита Павловна",
+    "birthDate": "1983-07-26",
+    "associationName": "Ненецкое региональное отделение политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-10",
+    "registrationDecisionDate": "2026-08-10",
+    "registrationDecisionNumber": "109",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=720399957e05b130e794a24b3b476fdcab3eaa064d685b1e83a5dfa7e0a6811a",
+      "retrievedAt": "2026-08-30T14:46:25.145557+00:00",
+      "sha256": "853ef3c7ccdccefb83262bc7c02ce772ca36310fa36fbe4eda63beb9db4db411",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T08:57:43.645995Z"
+    }
+  }
+]

@@ -1,0 +1,1362 @@
+[
+  {
+    "candidateId": "eb4e8893-bfe7-47fd-a21a-915cd7ab153f",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Абрамова Галина Васильевна",
+    "birthDate": "1955-07-14",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Забайкальском крае",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "69",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "92096d47-1b60-4561-9725-2390a4ab8303",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Азарова Юлия Степановна",
+    "birthDate": "1987-04-19",
+    "associationName": "Тунгиро-Олекминское Местное отделение Забайкальского регионального отделения Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "72",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "6c165395-0100-446a-8bcc-69a46b28c373",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Антоновская Галина Федоровна",
+    "birthDate": "1974-01-14",
+    "associationName": "Тунгиро-Олекминское Местное отделение Забайкальского регионального отделения Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-12",
+    "registrationDecisionDate": "2026-08-12",
+    "registrationDecisionNumber": "62",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "bc4c2496-0a0c-492a-9527-267d0121a6a6",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Антоновский Сергей Николаевич",
+    "birthDate": "1975-08-31",
+    "associationName": "Забайкальское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-09",
+    "registrationDecisionDate": "2026-08-09",
+    "registrationDecisionNumber": "52",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "086100fc-a4d0-4bfe-9c43-00b628929b40",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Булдыгерова Оксана Валерьевна",
+    "birthDate": "1970-02-01",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Забайкальском крае",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registration_refused",
+      "label": "отказ в регистрации"
+    },
+    "electionStatus": null,
+    "ballotEligible": false,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": null,
+    "registrationDecisionDate": "2026-08-14",
+    "registrationDecisionNumber": "77",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "c4274036-eedf-45e9-a4e9-840929378877",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Булдыгерова Татьяна Владимировна",
+    "birthDate": "1982-08-03",
+    "associationName": "Тунгиро-Олекминское Местное отделение Забайкальского регионального отделения Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-12",
+    "registrationDecisionDate": "2026-08-12",
+    "registrationDecisionNumber": "64",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "a02604e8-9191-40a6-9a0d-dde4158289ef",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 4,
+    "fullName": "Герасимов Алексей Валерьевич",
+    "birthDate": "1973-12-27",
+    "associationName": "Тунгиро-Олекминское Местное отделение Забайкальского регионального отделения Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-12",
+    "registrationDecisionDate": "2026-08-12",
+    "registrationDecisionNumber": "60",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "5eaa3a63-b081-4431-943f-a24a57c022ad",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Герасимова Виктория Александровна",
+    "birthDate": "1975-10-04",
+    "associationName": "Тунгиро-Олекминское Местное отделение Забайкальского регионального отделения Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-12",
+    "registrationDecisionDate": "2026-08-12",
+    "registrationDecisionNumber": "61",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "dae4100e-d722-470b-b65c-8e5b0bb96078",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Глотов Валерий Валерьевич",
+    "birthDate": "1979-07-15",
+    "associationName": "Забайкальское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-11",
+    "registrationDecisionDate": "2026-08-11",
+    "registrationDecisionNumber": "54",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "cdceb287-308e-44af-be6f-484f34c65136",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Головина Мария Григорьевна",
+    "birthDate": "1983-12-27",
+    "associationName": "Тунгиро-Олекминское Местное отделение Забайкальского регионального отделения Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "71",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "5d3877ae-ad44-4c89-ba3e-77c0381671c7",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Головина Юлия Валерьевна",
+    "birthDate": "1971-05-28",
+    "associationName": "Тунгиро-Олекминское Местное отделение Забайкальского регионального отделения Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "65",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "6dc70bf4-c683-4d24-82b0-f1dc6bb9c149",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 4,
+    "fullName": "Деминов Алексей Валерьевич",
+    "birthDate": "1997-05-24",
+    "associationName": "Забайкальское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-11",
+    "registrationDecisionDate": "2026-08-11",
+    "registrationDecisionNumber": "55",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "5f6d90aa-4146-4c11-b51d-3e245657e320",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 4,
+    "fullName": "Долгов Николай Владимирович",
+    "birthDate": "1987-01-23",
+    "associationName": "Тунгиро-Олекминское Местное отделение Забайкальского регионального отделения Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "66",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "30d369b5-5367-41f9-b303-59f35eee8ba0",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Дорожкова Людмила Александровна",
+    "birthDate": "1999-08-16",
+    "associationName": "Тунгиро-Олекминское Местное отделение Забайкальского регионального отделения Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-12",
+    "registrationDecisionDate": "2026-08-12",
+    "registrationDecisionNumber": "63",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "0340db2d-329b-45a6-9434-819b04df4885",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Иванов Александр Владимирович",
+    "birthDate": "1974-05-31",
+    "associationName": "Тунгиро-Олекминское Местное отделение Забайкальского регионального отделения Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-14",
+    "registrationDecisionDate": "2026-08-14",
+    "registrationDecisionNumber": "75",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "d773e763-9f13-45c7-9e78-9334ed767c8c",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Козина Людмила Николаевна",
+    "birthDate": "1972-01-29",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Забайкальском крае",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "67",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "19441dc4-6ac1-4dcb-ab5d-aa75de24797d",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Кочмарёв Олег Юрьевич",
+    "birthDate": "1972-10-02",
+    "associationName": "Тунгиро-Олекминское Местное отделение Забайкальского регионального отделения Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "73",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "6e721306-e269-4b9d-b6ee-0535372ef9ea",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Малахова Нэля Владимировна",
+    "birthDate": "1980-01-19",
+    "associationName": "Тунгиро-Олекминское Местное отделение Забайкальского регионального отделения Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-14",
+    "registrationDecisionDate": "2026-08-14",
+    "registrationDecisionNumber": "76",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "dfe115e2-a93d-475f-8e07-5d25a6526d3d",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Пичуева Кристина Михайловна",
+    "birthDate": "2001-09-22",
+    "associationName": "Тунгиро-Олекминское Местное отделение Забайкальского регионального отделения Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "70",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "4f69d626-ed0d-4939-84cb-2c153d2dc807",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Саитов Александр Александрович",
+    "birthDate": "1959-02-26",
+    "associationName": "Тунгиро-Олекминское Местное отделение Забайкальского регионального отделения Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-14",
+    "registrationDecisionDate": "2026-08-14",
+    "registrationDecisionNumber": "74",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "8d320295-0d3d-4fb5-a741-97a1e4a43d1e",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 4,
+    "fullName": "Сапова Светлана Павловна",
+    "birthDate": "1968-12-09",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Забайкальском крае",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "68",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "6fb6d74d-7bf3-489f-a651-7948abad468e",
+    "electionId": "fcf606fa-2989-42ba-b8f4-0453da8b0b97",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Снигирёва Марина Евгеньевна",
+    "birthDate": "1968-04-06",
+    "associationName": "Тунгиро-Олекминское Местное отделение Забайкальского регионального отделения Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-11",
+    "registrationDecisionDate": "2026-08-11",
+    "registrationDecisionNumber": "56",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e992f96024dcbfcb5c7aa4b977d2386fdc6b742331aeb8bc1992fb4d35a80893",
+      "retrievedAt": "2026-08-30T14:18:36.904034+00:00",
+      "sha256": "315d8abce1ae50eb5820e7c2fc8c94fde3c63d7ca4eac68389e54f5945fc8d5e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-14T09:51:24.317675Z"
+    }
+  },
+  {
+    "candidateId": "8f18b673-cd47-4f36-b53f-0a0866f6bb08",
+    "electionId": "1d85ade8-9555-4b1d-a350-dd9b65705e5a",
+    "scope": "majoritarian",
+    "districtNumber": 12,
+    "fullName": "Беломестнов Анатолий Константинович",
+    "birthDate": "1954-11-29",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Забайкальском крае",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-07",
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "9/55",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=ce051851e9dd03c0d9225eff98e26f9740cc232687230931631a5ab070bef330",
+      "retrievedAt": "2026-08-30T14:18:35.890872+00:00",
+      "sha256": "0065ad808278f6925bbbd189c31d10d2b0abbad3b9ebdf063cc2298f6fe788a2",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-15T02:45:11.171623Z"
+    }
+  },
+  {
+    "candidateId": "8380779b-012a-4d2c-b1fa-35ff150f1f09",
+    "electionId": "1d85ade8-9555-4b1d-a350-dd9b65705e5a",
+    "scope": "majoritarian",
+    "districtNumber": 12,
+    "fullName": "Ликун Кристина Игоревна",
+    "birthDate": "1992-09-27",
+    "associationName": "Оловяннинское Местное отделение Забайкальского регионального отделения Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-12",
+    "registrationDecisionDate": "2026-08-12",
+    "registrationDecisionNumber": "10/56",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=ce051851e9dd03c0d9225eff98e26f9740cc232687230931631a5ab070bef330",
+      "retrievedAt": "2026-08-30T14:18:35.890872+00:00",
+      "sha256": "0065ad808278f6925bbbd189c31d10d2b0abbad3b9ebdf063cc2298f6fe788a2",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-15T02:45:11.171623Z"
+    }
+  },
+  {
+    "candidateId": "4be40952-5b8d-4f0e-a9da-de370cfb189c",
+    "electionId": "1d85ade8-9555-4b1d-a350-dd9b65705e5a",
+    "scope": "majoritarian",
+    "districtNumber": 12,
+    "fullName": "Лисина Анна Валерьевна",
+    "birthDate": "1989-12-15",
+    "associationName": "Оловяннинское местное отделение Забайкальского регионального отделения Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-01",
+    "registrationDecisionDate": "2026-08-01",
+    "registrationDecisionNumber": "7/53",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=ce051851e9dd03c0d9225eff98e26f9740cc232687230931631a5ab070bef330",
+      "retrievedAt": "2026-08-30T14:18:35.890872+00:00",
+      "sha256": "0065ad808278f6925bbbd189c31d10d2b0abbad3b9ebdf063cc2298f6fe788a2",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-15T02:45:11.171623Z"
+    }
+  },
+  {
+    "candidateId": "813b2b81-8227-4d75-adaf-7bd1edc34a23",
+    "electionId": "1d85ade8-9555-4b1d-a350-dd9b65705e5a",
+    "scope": "majoritarian",
+    "districtNumber": 12,
+    "fullName": "Пешков Александр Александрович",
+    "birthDate": "1956-11-29",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-14",
+    "registrationDecisionDate": "2026-08-14",
+    "registrationDecisionNumber": "11/58",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=ce051851e9dd03c0d9225eff98e26f9740cc232687230931631a5ab070bef330",
+      "retrievedAt": "2026-08-30T14:18:35.890872+00:00",
+      "sha256": "0065ad808278f6925bbbd189c31d10d2b0abbad3b9ebdf063cc2298f6fe788a2",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-15T02:45:11.171623Z"
+    }
+  },
+  {
+    "candidateId": "8e0953a9-c6dc-4753-a081-feac849d8a49",
+    "electionId": "a25ddde7-649d-49df-bf8a-bf70ea915504",
+    "scope": "majoritarian",
+    "districtNumber": 7,
+    "fullName": "Астафьева Светлана Григорьевна",
+    "birthDate": "1976-06-15",
+    "associationName": "Газимуро-Заводское Местное отделение Забайкальского регионального отделения Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "9/55",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=3809e492fc9698979ef49ec9588c6e7298f5ea62b87681e3e13e20a0801940ea",
+      "retrievedAt": "2026-08-30T14:18:28.677511+00:00",
+      "sha256": "fa6f27ef251dac8d225b34d895737ec7c8c6d43ba554392109c6717a217f65d3",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T02:26:41.822927Z"
+    }
+  },
+  {
+    "candidateId": "ce97d085-71b0-45b8-8394-7c7b245c6de9",
+    "electionId": "a25ddde7-649d-49df-bf8a-bf70ea915504",
+    "scope": "majoritarian",
+    "districtNumber": 4,
+    "fullName": "Бахметьева Тамара Иннокентьевна",
+    "birthDate": "1956-06-11",
+    "associationName": "Газимуро-Заводское Местное отделение Забайкальского регионального отделения Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "9/52",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=3809e492fc9698979ef49ec9588c6e7298f5ea62b87681e3e13e20a0801940ea",
+      "retrievedAt": "2026-08-30T14:18:28.677511+00:00",
+      "sha256": "fa6f27ef251dac8d225b34d895737ec7c8c6d43ba554392109c6717a217f65d3",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T02:26:41.822927Z"
+    }
+  },
+  {
+    "candidateId": "bd08a729-dd61-49f4-b3a0-732dc0e9a82b",
+    "electionId": "a25ddde7-649d-49df-bf8a-bf70ea915504",
+    "scope": "majoritarian",
+    "districtNumber": 6,
+    "fullName": "Васильченко Валентина Владимировна",
+    "birthDate": "1999-02-24",
+    "associationName": "Газимуро-Заводское Местное отделение Забайкальского регионального отделения Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "9/54",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=3809e492fc9698979ef49ec9588c6e7298f5ea62b87681e3e13e20a0801940ea",
+      "retrievedAt": "2026-08-30T14:18:28.677511+00:00",
+      "sha256": "fa6f27ef251dac8d225b34d895737ec7c8c6d43ba554392109c6717a217f65d3",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T02:26:41.822927Z"
+    }
+  },
+  {
+    "candidateId": "c0424e61-6313-4eb6-bd1d-a9d50e113af9",
+    "electionId": "a25ddde7-649d-49df-bf8a-bf70ea915504",
+    "scope": "majoritarian",
+    "districtNumber": 6,
+    "fullName": "Власова Лариса Викторовна",
+    "birthDate": "1983-10-09",
+    "associationName": "Забайкальское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "9/49",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=3809e492fc9698979ef49ec9588c6e7298f5ea62b87681e3e13e20a0801940ea",
+      "retrievedAt": "2026-08-30T14:18:28.677511+00:00",
+      "sha256": "fa6f27ef251dac8d225b34d895737ec7c8c6d43ba554392109c6717a217f65d3",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T02:26:41.822927Z"
+    }
+  },
+  {
+    "candidateId": "fcc681b2-0af5-4e24-895c-c3af8a037b36",
+    "electionId": "a25ddde7-649d-49df-bf8a-bf70ea915504",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Голубина Ирина Николаевна",
+    "birthDate": "1969-07-28",
+    "associationName": "Газимуро-Заводское Местное отделение Забайкальского регионального отделения Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "9/51",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=3809e492fc9698979ef49ec9588c6e7298f5ea62b87681e3e13e20a0801940ea",
+      "retrievedAt": "2026-08-30T14:18:28.677511+00:00",
+      "sha256": "fa6f27ef251dac8d225b34d895737ec7c8c6d43ba554392109c6717a217f65d3",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T02:26:41.822927Z"
+    }
+  },
+  {
+    "candidateId": "dfcc8973-1f29-4a31-bcec-9f3c0467c53d",
+    "electionId": "a25ddde7-649d-49df-bf8a-bf70ea915504",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Гриздренко Ирина Владимировна",
+    "birthDate": "1973-12-13",
+    "associationName": "Забайкальское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "9/46",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=3809e492fc9698979ef49ec9588c6e7298f5ea62b87681e3e13e20a0801940ea",
+      "retrievedAt": "2026-08-30T14:18:28.677511+00:00",
+      "sha256": "fa6f27ef251dac8d225b34d895737ec7c8c6d43ba554392109c6717a217f65d3",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T02:26:41.822927Z"
+    }
+  },
+  {
+    "candidateId": "217ee267-8c7e-4e08-8b73-e4407c9d7571",
+    "electionId": "a25ddde7-649d-49df-bf8a-bf70ea915504",
+    "scope": "majoritarian",
+    "districtNumber": 5,
+    "fullName": "Ипатова Елена Сергеевна",
+    "birthDate": "1986-08-28",
+    "associationName": "Забайкальское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "9/48",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=3809e492fc9698979ef49ec9588c6e7298f5ea62b87681e3e13e20a0801940ea",
+      "retrievedAt": "2026-08-30T14:18:28.677511+00:00",
+      "sha256": "fa6f27ef251dac8d225b34d895737ec7c8c6d43ba554392109c6717a217f65d3",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T02:26:41.822927Z"
+    }
+  },
+  {
+    "candidateId": "b63235aa-09f6-4558-b429-71413b14f46a",
+    "electionId": "a25ddde7-649d-49df-bf8a-bf70ea915504",
+    "scope": "majoritarian",
+    "districtNumber": 6,
+    "fullName": "Коренев Роман Анатольевич",
+    "birthDate": "1977-09-23",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Забайкальском крае",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-10",
+    "registrationDecisionDate": "2026-08-10",
+    "registrationDecisionNumber": "8/42",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=3809e492fc9698979ef49ec9588c6e7298f5ea62b87681e3e13e20a0801940ea",
+      "retrievedAt": "2026-08-30T14:18:28.677511+00:00",
+      "sha256": "fa6f27ef251dac8d225b34d895737ec7c8c6d43ba554392109c6717a217f65d3",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T02:26:41.822927Z"
+    }
+  },
+  {
+    "candidateId": "83ece884-6a10-4ed1-afe7-58512eaa27a5",
+    "electionId": "a25ddde7-649d-49df-bf8a-bf70ea915504",
+    "scope": "majoritarian",
+    "districtNumber": 7,
+    "fullName": "Кустова Анастасия Сергеевна",
+    "birthDate": "1996-03-06",
+    "associationName": "Забайкальское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "9/50",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=3809e492fc9698979ef49ec9588c6e7298f5ea62b87681e3e13e20a0801940ea",
+      "retrievedAt": "2026-08-30T14:18:28.677511+00:00",
+      "sha256": "fa6f27ef251dac8d225b34d895737ec7c8c6d43ba554392109c6717a217f65d3",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T02:26:41.822927Z"
+    }
+  },
+  {
+    "candidateId": "84f455cb-c2ce-4345-b678-35d535b0343d",
+    "electionId": "a25ddde7-649d-49df-bf8a-bf70ea915504",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Матафонов Иван Александрович",
+    "birthDate": "1987-06-01",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Забайкальском крае",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-10",
+    "registrationDecisionDate": "2026-08-10",
+    "registrationDecisionNumber": "8/41",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=3809e492fc9698979ef49ec9588c6e7298f5ea62b87681e3e13e20a0801940ea",
+      "retrievedAt": "2026-08-30T14:18:28.677511+00:00",
+      "sha256": "fa6f27ef251dac8d225b34d895737ec7c8c6d43ba554392109c6717a217f65d3",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T02:26:41.822927Z"
+    }
+  },
+  {
+    "candidateId": "3b7d6ff3-a028-43cf-a93a-a6fe5751fd73",
+    "electionId": "a25ddde7-649d-49df-bf8a-bf70ea915504",
+    "scope": "majoritarian",
+    "districtNumber": 5,
+    "fullName": "Матвеева Татьяна Сергеевна",
+    "birthDate": "1989-03-02",
+    "associationName": "Газимуро-Заводское Местное отделение Забайкальского регионального отделения Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "9/53",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=3809e492fc9698979ef49ec9588c6e7298f5ea62b87681e3e13e20a0801940ea",
+      "retrievedAt": "2026-08-30T14:18:28.677511+00:00",
+      "sha256": "fa6f27ef251dac8d225b34d895737ec7c8c6d43ba554392109c6717a217f65d3",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T02:26:41.822927Z"
+    }
+  },
+  {
+    "candidateId": "02b6ce28-5bfd-4472-9ad8-69f9f2302691",
+    "electionId": "a25ddde7-649d-49df-bf8a-bf70ea915504",
+    "scope": "majoritarian",
+    "districtNumber": 5,
+    "fullName": "Овчинников Егор Владимирович",
+    "birthDate": "2000-09-03",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Забайкальском крае",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-10",
+    "registrationDecisionDate": "2026-08-10",
+    "registrationDecisionNumber": "8/43",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=3809e492fc9698979ef49ec9588c6e7298f5ea62b87681e3e13e20a0801940ea",
+      "retrievedAt": "2026-08-30T14:18:28.677511+00:00",
+      "sha256": "fa6f27ef251dac8d225b34d895737ec7c8c6d43ba554392109c6717a217f65d3",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T02:26:41.822927Z"
+    }
+  },
+  {
+    "candidateId": "096493e6-ccaa-43b1-8045-4ec9b611457f",
+    "electionId": "a25ddde7-649d-49df-bf8a-bf70ea915504",
+    "scope": "majoritarian",
+    "districtNumber": 7,
+    "fullName": "Овчинникова Оксана Георгиевна",
+    "birthDate": "1974-05-06",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Забайкальском крае",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "9/56",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=3809e492fc9698979ef49ec9588c6e7298f5ea62b87681e3e13e20a0801940ea",
+      "retrievedAt": "2026-08-30T14:18:28.677511+00:00",
+      "sha256": "fa6f27ef251dac8d225b34d895737ec7c8c6d43ba554392109c6717a217f65d3",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T02:26:41.822927Z"
+    }
+  },
+  {
+    "candidateId": "e126a9c6-c7cc-45b0-8608-c4b0b9127ac6",
+    "electionId": "a25ddde7-649d-49df-bf8a-bf70ea915504",
+    "scope": "majoritarian",
+    "districtNumber": 4,
+    "fullName": "Чугуевская Ирина Геннадьевна",
+    "birthDate": "1985-09-26",
+    "associationName": "Забайкальское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "9/47",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=3809e492fc9698979ef49ec9588c6e7298f5ea62b87681e3e13e20a0801940ea",
+      "retrievedAt": "2026-08-30T14:18:28.677511+00:00",
+      "sha256": "fa6f27ef251dac8d225b34d895737ec7c8c6d43ba554392109c6717a217f65d3",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T02:26:41.822927Z"
+    }
+  }
+]

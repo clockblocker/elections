@@ -1,0 +1,17 @@
+[
+  {
+    "candidateSetKey": "d5082b44-8bb2-48d9-b102-83f415f7cb66:direct:8",
+    "electionId": "d5082b44-8bb2-48d9-b102-83f415f7cb66",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 8,
+    "candidateIds": [
+      "ec49a5b8-5895-409f-be6a-d71d63e63782",
+      "b02363f8-95f6-40c6-9494-7b084f39cdca"
+    ],
+    "activeCandidateIds": [
+      "ec49a5b8-5895-409f-be6a-d71d63e63782",
+      "b02363f8-95f6-40c6-9494-7b084f39cdca"
+    ]
+  }
+]

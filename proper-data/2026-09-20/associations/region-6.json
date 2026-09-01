@@ -1,0 +1,122 @@
+[
+  {
+    "associationId": "02fc3315-771d-42dc-8a71-cd6b1af6f118",
+    "electionId": "5570c123-f283-40e1-886c-7806a67ca0a5",
+    "name": "Региональное отделение в Республике Ингушетия Политической партии \"НОВЫЕ ЛЮДИ\"",
+    "drawNumber": 1,
+    "registrationMark": "registered",
+    "ballotEligibility": true,
+    "certifiedDecisionDate": "2026-07-14",
+    "certifiedDecisionNumber": "126/511-7",
+    "registeredDecisionDate": "2026-07-31",
+    "registeredDecisionNumber": "131/558-7",
+    "majoritarianCertifiedDecisionDate": null,
+    "majoritarianCertifiedDecisionNumber": null,
+    "foreignAgentInList": false,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=5570c123-f283-40e1-886c-7806a67ca0a5",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=5570c123-f283-40e1-886c-7806a67ca0a5",
+      "retrievedAt": "2026-08-30T14:06:48.847438+00:00",
+      "sha256": "3ef10cee25e0882ac4d9b695f9d021b49a96aa7436b57fb40fb386a4b3086877",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T17:38:41.859563+03:00"
+    }
+  },
+  {
+    "associationId": "fbb7586f-efe5-4273-852d-ed49f716316f",
+    "electionId": "5570c123-f283-40e1-886c-7806a67ca0a5",
+    "name": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Республике Ингушетия",
+    "drawNumber": 2,
+    "registrationMark": "registered",
+    "ballotEligibility": true,
+    "certifiedDecisionDate": "2026-07-20",
+    "certifiedDecisionNumber": "128/536-7",
+    "registeredDecisionDate": "2026-08-03",
+    "registeredDecisionNumber": "132/568-7",
+    "majoritarianCertifiedDecisionDate": null,
+    "majoritarianCertifiedDecisionNumber": null,
+    "foreignAgentInList": false,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=5570c123-f283-40e1-886c-7806a67ca0a5",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=5570c123-f283-40e1-886c-7806a67ca0a5",
+      "retrievedAt": "2026-08-30T14:06:48.847438+00:00",
+      "sha256": "3ef10cee25e0882ac4d9b695f9d021b49a96aa7436b57fb40fb386a4b3086877",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T17:38:41.859563+03:00"
+    }
+  },
+  {
+    "associationId": "6e308912-e556-4bbb-8fdf-4ce3cb3a7646",
+    "electionId": "5570c123-f283-40e1-886c-7806a67ca0a5",
+    "name": "КПРФ - ИНГУШСКОЕ РЕСПУБЛИКАНСКОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "drawNumber": 3,
+    "registrationMark": "registered",
+    "ballotEligibility": true,
+    "certifiedDecisionDate": "2026-07-17",
+    "certifiedDecisionNumber": "127/517-7",
+    "registeredDecisionDate": "2026-08-13",
+    "registeredDecisionNumber": "134/576-7",
+    "majoritarianCertifiedDecisionDate": null,
+    "majoritarianCertifiedDecisionNumber": null,
+    "foreignAgentInList": false,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=5570c123-f283-40e1-886c-7806a67ca0a5",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=5570c123-f283-40e1-886c-7806a67ca0a5",
+      "retrievedAt": "2026-08-30T14:06:48.847438+00:00",
+      "sha256": "3ef10cee25e0882ac4d9b695f9d021b49a96aa7436b57fb40fb386a4b3086877",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T17:38:41.859563+03:00"
+    }
+  },
+  {
+    "associationId": "999f4395-350f-4c56-ac61-7767775b172a",
+    "electionId": "5570c123-f283-40e1-886c-7806a67ca0a5",
+    "name": "Ингушское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "drawNumber": 4,
+    "registrationMark": "registered",
+    "ballotEligibility": true,
+    "certifiedDecisionDate": "2026-07-17",
+    "certifiedDecisionNumber": "127/521-7",
+    "registeredDecisionDate": "2026-07-31",
+    "registeredDecisionNumber": "131/557-7",
+    "majoritarianCertifiedDecisionDate": null,
+    "majoritarianCertifiedDecisionNumber": null,
+    "foreignAgentInList": false,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=5570c123-f283-40e1-886c-7806a67ca0a5",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=5570c123-f283-40e1-886c-7806a67ca0a5",
+      "retrievedAt": "2026-08-30T14:06:48.847438+00:00",
+      "sha256": "3ef10cee25e0882ac4d9b695f9d021b49a96aa7436b57fb40fb386a4b3086877",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T17:38:41.859563+03:00"
+    }
+  },
+  {
+    "associationId": "6479c82e-3822-4f67-ab64-28467991e64a",
+    "electionId": "5570c123-f283-40e1-886c-7806a67ca0a5",
+    "name": "ИНГУШСКОЕ РЕГИОНАЛЬНОЕ ОТДЕЛЕНИЕ ПОЛИТИЧЕСКОЙ ПАРТИИ ЛДПР-ЛИБЕРАЛЬНО-ДЕМОКРАТИЧЕСКОЙ ПАРТИИ РОССИИ",
+    "drawNumber": 5,
+    "registrationMark": "registered",
+    "ballotEligibility": true,
+    "certifiedDecisionDate": "2026-07-17",
+    "certifiedDecisionNumber": "127/525-7",
+    "registeredDecisionDate": "2026-07-31",
+    "registeredDecisionNumber": "131/556-7",
+    "majoritarianCertifiedDecisionDate": null,
+    "majoritarianCertifiedDecisionNumber": null,
+    "foreignAgentInList": false,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=5570c123-f283-40e1-886c-7806a67ca0a5",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=5570c123-f283-40e1-886c-7806a67ca0a5",
+      "retrievedAt": "2026-08-30T14:06:48.847438+00:00",
+      "sha256": "3ef10cee25e0882ac4d9b695f9d021b49a96aa7436b57fb40fb386a4b3086877",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T17:38:41.859563+03:00"
+    }
+  }
+]

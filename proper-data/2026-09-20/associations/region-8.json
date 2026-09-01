@@ -1,0 +1,74 @@
+[
+  {
+    "associationId": "ea55f9da-4dfa-4700-bfea-df4610d87b08",
+    "electionId": "b4029b6c-a6e4-4407-ae0f-168df2205e3f",
+    "name": "Калмыцкое региональное отделение Политической партии ЛДПР-Либерально-демократической партии России",
+    "drawNumber": null,
+    "registrationMark": "not_marked_registered",
+    "ballotEligibility": null,
+    "certifiedDecisionDate": null,
+    "certifiedDecisionNumber": null,
+    "registeredDecisionDate": null,
+    "registeredDecisionNumber": null,
+    "majoritarianCertifiedDecisionDate": "2026-07-14",
+    "majoritarianCertifiedDecisionNumber": "107/542-5",
+    "foreignAgentInList": null,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=b4029b6c-a6e4-4407-ae0f-168df2205e3f",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=b4029b6c-a6e4-4407-ae0f-168df2205e3f",
+      "retrievedAt": "2026-08-30T14:08:18.065815+00:00",
+      "sha256": "17be587bfb5b78eafa2d42c54e90ec99e1cf072204b3738717b9ab46a8c9020a",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-15T12:43:28.516555+03:00"
+    }
+  },
+  {
+    "associationId": "472da152-fdeb-4044-8d6d-a434f25ec3e5",
+    "electionId": "b4029b6c-a6e4-4407-ae0f-168df2205e3f",
+    "name": "Региональное отделение Социалистической политической партии \"СПРАВЕДЛИВАЯ РОССИЯ  -  ПАТРИОТЫ -  ЗА ПРАВДУ\" в Республике Калмыкия",
+    "drawNumber": null,
+    "registrationMark": "not_marked_registered",
+    "ballotEligibility": null,
+    "certifiedDecisionDate": null,
+    "certifiedDecisionNumber": null,
+    "registeredDecisionDate": null,
+    "registeredDecisionNumber": null,
+    "majoritarianCertifiedDecisionDate": "2026-07-14",
+    "majoritarianCertifiedDecisionNumber": "107/543-5",
+    "foreignAgentInList": null,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=b4029b6c-a6e4-4407-ae0f-168df2205e3f",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=b4029b6c-a6e4-4407-ae0f-168df2205e3f",
+      "retrievedAt": "2026-08-30T14:08:18.065815+00:00",
+      "sha256": "17be587bfb5b78eafa2d42c54e90ec99e1cf072204b3738717b9ab46a8c9020a",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-15T12:43:28.516555+03:00"
+    }
+  },
+  {
+    "associationId": "dc036262-6e44-4e8f-a514-03367366599d",
+    "electionId": "b4029b6c-a6e4-4407-ae0f-168df2205e3f",
+    "name": "Элистинское местное отделение Партии \"ЕДИНАЯ РОССИЯ\"",
+    "drawNumber": null,
+    "registrationMark": "not_marked_registered",
+    "ballotEligibility": null,
+    "certifiedDecisionDate": null,
+    "certifiedDecisionNumber": null,
+    "registeredDecisionDate": null,
+    "registeredDecisionNumber": null,
+    "majoritarianCertifiedDecisionDate": "2026-07-14",
+    "majoritarianCertifiedDecisionNumber": "106/541-5",
+    "foreignAgentInList": null,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=b4029b6c-a6e4-4407-ae0f-168df2205e3f",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=b4029b6c-a6e4-4407-ae0f-168df2205e3f",
+      "retrievedAt": "2026-08-30T14:08:18.065815+00:00",
+      "sha256": "17be587bfb5b78eafa2d42c54e90ec99e1cf072204b3738717b9ab46a8c9020a",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-15T12:43:28.516555+03:00"
+    }
+  }
+]

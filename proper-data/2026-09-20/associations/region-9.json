@@ -1,0 +1,26 @@
+[
+  {
+    "associationId": "a9bf578f-2773-49bc-b3a5-e7e6cdbb075c",
+    "electionId": "46ce98a2-8c92-43e2-86e8-b52a0c1ba1f1",
+    "name": "Хабезское местное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "drawNumber": null,
+    "registrationMark": "not_marked_registered",
+    "ballotEligibility": null,
+    "certifiedDecisionDate": null,
+    "certifiedDecisionNumber": null,
+    "registeredDecisionDate": null,
+    "registeredDecisionNumber": null,
+    "majoritarianCertifiedDecisionDate": null,
+    "majoritarianCertifiedDecisionNumber": null,
+    "foreignAgentInList": null,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=46ce98a2-8c92-43e2-86e8-b52a0c1ba1f1",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=46ce98a2-8c92-43e2-86e8-b52a0c1ba1f1",
+      "retrievedAt": "2026-08-30T14:08:18.131048+00:00",
+      "sha256": "89e08fe1a5d50671136ae70b2a9e0f09709807d58de1c68d027637ad59b6b73d",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-10T15:45:18.309525+03:00"
+    }
+  }
+]

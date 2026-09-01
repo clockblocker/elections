@@ -1,0 +1,4005 @@
+[
+  {
+    "candidateId": "a992f9b6-249d-46fe-a4d7-d0b4c7b03210",
+    "electionId": "ca83d57c-8690-46c0-8461-d11a48c386a7",
+    "scope": "majoritarian",
+    "districtNumber": 9,
+    "fullName": "Алимов Алексей Владимирович",
+    "birthDate": "1987-03-26",
+    "associationName": "КПРФ - КОМИ РЕСПУБЛИКАНСКОЕ ОТДЕЛЕНИЕ политической партии \"КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-27",
+    "registrationDecisionDate": "2026-07-27",
+    "registrationDecisionNumber": "06/39",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4b805fccfa936e7379362874501656a4e274476fd5db9041edce7e192e31352b",
+      "retrievedAt": "2026-08-30T14:08:24.119384+00:00",
+      "sha256": "627ecd495f98c4f7385ceb4e1087e76a802a5b5df59065057a4a588bee04d294",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T07:45:39.942104Z"
+    }
+  },
+  {
+    "candidateId": "9dc5a97d-fca6-4910-965d-d93e76ae8cec",
+    "electionId": "ca83d57c-8690-46c0-8461-d11a48c386a7",
+    "scope": "majoritarian",
+    "districtNumber": 9,
+    "fullName": "Меладзе Олег Викторович",
+    "birthDate": "1969-03-28",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Республике Коми",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-11",
+    "registrationDecisionDate": "2026-08-11",
+    "registrationDecisionNumber": "08/44",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4b805fccfa936e7379362874501656a4e274476fd5db9041edce7e192e31352b",
+      "retrievedAt": "2026-08-30T14:08:24.119384+00:00",
+      "sha256": "627ecd495f98c4f7385ceb4e1087e76a802a5b5df59065057a4a588bee04d294",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T07:45:39.942104Z"
+    }
+  },
+  {
+    "candidateId": "4e8ba4ff-43b3-4fbe-affa-fffc6528fe30",
+    "electionId": "ca83d57c-8690-46c0-8461-d11a48c386a7",
+    "scope": "majoritarian",
+    "districtNumber": 9,
+    "fullName": "Савицкая Елена Павловна",
+    "birthDate": "1976-08-28",
+    "associationName": "Интинское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-23",
+    "registrationDecisionDate": "2026-07-23",
+    "registrationDecisionNumber": "05/37",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4b805fccfa936e7379362874501656a4e274476fd5db9041edce7e192e31352b",
+      "retrievedAt": "2026-08-30T14:08:24.119384+00:00",
+      "sha256": "627ecd495f98c4f7385ceb4e1087e76a802a5b5df59065057a4a588bee04d294",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T07:45:39.942104Z"
+    }
+  },
+  {
+    "candidateId": "60987bf0-ba9a-42da-af28-a4129f929437",
+    "electionId": "ca83d57c-8690-46c0-8461-d11a48c386a7",
+    "scope": "majoritarian",
+    "districtNumber": 9,
+    "fullName": "Томашевская Ирина Александровна",
+    "birthDate": "1972-12-08",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-27",
+    "registrationDecisionDate": "2026-07-27",
+    "registrationDecisionNumber": "06/38",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4b805fccfa936e7379362874501656a4e274476fd5db9041edce7e192e31352b",
+      "retrievedAt": "2026-08-30T14:08:24.119384+00:00",
+      "sha256": "627ecd495f98c4f7385ceb4e1087e76a802a5b5df59065057a4a588bee04d294",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T07:45:39.942104Z"
+    }
+  },
+  {
+    "candidateId": "eb2699d1-35aa-43c1-bf43-b1c801bb314b",
+    "electionId": "9c2f6f3a-a04e-4d72-a9a1-a50883aeced4",
+    "scope": "majoritarian",
+    "districtNumber": 5,
+    "fullName": "Белоусова Юлия Михайловна",
+    "birthDate": "1981-06-25",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Республике Коми",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "12-01/05/01",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=222917f4e43bee516e00b3a3135a13783393716f0419007e3c8685fe0dd924a0",
+      "retrievedAt": "2026-08-30T14:08:41.913811+00:00",
+      "sha256": "549e7579fcd3680899c6a47aedd0e69192361ec75e32c6ad2e877fab94cfd88c",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-30T11:44:29.563266Z"
+    }
+  },
+  {
+    "candidateId": "637955d2-723a-4ab7-9821-aec13ba80353",
+    "electionId": "9c2f6f3a-a04e-4d72-a9a1-a50883aeced4",
+    "scope": "majoritarian",
+    "districtNumber": 5,
+    "fullName": "Жуковский Руслан Вицентиевич",
+    "birthDate": "1973-03-23",
+    "associationName": "Ухтинское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "12-01/05/02",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=222917f4e43bee516e00b3a3135a13783393716f0419007e3c8685fe0dd924a0",
+      "retrievedAt": "2026-08-30T14:08:41.913811+00:00",
+      "sha256": "549e7579fcd3680899c6a47aedd0e69192361ec75e32c6ad2e877fab94cfd88c",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-30T11:44:29.563266Z"
+    }
+  },
+  {
+    "candidateId": "2fabb39e-ddf5-4d2c-93a7-3ffd14c47ce7",
+    "electionId": "9c2f6f3a-a04e-4d72-a9a1-a50883aeced4",
+    "scope": "majoritarian",
+    "districtNumber": 5,
+    "fullName": "Ильякова Елена Владимировна",
+    "birthDate": "1968-04-04",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-30",
+    "registrationDecisionDate": "2026-07-30",
+    "registrationDecisionNumber": "12-01/06/01",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=222917f4e43bee516e00b3a3135a13783393716f0419007e3c8685fe0dd924a0",
+      "retrievedAt": "2026-08-30T14:08:41.913811+00:00",
+      "sha256": "549e7579fcd3680899c6a47aedd0e69192361ec75e32c6ad2e877fab94cfd88c",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-30T11:44:29.563266Z"
+    }
+  },
+  {
+    "candidateId": "c951162e-6809-4953-91db-8be807bac0e3",
+    "electionId": "9c2f6f3a-a04e-4d72-a9a1-a50883aeced4",
+    "scope": "majoritarian",
+    "districtNumber": 5,
+    "fullName": "Климова Валерия Александровна",
+    "birthDate": "2003-08-02",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-30",
+    "registrationDecisionDate": "2026-07-30",
+    "registrationDecisionNumber": "12-01/06/02",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=222917f4e43bee516e00b3a3135a13783393716f0419007e3c8685fe0dd924a0",
+      "retrievedAt": "2026-08-30T14:08:41.913811+00:00",
+      "sha256": "549e7579fcd3680899c6a47aedd0e69192361ec75e32c6ad2e877fab94cfd88c",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-30T11:44:29.563266Z"
+    }
+  },
+  {
+    "candidateId": "c229a3a0-b235-4567-883d-b045df3f5392",
+    "electionId": "9c2f6f3a-a04e-4d72-a9a1-a50883aeced4",
+    "scope": "majoritarian",
+    "districtNumber": 5,
+    "fullName": "Ушаков Константин Михайлович",
+    "birthDate": "1986-10-17",
+    "associationName": "Ухтинское местное отделение КПРФ - КОМИ РЕСПУБЛИКАНСКОГО ОТДЕЛЕНИЯ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-30",
+    "registrationDecisionDate": "2026-07-30",
+    "registrationDecisionNumber": "12-01/06/03",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=222917f4e43bee516e00b3a3135a13783393716f0419007e3c8685fe0dd924a0",
+      "retrievedAt": "2026-08-30T14:08:41.913811+00:00",
+      "sha256": "549e7579fcd3680899c6a47aedd0e69192361ec75e32c6ad2e877fab94cfd88c",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-30T11:44:29.563266Z"
+    }
+  },
+  {
+    "candidateId": "392b2fca-aa7b-471c-97cf-aa0acd34e1b5",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 4,
+    "fullName": "Анищик Владимир Анатольевич",
+    "birthDate": "1964-07-17",
+    "associationName": "Печорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-03",
+    "registrationDecisionDate": "2026-08-03",
+    "registrationDecisionNumber": "10/47",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "c9c1afe6-0aa1-476b-934e-f7d884957d4e",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Бараненкова Наталья Игоревна",
+    "birthDate": "1990-09-04",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "08/37",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "ee5f1cba-679f-44c7-b7fd-d291db338fc2",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Белянина Светлана Александровна",
+    "birthDate": "1984-08-02",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-05",
+    "registrationDecisionDate": "2026-08-05",
+    "registrationDecisionNumber": "11/52",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "6f267af3-d755-44a9-9643-75e03f17accf",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Борисов Сергей Юрьевич",
+    "birthDate": "1973-10-20",
+    "associationName": "Печорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-03",
+    "registrationDecisionDate": "2026-08-03",
+    "registrationDecisionNumber": "10/48",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "95c26006-9903-43b6-ba91-1d5f31965ee6",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 4,
+    "fullName": "Васиков Павел Александрович",
+    "birthDate": "1978-06-13",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "08/39",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "42abcbb3-35b8-4d6b-8b6a-2df77e225c97",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Галдобина Евгения Юрьевна",
+    "birthDate": "1982-12-15",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "09/44",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "11948c54-93b2-4712-8d28-7e1ca0ba64e6",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Гумарова Таскира Галимзяновна",
+    "birthDate": "1958-05-01",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "08/36",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "49334d24-ebd0-4d17-8189-a2e11518bbc8",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Домашич Владимир Иванович",
+    "birthDate": "1978-05-12",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Республике Коми",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "09/45",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "0563284e-456e-4cc9-afd7-b1351c240cb3",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Дубов Александр Николаевич",
+    "birthDate": "2007-01-03",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-05",
+    "registrationDecisionDate": "2026-08-05",
+    "registrationDecisionNumber": "11/53",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "8b07d406-62b3-45d5-801b-9e2fce6c4d92",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 4,
+    "fullName": "Дубов Алексей Николаевич",
+    "birthDate": "2007-01-03",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-05",
+    "registrationDecisionDate": "2026-08-05",
+    "registrationDecisionNumber": "11/54",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "a682146c-2f05-40c4-aab1-d4188821d25a",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 4,
+    "fullName": "Земляной Руслан Григорьевич",
+    "birthDate": "1983-02-23",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-05",
+    "registrationDecisionDate": "2026-08-05",
+    "registrationDecisionNumber": "11/55",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "93613624-fd77-4861-abee-1cc3fd6cf52d",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Ивановская Екатерина Сергеевна",
+    "birthDate": "1988-08-13",
+    "associationName": "Печорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "08/33",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "f48d66dc-a60b-4940-963f-9f7b4a2cb87f",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Иевлев Михаил Николаевич",
+    "birthDate": "1992-04-12",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-05",
+    "registrationDecisionDate": "2026-08-05",
+    "registrationDecisionNumber": "11/56",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "eb9a1287-1246-4b1e-84aa-1e138e05a1e6",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Истомин Алексей Сергеевич",
+    "birthDate": "1993-02-05",
+    "associationName": "Печорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "08/30",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "62d053a5-30f4-4abc-8e36-087e6d9f7c68",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Камейко Светлана Александровна",
+    "birthDate": "1985-08-06",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Республике Коми",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "08/28",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "5cda69af-a275-4d86-839c-fa6b3f1a2a5f",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Кузнецова Евгения Михайловна",
+    "birthDate": "1985-06-21",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-05",
+    "registrationDecisionDate": "2026-08-05",
+    "registrationDecisionNumber": "11/57",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "cf2b8c39-37d6-4e20-b66e-846dd7d4831a",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Куликов Владимир Константинович",
+    "birthDate": "1983-03-09",
+    "associationName": "Печорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "08/31",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "e0901b87-fc12-4b75-9b39-48e2a2a59f0e",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Лебедев Александр Александрович",
+    "birthDate": "1991-02-21",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "09/43",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "faf88f75-c3e9-485e-9f94-4e2dae20dd03",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Манзадей Наталья Николаевна",
+    "birthDate": "1980-10-24",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Республике Коми",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-03",
+    "registrationDecisionDate": "2026-08-03",
+    "registrationDecisionNumber": "10/49",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "b2d90fc1-f7b4-4abf-9e44-1a173278a23a",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 4,
+    "fullName": "Матвейчев Андрей Николаевич",
+    "birthDate": "1987-03-28",
+    "associationName": "Печорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-03",
+    "registrationDecisionDate": "2026-08-03",
+    "registrationDecisionNumber": "10/50",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "15e56889-8f2d-4085-94e6-e8aa1fb7911d",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Мелихов Максим Вячеславович",
+    "birthDate": "1979-01-01",
+    "associationName": "Печорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "08/34",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "9f804c54-24eb-4138-a912-0ea94e718359",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Мишакова Анна Александровна",
+    "birthDate": "1985-10-12",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "08/35",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "605a8365-af15-4d96-85c2-db83ffefe660",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Нацепинская Людмила Михайловна",
+    "birthDate": "1962-10-28",
+    "associationName": "Печорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "08/32",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "7259b741-fb90-4621-8c71-d69edd66fdc6",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Носов Леонид Олегович",
+    "birthDate": "1987-02-14",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "08/40",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "91a2f12d-3fa2-40e5-b4ce-49766eb9d9c8",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 4,
+    "fullName": "Овсиенко Владислав Сергеевич",
+    "birthDate": "1983-05-15",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Республике Коми",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "09/42",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "f354f608-f0e8-4e4d-8d08-b2ffa6bdc20b",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Осташков Анатолий Анатольевич",
+    "birthDate": "1961-04-21",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-05",
+    "registrationDecisionDate": "2026-08-05",
+    "registrationDecisionNumber": "11/58",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "d6f1a3e8-8071-4c74-9711-f6129ca57879",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Родинцев Владимир Федорович",
+    "birthDate": "1969-09-15",
+    "associationName": "Печорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-03",
+    "registrationDecisionDate": "2026-08-03",
+    "registrationDecisionNumber": "10/51",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "8b91bbbc-349a-4085-a14e-e3d291823b7c",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 4,
+    "fullName": "Романенко Петр Евгеньевич",
+    "birthDate": "1987-03-10",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Республике Коми",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "08/29",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "383de7dc-1477-4380-9dc6-ec0c2ae00ac2",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Селиверстов Алексей Васильевич",
+    "birthDate": "1975-05-28",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "08/38",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "7dde1c25-8c98-4e54-8315-226df1366297",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Скрынников Василий Олегович",
+    "birthDate": "1989-09-17",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-05",
+    "registrationDecisionDate": "2026-08-05",
+    "registrationDecisionNumber": "11/59",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "30a9e317-b4a0-40da-9315-cbbfb785bd4f",
+    "electionId": "c7b78d4c-ba12-46ef-9d3b-64fae34d7dc7",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Терентьева Юлия Максимовна",
+    "birthDate": "1994-10-01",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Республике Коми",
+    "nominationStatus": {
+      "code": "nomination_lost",
+      "label": "утративший статус выдвинутого кандидата"
+    },
+    "registrationStatus": null,
+    "electionStatus": null,
+    "ballotEligible": false,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": null,
+    "registrationDecisionDate": null,
+    "registrationDecisionNumber": null,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=501305fffd127385488f25b5bf7c33bb805ead92a24d6dc383c0a253e5b12343",
+      "retrievedAt": "2026-08-30T14:08:26.434553+00:00",
+      "sha256": "621bcfaf482d2f5d9621fdfbe0a1938067c56e6a3095b996616d5607caaf1e76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-06T07:47:36.891921Z"
+    }
+  },
+  {
+    "candidateId": "b0bd8d4d-a94f-4bb0-8416-9f05ac468b92",
+    "electionId": "d8757f2b-864e-4298-ae0b-dd503cd03afc",
+    "scope": "majoritarian",
+    "districtNumber": 14,
+    "fullName": "Бойчук Мария Ярославовна",
+    "birthDate": "2001-10-01",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-05",
+    "registrationDecisionDate": "2026-08-05",
+    "registrationDecisionNumber": "53/340",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=b00dfb1576c1a048d75731ad91b6468e5df62ddd773aa0e2cc0a6782911a5e34",
+      "retrievedAt": "2026-08-30T14:08:27.575531+00:00",
+      "sha256": "e7799a664db2b0a1ebbbf8b70872f03a5f009349bf8596711ed5359248c9b5b0",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-08T07:28:45.520288Z"
+    }
+  },
+  {
+    "candidateId": "52e7f838-1fe3-4425-8898-ea8eae3c2c34",
+    "electionId": "d8757f2b-864e-4298-ae0b-dd503cd03afc",
+    "scope": "majoritarian",
+    "districtNumber": 5,
+    "fullName": "Быков Сергей Алексеевич",
+    "birthDate": "1965-07-05",
+    "associationName": "Сосногорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "50/329",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=b00dfb1576c1a048d75731ad91b6468e5df62ddd773aa0e2cc0a6782911a5e34",
+      "retrievedAt": "2026-08-30T14:08:27.575531+00:00",
+      "sha256": "e7799a664db2b0a1ebbbf8b70872f03a5f009349bf8596711ed5359248c9b5b0",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-08T07:28:45.520288Z"
+    }
+  },
+  {
+    "candidateId": "bb425c28-d65c-49c9-b537-788310245ee3",
+    "electionId": "d8757f2b-864e-4298-ae0b-dd503cd03afc",
+    "scope": "majoritarian",
+    "districtNumber": 5,
+    "fullName": "Катина Наталия Леонидовна",
+    "birthDate": "1987-01-05",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-05",
+    "registrationDecisionDate": "2026-08-05",
+    "registrationDecisionNumber": "53/341",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=b00dfb1576c1a048d75731ad91b6468e5df62ddd773aa0e2cc0a6782911a5e34",
+      "retrievedAt": "2026-08-30T14:08:27.575531+00:00",
+      "sha256": "e7799a664db2b0a1ebbbf8b70872f03a5f009349bf8596711ed5359248c9b5b0",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-08T07:28:45.520288Z"
+    }
+  },
+  {
+    "candidateId": "539d31b7-a44a-4de2-8cf7-d4ede5d19644",
+    "electionId": "d8757f2b-864e-4298-ae0b-dd503cd03afc",
+    "scope": "majoritarian",
+    "districtNumber": 14,
+    "fullName": "Ожерельев Петр Анатольевич",
+    "birthDate": "1987-02-03",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-08",
+    "registrationDecisionDate": "2026-08-08",
+    "registrationDecisionNumber": "54/342",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=b00dfb1576c1a048d75731ad91b6468e5df62ddd773aa0e2cc0a6782911a5e34",
+      "retrievedAt": "2026-08-30T14:08:27.575531+00:00",
+      "sha256": "e7799a664db2b0a1ebbbf8b70872f03a5f009349bf8596711ed5359248c9b5b0",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-08T07:28:45.520288Z"
+    }
+  },
+  {
+    "candidateId": "cb757136-7860-47be-846a-932ffb920d0a",
+    "electionId": "d8757f2b-864e-4298-ae0b-dd503cd03afc",
+    "scope": "majoritarian",
+    "districtNumber": 14,
+    "fullName": "Патраков Денис Валерьевич",
+    "birthDate": "1993-04-01",
+    "associationName": "Сосногорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "50/334",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=b00dfb1576c1a048d75731ad91b6468e5df62ddd773aa0e2cc0a6782911a5e34",
+      "retrievedAt": "2026-08-30T14:08:27.575531+00:00",
+      "sha256": "e7799a664db2b0a1ebbbf8b70872f03a5f009349bf8596711ed5359248c9b5b0",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-08T07:28:45.520288Z"
+    }
+  },
+  {
+    "candidateId": "90a9f4b2-6176-4f76-bc4c-117c392374e7",
+    "electionId": "652760af-81d4-4d80-a03c-4a1b0aa91bf3",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Антонов Виталий Викторович",
+    "birthDate": "1977-02-22",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-30",
+    "registrationDecisionDate": "2026-07-30",
+    "registrationDecisionNumber": "51/337",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=04a5b2f57c7c1c7be47f1097edabfe81619978f5f6373a360f34b73aa2190655",
+      "retrievedAt": "2026-08-30T14:08:27.122570+00:00",
+      "sha256": "79df8a0304dbb45ce92e5a92824e24f204284e6954b9a33a131410eb07f9d00f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-30T14:47:37.408406Z"
+    }
+  },
+  {
+    "candidateId": "3a18c565-6ed5-4041-b24d-b5281b43de2e",
+    "electionId": "652760af-81d4-4d80-a03c-4a1b0aa91bf3",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Горожанкина Надежда Павловна",
+    "birthDate": "1957-10-10",
+    "associationName": "Сосногорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "50/331",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=04a5b2f57c7c1c7be47f1097edabfe81619978f5f6373a360f34b73aa2190655",
+      "retrievedAt": "2026-08-30T14:08:27.122570+00:00",
+      "sha256": "79df8a0304dbb45ce92e5a92824e24f204284e6954b9a33a131410eb07f9d00f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-30T14:47:37.408406Z"
+    }
+  },
+  {
+    "candidateId": "ab5af0b0-2238-4002-9de0-3f406a663316",
+    "electionId": "652760af-81d4-4d80-a03c-4a1b0aa91bf3",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Еремеев Фёдор Александрович",
+    "birthDate": "1976-03-06",
+    "associationName": "Сосногорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "50/330",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=04a5b2f57c7c1c7be47f1097edabfe81619978f5f6373a360f34b73aa2190655",
+      "retrievedAt": "2026-08-30T14:08:27.122570+00:00",
+      "sha256": "79df8a0304dbb45ce92e5a92824e24f204284e6954b9a33a131410eb07f9d00f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-30T14:47:37.408406Z"
+    }
+  },
+  {
+    "candidateId": "bdf628a0-2a41-498e-8273-18bb3c640722",
+    "electionId": "652760af-81d4-4d80-a03c-4a1b0aa91bf3",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Корепина Оксана Юрьевна",
+    "birthDate": "1978-01-24",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "50/332",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=04a5b2f57c7c1c7be47f1097edabfe81619978f5f6373a360f34b73aa2190655",
+      "retrievedAt": "2026-08-30T14:08:27.122570+00:00",
+      "sha256": "79df8a0304dbb45ce92e5a92824e24f204284e6954b9a33a131410eb07f9d00f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-30T14:47:37.408406Z"
+    }
+  },
+  {
+    "candidateId": "36bbe91a-7880-49c4-bab6-3c651efd709b",
+    "electionId": "652760af-81d4-4d80-a03c-4a1b0aa91bf3",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Милевская Лариса Павловна",
+    "birthDate": "1964-09-26",
+    "associationName": "Сосногорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "50/335",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=04a5b2f57c7c1c7be47f1097edabfe81619978f5f6373a360f34b73aa2190655",
+      "retrievedAt": "2026-08-30T14:08:27.122570+00:00",
+      "sha256": "79df8a0304dbb45ce92e5a92824e24f204284e6954b9a33a131410eb07f9d00f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-30T14:47:37.408406Z"
+    }
+  },
+  {
+    "candidateId": "1ca379f1-29fd-423b-b3e2-32813c1774ee",
+    "electionId": "652760af-81d4-4d80-a03c-4a1b0aa91bf3",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Тюхтяева Анна Васильевна",
+    "birthDate": "1959-09-21",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "50/333",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=04a5b2f57c7c1c7be47f1097edabfe81619978f5f6373a360f34b73aa2190655",
+      "retrievedAt": "2026-08-30T14:08:27.122570+00:00",
+      "sha256": "79df8a0304dbb45ce92e5a92824e24f204284e6954b9a33a131410eb07f9d00f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-30T14:47:37.408406Z"
+    }
+  },
+  {
+    "candidateId": "a81aa6f9-fc31-4566-bf93-e3e12e00fa83",
+    "electionId": "015c15d8-e39a-45f3-bdf3-e471c519a911",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Аксенов Сергей Петрович",
+    "birthDate": "1982-12-18",
+    "associationName": "Воркутинское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4/33",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=ed03f63dc70ac617b74f2af1378283fcd479c818f6ee555af3a1b1a227a4078a",
+      "retrievedAt": "2026-08-30T14:08:22.216209+00:00",
+      "sha256": "995e8bfc09aa05aecc591e6a399284f914b2e0cf2119f7d42fb1d87caed3df2c",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T14:48:37.168632Z"
+    }
+  },
+  {
+    "candidateId": "c93e0a39-faa5-46f6-9692-c514123d1081",
+    "electionId": "015c15d8-e39a-45f3-bdf3-e471c519a911",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Аксянов Фидаил Мидхатьевич",
+    "birthDate": "1976-03-19",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Республике Коми",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4/31",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=ed03f63dc70ac617b74f2af1378283fcd479c818f6ee555af3a1b1a227a4078a",
+      "retrievedAt": "2026-08-30T14:08:22.216209+00:00",
+      "sha256": "995e8bfc09aa05aecc591e6a399284f914b2e0cf2119f7d42fb1d87caed3df2c",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T14:48:37.168632Z"
+    }
+  },
+  {
+    "candidateId": "06fcd2b6-d422-4bdc-a237-c1779d6f6f2e",
+    "electionId": "015c15d8-e39a-45f3-bdf3-e471c519a911",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Волкова Елена Валерьевна",
+    "birthDate": "1966-02-14",
+    "associationName": "КПРФ - КОМИ РЕСПУБЛИКАНСКОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4/32",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=ed03f63dc70ac617b74f2af1378283fcd479c818f6ee555af3a1b1a227a4078a",
+      "retrievedAt": "2026-08-30T14:08:22.216209+00:00",
+      "sha256": "995e8bfc09aa05aecc591e6a399284f914b2e0cf2119f7d42fb1d87caed3df2c",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T14:48:37.168632Z"
+    }
+  },
+  {
+    "candidateId": "1dad47c6-3468-47bb-8b8d-58452d5bf508",
+    "electionId": "015c15d8-e39a-45f3-bdf3-e471c519a911",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Черняховский Игорь Михайлович",
+    "birthDate": "1981-12-01",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-13",
+    "registrationDecisionDate": "2026-08-13",
+    "registrationDecisionNumber": "5/35",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=ed03f63dc70ac617b74f2af1378283fcd479c818f6ee555af3a1b1a227a4078a",
+      "retrievedAt": "2026-08-30T14:08:22.216209+00:00",
+      "sha256": "995e8bfc09aa05aecc591e6a399284f914b2e0cf2119f7d42fb1d87caed3df2c",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T14:48:37.168632Z"
+    }
+  },
+  {
+    "candidateId": "74389000-6066-470b-8767-891f6175ffc0",
+    "electionId": "015c15d8-e39a-45f3-bdf3-e471c519a911",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Ширингина Галина Сергеевна",
+    "birthDate": "1989-04-05",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4/34",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=ed03f63dc70ac617b74f2af1378283fcd479c818f6ee555af3a1b1a227a4078a",
+      "retrievedAt": "2026-08-30T14:08:22.216209+00:00",
+      "sha256": "995e8bfc09aa05aecc591e6a399284f914b2e0cf2119f7d42fb1d87caed3df2c",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T14:48:37.168632Z"
+    }
+  },
+  {
+    "candidateId": "f21df7d2-ade8-4162-bf64-b3bacba2d78d",
+    "electionId": "33324796-142e-4f9c-8db9-08166a2bfaa9",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Колегова Галина Витальевна",
+    "birthDate": "1958-04-06",
+    "associationName": "Сыктывдинское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "6/39",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=57b0e2b9b239bbf3fadefc0180e9111d00dc7229aac3e61b344768121b4015eb",
+      "retrievedAt": "2026-08-30T14:08:32.125655+00:00",
+      "sha256": "2616fcc566acb255a3f1cc2308a49a1a953bffea6621acb3a1c9ac4ed534e6f2",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T12:13:20.870543Z"
+    }
+  },
+  {
+    "candidateId": "67424921-3a1b-44e0-9430-98ab80547a87",
+    "electionId": "33324796-142e-4f9c-8db9-08166a2bfaa9",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Муравьев Сергей Иванович",
+    "birthDate": "1982-10-05",
+    "associationName": "Сыктывдинское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "7/40",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=57b0e2b9b239bbf3fadefc0180e9111d00dc7229aac3e61b344768121b4015eb",
+      "retrievedAt": "2026-08-30T14:08:32.125655+00:00",
+      "sha256": "2616fcc566acb255a3f1cc2308a49a1a953bffea6621acb3a1c9ac4ed534e6f2",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T12:13:20.870543Z"
+    }
+  },
+  {
+    "candidateId": "1fc74ad7-2b6e-4057-95f2-95d317c43802",
+    "electionId": "33324796-142e-4f9c-8db9-08166a2bfaa9",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Поликарпова Татьяна Дмитриевна",
+    "birthDate": "1970-12-15",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Республике Коми",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "7/41",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=57b0e2b9b239bbf3fadefc0180e9111d00dc7229aac3e61b344768121b4015eb",
+      "retrievedAt": "2026-08-30T14:08:32.125655+00:00",
+      "sha256": "2616fcc566acb255a3f1cc2308a49a1a953bffea6621acb3a1c9ac4ed534e6f2",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T12:13:20.870543Z"
+    }
+  },
+  {
+    "candidateId": "1cdf0a41-6e9c-4263-be72-5c2fa5a61020",
+    "electionId": "33324796-142e-4f9c-8db9-08166a2bfaa9",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Размыслова Ольга Алексеевна",
+    "birthDate": "1970-05-31",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nomination_lost",
+      "label": "утративший статус выдвинутого кандидата"
+    },
+    "registrationStatus": null,
+    "electionStatus": null,
+    "ballotEligible": false,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": null,
+    "registrationDecisionDate": null,
+    "registrationDecisionNumber": null,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=57b0e2b9b239bbf3fadefc0180e9111d00dc7229aac3e61b344768121b4015eb",
+      "retrievedAt": "2026-08-30T14:08:32.125655+00:00",
+      "sha256": "2616fcc566acb255a3f1cc2308a49a1a953bffea6621acb3a1c9ac4ed534e6f2",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T12:13:20.870543Z"
+    }
+  },
+  {
+    "candidateId": "cf9180ee-ed52-4ea3-aa6e-34494eadcaf8",
+    "electionId": "33324796-142e-4f9c-8db9-08166a2bfaa9",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Турчин Тарас Васильевич",
+    "birthDate": "1967-02-27",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-05",
+    "registrationDecisionDate": "2026-08-05",
+    "registrationDecisionNumber": "8/51",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=57b0e2b9b239bbf3fadefc0180e9111d00dc7229aac3e61b344768121b4015eb",
+      "retrievedAt": "2026-08-30T14:08:32.125655+00:00",
+      "sha256": "2616fcc566acb255a3f1cc2308a49a1a953bffea6621acb3a1c9ac4ed534e6f2",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T12:13:20.870543Z"
+    }
+  },
+  {
+    "candidateId": "df116d77-f1ea-408f-a029-b5f58c39d1be",
+    "electionId": "33324796-142e-4f9c-8db9-08166a2bfaa9",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Тюрнина Светлана Андреевна",
+    "birthDate": "1947-11-07",
+    "associationName": "Сыктывдинское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "6/38",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=57b0e2b9b239bbf3fadefc0180e9111d00dc7229aac3e61b344768121b4015eb",
+      "retrievedAt": "2026-08-30T14:08:32.125655+00:00",
+      "sha256": "2616fcc566acb255a3f1cc2308a49a1a953bffea6621acb3a1c9ac4ed534e6f2",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T12:13:20.870543Z"
+    }
+  },
+  {
+    "candidateId": "66f68423-a718-4a3b-93f0-75edd961da66",
+    "electionId": "1b28b902-3a99-4a15-8fb3-e91db3d121bd",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Бобрецов Сергей Борисович",
+    "birthDate": "1962-11-15",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nomination_lost",
+      "label": "утративший статус выдвинутого кандидата"
+    },
+    "registrationStatus": null,
+    "electionStatus": null,
+    "ballotEligible": false,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": null,
+    "registrationDecisionDate": null,
+    "registrationDecisionNumber": null,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=eb3647028cc95e15a59f773793f63cf30a31b1f9824806ee628f31ade178f293",
+      "retrievedAt": "2026-08-30T14:08:29.043464+00:00",
+      "sha256": "0c797610468c9638b143583f7d3350e3e80b675f50c7765d6f141260b969a730",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T12:04:35.5206Z"
+    }
+  },
+  {
+    "candidateId": "2e99a68e-e154-49bd-87e9-2f7bc179c829",
+    "electionId": "1b28b902-3a99-4a15-8fb3-e91db3d121bd",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Давыдов Вадим Яковлевич",
+    "birthDate": "1970-06-20",
+    "associationName": "Сыктывдинское местное отделение КПРФ - КОМИ РЕСПУБЛИКАНСКОГО ОТДЕЛЕНИЯ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "7/44",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=eb3647028cc95e15a59f773793f63cf30a31b1f9824806ee628f31ade178f293",
+      "retrievedAt": "2026-08-30T14:08:29.043464+00:00",
+      "sha256": "0c797610468c9638b143583f7d3350e3e80b675f50c7765d6f141260b969a730",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T12:04:35.5206Z"
+    }
+  },
+  {
+    "candidateId": "faaefcbc-2653-4cd5-90ef-b7c90f59a271",
+    "electionId": "1b28b902-3a99-4a15-8fb3-e91db3d121bd",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Елфимова Надежда Васильевна",
+    "birthDate": "1956-06-02",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-05",
+    "registrationDecisionDate": "2026-08-05",
+    "registrationDecisionNumber": "8/50",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=eb3647028cc95e15a59f773793f63cf30a31b1f9824806ee628f31ade178f293",
+      "retrievedAt": "2026-08-30T14:08:29.043464+00:00",
+      "sha256": "0c797610468c9638b143583f7d3350e3e80b675f50c7765d6f141260b969a730",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T12:04:35.5206Z"
+    }
+  },
+  {
+    "candidateId": "290a9935-a929-47e4-b066-e91e649c9f76",
+    "electionId": "1b28b902-3a99-4a15-8fb3-e91db3d121bd",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Кочан Виталий Николаевич",
+    "birthDate": "1983-03-02",
+    "associationName": "Сыктывдинское местное отделение КПРФ - КОМИ РЕСПУБЛИКАНСКОГО ОТДЕЛЕНИЯ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "7/45",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=eb3647028cc95e15a59f773793f63cf30a31b1f9824806ee628f31ade178f293",
+      "retrievedAt": "2026-08-30T14:08:29.043464+00:00",
+      "sha256": "0c797610468c9638b143583f7d3350e3e80b675f50c7765d6f141260b969a730",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T12:04:35.5206Z"
+    }
+  },
+  {
+    "candidateId": "e3794742-d6da-4704-ba83-493f057efb7f",
+    "electionId": "1b28b902-3a99-4a15-8fb3-e91db3d121bd",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Кочева Галина Александровна",
+    "birthDate": "1968-04-09",
+    "associationName": "Сыктывдинское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "6/37",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=eb3647028cc95e15a59f773793f63cf30a31b1f9824806ee628f31ade178f293",
+      "retrievedAt": "2026-08-30T14:08:29.043464+00:00",
+      "sha256": "0c797610468c9638b143583f7d3350e3e80b675f50c7765d6f141260b969a730",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T12:04:35.5206Z"
+    }
+  },
+  {
+    "candidateId": "93383b7a-ea0d-401f-9612-e504166d6105",
+    "electionId": "1b28b902-3a99-4a15-8fb3-e91db3d121bd",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Кривощекова Любовь Сергеевна",
+    "birthDate": "1979-04-06",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "7/46",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=eb3647028cc95e15a59f773793f63cf30a31b1f9824806ee628f31ade178f293",
+      "retrievedAt": "2026-08-30T14:08:29.043464+00:00",
+      "sha256": "0c797610468c9638b143583f7d3350e3e80b675f50c7765d6f141260b969a730",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T12:04:35.5206Z"
+    }
+  },
+  {
+    "candidateId": "163072f7-0692-4e14-acc8-860d5068e226",
+    "electionId": "1b28b902-3a99-4a15-8fb3-e91db3d121bd",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Осипова Екатерина Петровна",
+    "birthDate": "1958-03-31",
+    "associationName": "Сыктывдинское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "6/36",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=eb3647028cc95e15a59f773793f63cf30a31b1f9824806ee628f31ade178f293",
+      "retrievedAt": "2026-08-30T14:08:29.043464+00:00",
+      "sha256": "0c797610468c9638b143583f7d3350e3e80b675f50c7765d6f141260b969a730",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T12:04:35.5206Z"
+    }
+  },
+  {
+    "candidateId": "91391801-dbef-4200-8398-9f2c60c97442",
+    "electionId": "1b28b902-3a99-4a15-8fb3-e91db3d121bd",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Попов Игорь Николаевич",
+    "birthDate": "1962-06-03",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Республике Коми",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "7/43",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=eb3647028cc95e15a59f773793f63cf30a31b1f9824806ee628f31ade178f293",
+      "retrievedAt": "2026-08-30T14:08:29.043464+00:00",
+      "sha256": "0c797610468c9638b143583f7d3350e3e80b675f50c7765d6f141260b969a730",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T12:04:35.5206Z"
+    }
+  },
+  {
+    "candidateId": "1566d8b4-7b45-45e3-90cd-b36da47eaf82",
+    "electionId": "1b28b902-3a99-4a15-8fb3-e91db3d121bd",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Сивкова Наталия Николаевна",
+    "birthDate": "1979-08-11",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Республике Коми",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "7/42",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=eb3647028cc95e15a59f773793f63cf30a31b1f9824806ee628f31ade178f293",
+      "retrievedAt": "2026-08-30T14:08:29.043464+00:00",
+      "sha256": "0c797610468c9638b143583f7d3350e3e80b675f50c7765d6f141260b969a730",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T12:04:35.5206Z"
+    }
+  },
+  {
+    "candidateId": "59c109e1-b7df-40ad-90f3-ac728c1135d5",
+    "electionId": "c26101f6-8da4-44a3-8d41-068a58f150c8",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Веткин Павел Анатольевич",
+    "birthDate": "1977-12-29",
+    "associationName": "Удорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-29",
+    "registrationDecisionDate": "2026-07-29",
+    "registrationDecisionNumber": "11/56",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bc186142fdee2fcae7f52b40307f9b9df8beb4659934699e5812ced08ff3026c",
+      "retrievedAt": "2026-08-30T14:08:39.923768+00:00",
+      "sha256": "bb8f3e6e85c5a4ba6319647c4343a69b9c3b480c7e711e52d5e996e4eb2e5362",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-29T12:04:40.192823Z"
+    }
+  },
+  {
+    "candidateId": "0eece3ba-ff54-4f7e-a79e-2b25a6a35782",
+    "electionId": "c26101f6-8da4-44a3-8d41-068a58f150c8",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Корноухова Анжелика Сергеевна",
+    "birthDate": "1995-03-20",
+    "associationName": "Удорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-29",
+    "registrationDecisionDate": "2026-07-29",
+    "registrationDecisionNumber": "11/55",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bc186142fdee2fcae7f52b40307f9b9df8beb4659934699e5812ced08ff3026c",
+      "retrievedAt": "2026-08-30T14:08:39.923768+00:00",
+      "sha256": "bb8f3e6e85c5a4ba6319647c4343a69b9c3b480c7e711e52d5e996e4eb2e5362",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-29T12:04:40.192823Z"
+    }
+  },
+  {
+    "candidateId": "5a90cab7-deda-48a1-9747-8c0f841105a0",
+    "electionId": "c26101f6-8da4-44a3-8d41-068a58f150c8",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Кривощекова Любовь Сергеевна",
+    "birthDate": "1979-04-06",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "10/51",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bc186142fdee2fcae7f52b40307f9b9df8beb4659934699e5812ced08ff3026c",
+      "retrievedAt": "2026-08-30T14:08:39.923768+00:00",
+      "sha256": "bb8f3e6e85c5a4ba6319647c4343a69b9c3b480c7e711e52d5e996e4eb2e5362",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-29T12:04:40.192823Z"
+    }
+  },
+  {
+    "candidateId": "9d9a239e-fedc-4ee3-aba9-87b69bb47f10",
+    "electionId": "c26101f6-8da4-44a3-8d41-068a58f150c8",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Потапов Андрей Николаевич",
+    "birthDate": "1985-03-20",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "10/52",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bc186142fdee2fcae7f52b40307f9b9df8beb4659934699e5812ced08ff3026c",
+      "retrievedAt": "2026-08-30T14:08:39.923768+00:00",
+      "sha256": "bb8f3e6e85c5a4ba6319647c4343a69b9c3b480c7e711e52d5e996e4eb2e5362",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-29T12:04:40.192823Z"
+    }
+  },
+  {
+    "candidateId": "96ebb757-990f-4048-8205-03f18a717097",
+    "electionId": "c26101f6-8da4-44a3-8d41-068a58f150c8",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Цубера Мая Егоровна",
+    "birthDate": "1960-11-17",
+    "associationName": "Удорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-29",
+    "registrationDecisionDate": "2026-07-29",
+    "registrationDecisionNumber": "11/57",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bc186142fdee2fcae7f52b40307f9b9df8beb4659934699e5812ced08ff3026c",
+      "retrievedAt": "2026-08-30T14:08:39.923768+00:00",
+      "sha256": "bb8f3e6e85c5a4ba6319647c4343a69b9c3b480c7e711e52d5e996e4eb2e5362",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-29T12:04:40.192823Z"
+    }
+  },
+  {
+    "candidateId": "b313f635-93e3-42da-ba1c-5d5c87db3ef5",
+    "electionId": "ee1f1cfd-c565-4f1b-bef3-61e9801cb6d2",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Букин Александр Иванович",
+    "birthDate": "1969-06-01",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-18",
+    "registrationDecisionDate": "2026-07-18",
+    "registrationDecisionNumber": "5/33",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1983def6cac2d77857d8d0e52ac2d4c607a0c669bfdece19fb7bf3cc112a66ca",
+      "retrievedAt": "2026-08-30T14:08:38.642166+00:00",
+      "sha256": "719cfd4cf18add10edaa0af89032835b0a4aae1ca390bb2054b2a9970ee3fc76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-03T10:18:00.980996Z"
+    }
+  },
+  {
+    "candidateId": "fec2e4ed-0457-441a-b39f-2959eeecc177",
+    "electionId": "ee1f1cfd-c565-4f1b-bef3-61e9801cb6d2",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Коршунова Анна Ивановна",
+    "birthDate": "1969-06-27",
+    "associationName": "Удорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "7/42",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1983def6cac2d77857d8d0e52ac2d4c607a0c669bfdece19fb7bf3cc112a66ca",
+      "retrievedAt": "2026-08-30T14:08:38.642166+00:00",
+      "sha256": "719cfd4cf18add10edaa0af89032835b0a4aae1ca390bb2054b2a9970ee3fc76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-03T10:18:00.980996Z"
+    }
+  },
+  {
+    "candidateId": "83437566-9282-4e5f-b2b4-c99c26cb0891",
+    "electionId": "ee1f1cfd-c565-4f1b-bef3-61e9801cb6d2",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Логинов Виталий Васильевич",
+    "birthDate": "1982-03-27",
+    "associationName": "Удорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-30",
+    "registrationDecisionDate": "2026-07-30",
+    "registrationDecisionNumber": "12/59",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1983def6cac2d77857d8d0e52ac2d4c607a0c669bfdece19fb7bf3cc112a66ca",
+      "retrievedAt": "2026-08-30T14:08:38.642166+00:00",
+      "sha256": "719cfd4cf18add10edaa0af89032835b0a4aae1ca390bb2054b2a9970ee3fc76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-03T10:18:00.980996Z"
+    }
+  },
+  {
+    "candidateId": "55024f8f-fa5e-4ee4-99bb-cb512e0447c2",
+    "electionId": "ee1f1cfd-c565-4f1b-bef3-61e9801cb6d2",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Маркова Клавдия Петровна",
+    "birthDate": "1967-02-22",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "7/39",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1983def6cac2d77857d8d0e52ac2d4c607a0c669bfdece19fb7bf3cc112a66ca",
+      "retrievedAt": "2026-08-30T14:08:38.642166+00:00",
+      "sha256": "719cfd4cf18add10edaa0af89032835b0a4aae1ca390bb2054b2a9970ee3fc76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-03T10:18:00.980996Z"
+    }
+  },
+  {
+    "candidateId": "bc52cd91-0ffd-48bc-be20-089c5f81eeac",
+    "electionId": "ee1f1cfd-c565-4f1b-bef3-61e9801cb6d2",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Мусанова Вера Николаевна",
+    "birthDate": "1977-08-12",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-18",
+    "registrationDecisionDate": "2026-07-18",
+    "registrationDecisionNumber": "5/34",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1983def6cac2d77857d8d0e52ac2d4c607a0c669bfdece19fb7bf3cc112a66ca",
+      "retrievedAt": "2026-08-30T14:08:38.642166+00:00",
+      "sha256": "719cfd4cf18add10edaa0af89032835b0a4aae1ca390bb2054b2a9970ee3fc76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-03T10:18:00.980996Z"
+    }
+  },
+  {
+    "candidateId": "86b12786-1561-4c33-ace7-2a7a6210e3d7",
+    "electionId": "ee1f1cfd-c565-4f1b-bef3-61e9801cb6d2",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Павлов Артур Иванович",
+    "birthDate": "1967-05-09",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-01",
+    "registrationDecisionDate": "2026-08-01",
+    "registrationDecisionNumber": "13/66",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1983def6cac2d77857d8d0e52ac2d4c607a0c669bfdece19fb7bf3cc112a66ca",
+      "retrievedAt": "2026-08-30T14:08:38.642166+00:00",
+      "sha256": "719cfd4cf18add10edaa0af89032835b0a4aae1ca390bb2054b2a9970ee3fc76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-03T10:18:00.980996Z"
+    }
+  },
+  {
+    "candidateId": "c87cf059-3336-452b-9b09-218338be92a6",
+    "electionId": "ee1f1cfd-c565-4f1b-bef3-61e9801cb6d2",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Павлюк Ольга Сергеевна",
+    "birthDate": "1976-03-18",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-30",
+    "registrationDecisionDate": "2026-07-30",
+    "registrationDecisionNumber": "12/60",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1983def6cac2d77857d8d0e52ac2d4c607a0c669bfdece19fb7bf3cc112a66ca",
+      "retrievedAt": "2026-08-30T14:08:38.642166+00:00",
+      "sha256": "719cfd4cf18add10edaa0af89032835b0a4aae1ca390bb2054b2a9970ee3fc76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-03T10:18:00.980996Z"
+    }
+  },
+  {
+    "candidateId": "715fd5bb-4c56-42a8-8f10-a43d121af0c4",
+    "electionId": "ee1f1cfd-c565-4f1b-bef3-61e9801cb6d2",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Потапов Андрей Николаевич",
+    "birthDate": "1985-03-20",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "10/53",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1983def6cac2d77857d8d0e52ac2d4c607a0c669bfdece19fb7bf3cc112a66ca",
+      "retrievedAt": "2026-08-30T14:08:38.642166+00:00",
+      "sha256": "719cfd4cf18add10edaa0af89032835b0a4aae1ca390bb2054b2a9970ee3fc76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-03T10:18:00.980996Z"
+    }
+  },
+  {
+    "candidateId": "20d15705-bc9f-4069-aba7-065c31f1e056",
+    "electionId": "ee1f1cfd-c565-4f1b-bef3-61e9801cb6d2",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Пчелина Светлана Ивановна",
+    "birthDate": "1985-02-27",
+    "associationName": "Удорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "7/40",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1983def6cac2d77857d8d0e52ac2d4c607a0c669bfdece19fb7bf3cc112a66ca",
+      "retrievedAt": "2026-08-30T14:08:38.642166+00:00",
+      "sha256": "719cfd4cf18add10edaa0af89032835b0a4aae1ca390bb2054b2a9970ee3fc76",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-03T10:18:00.980996Z"
+    }
+  },
+  {
+    "candidateId": "a21096d7-816d-4697-b800-006540f1835f",
+    "electionId": "847784e6-181b-4955-930e-1d013b868c8d",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Власова Нина Петровна",
+    "birthDate": "1958-03-15",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-27",
+    "registrationDecisionDate": "2026-07-27",
+    "registrationDecisionNumber": "9/45",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=9f4bdcc499b99cf87bef599b71f18445a7d6eda1dc5997b78f26156c99fa56f4",
+      "retrievedAt": "2026-08-30T14:08:38.454286+00:00",
+      "sha256": "6fb1d684ff978789e1fbb070ff4b3ab8426a9bc18f30ead3a474172d3d3db155",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-30T07:11:42.4718Z"
+    }
+  },
+  {
+    "candidateId": "bcae1d5b-d637-40e9-b93b-87443af7a43b",
+    "electionId": "847784e6-181b-4955-930e-1d013b868c8d",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Кривощеков Дмитрий Петрович",
+    "birthDate": "1970-02-24",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "10/50",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=9f4bdcc499b99cf87bef599b71f18445a7d6eda1dc5997b78f26156c99fa56f4",
+      "retrievedAt": "2026-08-30T14:08:38.454286+00:00",
+      "sha256": "6fb1d684ff978789e1fbb070ff4b3ab8426a9bc18f30ead3a474172d3d3db155",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-30T07:11:42.4718Z"
+    }
+  },
+  {
+    "candidateId": "e9cf2a99-69e1-4d78-9adb-fe898f1cb41b",
+    "electionId": "847784e6-181b-4955-930e-1d013b868c8d",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Палева Надежда Геннадьевна",
+    "birthDate": "1960-06-23",
+    "associationName": "Удорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-27",
+    "registrationDecisionDate": "2026-07-27",
+    "registrationDecisionNumber": "9/47",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=9f4bdcc499b99cf87bef599b71f18445a7d6eda1dc5997b78f26156c99fa56f4",
+      "retrievedAt": "2026-08-30T14:08:38.454286+00:00",
+      "sha256": "6fb1d684ff978789e1fbb070ff4b3ab8426a9bc18f30ead3a474172d3d3db155",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-30T07:11:42.4718Z"
+    }
+  },
+  {
+    "candidateId": "7b306556-a82c-4ae3-a66e-c9b8f5616835",
+    "electionId": "847784e6-181b-4955-930e-1d013b868c8d",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Петрунева Антонина Николаевна",
+    "birthDate": "1962-02-15",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-27",
+    "registrationDecisionDate": "2026-07-27",
+    "registrationDecisionNumber": "9/46",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=9f4bdcc499b99cf87bef599b71f18445a7d6eda1dc5997b78f26156c99fa56f4",
+      "retrievedAt": "2026-08-30T14:08:38.454286+00:00",
+      "sha256": "6fb1d684ff978789e1fbb070ff4b3ab8426a9bc18f30ead3a474172d3d3db155",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-30T07:11:42.4718Z"
+    }
+  },
+  {
+    "candidateId": "8e2160a6-0e3d-4a97-851e-447fd0338d84",
+    "electionId": "847784e6-181b-4955-930e-1d013b868c8d",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Потапов Андрей Николаевич",
+    "birthDate": "1985-03-20",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "10/49",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=9f4bdcc499b99cf87bef599b71f18445a7d6eda1dc5997b78f26156c99fa56f4",
+      "retrievedAt": "2026-08-30T14:08:38.454286+00:00",
+      "sha256": "6fb1d684ff978789e1fbb070ff4b3ab8426a9bc18f30ead3a474172d3d3db155",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-30T07:11:42.4718Z"
+    }
+  },
+  {
+    "candidateId": "65ffa1ac-b2ac-4a11-bb18-4b4e2c254830",
+    "electionId": "847784e6-181b-4955-930e-1d013b868c8d",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Шлопова Светлана Леонидовна",
+    "birthDate": "1962-07-03",
+    "associationName": "Удорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-27",
+    "registrationDecisionDate": "2026-07-27",
+    "registrationDecisionNumber": "9/48",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=9f4bdcc499b99cf87bef599b71f18445a7d6eda1dc5997b78f26156c99fa56f4",
+      "retrievedAt": "2026-08-30T14:08:38.454286+00:00",
+      "sha256": "6fb1d684ff978789e1fbb070ff4b3ab8426a9bc18f30ead3a474172d3d3db155",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-30T07:11:42.4718Z"
+    }
+  },
+  {
+    "candidateId": "5f310e67-daeb-4146-977c-43edae34213e",
+    "electionId": "847784e6-181b-4955-930e-1d013b868c8d",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Яковлева Виктория Всеволодовна",
+    "birthDate": "1994-02-21",
+    "associationName": "Удорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-27",
+    "registrationDecisionDate": "2026-07-27",
+    "registrationDecisionNumber": "9/44",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=9f4bdcc499b99cf87bef599b71f18445a7d6eda1dc5997b78f26156c99fa56f4",
+      "retrievedAt": "2026-08-30T14:08:38.454286+00:00",
+      "sha256": "6fb1d684ff978789e1fbb070ff4b3ab8426a9bc18f30ead3a474172d3d3db155",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-30T07:11:42.4718Z"
+    }
+  },
+  {
+    "candidateId": "3808a93d-2ec1-4317-b2ea-6aece8cc3e57",
+    "electionId": "50a20a95-6f1b-4e65-9be3-0d841e8ce91d",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Кривощеков Дмитрий Петрович",
+    "birthDate": "1970-02-24",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "10/54",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=a8881a3112941b42e0b478a327eabb732ae423d3de6d1368e90cc31528650f4a",
+      "retrievedAt": "2026-08-30T14:08:38.333416+00:00",
+      "sha256": "c133b4052cb5bec3caa145365a258bb6c9fe1d0cd9d6fccad57dd18055d59412",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-29T12:07:51.623978Z"
+    }
+  },
+  {
+    "candidateId": "917f8aa4-29f2-42a7-8489-d1e617ca5390",
+    "electionId": "50a20a95-6f1b-4e65-9be3-0d841e8ce91d",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Масленникова Людмила Николаевна",
+    "birthDate": "1974-06-12",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Республике Коми",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-25",
+    "registrationDecisionDate": "2026-07-25",
+    "registrationDecisionNumber": "8/43",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=a8881a3112941b42e0b478a327eabb732ae423d3de6d1368e90cc31528650f4a",
+      "retrievedAt": "2026-08-30T14:08:38.333416+00:00",
+      "sha256": "c133b4052cb5bec3caa145365a258bb6c9fe1d0cd9d6fccad57dd18055d59412",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-29T12:07:51.623978Z"
+    }
+  },
+  {
+    "candidateId": "3fc1d18f-8c72-4a4f-a2f8-2d26177be170",
+    "electionId": "50a20a95-6f1b-4e65-9be3-0d841e8ce91d",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Огнев Николай Александрович",
+    "birthDate": "1990-01-10",
+    "associationName": "Удорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-29",
+    "registrationDecisionDate": "2026-07-29",
+    "registrationDecisionNumber": "11/58",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=a8881a3112941b42e0b478a327eabb732ae423d3de6d1368e90cc31528650f4a",
+      "retrievedAt": "2026-08-30T14:08:38.333416+00:00",
+      "sha256": "c133b4052cb5bec3caa145365a258bb6c9fe1d0cd9d6fccad57dd18055d59412",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-29T12:07:51.623978Z"
+    }
+  },
+  {
+    "candidateId": "6e806f82-c3f9-4d60-8e4f-3aef68fc6823",
+    "electionId": "50a20a95-6f1b-4e65-9be3-0d841e8ce91d",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Рязанова Наталья Владимировна",
+    "birthDate": "1984-06-19",
+    "associationName": "Удорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "7/41",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=a8881a3112941b42e0b478a327eabb732ae423d3de6d1368e90cc31528650f4a",
+      "retrievedAt": "2026-08-30T14:08:38.333416+00:00",
+      "sha256": "c133b4052cb5bec3caa145365a258bb6c9fe1d0cd9d6fccad57dd18055d59412",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-29T12:07:51.623978Z"
+    }
+  },
+  {
+    "candidateId": "ebbc83b1-3a49-4101-babf-58e9a79be0e2",
+    "electionId": "5b9d4129-0d3d-4e12-9c71-4f32a69ea138",
+    "scope": "majoritarian",
+    "districtNumber": 8,
+    "fullName": "Лызлова Анна Юрьевна",
+    "birthDate": "1987-10-06",
+    "associationName": "Троицко-Печорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-26",
+    "registrationDecisionDate": "2026-07-26",
+    "registrationDecisionNumber": "7/43-мсу",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=60ce7b2f1a0c06683afe55a87904474786d283f4825882d5095829844494f847",
+      "retrievedAt": "2026-08-30T14:08:36.906888+00:00",
+      "sha256": "e67a4cd41a90a6c11f1aaf7da71851e1fbadb2ed2e2038979b5ebe61723e21c7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T08:14:53.071176Z"
+    }
+  },
+  {
+    "candidateId": "cd2b1d26-b782-4e2d-8594-be7db652ba87",
+    "electionId": "5b9d4129-0d3d-4e12-9c71-4f32a69ea138",
+    "scope": "majoritarian",
+    "districtNumber": 8,
+    "fullName": "Уляшова Вера Анатольевна",
+    "birthDate": "1957-09-29",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-30",
+    "registrationDecisionDate": "2026-07-30",
+    "registrationDecisionNumber": "8/49-мсу",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=60ce7b2f1a0c06683afe55a87904474786d283f4825882d5095829844494f847",
+      "retrievedAt": "2026-08-30T14:08:36.906888+00:00",
+      "sha256": "e67a4cd41a90a6c11f1aaf7da71851e1fbadb2ed2e2038979b5ebe61723e21c7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T08:14:53.071176Z"
+    }
+  },
+  {
+    "candidateId": "63fda072-a133-4dd4-96d6-01c5a138c309",
+    "electionId": "eab95bab-7e41-499d-8ac2-0e95c7f458e0",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Зайцева Любовь Федоровна",
+    "birthDate": "1969-12-25",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-30",
+    "registrationDecisionDate": "2026-07-30",
+    "registrationDecisionNumber": "8/47-мсу",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=a7595ba78b894f0cfdbded8002fd9705ce2cbff5e1729f7abb85e7816968f16b",
+      "retrievedAt": "2026-08-30T14:08:33.864401+00:00",
+      "sha256": "6818abb1923dd03f0d490cc0a50f90a8bc97439291abe87b72edee76f0fb6e46",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T08:06:29.234168Z"
+    }
+  },
+  {
+    "candidateId": "0f8e8ffd-d698-4c45-976e-1237d609dab7",
+    "electionId": "eab95bab-7e41-499d-8ac2-0e95c7f458e0",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Маслова Надежда Алексеевна",
+    "birthDate": "1982-12-17",
+    "associationName": "Троицко-Печорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-30",
+    "registrationDecisionDate": "2026-07-30",
+    "registrationDecisionNumber": "8/45-мсу",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=a7595ba78b894f0cfdbded8002fd9705ce2cbff5e1729f7abb85e7816968f16b",
+      "retrievedAt": "2026-08-30T14:08:33.864401+00:00",
+      "sha256": "6818abb1923dd03f0d490cc0a50f90a8bc97439291abe87b72edee76f0fb6e46",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T08:06:29.234168Z"
+    }
+  },
+  {
+    "candidateId": "99464c79-9c5f-40a4-8735-f002822d35f9",
+    "electionId": "eab95bab-7e41-499d-8ac2-0e95c7f458e0",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Порядина Ольга Алексеевна",
+    "birthDate": "1961-09-20",
+    "associationName": "Троицко-Печорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-25",
+    "registrationDecisionDate": "2026-07-25",
+    "registrationDecisionNumber": "6/39-мсу",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=a7595ba78b894f0cfdbded8002fd9705ce2cbff5e1729f7abb85e7816968f16b",
+      "retrievedAt": "2026-08-30T14:08:33.864401+00:00",
+      "sha256": "6818abb1923dd03f0d490cc0a50f90a8bc97439291abe87b72edee76f0fb6e46",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T08:06:29.234168Z"
+    }
+  },
+  {
+    "candidateId": "00dc819c-abd6-43e7-b606-046635e5e638",
+    "electionId": "eab95bab-7e41-499d-8ac2-0e95c7f458e0",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Сидоренкова Ирина Ивановна",
+    "birthDate": "1984-05-26",
+    "associationName": "Троицко-Печорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-25",
+    "registrationDecisionDate": "2026-07-25",
+    "registrationDecisionNumber": "6/39-мсу",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=a7595ba78b894f0cfdbded8002fd9705ce2cbff5e1729f7abb85e7816968f16b",
+      "retrievedAt": "2026-08-30T14:08:33.864401+00:00",
+      "sha256": "6818abb1923dd03f0d490cc0a50f90a8bc97439291abe87b72edee76f0fb6e46",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T08:06:29.234168Z"
+    }
+  },
+  {
+    "candidateId": "29f4fd06-8702-48ac-842b-8f9973075e2f",
+    "electionId": "df9173b1-c337-4c98-b3e9-bab0d2adf4af",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Бажукова Марина Сергеевна",
+    "birthDate": "1984-10-21",
+    "associationName": "Троицко-Печорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-26",
+    "registrationDecisionDate": "2026-07-26",
+    "registrationDecisionNumber": "7/42-мсу",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=47b1fb8353c52d2f3e1700ab2eec41d4d4cf141511368b0f22bb805312014070",
+      "retrievedAt": "2026-08-30T14:08:33.558609+00:00",
+      "sha256": "a25e77959d7d49f47c43db576409bda95c1d872ee3bd9d3a51a655885dd3fbdc",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T08:12:31.515173Z"
+    }
+  },
+  {
+    "candidateId": "8fd0908a-fcbf-4ed5-8374-f5a2ea74dde4",
+    "electionId": "df9173b1-c337-4c98-b3e9-bab0d2adf4af",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Киселевич Владимир Леонидович",
+    "birthDate": "1963-09-16",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-30",
+    "registrationDecisionDate": "2026-07-30",
+    "registrationDecisionNumber": "8/48-мсу",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=47b1fb8353c52d2f3e1700ab2eec41d4d4cf141511368b0f22bb805312014070",
+      "retrievedAt": "2026-08-30T14:08:33.558609+00:00",
+      "sha256": "a25e77959d7d49f47c43db576409bda95c1d872ee3bd9d3a51a655885dd3fbdc",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T08:12:31.515173Z"
+    }
+  },
+  {
+    "candidateId": "a734f731-955c-4c3f-8c47-803f029d716a",
+    "electionId": "df9173b1-c337-4c98-b3e9-bab0d2adf4af",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Разганова Светлана Юрьевна",
+    "birthDate": "1977-04-01",
+    "associationName": "Троицко-Печорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-25",
+    "registrationDecisionDate": "2026-07-25",
+    "registrationDecisionNumber": "6/40-мсу",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=47b1fb8353c52d2f3e1700ab2eec41d4d4cf141511368b0f22bb805312014070",
+      "retrievedAt": "2026-08-30T14:08:33.558609+00:00",
+      "sha256": "a25e77959d7d49f47c43db576409bda95c1d872ee3bd9d3a51a655885dd3fbdc",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T08:12:31.515173Z"
+    }
+  },
+  {
+    "candidateId": "4ad2078e-43e5-4c25-af58-eb97ceb1cb4e",
+    "electionId": "df9173b1-c337-4c98-b3e9-bab0d2adf4af",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Тарасова Елена Юрьевна",
+    "birthDate": "1973-06-30",
+    "associationName": "Троицко-Печорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-26",
+    "registrationDecisionDate": "2026-07-26",
+    "registrationDecisionNumber": "7/42-мсу",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=47b1fb8353c52d2f3e1700ab2eec41d4d4cf141511368b0f22bb805312014070",
+      "retrievedAt": "2026-08-30T14:08:33.558609+00:00",
+      "sha256": "a25e77959d7d49f47c43db576409bda95c1d872ee3bd9d3a51a655885dd3fbdc",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T08:12:31.515173Z"
+    }
+  },
+  {
+    "candidateId": "3b1fe162-1d37-442a-a581-64d6e9ffdb2a",
+    "electionId": "fcc3d767-4988-41e2-8ee7-255499260c71",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Бурмантова Людмила Петровна",
+    "birthDate": "1982-12-19",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-25",
+    "registrationDecisionDate": "2026-07-25",
+    "registrationDecisionNumber": "6/41-мсу",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=aa5fe44ae02c518b30b1f5922751b3e84243e8083977f50ee0388d837cef2934",
+      "retrievedAt": "2026-08-30T14:08:34.816622+00:00",
+      "sha256": "19c82451c08ea651dc1122fa7badc9460c0b865d93e3f57b2ee74b8dbeeece2e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T07:56:13.701711Z"
+    }
+  },
+  {
+    "candidateId": "18a86758-eb97-4fb9-ab4f-e2908a39c2a0",
+    "electionId": "fcc3d767-4988-41e2-8ee7-255499260c71",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Забелин Алексей Николаевич",
+    "birthDate": "1975-03-11",
+    "associationName": "Троицко-Печорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-30",
+    "registrationDecisionDate": "2026-07-30",
+    "registrationDecisionNumber": "8/44-мсу",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=aa5fe44ae02c518b30b1f5922751b3e84243e8083977f50ee0388d837cef2934",
+      "retrievedAt": "2026-08-30T14:08:34.816622+00:00",
+      "sha256": "19c82451c08ea651dc1122fa7badc9460c0b865d93e3f57b2ee74b8dbeeece2e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T07:56:13.701711Z"
+    }
+  },
+  {
+    "candidateId": "674d5e38-8ea9-4ef2-a5ec-d6cb125502b1",
+    "electionId": "fcc3d767-4988-41e2-8ee7-255499260c71",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Одинцова Елена Викторовна",
+    "birthDate": "1977-06-08",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-30",
+    "registrationDecisionDate": "2026-07-30",
+    "registrationDecisionNumber": "8/46-мсу",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=aa5fe44ae02c518b30b1f5922751b3e84243e8083977f50ee0388d837cef2934",
+      "retrievedAt": "2026-08-30T14:08:34.816622+00:00",
+      "sha256": "19c82451c08ea651dc1122fa7badc9460c0b865d93e3f57b2ee74b8dbeeece2e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T07:56:13.701711Z"
+    }
+  },
+  {
+    "candidateId": "0e3c19a2-ec10-46ca-99e9-88a45b0d04b0",
+    "electionId": "fcc3d767-4988-41e2-8ee7-255499260c71",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Собянин Алексей Иванович",
+    "birthDate": "1961-11-26",
+    "associationName": "Троицко-Печорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-30",
+    "registrationDecisionDate": "2026-07-30",
+    "registrationDecisionNumber": "8/44-мсу",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=aa5fe44ae02c518b30b1f5922751b3e84243e8083977f50ee0388d837cef2934",
+      "retrievedAt": "2026-08-30T14:08:34.816622+00:00",
+      "sha256": "19c82451c08ea651dc1122fa7badc9460c0b865d93e3f57b2ee74b8dbeeece2e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T07:56:13.701711Z"
+    }
+  },
+  {
+    "candidateId": "2125dc5c-c556-4e25-ab5b-2709d3d1f82c",
+    "electionId": "fcc3d767-4988-41e2-8ee7-255499260c71",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Соколов Василий Викторович",
+    "birthDate": "1973-03-03",
+    "associationName": "Троицко-Печорское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-30",
+    "registrationDecisionDate": "2026-07-30",
+    "registrationDecisionNumber": "8/44-мсу",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=aa5fe44ae02c518b30b1f5922751b3e84243e8083977f50ee0388d837cef2934",
+      "retrievedAt": "2026-08-30T14:08:34.816622+00:00",
+      "sha256": "19c82451c08ea651dc1122fa7badc9460c0b865d93e3f57b2ee74b8dbeeece2e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T07:56:13.701711Z"
+    }
+  },
+  {
+    "candidateId": "d9512dd9-7ac7-4ebf-90cb-e17d6b3fbc0a",
+    "electionId": "3aab752f-c7a1-47d2-9f32-8fc6f0b11823",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Глебов Алексей Геннадиевич",
+    "birthDate": "1971-06-04",
+    "associationName": "Коми региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-03",
+    "registrationDecisionDate": "2026-08-03",
+    "registrationDecisionNumber": "7/20",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1ae7d7aa25393b4202503422bead59f62cbf3b31805bc6f9a1ba88afd886eb4f",
+      "retrievedAt": "2026-08-30T14:08:22.549207+00:00",
+      "sha256": "527a9f5b18928545ceb6c7ee12fa3ba36695f387d16516304cab3eb88b43d93d",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-07T12:06:22.724495Z"
+    }
+  },
+  {
+    "candidateId": "45c6fb9e-ae60-45de-8c3a-4d3bc5715f65",
+    "electionId": "3aab752f-c7a1-47d2-9f32-8fc6f0b11823",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Канев Алексей Николаевич",
+    "birthDate": "1974-04-07",
+    "associationName": "Ижемское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "6/19",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1ae7d7aa25393b4202503422bead59f62cbf3b31805bc6f9a1ba88afd886eb4f",
+      "retrievedAt": "2026-08-30T14:08:22.549207+00:00",
+      "sha256": "527a9f5b18928545ceb6c7ee12fa3ba36695f387d16516304cab3eb88b43d93d",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-07T12:06:22.724495Z"
+    }
+  },
+  {
+    "candidateId": "4df90b4d-5ae0-4957-9791-909d045027b6",
+    "electionId": "3aab752f-c7a1-47d2-9f32-8fc6f0b11823",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Кожевин Василий Александрович",
+    "birthDate": "1978-05-15",
+    "associationName": "Ижемское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "6/19",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1ae7d7aa25393b4202503422bead59f62cbf3b31805bc6f9a1ba88afd886eb4f",
+      "retrievedAt": "2026-08-30T14:08:22.549207+00:00",
+      "sha256": "527a9f5b18928545ceb6c7ee12fa3ba36695f387d16516304cab3eb88b43d93d",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-07T12:06:22.724495Z"
+    }
+  },
+  {
+    "candidateId": "52b4c4eb-0e0a-4705-b6e5-2209a1a86715",
+    "electionId": "3aab752f-c7a1-47d2-9f32-8fc6f0b11823",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Сметанин Георгий Николаевич",
+    "birthDate": "1994-09-10",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "6/19",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1ae7d7aa25393b4202503422bead59f62cbf3b31805bc6f9a1ba88afd886eb4f",
+      "retrievedAt": "2026-08-30T14:08:22.549207+00:00",
+      "sha256": "527a9f5b18928545ceb6c7ee12fa3ba36695f387d16516304cab3eb88b43d93d",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-07T12:06:22.724495Z"
+    }
+  },
+  {
+    "candidateId": "d7e7c220-8087-45ae-898c-ef6b3a272940",
+    "electionId": "3aab752f-c7a1-47d2-9f32-8fc6f0b11823",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Сметанина Людмила Александровна",
+    "birthDate": "1977-01-07",
+    "associationName": "Ижемское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "6/19",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1ae7d7aa25393b4202503422bead59f62cbf3b31805bc6f9a1ba88afd886eb4f",
+      "retrievedAt": "2026-08-30T14:08:22.549207+00:00",
+      "sha256": "527a9f5b18928545ceb6c7ee12fa3ba36695f387d16516304cab3eb88b43d93d",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-07T12:06:22.724495Z"
+    }
+  },
+  {
+    "candidateId": "e7f5e30b-8642-47ad-9638-a41a0254cde7",
+    "electionId": "3aab752f-c7a1-47d2-9f32-8fc6f0b11823",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Филиппов Василий Федорович",
+    "birthDate": "1971-01-11",
+    "associationName": "Ижемское местное отделение Коми Регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "6/19",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1ae7d7aa25393b4202503422bead59f62cbf3b31805bc6f9a1ba88afd886eb4f",
+      "retrievedAt": "2026-08-30T14:08:22.549207+00:00",
+      "sha256": "527a9f5b18928545ceb6c7ee12fa3ba36695f387d16516304cab3eb88b43d93d",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-07T12:06:22.724495Z"
+    }
+  },
+  {
+    "candidateId": "14f2fc41-cb5a-49e5-a514-21e21af64163",
+    "electionId": "3aab752f-c7a1-47d2-9f32-8fc6f0b11823",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Хозяинов Илья Васильевич",
+    "birthDate": "1992-07-29",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-07",
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "8/21",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1ae7d7aa25393b4202503422bead59f62cbf3b31805bc6f9a1ba88afd886eb4f",
+      "retrievedAt": "2026-08-30T14:08:22.549207+00:00",
+      "sha256": "527a9f5b18928545ceb6c7ee12fa3ba36695f387d16516304cab3eb88b43d93d",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-07T12:06:22.724495Z"
+    }
+  }
+]

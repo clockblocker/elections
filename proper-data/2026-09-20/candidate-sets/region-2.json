@@ -1,0 +1,61 @@
+[
+  {
+    "candidateSetKey": "d7ee5ff5-57fe-4af8-9640-822620383fd0:direct:15",
+    "electionId": "d7ee5ff5-57fe-4af8-9640-822620383fd0",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 15,
+    "candidateIds": [
+      "a13ff0f8-79b0-4f4b-b46b-d3773884fffe",
+      "d9fa1323-e047-40d6-a3be-58125bfc19a3",
+      "24780765-cb5f-4aed-8d0c-6a04c8a83e05",
+      "4c0b997f-8f4e-4ffe-b180-3a06aa9e26b3",
+      "007c56d3-c929-40ce-b578-1bc797b985ad"
+    ],
+    "activeCandidateIds": [
+      "a13ff0f8-79b0-4f4b-b46b-d3773884fffe",
+      "d9fa1323-e047-40d6-a3be-58125bfc19a3",
+      "24780765-cb5f-4aed-8d0c-6a04c8a83e05",
+      "4c0b997f-8f4e-4ffe-b180-3a06aa9e26b3",
+      "007c56d3-c929-40ce-b578-1bc797b985ad"
+    ]
+  },
+  {
+    "candidateSetKey": "7b4dc2fd-97a6-478f-af54-49cd9047123f:direct:7",
+    "electionId": "7b4dc2fd-97a6-478f-af54-49cd9047123f",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 7,
+    "candidateIds": [
+      "bce7bbd7-ff9f-40af-8009-a54fd94b4830",
+      "189e8c91-3c71-443e-b3e5-7c2d0d77b815",
+      "e7a1a13b-8823-4858-a9d0-e93684771d65",
+      "2a743723-7bcb-414d-85c3-8df153f51029"
+    ],
+    "activeCandidateIds": [
+      "bce7bbd7-ff9f-40af-8009-a54fd94b4830",
+      "189e8c91-3c71-443e-b3e5-7c2d0d77b815",
+      "e7a1a13b-8823-4858-a9d0-e93684771d65",
+      "2a743723-7bcb-414d-85c3-8df153f51029"
+    ]
+  },
+  {
+    "candidateSetKey": "7b4dc2fd-97a6-478f-af54-49cd9047123f:direct:17",
+    "electionId": "7b4dc2fd-97a6-478f-af54-49cd9047123f",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 17,
+    "candidateIds": [
+      "5298e84e-0045-4e74-8df6-fee5163af3eb",
+      "2d7d6868-923a-445e-8d33-a1a768e0e5c9",
+      "63142cd0-fc2b-431d-811f-81e1e4f14c56",
+      "819b5e1e-3e91-480a-a15e-5bc85bddee01"
+    ],
+    "activeCandidateIds": [
+      "5298e84e-0045-4e74-8df6-fee5163af3eb",
+      "2d7d6868-923a-445e-8d33-a1a768e0e5c9",
+      "63142cd0-fc2b-431d-811f-81e1e4f14c56",
+      "819b5e1e-3e91-480a-a15e-5bc85bddee01"
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "candidateId": "ec49a5b8-5895-409f-be6a-d71d63e63782",
+    "electionId": "d5082b44-8bb2-48d9-b102-83f415f7cb66",
+    "scope": "majoritarian",
+    "districtNumber": 8,
+    "fullName": "Небальзина Елена Валерьевна",
+    "birthDate": "1989-01-06",
+    "associationName": "Вичугское городское местное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "11/41-7",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=371fc1b3b3945ebd20a1f5471b52aed51041025062bac561eecbb74bd54e6ba4",
+      "retrievedAt": "2026-08-30T14:23:05.427324+00:00",
+      "sha256": "e9ebfbaef9f3fd891348292a9ebc41263a96ddcda90b7d8449e11b03faa30e72",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T13:33:39.757797Z"
+    }
+  },
+  {
+    "candidateId": "b02363f8-95f6-40c6-9494-7b084f39cdca",
+    "electionId": "d5082b44-8bb2-48d9-b102-83f415f7cb66",
+    "scope": "majoritarian",
+    "districtNumber": 8,
+    "fullName": "Синельщикова Ольга Аркадьевна",
+    "birthDate": "1970-06-26",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "11/42-7",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=371fc1b3b3945ebd20a1f5471b52aed51041025062bac561eecbb74bd54e6ba4",
+      "retrievedAt": "2026-08-30T14:23:05.427324+00:00",
+      "sha256": "e9ebfbaef9f3fd891348292a9ebc41263a96ddcda90b7d8449e11b03faa30e72",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T13:33:39.757797Z"
+    }
+  }
+]

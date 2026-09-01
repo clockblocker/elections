@@ -1,0 +1,49 @@
+{
+  "nomination": {
+    "values": [
+      "выбывший из заверенного списка",
+      "кандидат с отказом в заверении",
+      "выдвинут",
+      "утративший статус выдвинутого кандидата"
+    ],
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/statuses?statusType=nomination",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/statuses?statusType=nomination",
+      "retrievedAt": "2026-08-30T14:04:21.372303+00:00",
+      "sha256": "24faf1de057daced595de253dfbc2e26eefed291f8b6ea689dc89ab1e032197b",
+      "status": 200,
+      "provenance": "live-official"
+    }
+  },
+  "enrollment": {
+    "values": [
+      "исключенный из списка",
+      "зарегистрирован",
+      "отказ в регистрации",
+      "выбывший (после регистрации) кандидат"
+    ],
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/statuses?statusType=enrollment",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/statuses?statusType=enrollment",
+      "retrievedAt": "2026-08-30T14:04:21.687058+00:00",
+      "sha256": "ab057f12f26a235a5c0ea620b09380878b058c512643d4c5f0c8c12b82802699",
+      "status": 200,
+      "provenance": "live-official"
+    }
+  },
+  "election": {
+    "values": [
+      "отказ от мандата",
+      "сложивший полномочия",
+      "избран"
+    ],
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/statuses?statusType=election",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/statuses?statusType=election",
+      "retrievedAt": "2026-08-30T14:04:22.032431+00:00",
+      "sha256": "5bf1803c21ed23acb2c7a61a0a6ff1c071ce2a8f4ddcea36f99fece9a3501d5a",
+      "status": 200,
+      "provenance": "live-official"
+    }
+  }
+}

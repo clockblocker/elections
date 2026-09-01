@@ -1,0 +1,74 @@
+[
+  {
+    "associationId": "e546c301-a70e-4dc4-801f-26be1225a212",
+    "electionId": "73496fc8-d76b-42db-87d1-82c068fb37b8",
+    "name": "Местное отделение ВПП \"ЕДИНАЯ РОССИЯ\" МО \"Муниципальный район \"Заполярный район\"",
+    "drawNumber": null,
+    "registrationMark": "not_marked_registered",
+    "ballotEligibility": null,
+    "certifiedDecisionDate": null,
+    "certifiedDecisionNumber": null,
+    "registeredDecisionDate": null,
+    "registeredDecisionNumber": null,
+    "majoritarianCertifiedDecisionDate": null,
+    "majoritarianCertifiedDecisionNumber": null,
+    "foreignAgentInList": false,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=73496fc8-d76b-42db-87d1-82c068fb37b8",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=73496fc8-d76b-42db-87d1-82c068fb37b8",
+      "retrievedAt": "2026-08-30T14:46:32.541331+00:00",
+      "sha256": "84a424165a93bfb78ed051a2a8db1d7df443518c56f3f17356f1a9c09eb1ffca",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T11:00:24.077641+03:00"
+    }
+  },
+  {
+    "associationId": "a27def87-d1ae-4cc1-87e6-b83ff9cd02c5",
+    "electionId": "73496fc8-d76b-42db-87d1-82c068fb37b8",
+    "name": "Ненецкое региональное отделение политической партии ЛДПР - Либерально-демократической партии России",
+    "drawNumber": null,
+    "registrationMark": "not_marked_registered",
+    "ballotEligibility": null,
+    "certifiedDecisionDate": null,
+    "certifiedDecisionNumber": null,
+    "registeredDecisionDate": null,
+    "registeredDecisionNumber": null,
+    "majoritarianCertifiedDecisionDate": null,
+    "majoritarianCertifiedDecisionNumber": null,
+    "foreignAgentInList": false,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=73496fc8-d76b-42db-87d1-82c068fb37b8",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=73496fc8-d76b-42db-87d1-82c068fb37b8",
+      "retrievedAt": "2026-08-30T14:46:32.541331+00:00",
+      "sha256": "84a424165a93bfb78ed051a2a8db1d7df443518c56f3f17356f1a9c09eb1ffca",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T11:00:24.077641+03:00"
+    }
+  },
+  {
+    "associationId": "b8e5b791-3444-4573-8714-beb5b98a6fe8",
+    "electionId": "73496fc8-d76b-42db-87d1-82c068fb37b8",
+    "name": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Ненецком автономном округе",
+    "drawNumber": null,
+    "registrationMark": "not_marked_registered",
+    "ballotEligibility": null,
+    "certifiedDecisionDate": null,
+    "certifiedDecisionNumber": null,
+    "registeredDecisionDate": null,
+    "registeredDecisionNumber": null,
+    "majoritarianCertifiedDecisionDate": null,
+    "majoritarianCertifiedDecisionNumber": null,
+    "foreignAgentInList": false,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=73496fc8-d76b-42db-87d1-82c068fb37b8",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=73496fc8-d76b-42db-87d1-82c068fb37b8",
+      "retrievedAt": "2026-08-30T14:46:32.541331+00:00",
+      "sha256": "84a424165a93bfb78ed051a2a8db1d7df443518c56f3f17356f1a9c09eb1ffca",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T11:00:24.077641+03:00"
+    }
+  }
+]

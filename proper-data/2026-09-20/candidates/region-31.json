@@ -1,0 +1,509 @@
+[
+  {
+    "candidateId": "9b3b3819-d02b-4ffd-bf14-e569c75c053e",
+    "electionId": "e01dbe0a-fcf4-47d1-abd1-44fd2f0061c7",
+    "scope": "direct",
+    "districtNumber": null,
+    "fullName": "Абельмазов Владимир Викторович",
+    "birthDate": "1957-03-15",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Белгородской области",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-06",
+    "registrationDecisionDate": "2026-08-06",
+    "registrationDecisionNumber": "157/1373-7",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=a7fa643f7dd5dd045ea233f13c57ffc64e80e2717746cb8c5d9d506bd8f022e7",
+      "retrievedAt": "2026-08-30T14:21:52.694166+00:00",
+      "sha256": "68236e1589952e206879616258e7504a857cde187bd6abf84722b52a3c1d2718",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-27T09:13:57.601605Z"
+    }
+  },
+  {
+    "candidateId": "e620134a-9f0c-4bc4-a641-3c6b8f28a66b",
+    "electionId": "e01dbe0a-fcf4-47d1-abd1-44fd2f0061c7",
+    "scope": "direct",
+    "districtNumber": null,
+    "fullName": "Дремов Евгений Александрович",
+    "birthDate": "1981-03-04",
+    "associationName": "Белгородское региональное отделение политической партии ЛДПР - Либерально-демократическая партия России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-06",
+    "registrationDecisionDate": "2026-08-06",
+    "registrationDecisionNumber": "157/1375-7",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=a7fa643f7dd5dd045ea233f13c57ffc64e80e2717746cb8c5d9d506bd8f022e7",
+      "retrievedAt": "2026-08-30T14:21:52.694166+00:00",
+      "sha256": "68236e1589952e206879616258e7504a857cde187bd6abf84722b52a3c1d2718",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-27T09:13:57.601605Z"
+    }
+  },
+  {
+    "candidateId": "f53c9c75-feee-4ef0-b551-4f4ba9ea2e76",
+    "electionId": "e01dbe0a-fcf4-47d1-abd1-44fd2f0061c7",
+    "scope": "direct",
+    "districtNumber": null,
+    "fullName": "Еськов Сергей Леонидович",
+    "birthDate": "1961-01-11",
+    "associationName": "Региональное отделение ВСЕРОССИЙСКОЙ ПОЛИТИЧЕСКОЙ ПАРТИИ \"РОДИНА\" в Белгородской области",
+    "nominationStatus": {
+      "code": "nomination_lost",
+      "label": "утративший статус выдвинутого кандидата"
+    },
+    "registrationStatus": null,
+    "electionStatus": null,
+    "ballotEligible": false,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": null,
+    "registrationDecisionDate": null,
+    "registrationDecisionNumber": null,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=a7fa643f7dd5dd045ea233f13c57ffc64e80e2717746cb8c5d9d506bd8f022e7",
+      "retrievedAt": "2026-08-30T14:21:52.694166+00:00",
+      "sha256": "68236e1589952e206879616258e7504a857cde187bd6abf84722b52a3c1d2718",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-27T09:13:57.601605Z"
+    }
+  },
+  {
+    "candidateId": "ff5bc272-ab13-47c7-8ca8-20ede0422d5b",
+    "electionId": "e01dbe0a-fcf4-47d1-abd1-44fd2f0061c7",
+    "scope": "direct",
+    "districtNumber": null,
+    "fullName": "Зотов Артем Юрьевич",
+    "birthDate": "1989-01-27",
+    "associationName": "Региональное отделение Политической партии \"Российская партия пенсионеров за социальную справедливость\" в Белгородской области",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-06",
+    "registrationDecisionDate": "2026-08-06",
+    "registrationDecisionNumber": "157/1372-7",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=a7fa643f7dd5dd045ea233f13c57ffc64e80e2717746cb8c5d9d506bd8f022e7",
+      "retrievedAt": "2026-08-30T14:21:52.694166+00:00",
+      "sha256": "68236e1589952e206879616258e7504a857cde187bd6abf84722b52a3c1d2718",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-27T09:13:57.601605Z"
+    }
+  },
+  {
+    "candidateId": "60704694-0f6b-41e2-8379-36d05d6a2e2f",
+    "electionId": "e01dbe0a-fcf4-47d1-abd1-44fd2f0061c7",
+    "scope": "direct",
+    "districtNumber": null,
+    "fullName": "Шевляков Валерий Алексеевич",
+    "birthDate": "1955-01-30",
+    "associationName": "КПРФ - БЕЛГОРОДСКОЕ ОБЛАСТНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-06",
+    "registrationDecisionDate": "2026-08-06",
+    "registrationDecisionNumber": "157/1374-7",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=a7fa643f7dd5dd045ea233f13c57ffc64e80e2717746cb8c5d9d506bd8f022e7",
+      "retrievedAt": "2026-08-30T14:21:52.694166+00:00",
+      "sha256": "68236e1589952e206879616258e7504a857cde187bd6abf84722b52a3c1d2718",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-27T09:13:57.601605Z"
+    }
+  },
+  {
+    "candidateId": "d9278ac3-dc17-4442-bf72-318f597afcfc",
+    "electionId": "e01dbe0a-fcf4-47d1-abd1-44fd2f0061c7",
+    "scope": "direct",
+    "districtNumber": null,
+    "fullName": "Шуваев Александр Михайлович",
+    "birthDate": "1981-05-07",
+    "associationName": "Белгородское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-06",
+    "registrationDecisionDate": "2026-08-06",
+    "registrationDecisionNumber": "157/1376-7",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=a7fa643f7dd5dd045ea233f13c57ffc64e80e2717746cb8c5d9d506bd8f022e7",
+      "retrievedAt": "2026-08-30T14:21:52.694166+00:00",
+      "sha256": "68236e1589952e206879616258e7504a857cde187bd6abf84722b52a3c1d2718",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-27T09:13:57.601605Z"
+    }
+  },
+  {
+    "candidateId": "eaf97ba3-220f-4163-8bb6-5ba25d31bba8",
+    "electionId": "34a82740-f856-4399-93f5-107bbe918c3a",
+    "scope": "majoritarian",
+    "districtNumber": 10,
+    "fullName": "Бочаров Борислав Борисович",
+    "birthDate": "1992-07-30",
+    "associationName": "Региональное отделение в Белгородской области Политической партии \"НОВЫЕ ЛЮДИ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-03",
+    "registrationDecisionDate": "2026-08-03",
+    "registrationDecisionNumber": "142/1252-1",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89e06ccc4e694ce7c79d0070026b9f893e26d63b4fdeb7ae121557e1bfc437fb",
+      "retrievedAt": "2026-08-30T14:21:53.327601+00:00",
+      "sha256": "c008cf7edc90b70e49b5debf8415968743ee65e0fa6f7c539441786a6a391b5a",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-03T13:30:33.01289Z"
+    }
+  },
+  {
+    "candidateId": "cd3970f2-eca0-49b1-8bf2-a9bf74151b96",
+    "electionId": "34a82740-f856-4399-93f5-107bbe918c3a",
+    "scope": "majoritarian",
+    "districtNumber": 10,
+    "fullName": "Колтыков Андрей Николаевич",
+    "birthDate": "1985-03-20",
+    "associationName": "Белгородское региональное отделение политической партии ЛДПР - Либерально-демократическая партия России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-03",
+    "registrationDecisionDate": "2026-08-03",
+    "registrationDecisionNumber": "142/1251-1",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89e06ccc4e694ce7c79d0070026b9f893e26d63b4fdeb7ae121557e1bfc437fb",
+      "retrievedAt": "2026-08-30T14:21:53.327601+00:00",
+      "sha256": "c008cf7edc90b70e49b5debf8415968743ee65e0fa6f7c539441786a6a391b5a",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-03T13:30:33.01289Z"
+    }
+  },
+  {
+    "candidateId": "ed633c46-2918-42eb-b618-094bcf4d8d3b",
+    "electionId": "34a82740-f856-4399-93f5-107bbe918c3a",
+    "scope": "majoritarian",
+    "districtNumber": 10,
+    "fullName": "Кортиков Руслан Александрович",
+    "birthDate": "1985-08-04",
+    "associationName": "БЕЛГОРОДСКОЕ ГОРОДСКОЕ МЕСТНОЕ ОТДЕЛЕНИЕ КПРФ – БЕЛГОРОДСКОГО ОБЛАСТНОГО ОТДЕЛЕНИЯ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-03",
+    "registrationDecisionDate": "2026-08-03",
+    "registrationDecisionNumber": "142/1250-1",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89e06ccc4e694ce7c79d0070026b9f893e26d63b4fdeb7ae121557e1bfc437fb",
+      "retrievedAt": "2026-08-30T14:21:53.327601+00:00",
+      "sha256": "c008cf7edc90b70e49b5debf8415968743ee65e0fa6f7c539441786a6a391b5a",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-03T13:30:33.01289Z"
+    }
+  },
+  {
+    "candidateId": "3df78ea9-2166-4ada-bce1-fe256040dd56",
+    "electionId": "34a82740-f856-4399-93f5-107bbe918c3a",
+    "scope": "majoritarian",
+    "districtNumber": 10,
+    "fullName": "Михайлюк Евгений Васильевич",
+    "birthDate": "1967-09-21",
+    "associationName": "Местное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\" города Белгорода",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-03",
+    "registrationDecisionDate": "2026-08-03",
+    "registrationDecisionNumber": "142/1249-1",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89e06ccc4e694ce7c79d0070026b9f893e26d63b4fdeb7ae121557e1bfc437fb",
+      "retrievedAt": "2026-08-30T14:21:53.327601+00:00",
+      "sha256": "c008cf7edc90b70e49b5debf8415968743ee65e0fa6f7c539441786a6a391b5a",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-03T13:30:33.01289Z"
+    }
+  },
+  {
+    "candidateId": "aa3d750d-3de8-4f6b-8d74-fe8af6ebf373",
+    "electionId": "34a82740-f856-4399-93f5-107bbe918c3a",
+    "scope": "majoritarian",
+    "districtNumber": 10,
+    "fullName": "Тульнева Марианна Николаевна",
+    "birthDate": "1977-05-01",
+    "associationName": "Региональное отделение политической партии \"Российская партия пенсионеров за социальную справедливость\" в Белгородской области",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-03",
+    "registrationDecisionDate": "2026-08-03",
+    "registrationDecisionNumber": "142/1253-1",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89e06ccc4e694ce7c79d0070026b9f893e26d63b4fdeb7ae121557e1bfc437fb",
+      "retrievedAt": "2026-08-30T14:21:53.327601+00:00",
+      "sha256": "c008cf7edc90b70e49b5debf8415968743ee65e0fa6f7c539441786a6a391b5a",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-03T13:30:33.01289Z"
+    }
+  },
+  {
+    "candidateId": "2aff061b-ad82-4229-a763-e24e186af9f9",
+    "electionId": "f86a5e2c-ddbb-4f0e-9274-9b5ff082dd31",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Дегтярев Сергей Анатольевич",
+    "birthDate": "1974-12-13",
+    "associationName": "Валуйское Местное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-29",
+    "registrationDecisionDate": "2026-07-29",
+    "registrationDecisionNumber": "101/628-1",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=0e7bcf62bba808b8824d44df643c9555b0365d6e5c4aeafe9f10658d90965eff",
+      "retrievedAt": "2026-08-30T14:21:54.478171+00:00",
+      "sha256": "bda00f10ae181d1db9701e3febf4cd064463546ad3554ba10a2e2bb4d4a5eb72",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-29T14:05:21.117709Z"
+    }
+  },
+  {
+    "candidateId": "104078e5-7f94-4bda-8e35-590c9cb55e43",
+    "electionId": "f86a5e2c-ddbb-4f0e-9274-9b5ff082dd31",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Дмитриенко Юлия Владимировна",
+    "birthDate": "1980-11-13",
+    "associationName": "ВАЛУЙСКОЕ МЕСТНОЕ ОТДЕЛЕНИЕ КПРФ - БЕЛГОРОДСКОГО ОБЛАСТНОГО ОТДЕЛЕНИЯ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-29",
+    "registrationDecisionDate": "2026-07-29",
+    "registrationDecisionNumber": "101/630-1",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=0e7bcf62bba808b8824d44df643c9555b0365d6e5c4aeafe9f10658d90965eff",
+      "retrievedAt": "2026-08-30T14:21:54.478171+00:00",
+      "sha256": "bda00f10ae181d1db9701e3febf4cd064463546ad3554ba10a2e2bb4d4a5eb72",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-29T14:05:21.117709Z"
+    }
+  },
+  {
+    "candidateId": "bfbab563-5524-450e-a588-f1c14781dcc6",
+    "electionId": "f86a5e2c-ddbb-4f0e-9274-9b5ff082dd31",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Пазюк Валерий Геннадьевич",
+    "birthDate": "1982-05-30",
+    "associationName": "Региональное отделение в Белгородской области Политической партии \"НОВЫЕ ЛЮДИ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-29",
+    "registrationDecisionDate": "2026-07-29",
+    "registrationDecisionNumber": "101/629-1",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=0e7bcf62bba808b8824d44df643c9555b0365d6e5c4aeafe9f10658d90965eff",
+      "retrievedAt": "2026-08-30T14:21:54.478171+00:00",
+      "sha256": "bda00f10ae181d1db9701e3febf4cd064463546ad3554ba10a2e2bb4d4a5eb72",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-29T14:05:21.117709Z"
+    }
+  },
+  {
+    "candidateId": "ad4e8d0f-2530-48a0-a0cd-8c2cf560a2e1",
+    "electionId": "f86a5e2c-ddbb-4f0e-9274-9b5ff082dd31",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Сухомлинов Андрей Павлович",
+    "birthDate": "1975-07-22",
+    "associationName": "Белгородское региональное отделение политической партии ЛДПР - Либерально-демократическая партия России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-29",
+    "registrationDecisionDate": "2026-07-29",
+    "registrationDecisionNumber": "101/631-1",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=0e7bcf62bba808b8824d44df643c9555b0365d6e5c4aeafe9f10658d90965eff",
+      "retrievedAt": "2026-08-30T14:21:54.478171+00:00",
+      "sha256": "bda00f10ae181d1db9701e3febf4cd064463546ad3554ba10a2e2bb4d4a5eb72",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-29T14:05:21.117709Z"
+    }
+  }
+]

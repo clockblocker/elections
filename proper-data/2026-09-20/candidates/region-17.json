@@ -1,0 +1,3161 @@
+[
+  {
+    "candidateId": "41793e66-ef41-42c9-b27a-400d689f9e21",
+    "electionId": "89da8301-3acc-4679-a49f-aa22189680bd",
+    "scope": "direct",
+    "districtNumber": null,
+    "fullName": "Иргит Артыш Васильевич",
+    "birthDate": "1985-03-30",
+    "associationName": "РЕГИОНАЛЬНОЕ ОТДЕЛЕНИЕ В РЕСПУБЛИКЕ ТЫВА ПОЛИТИЧЕСКОЙ ПАРТИИ \"НОВЫЕ ЛЮДИ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-07",
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "158/841-8",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=411f600da5802197b6474f856212ddee850d75819319a97f606c4526497279c7",
+      "retrievedAt": "2026-08-30T14:16:52.091742+00:00",
+      "sha256": "09c39aea7d2d89ab0d268b36b003d921d774ba31f2d1741effe331a01514572e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-07T02:22:59.317462Z"
+    }
+  },
+  {
+    "candidateId": "0b699e8a-0612-4acd-a30e-d2f2c7e268fb",
+    "electionId": "89da8301-3acc-4679-a49f-aa22189680bd",
+    "scope": "direct",
+    "districtNumber": null,
+    "fullName": "Куулар Лодой-Дамба Эртинеевич",
+    "birthDate": "1982-09-22",
+    "associationName": "КПРФ - ТУВИНСКОЕ РЕСПУБЛИКАНСКОЕ ОТДЕЛЕНИЕ ПОЛИТИЧЕСКОЙ ПАРТИИ \"КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-07",
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "158/837-8",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=411f600da5802197b6474f856212ddee850d75819319a97f606c4526497279c7",
+      "retrievedAt": "2026-08-30T14:16:52.091742+00:00",
+      "sha256": "09c39aea7d2d89ab0d268b36b003d921d774ba31f2d1741effe331a01514572e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-07T02:22:59.317462Z"
+    }
+  },
+  {
+    "candidateId": "7b3d7d5a-9e35-4a31-9903-7bd4f96d665b",
+    "electionId": "89da8301-3acc-4679-a49f-aa22189680bd",
+    "scope": "direct",
+    "districtNumber": null,
+    "fullName": "Ховалыг Владислав Товарищтайович",
+    "birthDate": "1967-12-24",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-07",
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "158/840-8",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=411f600da5802197b6474f856212ddee850d75819319a97f606c4526497279c7",
+      "retrievedAt": "2026-08-30T14:16:52.091742+00:00",
+      "sha256": "09c39aea7d2d89ab0d268b36b003d921d774ba31f2d1741effe331a01514572e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-07T02:22:59.317462Z"
+    }
+  },
+  {
+    "candidateId": "0344ba9e-2636-4d3e-9099-47a98dc7b778",
+    "electionId": "89da8301-3acc-4679-a49f-aa22189680bd",
+    "scope": "direct",
+    "districtNumber": null,
+    "fullName": "Чанзан Азиат Кан-Оолович",
+    "birthDate": "1984-07-20",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Республике Тыва",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-07",
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "158/837-8",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=411f600da5802197b6474f856212ddee850d75819319a97f606c4526497279c7",
+      "retrievedAt": "2026-08-30T14:16:52.091742+00:00",
+      "sha256": "09c39aea7d2d89ab0d268b36b003d921d774ba31f2d1741effe331a01514572e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-07T02:22:59.317462Z"
+    }
+  },
+  {
+    "candidateId": "f7365be9-c840-49bf-ad61-936e6e5e7fc2",
+    "electionId": "89da8301-3acc-4679-a49f-aa22189680bd",
+    "scope": "direct",
+    "districtNumber": null,
+    "fullName": "Чистяков Егор Эдуардович",
+    "birthDate": "1980-05-02",
+    "associationName": "Тывинское региональное отделение Политической партии  ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-07",
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "158/838-8",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=411f600da5802197b6474f856212ddee850d75819319a97f606c4526497279c7",
+      "retrievedAt": "2026-08-30T14:16:52.091742+00:00",
+      "sha256": "09c39aea7d2d89ab0d268b36b003d921d774ba31f2d1741effe331a01514572e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-07T02:22:59.317462Z"
+    }
+  },
+  {
+    "candidateId": "6afd3169-97f2-47fc-a09c-7e95a89104f6",
+    "electionId": "044029a4-2af0-456d-9655-c6a410c536fd",
+    "scope": "majoritarian",
+    "districtNumber": 10,
+    "fullName": "Ондар Доржсамбуу Арсеньевич",
+    "birthDate": "2004-02-10",
+    "associationName": "КПРФ - ТУВИНСКОЕ РЕСПУБЛИКАНСКОЕ ОТДЕЛЕНИЕ ПОЛИТИЧЕСКОЙ ПАРТИИ \"КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-27",
+    "registrationDecisionDate": "2026-07-27",
+    "registrationDecisionNumber": "10/27-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=92964d9670cbd2c7eb61bd8b4e2b3bef200301255cb2cbf2190787600dfbbe5e",
+      "retrievedAt": "2026-08-30T14:16:52.534827+00:00",
+      "sha256": "92dffbd4669bc45a899a4208dbc4167e01faa7578009f6ab8cce15b9d269bd24",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-28T19:23:05.881892Z"
+    }
+  },
+  {
+    "candidateId": "a53866de-8957-4c3c-a739-5e4990d94c05",
+    "electionId": "044029a4-2af0-456d-9655-c6a410c536fd",
+    "scope": "majoritarian",
+    "districtNumber": 10,
+    "fullName": "Сарыглар Тэмир Владимирович",
+    "birthDate": "1983-12-14",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-27",
+    "registrationDecisionDate": "2026-07-27",
+    "registrationDecisionNumber": "10/38-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=92964d9670cbd2c7eb61bd8b4e2b3bef200301255cb2cbf2190787600dfbbe5e",
+      "retrievedAt": "2026-08-30T14:16:52.534827+00:00",
+      "sha256": "92dffbd4669bc45a899a4208dbc4167e01faa7578009f6ab8cce15b9d269bd24",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-28T19:23:05.881892Z"
+    }
+  },
+  {
+    "candidateId": "c78eddc3-8000-42cb-88d8-7a4ab9694c67",
+    "electionId": "3596b66e-6c7b-4e33-ba06-245401bd474c",
+    "scope": "majoritarian",
+    "districtNumber": 4,
+    "fullName": "Соян Артыш Даш-Оолович",
+    "birthDate": "1983-10-30",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-17",
+    "registrationDecisionDate": "2026-07-17",
+    "registrationDecisionNumber": "07/22-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=66ed4345ca483399b39db0aff95675ac3da82a03eb4c72535de2c4e8965b6380",
+      "retrievedAt": "2026-08-30T14:16:58.206035+00:00",
+      "sha256": "56baea2a1670ba5d70e5de1ff07c2a929b6af75c6e458e31d03476647af444d8",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-17T02:54:04.697926Z"
+    }
+  },
+  {
+    "candidateId": "5731e85c-12f0-41c2-9b62-9d6a8822a9e7",
+    "electionId": "43b25b2a-c04c-4d09-885a-e8bef7a33927",
+    "scope": "majoritarian",
+    "districtNumber": 7,
+    "fullName": "Хомушку Виктор Кызыл-Оолович",
+    "birthDate": "1967-12-05",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-21",
+    "registrationDecisionDate": "2026-07-21",
+    "registrationDecisionNumber": "35",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=f346278b43a8b07bd52fe6f4498fecb006ff6d3831036a4d08a509fd206cc21a",
+      "retrievedAt": "2026-08-30T14:16:52.817997+00:00",
+      "sha256": "0c056efbfb6fb163ec8252bdd6eac24e99599b3f60c9f9223f428332f2c46e06",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-24T02:48:44.881421Z"
+    }
+  },
+  {
+    "candidateId": "647ee812-7db9-4dd7-bae0-db90cf760991",
+    "electionId": "5fdd771d-8877-495f-8275-d1f0b0f1ab6a",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Чульдук Лиана Борисовна",
+    "birthDate": "1977-04-03",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-29",
+    "registrationDecisionDate": "2026-07-29",
+    "registrationDecisionNumber": "10/27-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=0a101c17cd466d3afc452fee8f51f67667cbee6aa1fac420635722a461854e09",
+      "retrievedAt": "2026-08-30T14:16:53.248181+00:00",
+      "sha256": "f6c0307493d715787b9f1e3c09f22fba6dd0d2ab6954cbc7d1ce8aaca52613c1",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-29T11:10:27.843368Z"
+    }
+  },
+  {
+    "candidateId": "a17eb0e2-a69e-4c3d-bba7-27ac398d6b25",
+    "electionId": "8ea3e565-e882-469c-8352-02a49a104864",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Кравцов Сергей Викторович",
+    "birthDate": "1958-10-07",
+    "associationName": "Тывинское региональное отделение Политической партии  ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-29",
+    "registrationDecisionDate": "2026-07-29",
+    "registrationDecisionNumber": "10/28-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=d67b468a3154eaa4c3747c89db98557c1c51f353eb6325520e146d7809b97e0d",
+      "retrievedAt": "2026-08-30T14:16:53.527330+00:00",
+      "sha256": "6ef209a4e6b5e2098a09d26dbf373be00f0becff985f51a0da2a12759f9e983f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-29T11:06:31.671548Z"
+    }
+  },
+  {
+    "candidateId": "e7eaded2-9515-4221-8a41-bad23173308e",
+    "electionId": "8ea3e565-e882-469c-8352-02a49a104864",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Могедир Марат Март-Оолович",
+    "birthDate": "1984-07-05",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-29",
+    "registrationDecisionDate": "2026-07-29",
+    "registrationDecisionNumber": "10/26-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=d67b468a3154eaa4c3747c89db98557c1c51f353eb6325520e146d7809b97e0d",
+      "retrievedAt": "2026-08-30T14:16:53.527330+00:00",
+      "sha256": "6ef209a4e6b5e2098a09d26dbf373be00f0becff985f51a0da2a12759f9e983f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-29T11:06:31.671548Z"
+    }
+  },
+  {
+    "candidateId": "7d82d17a-8ac3-4ab7-acd3-6291a1cbb7ac",
+    "electionId": "8ea3e565-e882-469c-8352-02a49a104864",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Монгуш Алдынай Нурсатовна",
+    "birthDate": "1971-02-18",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-29",
+    "registrationDecisionDate": "2026-07-29",
+    "registrationDecisionNumber": "10/29-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=d67b468a3154eaa4c3747c89db98557c1c51f353eb6325520e146d7809b97e0d",
+      "retrievedAt": "2026-08-30T14:16:53.527330+00:00",
+      "sha256": "6ef209a4e6b5e2098a09d26dbf373be00f0becff985f51a0da2a12759f9e983f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-29T11:06:31.671548Z"
+    }
+  },
+  {
+    "candidateId": "ee800429-a711-4983-ba88-f9f12734265c",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 13,
+    "fullName": "Арланмай Артем Андреевич",
+    "birthDate": "1997-12-14",
+    "associationName": "Тывинское региональное отделение Политической партии  ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-02",
+    "registrationDecisionDate": "2026-08-02",
+    "registrationDecisionNumber": "32",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "fb29528d-ff90-4846-90b4-ce7b85898aba",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 10,
+    "fullName": "Асташкина Валентина Евдокимовна",
+    "birthDate": "1947-10-08",
+    "associationName": "Тывинское региональное отделение Политической партии  ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-02",
+    "registrationDecisionDate": "2026-08-02",
+    "registrationDecisionNumber": "29",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "cde49b79-1693-4577-a761-88f191d0596b",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 5,
+    "fullName": "Бабичев Сергей Игоревич",
+    "birthDate": "1995-07-04",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "37",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "d40b2968-0f2c-4e7e-84f0-2c08910c8d32",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 11,
+    "fullName": "Бюрбю Елена Ивановна",
+    "birthDate": "1969-03-17",
+    "associationName": "Тывинское региональное отделение Политической партии  ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-02",
+    "registrationDecisionDate": "2026-08-02",
+    "registrationDecisionNumber": "30",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "26153f29-620c-4ff7-ba05-caca86bd234b",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 9,
+    "fullName": "Гончарова Анна Александровна",
+    "birthDate": "1983-03-27",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "41",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "3d098739-30b0-4e05-97f4-fcae3f1a14b5",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 9,
+    "fullName": "Дударева Наталья Александровна",
+    "birthDate": "1958-04-20",
+    "associationName": "Тывинское региональное отделение Политической партии  ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-02",
+    "registrationDecisionDate": "2026-08-02",
+    "registrationDecisionNumber": "28",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "540d012e-4190-4394-beeb-1f26b9f26a4e",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Кагай-Оол Аяс Витальевич",
+    "birthDate": "1979-05-31",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "33",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "0dbb8aab-3289-489b-a1e2-f74969eab345",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Кара-Сал Алена Сергеевна",
+    "birthDate": "1983-06-05",
+    "associationName": "Тывинское региональное отделение Политической партии  ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-02",
+    "registrationDecisionDate": "2026-08-02",
+    "registrationDecisionNumber": "21",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "96e50327-9b08-4553-9d04-476e81ddc785",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Карьянова Алина Игорьевна",
+    "birthDate": "1987-10-31",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "34",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "5d5b23e5-7f51-40bd-a510-019322cc9de2",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 6,
+    "fullName": "Ковальногих Татьяна Михайловна",
+    "birthDate": "1970-11-12",
+    "associationName": "Тывинское региональное отделение Политической партии  ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-02",
+    "registrationDecisionDate": "2026-08-02",
+    "registrationDecisionNumber": "25",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "cee72e2d-ab72-4ee7-aa60-c615d03b72d4",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Кравцов Сергей Викторович",
+    "birthDate": "1958-10-07",
+    "associationName": "Тывинское региональное отделение Политической партии  ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-02",
+    "registrationDecisionDate": "2026-08-02",
+    "registrationDecisionNumber": "202",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "ddf6d1cc-260a-4433-bb7b-1b54baa9182d",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 13,
+    "fullName": "Куулар Ирина Станиславовна",
+    "birthDate": "1988-09-13",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "44",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "cad3b852-2368-4fea-b2f9-17a0b12c9b76",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 4,
+    "fullName": "Куулар Светлана Егоровна",
+    "birthDate": "1982-07-19",
+    "associationName": "КПРФ - ТУВИНСКОЕ РЕСПУБЛИКАНСКОЕ ОТДЕЛЕНИЕ ПОЛИТИЧЕСКОЙ ПАРТИИ \"КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-02",
+    "registrationDecisionDate": "2026-08-02",
+    "registrationDecisionNumber": "19",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "388b8c1d-3238-40c7-acfb-1e4c813d53d1",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 4,
+    "fullName": "Лакпар Аясмаа Александровна",
+    "birthDate": "1995-06-11",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "36",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "85936ac7-ced9-4d28-86ce-a6434c0980ae",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Монгуш Долаана Ажылчыновна",
+    "birthDate": "1975-03-11",
+    "associationName": "Тывинское региональное отделение Политической партии  ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-02",
+    "registrationDecisionDate": "2026-08-02",
+    "registrationDecisionNumber": "22",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "0f349b27-c6c5-43dd-86fd-7f7a99fa28cb",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 6,
+    "fullName": "Монгуш Доржу-Белек Сергеевич",
+    "birthDate": "1988-12-16",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "38",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "57d31501-ba3a-405c-933f-a196280e7d50",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Нурсат Субудай Валерьевич",
+    "birthDate": "1996-02-26",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "35",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "a3ac6ceb-2131-4508-a403-5442be970eb1",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 8,
+    "fullName": "Ооржак Менги Нагаан-Оолович",
+    "birthDate": "1975-01-08",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "40",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "7b36a857-7ef7-4c15-ba40-f9718cf807bd",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 4,
+    "fullName": "Ооржак Салида Саниевна",
+    "birthDate": "1968-12-27",
+    "associationName": "Тывинское региональное отделение Политической партии  ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-02",
+    "registrationDecisionDate": "2026-08-02",
+    "registrationDecisionNumber": "23",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "6096688d-cc42-43df-bd06-29452623ce6f",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 10,
+    "fullName": "Салчак Арсен Николаевич",
+    "birthDate": "1983-06-08",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "42",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "a595f5fc-f087-472b-a20f-555b8c4d3ddb",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 7,
+    "fullName": "Сат Александр Мадыр-Оолович",
+    "birthDate": "1971-04-25",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "39",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "6c3ecc42-6256-4ee5-9860-648ac6f4d758",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 12,
+    "fullName": "Сат Чодураа Алексеевна",
+    "birthDate": "1991-12-27",
+    "associationName": "Тывинское региональное отделение Политической партии  ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-02",
+    "registrationDecisionDate": "2026-08-02",
+    "registrationDecisionNumber": "31",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "9cb8e1e7-2f81-4fb6-83fb-b2182f2cb70c",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 11,
+    "fullName": "Ховалыг Сылдыс Владимирович",
+    "birthDate": "1982-08-12",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "43",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "67c3c06a-3665-4ec0-aeb5-daa5aca5abe4",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 5,
+    "fullName": "Чорунмаа Аделина Хулер-Ооловна",
+    "birthDate": "2000-02-23",
+    "associationName": "Тывинское региональное отделение Политической партии  ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-02",
+    "registrationDecisionDate": "2026-08-02",
+    "registrationDecisionNumber": "24",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "d9dcf970-b7da-4391-ad3b-7016eaa10c1e",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 7,
+    "fullName": "Чорунмаа Эмма Эрес-Ооловна",
+    "birthDate": "1977-04-27",
+    "associationName": "Тывинское региональное отделение Политической партии  ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-02",
+    "registrationDecisionDate": "2026-08-02",
+    "registrationDecisionNumber": "26",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "26f41743-d33f-4de1-b8b3-01f460ad7530",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 12,
+    "fullName": "Чыпсымаа Азиат Александрович",
+    "birthDate": "1980-03-01",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-02",
+    "registrationDecisionDate": "2026-08-02",
+    "registrationDecisionNumber": "18",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "5145b9b0-1167-4a36-8e63-61d024eb01b2",
+    "electionId": "a58cab37-5599-4bb8-b67f-414d6bee9cc2",
+    "scope": "majoritarian",
+    "districtNumber": 8,
+    "fullName": "Шагжы Белек Хереловна",
+    "birthDate": "1997-06-20",
+    "associationName": "Тывинское региональное отделение Политической партии  ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-02",
+    "registrationDecisionDate": "2026-08-02",
+    "registrationDecisionNumber": "27",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=bffb628cd838ac469cae986b6bd3f7644ecfc499d61f46ad51a413ec1eda0141",
+      "retrievedAt": "2026-08-30T14:16:55.716547+00:00",
+      "sha256": "63a76984b27e2d2f72112cd196f9e998adada6fed91a6113f89f278faa3a4cce",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T10:40:21.347446Z"
+    }
+  },
+  {
+    "candidateId": "e1ae22f6-8584-4bc9-8145-2657e9eda7a6",
+    "electionId": "1829a7f7-2883-41ba-b54a-48dbdd489fb7",
+    "scope": "majoritarian",
+    "districtNumber": 14,
+    "fullName": "Балды Чейнеш Монге-Баировна",
+    "birthDate": "1975-10-27",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4-33-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4398ddee310d1b541202d7123074cbc2174add43785da3c8632e67d754dd0cd6",
+      "retrievedAt": "2026-08-30T14:16:55.476861+00:00",
+      "sha256": "660f0c4509a24bb7672d2298a0c73d61682dca7e4522e743431d5e4b63005756",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T04:55:13.526606Z"
+    }
+  },
+  {
+    "candidateId": "c9539ee8-d2c1-4522-b8b8-35dd647408c3",
+    "electionId": "1829a7f7-2883-41ba-b54a-48dbdd489fb7",
+    "scope": "majoritarian",
+    "districtNumber": 11,
+    "fullName": "Дамбый-Оол Сайзана Сандыевна",
+    "birthDate": "1981-06-03",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4-30-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4398ddee310d1b541202d7123074cbc2174add43785da3c8632e67d754dd0cd6",
+      "retrievedAt": "2026-08-30T14:16:55.476861+00:00",
+      "sha256": "660f0c4509a24bb7672d2298a0c73d61682dca7e4522e743431d5e4b63005756",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T04:55:13.526606Z"
+    }
+  },
+  {
+    "candidateId": "127f5d68-6e01-47a4-bf6b-cd71d7c08deb",
+    "electionId": "1829a7f7-2883-41ba-b54a-48dbdd489fb7",
+    "scope": "majoritarian",
+    "districtNumber": 7,
+    "fullName": "Дарма Шенне Александровна",
+    "birthDate": "1982-10-29",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4-26-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4398ddee310d1b541202d7123074cbc2174add43785da3c8632e67d754dd0cd6",
+      "retrievedAt": "2026-08-30T14:16:55.476861+00:00",
+      "sha256": "660f0c4509a24bb7672d2298a0c73d61682dca7e4522e743431d5e4b63005756",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T04:55:13.526606Z"
+    }
+  },
+  {
+    "candidateId": "ec0837b9-32f4-4e33-b7d3-3b9ec905fda6",
+    "electionId": "1829a7f7-2883-41ba-b54a-48dbdd489fb7",
+    "scope": "majoritarian",
+    "districtNumber": 13,
+    "fullName": "Демиржан Аржаана Борисовна",
+    "birthDate": "1979-01-05",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4-32-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4398ddee310d1b541202d7123074cbc2174add43785da3c8632e67d754dd0cd6",
+      "retrievedAt": "2026-08-30T14:16:55.476861+00:00",
+      "sha256": "660f0c4509a24bb7672d2298a0c73d61682dca7e4522e743431d5e4b63005756",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T04:55:13.526606Z"
+    }
+  },
+  {
+    "candidateId": "83371802-180b-4c22-b430-7ff5a610a35e",
+    "electionId": "1829a7f7-2883-41ba-b54a-48dbdd489fb7",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Дирти Алдын-Бек Иванович",
+    "birthDate": "1983-10-09",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4-19-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4398ddee310d1b541202d7123074cbc2174add43785da3c8632e67d754dd0cd6",
+      "retrievedAt": "2026-08-30T14:16:55.476861+00:00",
+      "sha256": "660f0c4509a24bb7672d2298a0c73d61682dca7e4522e743431d5e4b63005756",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T04:55:13.526606Z"
+    }
+  },
+  {
+    "candidateId": "7de3688c-6b53-439d-a98f-6d04c9383b47",
+    "electionId": "1829a7f7-2883-41ba-b54a-48dbdd489fb7",
+    "scope": "majoritarian",
+    "districtNumber": 8,
+    "fullName": "Донгак Алдын-Херел Олегович",
+    "birthDate": "1988-10-10",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4-27-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4398ddee310d1b541202d7123074cbc2174add43785da3c8632e67d754dd0cd6",
+      "retrievedAt": "2026-08-30T14:16:55.476861+00:00",
+      "sha256": "660f0c4509a24bb7672d2298a0c73d61682dca7e4522e743431d5e4b63005756",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T04:55:13.526606Z"
+    }
+  },
+  {
+    "candidateId": "14af4c48-001f-4381-a05f-163ab22ec9e0",
+    "electionId": "1829a7f7-2883-41ba-b54a-48dbdd489fb7",
+    "scope": "majoritarian",
+    "districtNumber": 9,
+    "fullName": "Журтчуев Бердибек Камилович",
+    "birthDate": "1972-01-05",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4-28-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4398ddee310d1b541202d7123074cbc2174add43785da3c8632e67d754dd0cd6",
+      "retrievedAt": "2026-08-30T14:16:55.476861+00:00",
+      "sha256": "660f0c4509a24bb7672d2298a0c73d61682dca7e4522e743431d5e4b63005756",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T04:55:13.526606Z"
+    }
+  },
+  {
+    "candidateId": "efea1575-1aae-4c0c-aea9-1c1d5bac4519",
+    "electionId": "1829a7f7-2883-41ba-b54a-48dbdd489fb7",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Иргит Чейнеш Игоревна",
+    "birthDate": "1989-07-31",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4-21-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4398ddee310d1b541202d7123074cbc2174add43785da3c8632e67d754dd0cd6",
+      "retrievedAt": "2026-08-30T14:16:55.476861+00:00",
+      "sha256": "660f0c4509a24bb7672d2298a0c73d61682dca7e4522e743431d5e4b63005756",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T04:55:13.526606Z"
+    }
+  },
+  {
+    "candidateId": "6bd23226-369d-4124-9891-e4ea2b38e35c",
+    "electionId": "1829a7f7-2883-41ba-b54a-48dbdd489fb7",
+    "scope": "majoritarian",
+    "districtNumber": 17,
+    "fullName": "Иргит Чечена Адар-Ооловна",
+    "birthDate": "1991-05-04",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4-37-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4398ddee310d1b541202d7123074cbc2174add43785da3c8632e67d754dd0cd6",
+      "retrievedAt": "2026-08-30T14:16:55.476861+00:00",
+      "sha256": "660f0c4509a24bb7672d2298a0c73d61682dca7e4522e743431d5e4b63005756",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T04:55:13.526606Z"
+    }
+  },
+  {
+    "candidateId": "e5362ecc-af90-4fc3-b8cb-8744df1e3e87",
+    "electionId": "1829a7f7-2883-41ba-b54a-48dbdd489fb7",
+    "scope": "majoritarian",
+    "districtNumber": 4,
+    "fullName": "Иргит Чойган Демир-Оолович",
+    "birthDate": "1988-11-07",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4-22-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4398ddee310d1b541202d7123074cbc2174add43785da3c8632e67d754dd0cd6",
+      "retrievedAt": "2026-08-30T14:16:55.476861+00:00",
+      "sha256": "660f0c4509a24bb7672d2298a0c73d61682dca7e4522e743431d5e4b63005756",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T04:55:13.526606Z"
+    }
+  },
+  {
+    "candidateId": "e86110cf-c4ab-4abb-97c0-5ba9ebd65435",
+    "electionId": "1829a7f7-2883-41ba-b54a-48dbdd489fb7",
+    "scope": "majoritarian",
+    "districtNumber": 15,
+    "fullName": "Иргит Эртине Эрес-Оолович",
+    "birthDate": "1993-02-05",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4-34-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4398ddee310d1b541202d7123074cbc2174add43785da3c8632e67d754dd0cd6",
+      "retrievedAt": "2026-08-30T14:16:55.476861+00:00",
+      "sha256": "660f0c4509a24bb7672d2298a0c73d61682dca7e4522e743431d5e4b63005756",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T04:55:13.526606Z"
+    }
+  },
+  {
+    "candidateId": "4dc8079b-27c1-4cfd-bb71-d7bb1518d5cd",
+    "electionId": "1829a7f7-2883-41ba-b54a-48dbdd489fb7",
+    "scope": "majoritarian",
+    "districtNumber": 5,
+    "fullName": "Кара-Сал Донурат Кара-Оолович",
+    "birthDate": "1974-12-24",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4-23-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4398ddee310d1b541202d7123074cbc2174add43785da3c8632e67d754dd0cd6",
+      "retrievedAt": "2026-08-30T14:16:55.476861+00:00",
+      "sha256": "660f0c4509a24bb7672d2298a0c73d61682dca7e4522e743431d5e4b63005756",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T04:55:13.526606Z"
+    }
+  },
+  {
+    "candidateId": "581454d6-e0f0-4238-ae2b-2dd5eb18b0d7",
+    "electionId": "1829a7f7-2883-41ba-b54a-48dbdd489fb7",
+    "scope": "majoritarian",
+    "districtNumber": 16,
+    "fullName": "Монгун-Оол Снежана Валентиновна",
+    "birthDate": "1987-11-13",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4-35-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4398ddee310d1b541202d7123074cbc2174add43785da3c8632e67d754dd0cd6",
+      "retrievedAt": "2026-08-30T14:16:55.476861+00:00",
+      "sha256": "660f0c4509a24bb7672d2298a0c73d61682dca7e4522e743431d5e4b63005756",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T04:55:13.526606Z"
+    }
+  },
+  {
+    "candidateId": "b5d81f17-3358-4833-81de-b8eaf0eaf984",
+    "electionId": "1829a7f7-2883-41ba-b54a-48dbdd489fb7",
+    "scope": "majoritarian",
+    "districtNumber": 10,
+    "fullName": "Ондар Бадый-Оол Маспый-Оолович",
+    "birthDate": "1965-10-29",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4-29-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4398ddee310d1b541202d7123074cbc2174add43785da3c8632e67d754dd0cd6",
+      "retrievedAt": "2026-08-30T14:16:55.476861+00:00",
+      "sha256": "660f0c4509a24bb7672d2298a0c73d61682dca7e4522e743431d5e4b63005756",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T04:55:13.526606Z"
+    }
+  },
+  {
+    "candidateId": "bd76d24d-189c-43d3-9efe-cfc180a05806",
+    "electionId": "1829a7f7-2883-41ba-b54a-48dbdd489fb7",
+    "scope": "majoritarian",
+    "districtNumber": 6,
+    "fullName": "Салчак Айдыс Амыр-Оолович",
+    "birthDate": "1992-09-01",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4-24-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4398ddee310d1b541202d7123074cbc2174add43785da3c8632e67d754dd0cd6",
+      "retrievedAt": "2026-08-30T14:16:55.476861+00:00",
+      "sha256": "660f0c4509a24bb7672d2298a0c73d61682dca7e4522e743431d5e4b63005756",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T04:55:13.526606Z"
+    }
+  },
+  {
+    "candidateId": "a6dffb17-df7e-413f-b185-a9f3487e9588",
+    "electionId": "1829a7f7-2883-41ba-b54a-48dbdd489fb7",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Салчак Чаян Викторович",
+    "birthDate": "1986-12-11",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4-20-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4398ddee310d1b541202d7123074cbc2174add43785da3c8632e67d754dd0cd6",
+      "retrievedAt": "2026-08-30T14:16:55.476861+00:00",
+      "sha256": "660f0c4509a24bb7672d2298a0c73d61682dca7e4522e743431d5e4b63005756",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T04:55:13.526606Z"
+    }
+  },
+  {
+    "candidateId": "b15f6099-0f2c-4b1a-8dd0-194036b1cac4",
+    "electionId": "1829a7f7-2883-41ba-b54a-48dbdd489fb7",
+    "scope": "majoritarian",
+    "districtNumber": 16,
+    "fullName": "Сараа Алексей Аянович",
+    "birthDate": "2004-04-10",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "withdrawn_after_registration",
+      "label": "выбывший (после регистрации) кандидат"
+    },
+    "electionStatus": null,
+    "ballotEligible": false,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-08-11",
+    "registrationDecisionNumber": "4-37-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4398ddee310d1b541202d7123074cbc2174add43785da3c8632e67d754dd0cd6",
+      "retrievedAt": "2026-08-30T14:16:55.476861+00:00",
+      "sha256": "660f0c4509a24bb7672d2298a0c73d61682dca7e4522e743431d5e4b63005756",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T04:55:13.526606Z"
+    }
+  },
+  {
+    "candidateId": "ed5727bc-4a67-44a7-a6dc-ff91259a138b",
+    "electionId": "1829a7f7-2883-41ba-b54a-48dbdd489fb7",
+    "scope": "majoritarian",
+    "districtNumber": 12,
+    "fullName": "Сат Алдын-Ай Алексеевна",
+    "birthDate": "1985-02-23",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4-31-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4398ddee310d1b541202d7123074cbc2174add43785da3c8632e67d754dd0cd6",
+      "retrievedAt": "2026-08-30T14:16:55.476861+00:00",
+      "sha256": "660f0c4509a24bb7672d2298a0c73d61682dca7e4522e743431d5e4b63005756",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T04:55:13.526606Z"
+    }
+  },
+  {
+    "candidateId": "eb40e6b8-5f2b-482a-87dc-03cd1e7cc56c",
+    "electionId": "1829a7f7-2883-41ba-b54a-48dbdd489fb7",
+    "scope": "majoritarian",
+    "districtNumber": 6,
+    "fullName": "Хертек Чойган Салчаковна",
+    "birthDate": "1965-01-17",
+    "associationName": "ТУВИНСКОЕ РЕСПУБЛИКАНСКОЕ ОТДЕЛЕНИЕ Политической партии \"КОММУНИСТИЧЕСКАЯ ПАРТИЯ КОММУНИСТЫ РОССИИ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "4-25-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=4398ddee310d1b541202d7123074cbc2174add43785da3c8632e67d754dd0cd6",
+      "retrievedAt": "2026-08-30T14:16:55.476861+00:00",
+      "sha256": "660f0c4509a24bb7672d2298a0c73d61682dca7e4522e743431d5e4b63005756",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-17T04:55:13.526606Z"
+    }
+  },
+  {
+    "candidateId": "0e10dbc7-a3cf-4ce4-9dbb-dad3a53012cd",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 15,
+    "fullName": "Ажы Аяна Викторовна",
+    "birthDate": "1975-11-19",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "8/35-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "0f250b6a-4405-4436-84c1-e5bb2f26dfa1",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 8,
+    "fullName": "Базыраа Аржана Викторовна",
+    "birthDate": "1980-09-22",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "8/28-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "2353be06-5092-46b6-9219-0d1e4934853e",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Байыр Орлана Семеновна",
+    "birthDate": "1983-11-09",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "8/22-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "8ff80ede-0920-4249-b578-a691af648314",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 14,
+    "fullName": "Баянов Валентин Сергеевич",
+    "birthDate": "1956-03-17",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "8/34-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "f8954a98-97f0-4dfe-b431-f1a24d599dda",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Дангыр-Оол Доржу-Сурун Вячеславович",
+    "birthDate": "1996-04-21",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "8/21-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "7586ef30-fe42-4777-96c7-0f5e991a3d9b",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 5,
+    "fullName": "Доржуй Чингис Анатольевич",
+    "birthDate": "1983-06-06",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "8/25-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "aa1f2268-0a3d-4e42-94d4-84dbd0df6f0d",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 9,
+    "fullName": "Дудуп Аян Михайлович",
+    "birthDate": "1972-06-30",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "withdrawn_after_registration",
+      "label": "выбывший (после регистрации) кандидат"
+    },
+    "electionStatus": null,
+    "ballotEligible": false,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-23",
+    "registrationDecisionDate": "2026-08-01",
+    "registrationDecisionNumber": "11/43-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "ce3b9ec5-cfee-4cd1-b1f9-e266c4a0cc50",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 11,
+    "fullName": "Иргит Алена Базаановна",
+    "birthDate": "1978-10-23",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registration_refused",
+      "label": "отказ в регистрации"
+    },
+    "electionStatus": null,
+    "ballotEligible": false,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": null,
+    "registrationDecisionDate": "2026-08-06",
+    "registrationDecisionNumber": "12/45-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "f251ab6e-7f21-42fd-ae41-e3dad19a7e04",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 6,
+    "fullName": "Иргит Байыр-Оол Дондукович",
+    "birthDate": "1975-07-13",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "8/26-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "c0f4683d-a0d8-4250-9d38-ab37809d9a8d",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 7,
+    "fullName": "Иргит Идегел Борисович",
+    "birthDate": "1982-12-16",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "8/27-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "a669c793-dacc-40f5-8dd2-54a5e87ff33d",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 11,
+    "fullName": "Куулар Шолбан Кувискаалович",
+    "birthDate": "1970-03-11",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "8/31-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "b7b75a64-57f4-4407-85bd-bb03e0ca0188",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 16,
+    "fullName": "Магбын Алим Саниевич",
+    "birthDate": "1972-05-14",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "8/36-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "9205d1db-c622-4aed-bc3c-94303e02d98c",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 15,
+    "fullName": "Магбын Омак Анатольевич",
+    "birthDate": "1985-01-10",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "withdrawn_after_registration",
+      "label": "выбывший (после регистрации) кандидат"
+    },
+    "electionStatus": null,
+    "ballotEligible": false,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-27",
+    "registrationDecisionDate": "2026-08-01",
+    "registrationDecisionNumber": "11/41-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "f3d01c81-8881-4c73-8482-4b1820e7c49e",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 10,
+    "fullName": "Мижит Вячеслав Доржуевич",
+    "birthDate": "1961-05-01",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nomination_lost",
+      "label": "утративший статус выдвинутого кандидата"
+    },
+    "registrationStatus": null,
+    "electionStatus": null,
+    "ballotEligible": false,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": null,
+    "registrationDecisionDate": null,
+    "registrationDecisionNumber": null,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "fb668860-1f9c-4d93-ae7d-7a2d6c5d2e9f",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 4,
+    "fullName": "Очур Оюма Комбуевна",
+    "birthDate": "1976-02-19",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "8/24-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "1676b76b-e8bc-46f6-823e-ffbc49f95463",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 12,
+    "fullName": "Сундуй Уран-Кыс Ивановна",
+    "birthDate": "1975-09-27",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "8/32-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "42c93983-c9e1-4c09-9da9-7b0d95ebbabe",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 9,
+    "fullName": "Тамаа Виктория Викторовна",
+    "birthDate": "1994-01-21",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "8/29-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "97f17070-80ae-4a9c-9912-74ae23d0a11f",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 10,
+    "fullName": "Хертек Аяна Бузуяевна",
+    "birthDate": "1973-11-13",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "8/30-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "26b19516-d287-4175-8731-6b411904b0b5",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 13,
+    "fullName": "Чамыян Хорлуу Сергеевна",
+    "birthDate": "1973-11-12",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "8/33-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "a8ec5408-8fdd-4878-aa93-f15d92f29579",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 7,
+    "fullName": "Чигден Айдар Артурович",
+    "birthDate": "1983-03-05",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-20",
+    "registrationDecisionDate": "2026-07-20",
+    "registrationDecisionNumber": "6/19-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "8d0c009e-bdad-4c44-968c-b3373b0ee58c",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 13,
+    "fullName": "Чигжит Хулер-Оол Геннадиевич",
+    "birthDate": "1990-04-04",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "withdrawn_after_registration",
+      "label": "выбывший (после регистрации) кандидат"
+    },
+    "electionStatus": null,
+    "ballotEligible": false,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-27",
+    "registrationDecisionDate": "2026-08-01",
+    "registrationDecisionNumber": "11/42-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "54f93176-839f-4884-acb0-998cb40a3893",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 4,
+    "fullName": "Шимит Кан-Хаяа Романович",
+    "birthDate": "1995-03-04",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-27",
+    "registrationDecisionDate": "2026-07-27",
+    "registrationDecisionNumber": "9/39-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "7c9506db-9523-4887-8f3d-b1435dbb8244",
+    "electionId": "79f312c7-43cc-479b-9580-f53de2c08b9c",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Шимит Нимы Михайлович",
+    "birthDate": "1995-06-25",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "8/23-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1d7b122734a7fd671937a0b5bc51949d9533bfc9f522262abb5dd604b98333a8",
+      "retrievedAt": "2026-08-30T14:16:58.750093+00:00",
+      "sha256": "c5d8bfd5490ab0578c1e2139889ec98c5fb94aa53ad7e02c074e531f73214cc7",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-13T12:12:32.5749Z"
+    }
+  },
+  {
+    "candidateId": "849e6366-38c5-4591-875d-3a279701fa23",
+    "electionId": "d9014497-e749-4145-941f-3a792f468554",
+    "scope": "majoritarian",
+    "districtNumber": 10,
+    "fullName": "Монгуш Айдын Никитаевич",
+    "birthDate": "1995-03-28",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-03",
+    "registrationDecisionDate": "2026-08-03",
+    "registrationDecisionNumber": "11/38-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=448d649f6e41add0f5942f11e3a643a75c6e140316e8bf5af3c11a0c5735e678",
+      "retrievedAt": "2026-08-30T14:16:58.023160+00:00",
+      "sha256": "a9322c6f44ed845a41e6116dd5f3bf0accde80b79fcced413cdf6b152e567475",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T03:18:24.974284Z"
+    }
+  },
+  {
+    "candidateId": "07a421f5-d8b4-4ceb-90df-f740f5e62b7e",
+    "electionId": "d9014497-e749-4145-941f-3a792f468554",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Монгуш Аянмаа Маадыр-Ооловна",
+    "birthDate": "1982-12-15",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-03",
+    "registrationDecisionDate": "2026-08-03",
+    "registrationDecisionNumber": "11/31-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=448d649f6e41add0f5942f11e3a643a75c6e140316e8bf5af3c11a0c5735e678",
+      "retrievedAt": "2026-08-30T14:16:58.023160+00:00",
+      "sha256": "a9322c6f44ed845a41e6116dd5f3bf0accde80b79fcced413cdf6b152e567475",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T03:18:24.974284Z"
+    }
+  },
+  {
+    "candidateId": "12037a54-e4a7-4376-90eb-526b27ee0c95",
+    "electionId": "d9014497-e749-4145-941f-3a792f468554",
+    "scope": "majoritarian",
+    "districtNumber": 5,
+    "fullName": "Монгуш Инна Ивановна",
+    "birthDate": "1984-07-30",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "11/33-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=448d649f6e41add0f5942f11e3a643a75c6e140316e8bf5af3c11a0c5735e678",
+      "retrievedAt": "2026-08-30T14:16:58.023160+00:00",
+      "sha256": "a9322c6f44ed845a41e6116dd5f3bf0accde80b79fcced413cdf6b152e567475",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T03:18:24.974284Z"
+    }
+  },
+  {
+    "candidateId": "90b152c1-6478-4a55-800f-76ff8c0d9ae7",
+    "electionId": "d9014497-e749-4145-941f-3a792f468554",
+    "scope": "majoritarian",
+    "districtNumber": 7,
+    "fullName": "Монгуш Онзагай Омаковна",
+    "birthDate": "2000-06-24",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-03",
+    "registrationDecisionDate": "2026-08-03",
+    "registrationDecisionNumber": "11/35-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=448d649f6e41add0f5942f11e3a643a75c6e140316e8bf5af3c11a0c5735e678",
+      "retrievedAt": "2026-08-30T14:16:58.023160+00:00",
+      "sha256": "a9322c6f44ed845a41e6116dd5f3bf0accde80b79fcced413cdf6b152e567475",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T03:18:24.974284Z"
+    }
+  },
+  {
+    "candidateId": "70c0835b-f7a3-4387-85cb-a88d491bcd07",
+    "electionId": "d9014497-e749-4145-941f-3a792f468554",
+    "scope": "majoritarian",
+    "districtNumber": 8,
+    "fullName": "Монгуш Шончалай Монгун-Ооловна",
+    "birthDate": "1977-04-22",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-03",
+    "registrationDecisionDate": "2026-08-03",
+    "registrationDecisionNumber": "11/36-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=448d649f6e41add0f5942f11e3a643a75c6e140316e8bf5af3c11a0c5735e678",
+      "retrievedAt": "2026-08-30T14:16:58.023160+00:00",
+      "sha256": "a9322c6f44ed845a41e6116dd5f3bf0accde80b79fcced413cdf6b152e567475",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T03:18:24.974284Z"
+    }
+  },
+  {
+    "candidateId": "532e8cd6-095b-49e1-9d5f-c0ac7ea1e788",
+    "electionId": "d9014497-e749-4145-941f-3a792f468554",
+    "scope": "majoritarian",
+    "districtNumber": 4,
+    "fullName": "Ондар Шенней Анатольевна",
+    "birthDate": "1989-01-23",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-03",
+    "registrationDecisionDate": "2026-08-03",
+    "registrationDecisionNumber": "11/32-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=448d649f6e41add0f5942f11e3a643a75c6e140316e8bf5af3c11a0c5735e678",
+      "retrievedAt": "2026-08-30T14:16:58.023160+00:00",
+      "sha256": "a9322c6f44ed845a41e6116dd5f3bf0accde80b79fcced413cdf6b152e567475",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T03:18:24.974284Z"
+    }
+  },
+  {
+    "candidateId": "3ca77dc4-42ee-4aa7-a4ca-24370b8da5b5",
+    "electionId": "d9014497-e749-4145-941f-3a792f468554",
+    "scope": "majoritarian",
+    "districtNumber": 11,
+    "fullName": "Ооржак Амир Васильевич",
+    "birthDate": "1988-12-12",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-03",
+    "registrationDecisionDate": "2026-08-03",
+    "registrationDecisionNumber": "11/39-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=448d649f6e41add0f5942f11e3a643a75c6e140316e8bf5af3c11a0c5735e678",
+      "retrievedAt": "2026-08-30T14:16:58.023160+00:00",
+      "sha256": "a9322c6f44ed845a41e6116dd5f3bf0accde80b79fcced413cdf6b152e567475",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T03:18:24.974284Z"
+    }
+  },
+  {
+    "candidateId": "a2242da5-6009-489c-b507-e8fca2a8a153",
+    "electionId": "d9014497-e749-4145-941f-3a792f468554",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Ооржак Арана Анатольевна",
+    "birthDate": "1989-07-09",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-03",
+    "registrationDecisionDate": "2026-08-03",
+    "registrationDecisionNumber": "11/30-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=448d649f6e41add0f5942f11e3a643a75c6e140316e8bf5af3c11a0c5735e678",
+      "retrievedAt": "2026-08-30T14:16:58.023160+00:00",
+      "sha256": "a9322c6f44ed845a41e6116dd5f3bf0accde80b79fcced413cdf6b152e567475",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T03:18:24.974284Z"
+    }
+  },
+  {
+    "candidateId": "d552b3b9-8bab-4e38-9d93-548db1792234",
+    "electionId": "d9014497-e749-4145-941f-3a792f468554",
+    "scope": "majoritarian",
+    "districtNumber": 9,
+    "fullName": "Саая Али Дарый-Оолович",
+    "birthDate": "1971-02-15",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-03",
+    "registrationDecisionDate": "2026-08-03",
+    "registrationDecisionNumber": "11/37-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=448d649f6e41add0f5942f11e3a643a75c6e140316e8bf5af3c11a0c5735e678",
+      "retrievedAt": "2026-08-30T14:16:58.023160+00:00",
+      "sha256": "a9322c6f44ed845a41e6116dd5f3bf0accde80b79fcced413cdf6b152e567475",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T03:18:24.974284Z"
+    }
+  },
+  {
+    "candidateId": "88e56b93-b521-41db-acde-fa338c2096a1",
+    "electionId": "d9014497-e749-4145-941f-3a792f468554",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Тулуш Сылдыс Олегович",
+    "birthDate": "1996-02-04",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "11/29-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=448d649f6e41add0f5942f11e3a643a75c6e140316e8bf5af3c11a0c5735e678",
+      "retrievedAt": "2026-08-30T14:16:58.023160+00:00",
+      "sha256": "a9322c6f44ed845a41e6116dd5f3bf0accde80b79fcced413cdf6b152e567475",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T03:18:24.974284Z"
+    }
+  },
+  {
+    "candidateId": "0b86fcda-6a06-455a-ab62-485aa15b4d61",
+    "electionId": "d9014497-e749-4145-941f-3a792f468554",
+    "scope": "majoritarian",
+    "districtNumber": 6,
+    "fullName": "Ховалыг Снежана Павловна",
+    "birthDate": "1982-08-12",
+    "associationName": "Тувинское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-03",
+    "registrationDecisionDate": "2026-08-03",
+    "registrationDecisionNumber": "11/34-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=448d649f6e41add0f5942f11e3a643a75c6e140316e8bf5af3c11a0c5735e678",
+      "retrievedAt": "2026-08-30T14:16:58.023160+00:00",
+      "sha256": "a9322c6f44ed845a41e6116dd5f3bf0accde80b79fcced413cdf6b152e567475",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-04T03:18:24.974284Z"
+    }
+  }
+]

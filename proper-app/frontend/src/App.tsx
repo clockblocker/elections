@@ -82,7 +82,6 @@ export default function App() {
         const legacy = value.regions.filter((item) => item.code === current);
         return legacy.length === 1 ? legacy[0].key : null;
       });
-      setSelectedId(null);
     }).catch((reason: unknown) => {
       if (!controller.signal.aborted) setError(reason instanceof Error ? reason.message : "Could not load metadata");
     }).finally(() => { if (!controller.signal.aborted) setLoading(false); });

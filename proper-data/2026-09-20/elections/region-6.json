@@ -1,0 +1,33 @@
+[
+  {
+    "electionId": "5570c123-f283-40e1-886c-7806a67ca0a5",
+    "internalId": 588288534,
+    "name": "Выборы депутатов Народного Собрания Республики Ингушетия восьмого созыва",
+    "votingDate": "2026-09-20",
+    "startVotingDay": null,
+    "finishVotingDay": null,
+    "campaignScope": "regional",
+    "levelCode": "2",
+    "level": "Региональный",
+    "regionCode": "6",
+    "region": "Республика Ингушетия",
+    "territorialStatus": null,
+    "territory": "Республика Ингушетия",
+    "kindCode": "2",
+    "kind": "Выборы депутатов",
+    "systemCode": "2",
+    "system": "пропорциональная",
+    "heldStatus": null,
+    "validStatus": null,
+    "electionStatus": null,
+    "revotingStatus": null,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/elections?page=1&perPage=5000&votingDateFrom=2026-09-20&votingDateTo=2026-09-20",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/elections?page=1&perPage=5000&votingDateFrom=2026-09-20&votingDateTo=2026-09-20",
+      "retrievedAt": "2026-08-30T14:04:21.004686+00:00",
+      "sha256": "1c8a61c2db5a16b0b8c023b3a9b8bef483ebedd496372b5c110f296f8614a727",
+      "status": 200,
+      "provenance": "live-official"
+    }
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "associationId": "5e3c1790-0007-4cdd-ba15-677b55051a67",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "name": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "drawNumber": 1,
+    "registrationMark": "registered",
+    "ballotEligibility": true,
+    "certifiedDecisionDate": "2026-07-20",
+    "certifiedDecisionNumber": "160/895",
+    "registeredDecisionDate": "2026-07-24",
+    "registeredDecisionNumber": "161/910",
+    "majoritarianCertifiedDecisionDate": "2026-07-11",
+    "majoritarianCertifiedDecisionNumber": "158/876",
+    "foreignAgentInList": false,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=b63d2bbc-f111-46fa-b26f-e57c46dac269",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=b63d2bbc-f111-46fa-b26f-e57c46dac269",
+      "retrievedAt": "2026-08-30T14:47:14.886239+00:00",
+      "sha256": "6598cf595a6540ef4273b169f83b44a0917a3e62f0ddd9ec90b2279f08225b24",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-08T03:10:12.613293+03:00"
+    }
+  },
+  {
+    "associationId": "e0b9ceb1-49ec-45ad-8224-045aa9dbd13c",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "name": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Чукотском автономном округе",
+    "drawNumber": 2,
+    "registrationMark": "registered",
+    "ballotEligibility": true,
+    "certifiedDecisionDate": "2026-07-24",
+    "certifiedDecisionNumber": "161/907",
+    "registeredDecisionDate": "2026-08-04",
+    "registeredDecisionNumber": "164/931",
+    "majoritarianCertifiedDecisionDate": "2026-07-11",
+    "majoritarianCertifiedDecisionNumber": "158/878",
+    "foreignAgentInList": false,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=b63d2bbc-f111-46fa-b26f-e57c46dac269",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=b63d2bbc-f111-46fa-b26f-e57c46dac269",
+      "retrievedAt": "2026-08-30T14:47:14.886239+00:00",
+      "sha256": "6598cf595a6540ef4273b169f83b44a0917a3e62f0ddd9ec90b2279f08225b24",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-08T03:10:12.613293+03:00"
+    }
+  },
+  {
+    "associationId": "1d6d68f0-aab7-42c0-adbb-30936c3ca586",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "name": "КПРФ - ЧУКОТСКОЕ ОКРУЖНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "drawNumber": 3,
+    "registrationMark": "registered",
+    "ballotEligibility": true,
+    "certifiedDecisionDate": "2026-07-28",
+    "certifiedDecisionNumber": "162/917",
+    "registeredDecisionDate": "2026-08-04",
+    "registeredDecisionNumber": "164/932",
+    "majoritarianCertifiedDecisionDate": null,
+    "majoritarianCertifiedDecisionNumber": null,
+    "foreignAgentInList": false,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=b63d2bbc-f111-46fa-b26f-e57c46dac269",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=b63d2bbc-f111-46fa-b26f-e57c46dac269",
+      "retrievedAt": "2026-08-30T14:47:14.886239+00:00",
+      "sha256": "6598cf595a6540ef4273b169f83b44a0917a3e62f0ddd9ec90b2279f08225b24",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-08T03:10:12.613293+03:00"
+    }
+  },
+  {
+    "associationId": "50516863-4412-4504-950b-49435f6fd5ec",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "name": "Чукотское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "drawNumber": 4,
+    "registrationMark": "registered",
+    "ballotEligibility": true,
+    "certifiedDecisionDate": "2026-07-20",
+    "certifiedDecisionNumber": "160/901",
+    "registeredDecisionDate": "2026-07-28",
+    "registeredDecisionNumber": "162/916",
+    "majoritarianCertifiedDecisionDate": "2026-07-20",
+    "majoritarianCertifiedDecisionNumber": "160/902",
+    "foreignAgentInList": false,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=b63d2bbc-f111-46fa-b26f-e57c46dac269",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=b63d2bbc-f111-46fa-b26f-e57c46dac269",
+      "retrievedAt": "2026-08-30T14:47:14.886239+00:00",
+      "sha256": "6598cf595a6540ef4273b169f83b44a0917a3e62f0ddd9ec90b2279f08225b24",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-08T03:10:12.613293+03:00"
+    }
+  },
+  {
+    "associationId": "8c4cbd1a-e018-4e1d-b917-020fccd5b306",
+    "electionId": "8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+    "name": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "drawNumber": null,
+    "registrationMark": "not_marked_registered",
+    "ballotEligibility": null,
+    "certifiedDecisionDate": null,
+    "certifiedDecisionNumber": null,
+    "registeredDecisionDate": null,
+    "registeredDecisionNumber": null,
+    "majoritarianCertifiedDecisionDate": "2026-07-22",
+    "majoritarianCertifiedDecisionNumber": "91/276",
+    "foreignAgentInList": null,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+      "retrievedAt": "2026-08-30T14:47:21.727955+00:00",
+      "sha256": "8aa5b8656eccd1e360976aa98633153ee68340885ee963825a340d46e2420c58",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-23T06:41:48.815366+03:00"
+    }
+  }
+]

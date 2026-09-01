@@ -1,0 +1,735 @@
+[
+  {
+    "candidateSetKey": "1b89c2e9-aae3-41df-ab16-2fbff46d6552:direct:8",
+    "electionId": "1b89c2e9-aae3-41df-ab16-2fbff46d6552",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 8,
+    "candidateIds": [
+      "de79d51d-d646-4267-a360-f809c2211ce7",
+      "ded84f32-2e60-464b-9174-d3c7a2661eb4",
+      "85eef86d-56d8-47c7-8e03-cfa9cfc14ac9",
+      "60fc5f52-626d-4ff2-8742-59301af5da5e",
+      "2c954c1e-a6a5-4de9-8627-a0f1c94ad38b",
+      "b31cbac7-8476-4b1c-8a2b-9323ae64069e"
+    ],
+    "activeCandidateIds": [
+      "de79d51d-d646-4267-a360-f809c2211ce7",
+      "ded84f32-2e60-464b-9174-d3c7a2661eb4",
+      "85eef86d-56d8-47c7-8e03-cfa9cfc14ac9",
+      "60fc5f52-626d-4ff2-8742-59301af5da5e",
+      "2c954c1e-a6a5-4de9-8627-a0f1c94ad38b",
+      "b31cbac7-8476-4b1c-8a2b-9323ae64069e"
+    ]
+  },
+  {
+    "candidateSetKey": "1b89c2e9-aae3-41df-ab16-2fbff46d6552:direct:19",
+    "electionId": "1b89c2e9-aae3-41df-ab16-2fbff46d6552",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 19,
+    "candidateIds": [
+      "2a9885a1-eb44-45e3-bcaf-644e0f1f61ed",
+      "34ebcf6c-59b9-4307-b178-989638aebd53",
+      "76b16a44-58e2-49e5-8b72-911e8abec9f6",
+      "e42489c9-008e-4806-b078-4c9fd9519dae",
+      "1e5db92f-b85a-4f43-be3c-8db4e3eaf1b6"
+    ],
+    "activeCandidateIds": [
+      "2a9885a1-eb44-45e3-bcaf-644e0f1f61ed",
+      "34ebcf6c-59b9-4307-b178-989638aebd53",
+      "76b16a44-58e2-49e5-8b72-911e8abec9f6",
+      "e42489c9-008e-4806-b078-4c9fd9519dae",
+      "1e5db92f-b85a-4f43-be3c-8db4e3eaf1b6"
+    ]
+  },
+  {
+    "candidateSetKey": "4e57572a-506d-4e99-9ee3-cf03570a0f9e:direct:1",
+    "electionId": "4e57572a-506d-4e99-9ee3-cf03570a0f9e",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 1,
+    "candidateIds": [
+      "bdaf0514-4168-4188-9900-5d2e06d70938",
+      "e330242b-a0bb-48ef-a529-739cbd7045a0",
+      "6934e976-9f94-42df-81ce-4bc410f62aa0",
+      "9b3fc289-d974-4674-885a-7317c9736ae9",
+      "8a3ec728-cbe5-456d-be62-82adef6faa28",
+      "756ffa21-8b08-43a8-aa37-2ae0e04cc597"
+    ],
+    "activeCandidateIds": [
+      "bdaf0514-4168-4188-9900-5d2e06d70938",
+      "e330242b-a0bb-48ef-a529-739cbd7045a0",
+      "6934e976-9f94-42df-81ce-4bc410f62aa0",
+      "9b3fc289-d974-4674-885a-7317c9736ae9",
+      "8a3ec728-cbe5-456d-be62-82adef6faa28",
+      "756ffa21-8b08-43a8-aa37-2ae0e04cc597"
+    ]
+  },
+  {
+    "candidateSetKey": "4e57572a-506d-4e99-9ee3-cf03570a0f9e:direct:2",
+    "electionId": "4e57572a-506d-4e99-9ee3-cf03570a0f9e",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 2,
+    "candidateIds": [
+      "8d05f57d-4e37-4842-941c-4f9cb3869561",
+      "4d709ea0-2ecf-404a-9b26-a7e2ade5df28",
+      "b7c96d9f-dfec-45dd-8488-2286512c6cc6",
+      "64f5a0c2-0b33-4ca0-93f5-1a83d94a0a09",
+      "4d536665-544d-4774-9bfa-22bb55e7fb1d"
+    ],
+    "activeCandidateIds": [
+      "8d05f57d-4e37-4842-941c-4f9cb3869561",
+      "4d709ea0-2ecf-404a-9b26-a7e2ade5df28",
+      "b7c96d9f-dfec-45dd-8488-2286512c6cc6",
+      "64f5a0c2-0b33-4ca0-93f5-1a83d94a0a09",
+      "4d536665-544d-4774-9bfa-22bb55e7fb1d"
+    ]
+  },
+  {
+    "candidateSetKey": "4e57572a-506d-4e99-9ee3-cf03570a0f9e:direct:3",
+    "electionId": "4e57572a-506d-4e99-9ee3-cf03570a0f9e",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 3,
+    "candidateIds": [
+      "fc8552a3-d324-4cf7-ad65-832b3c84d151",
+      "f763b00f-c479-447b-996d-f840fca3edce",
+      "cdfb93e9-ce5a-4c38-a6a0-77c0dec9601a",
+      "56fddaad-ac18-47cf-987c-0c56fd0c4eb1"
+    ],
+    "activeCandidateIds": [
+      "fc8552a3-d324-4cf7-ad65-832b3c84d151",
+      "f763b00f-c479-447b-996d-f840fca3edce",
+      "cdfb93e9-ce5a-4c38-a6a0-77c0dec9601a",
+      "56fddaad-ac18-47cf-987c-0c56fd0c4eb1"
+    ]
+  },
+  {
+    "candidateSetKey": "4e57572a-506d-4e99-9ee3-cf03570a0f9e:direct:4",
+    "electionId": "4e57572a-506d-4e99-9ee3-cf03570a0f9e",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 4,
+    "candidateIds": [
+      "d62dc309-56e9-45c4-99ec-2038b90421d3",
+      "7d9a33f5-1907-47b8-941e-4a045b27a4ea",
+      "8f4b5368-051e-4c63-a636-2464be050175",
+      "f49a31e8-9c02-43fc-9514-1146f92fe492"
+    ],
+    "activeCandidateIds": [
+      "d62dc309-56e9-45c4-99ec-2038b90421d3",
+      "7d9a33f5-1907-47b8-941e-4a045b27a4ea",
+      "8f4b5368-051e-4c63-a636-2464be050175",
+      "f49a31e8-9c02-43fc-9514-1146f92fe492"
+    ]
+  },
+  {
+    "candidateSetKey": "4e57572a-506d-4e99-9ee3-cf03570a0f9e:direct:5",
+    "electionId": "4e57572a-506d-4e99-9ee3-cf03570a0f9e",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 5,
+    "candidateIds": [
+      "336badce-6b90-494c-9a08-8bcb208af274",
+      "e33b2e77-dd97-4308-912a-280b677aa80c",
+      "1fde44ab-06b6-4b23-921a-8de8d618b32d",
+      "fd7e601d-23b8-40ce-95c0-a175aef03cc3"
+    ],
+    "activeCandidateIds": [
+      "336badce-6b90-494c-9a08-8bcb208af274",
+      "e33b2e77-dd97-4308-912a-280b677aa80c",
+      "1fde44ab-06b6-4b23-921a-8de8d618b32d",
+      "fd7e601d-23b8-40ce-95c0-a175aef03cc3"
+    ]
+  },
+  {
+    "candidateSetKey": "4f5b06a8-902b-49ce-8d9f-aa40ef90b20b:direct:all",
+    "electionId": "4f5b06a8-902b-49ce-8d9f-aa40ef90b20b",
+    "ballotType": "candidate",
+    "scope": "election_wide",
+    "districtNumber": null,
+    "candidateIds": [
+      "69c15e8c-d865-4ee3-877d-4d2023277705"
+    ],
+    "activeCandidateIds": [
+      "69c15e8c-d865-4ee3-877d-4d2023277705"
+    ]
+  },
+  {
+    "candidateSetKey": "4f5b06a8-902b-49ce-8d9f-aa40ef90b20b:direct:1",
+    "electionId": "4f5b06a8-902b-49ce-8d9f-aa40ef90b20b",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 1,
+    "candidateIds": [
+      "972ac4e8-3a58-4f1b-91cb-9ede0a7a3c72",
+      "a64d23c4-935e-4585-b619-04507538b9b2",
+      "167e9fe4-9370-483a-ab02-bf6e39b3220b",
+      "4f1ae073-02b6-4117-ba3c-b1bc6a98ea62",
+      "f1604e04-3a3f-438a-9142-97bc89364ee4",
+      "20a541ca-d18b-4938-bee5-e636be2bdcdf",
+      "0583f119-fb37-419d-8a9d-3a0a2b5edfb0"
+    ],
+    "activeCandidateIds": [
+      "972ac4e8-3a58-4f1b-91cb-9ede0a7a3c72",
+      "a64d23c4-935e-4585-b619-04507538b9b2",
+      "167e9fe4-9370-483a-ab02-bf6e39b3220b",
+      "4f1ae073-02b6-4117-ba3c-b1bc6a98ea62",
+      "0583f119-fb37-419d-8a9d-3a0a2b5edfb0"
+    ]
+  },
+  {
+    "candidateSetKey": "4f5b06a8-902b-49ce-8d9f-aa40ef90b20b:direct:2",
+    "electionId": "4f5b06a8-902b-49ce-8d9f-aa40ef90b20b",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 2,
+    "candidateIds": [
+      "d7a6cd79-ed77-45d9-aad9-5534f5508487",
+      "6dc3d476-4229-4932-9f1e-dea783ef848a",
+      "012c7f47-f173-46bd-807d-f2bddf6b25e0",
+      "7767cdc3-e62d-4056-8311-0d76fddef9e6",
+      "6ea00127-027e-430c-9af3-03bfc74700f6",
+      "428ae9b1-d412-499a-aecf-62e10b0d24a2",
+      "683cc131-eb78-47f2-9534-0cbef37bbcc5"
+    ],
+    "activeCandidateIds": [
+      "d7a6cd79-ed77-45d9-aad9-5534f5508487",
+      "6dc3d476-4229-4932-9f1e-dea783ef848a",
+      "012c7f47-f173-46bd-807d-f2bddf6b25e0",
+      "7767cdc3-e62d-4056-8311-0d76fddef9e6",
+      "6ea00127-027e-430c-9af3-03bfc74700f6",
+      "428ae9b1-d412-499a-aecf-62e10b0d24a2",
+      "683cc131-eb78-47f2-9534-0cbef37bbcc5"
+    ]
+  },
+  {
+    "candidateSetKey": "4f5b06a8-902b-49ce-8d9f-aa40ef90b20b:direct:3",
+    "electionId": "4f5b06a8-902b-49ce-8d9f-aa40ef90b20b",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 3,
+    "candidateIds": [
+      "7708cd2c-e6a2-4616-a552-d7fab875d435",
+      "3d19406c-c7a5-4f1c-b9e0-42411ffd368f",
+      "03d401f1-02a4-4965-88b4-a4bb43753b5f",
+      "5e47d7ad-4daf-451e-8ddf-3f9771030492",
+      "9e2aea29-a343-4b9c-b8f4-5661df62cd78",
+      "837560c0-75fb-4a1c-8304-512000cef5eb",
+      "15e82b07-6a0f-414c-a4b6-9bb0efcfde74",
+      "3ae0cfbd-4c36-40f8-9050-9be59d3e94f6",
+      "f22b4223-52f1-4ad3-9a9c-9c270b6458b9",
+      "6a6fd7bf-14f7-4b53-9b8b-cad9abfd46b7",
+      "773b86ef-e174-4c87-aa7e-6acb72047183",
+      "5c1ffc75-3265-4650-903d-55b76711226f",
+      "170a8381-c742-4a5c-be7b-e662a5323a80",
+      "5e0e0518-ae99-463b-ac41-325b28beacb3"
+    ],
+    "activeCandidateIds": [
+      "7708cd2c-e6a2-4616-a552-d7fab875d435",
+      "3d19406c-c7a5-4f1c-b9e0-42411ffd368f",
+      "03d401f1-02a4-4965-88b4-a4bb43753b5f",
+      "9e2aea29-a343-4b9c-b8f4-5661df62cd78",
+      "3ae0cfbd-4c36-40f8-9050-9be59d3e94f6",
+      "f22b4223-52f1-4ad3-9a9c-9c270b6458b9",
+      "6a6fd7bf-14f7-4b53-9b8b-cad9abfd46b7",
+      "773b86ef-e174-4c87-aa7e-6acb72047183",
+      "5c1ffc75-3265-4650-903d-55b76711226f",
+      "170a8381-c742-4a5c-be7b-e662a5323a80"
+    ]
+  },
+  {
+    "candidateSetKey": "4f5b06a8-902b-49ce-8d9f-aa40ef90b20b:direct:4",
+    "electionId": "4f5b06a8-902b-49ce-8d9f-aa40ef90b20b",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 4,
+    "candidateIds": [
+      "6e87f5f4-0482-4032-9a65-f2f9a39b1a26",
+      "3bc81885-746c-4ebe-8e09-4bf91d907601",
+      "dfab3ace-83ca-46dc-8efd-6a82249e2a17",
+      "acfa5dcc-799a-45e0-ad7a-2c1c90e5e16b",
+      "d4fc2ecf-7d57-4a46-baf0-c0f87700966d",
+      "23526c94-a1de-477c-b060-f6126d875d7d",
+      "391cf3a8-fd87-43e8-91c9-ad036fdc0fa9",
+      "853d61ab-bb5f-4dd6-b6ba-146e2d7819ba"
+    ],
+    "activeCandidateIds": [
+      "3bc81885-746c-4ebe-8e09-4bf91d907601",
+      "dfab3ace-83ca-46dc-8efd-6a82249e2a17",
+      "acfa5dcc-799a-45e0-ad7a-2c1c90e5e16b",
+      "d4fc2ecf-7d57-4a46-baf0-c0f87700966d",
+      "23526c94-a1de-477c-b060-f6126d875d7d",
+      "853d61ab-bb5f-4dd6-b6ba-146e2d7819ba"
+    ]
+  },
+  {
+    "candidateSetKey": "4f5b06a8-902b-49ce-8d9f-aa40ef90b20b:direct:5",
+    "electionId": "4f5b06a8-902b-49ce-8d9f-aa40ef90b20b",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 5,
+    "candidateIds": [
+      "03ae81e4-2090-4ee4-800f-b3f47693b2cc",
+      "6e0a135e-e55a-4ecc-bcd1-379a7d6dc575",
+      "ead62532-e986-4e86-80cc-f70412c9ce4e",
+      "647673c7-3166-4f44-b200-f1694683907c",
+      "4d3383b1-b40d-44d9-afaf-0a37561688f2",
+      "d8a61a6d-a0f5-49f5-b8c4-c7ef85cd07d0",
+      "5b1b7388-29a0-45ca-a769-08c892c20530",
+      "de9f5245-675b-4337-a6bf-b363167ed1c7",
+      "1709ca72-0412-4c39-b011-b48fb4e068c7"
+    ],
+    "activeCandidateIds": [
+      "6e0a135e-e55a-4ecc-bcd1-379a7d6dc575",
+      "ead62532-e986-4e86-80cc-f70412c9ce4e",
+      "647673c7-3166-4f44-b200-f1694683907c",
+      "4d3383b1-b40d-44d9-afaf-0a37561688f2",
+      "d8a61a6d-a0f5-49f5-b8c4-c7ef85cd07d0",
+      "5b1b7388-29a0-45ca-a769-08c892c20530",
+      "de9f5245-675b-4337-a6bf-b363167ed1c7",
+      "1709ca72-0412-4c39-b011-b48fb4e068c7"
+    ]
+  },
+  {
+    "candidateSetKey": "4f5b06a8-902b-49ce-8d9f-aa40ef90b20b:direct:6",
+    "electionId": "4f5b06a8-902b-49ce-8d9f-aa40ef90b20b",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 6,
+    "candidateIds": [
+      "f1cd5a16-6b73-453b-af75-86a73cbe2e73",
+      "819305d7-5d6d-43de-9bdc-88a830aa2519",
+      "de670540-6f44-4f62-abe6-61c7c3a569fd",
+      "09b89278-f857-487c-888e-0543df4cd5bb",
+      "181e351b-7a45-4567-95e9-72a610371a88",
+      "8047cc93-e2b4-47f4-85e5-3c9107efe8fb",
+      "78055047-6a97-4d75-a070-659926465a51",
+      "647680e2-a754-43be-8da1-32ad84a7413f",
+      "93ed40af-7b80-42d9-9d85-e6ebc77c399c",
+      "7e373cbc-ba05-4d32-b7af-332c106068f8",
+      "831b7947-9682-40d3-a016-96c95f7a25e6",
+      "b830e07b-73e9-479b-9728-792e46421df4",
+      "96104605-0ccd-4741-9baa-ac30d79f8f30",
+      "77b2a243-6029-4960-a37e-8b767def7d6e"
+    ],
+    "activeCandidateIds": [
+      "f1cd5a16-6b73-453b-af75-86a73cbe2e73",
+      "819305d7-5d6d-43de-9bdc-88a830aa2519",
+      "de670540-6f44-4f62-abe6-61c7c3a569fd",
+      "09b89278-f857-487c-888e-0543df4cd5bb",
+      "181e351b-7a45-4567-95e9-72a610371a88",
+      "647680e2-a754-43be-8da1-32ad84a7413f",
+      "93ed40af-7b80-42d9-9d85-e6ebc77c399c",
+      "7e373cbc-ba05-4d32-b7af-332c106068f8",
+      "831b7947-9682-40d3-a016-96c95f7a25e6",
+      "b830e07b-73e9-479b-9728-792e46421df4",
+      "77b2a243-6029-4960-a37e-8b767def7d6e"
+    ]
+  },
+  {
+    "candidateSetKey": "4f5b06a8-902b-49ce-8d9f-aa40ef90b20b:direct:7",
+    "electionId": "4f5b06a8-902b-49ce-8d9f-aa40ef90b20b",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 7,
+    "candidateIds": [
+      "04ba393e-0eb3-4213-8205-873bd98e5804",
+      "96320ef7-cd49-4a3f-9226-35669e03f7be",
+      "c791bec7-190d-4eff-ad9f-6256ccf72fc9",
+      "094e683f-1797-480a-9d11-8c24ba4dc861",
+      "205ad730-205b-44d1-b3fb-6def9c14acbf",
+      "98d0bdf2-a3f2-4d02-9599-200fc534a983",
+      "53ddecc5-d6e6-4d61-afff-ce7dec448f14",
+      "7a788e27-a3be-45d4-919d-574e55e42362",
+      "fc29cb88-ced2-42b6-b357-d749a79a684f",
+      "2cc50c91-81ce-41a4-ae09-a3783119209e",
+      "ac15fccf-557d-427f-9e58-4687c2dd46ca",
+      "d13ba931-4158-42ee-b2ca-bb8bd9b532d2"
+    ],
+    "activeCandidateIds": [
+      "04ba393e-0eb3-4213-8205-873bd98e5804",
+      "96320ef7-cd49-4a3f-9226-35669e03f7be",
+      "094e683f-1797-480a-9d11-8c24ba4dc861",
+      "205ad730-205b-44d1-b3fb-6def9c14acbf",
+      "98d0bdf2-a3f2-4d02-9599-200fc534a983",
+      "53ddecc5-d6e6-4d61-afff-ce7dec448f14",
+      "7a788e27-a3be-45d4-919d-574e55e42362",
+      "fc29cb88-ced2-42b6-b357-d749a79a684f",
+      "2cc50c91-81ce-41a4-ae09-a3783119209e",
+      "ac15fccf-557d-427f-9e58-4687c2dd46ca",
+      "d13ba931-4158-42ee-b2ca-bb8bd9b532d2"
+    ]
+  },
+  {
+    "candidateSetKey": "bf66d79e-d453-4441-b033-422e114dc789:direct:1",
+    "electionId": "bf66d79e-d453-4441-b033-422e114dc789",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 1,
+    "candidateIds": [
+      "27014317-fc67-4631-9d1b-edb1960de1d3",
+      "b82ce4bc-24e4-4ce7-80b0-136d7e54526f",
+      "f56413c7-acdf-4aa6-a3e4-561b478b5e68",
+      "b983048a-8b67-4500-b5f3-a1d2f3ff316e",
+      "586a5c2c-607e-4940-aef9-900cc6632870",
+      "8b633ce3-bc50-4a42-811d-595d8ac8bc99",
+      "c363935f-09e5-46d1-9665-0b6ab2948ef3",
+      "bd6543c8-4145-4138-9d32-a73d43e18239"
+    ],
+    "activeCandidateIds": [
+      "27014317-fc67-4631-9d1b-edb1960de1d3",
+      "b82ce4bc-24e4-4ce7-80b0-136d7e54526f",
+      "f56413c7-acdf-4aa6-a3e4-561b478b5e68",
+      "b983048a-8b67-4500-b5f3-a1d2f3ff316e",
+      "586a5c2c-607e-4940-aef9-900cc6632870",
+      "8b633ce3-bc50-4a42-811d-595d8ac8bc99",
+      "c363935f-09e5-46d1-9665-0b6ab2948ef3",
+      "bd6543c8-4145-4138-9d32-a73d43e18239"
+    ]
+  },
+  {
+    "candidateSetKey": "bf66d79e-d453-4441-b033-422e114dc789:direct:2",
+    "electionId": "bf66d79e-d453-4441-b033-422e114dc789",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 2,
+    "candidateIds": [
+      "45335723-fe4a-48bb-b1af-8dc12ed8864b",
+      "9b462633-0804-49f7-9a72-bc07c11549d1",
+      "bf0bc7d4-b306-4489-8467-a90419f1f2e3",
+      "64526917-2590-4885-85cb-672f90c4d9a1",
+      "78da09eb-877a-4fc0-824b-4d2d5d5140e0",
+      "295d23f3-64e1-4d6f-a34c-791f33fa3c14"
+    ],
+    "activeCandidateIds": [
+      "45335723-fe4a-48bb-b1af-8dc12ed8864b",
+      "9b462633-0804-49f7-9a72-bc07c11549d1",
+      "bf0bc7d4-b306-4489-8467-a90419f1f2e3",
+      "64526917-2590-4885-85cb-672f90c4d9a1",
+      "78da09eb-877a-4fc0-824b-4d2d5d5140e0",
+      "295d23f3-64e1-4d6f-a34c-791f33fa3c14"
+    ]
+  },
+  {
+    "candidateSetKey": "bf66d79e-d453-4441-b033-422e114dc789:direct:3",
+    "electionId": "bf66d79e-d453-4441-b033-422e114dc789",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 3,
+    "candidateIds": [
+      "751e4627-fc25-4dac-8159-a7bad3ce9e34",
+      "4a38e28a-60ed-42a4-bfe6-bbc5f1b31a98",
+      "ecf57b68-80d5-4f56-8810-afab64decdb7",
+      "30b63b08-f046-4280-aee8-e62da97002ae",
+      "35e1d070-b0bb-4d4a-acf3-a3795fdf2e38",
+      "3edc42d7-2677-4139-b600-119e5ab6792d"
+    ],
+    "activeCandidateIds": [
+      "751e4627-fc25-4dac-8159-a7bad3ce9e34",
+      "4a38e28a-60ed-42a4-bfe6-bbc5f1b31a98",
+      "ecf57b68-80d5-4f56-8810-afab64decdb7",
+      "30b63b08-f046-4280-aee8-e62da97002ae",
+      "35e1d070-b0bb-4d4a-acf3-a3795fdf2e38",
+      "3edc42d7-2677-4139-b600-119e5ab6792d"
+    ]
+  },
+  {
+    "candidateSetKey": "bf66d79e-d453-4441-b033-422e114dc789:direct:4",
+    "electionId": "bf66d79e-d453-4441-b033-422e114dc789",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 4,
+    "candidateIds": [
+      "54eacc8f-696c-44d5-9892-a1c144fdc923",
+      "b8a44539-429b-4cf0-9a1d-9bfa414623e4",
+      "3aebe611-d0dc-4eb3-bb2d-685de8e62be6",
+      "c802f44f-316e-4e22-8422-06fca9ee5652",
+      "4db71145-5712-43c6-98d6-006cd04b6883",
+      "e7210f6f-8bd1-470b-b97e-f7063eb12029",
+      "889727ff-bf02-4895-aea5-372ba8f83af2"
+    ],
+    "activeCandidateIds": [
+      "54eacc8f-696c-44d5-9892-a1c144fdc923",
+      "b8a44539-429b-4cf0-9a1d-9bfa414623e4",
+      "3aebe611-d0dc-4eb3-bb2d-685de8e62be6",
+      "c802f44f-316e-4e22-8422-06fca9ee5652",
+      "4db71145-5712-43c6-98d6-006cd04b6883",
+      "889727ff-bf02-4895-aea5-372ba8f83af2"
+    ]
+  },
+  {
+    "candidateSetKey": "bf66d79e-d453-4441-b033-422e114dc789:direct:5",
+    "electionId": "bf66d79e-d453-4441-b033-422e114dc789",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 5,
+    "candidateIds": [
+      "ba482c09-7932-4d9c-b199-374d17c1c67c",
+      "9e96496e-4eb9-4f43-81bc-9bf293ac78a4",
+      "5fea4d72-196a-4236-ac28-8e317f04d0f7",
+      "5e673bfe-c091-4466-b8ad-41b6d7194859",
+      "19c9827d-418a-4dd1-8054-af11d7e4417e",
+      "f6d8275a-cdc4-4ac3-af23-804c422a13c5",
+      "62339902-c235-4361-bc73-f959c5996c92",
+      "f7a23675-597a-4ffd-94f4-c6b290266475",
+      "10d75d21-4669-4517-be53-9fa9a10c48b8"
+    ],
+    "activeCandidateIds": [
+      "ba482c09-7932-4d9c-b199-374d17c1c67c",
+      "5fea4d72-196a-4236-ac28-8e317f04d0f7",
+      "5e673bfe-c091-4466-b8ad-41b6d7194859",
+      "19c9827d-418a-4dd1-8054-af11d7e4417e",
+      "f6d8275a-cdc4-4ac3-af23-804c422a13c5",
+      "62339902-c235-4361-bc73-f959c5996c92",
+      "f7a23675-597a-4ffd-94f4-c6b290266475",
+      "10d75d21-4669-4517-be53-9fa9a10c48b8"
+    ]
+  },
+  {
+    "candidateSetKey": "da198c10-5269-4497-8a66-e713c8f59aab:direct:1",
+    "electionId": "da198c10-5269-4497-8a66-e713c8f59aab",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 1,
+    "candidateIds": [
+      "4821456a-3914-4beb-86c9-9ea289cda41e",
+      "5b2410b3-3785-43dd-805b-3c928fa41151",
+      "0d4fd407-3854-4329-a91c-d5dce3e0bcf8",
+      "3c93704c-a832-4ffc-91e1-d0c6cc6518ba",
+      "c5ae5bf8-0854-461a-922d-bbfebb418106",
+      "8357138c-0d8a-4380-abec-709a70ef3240"
+    ],
+    "activeCandidateIds": [
+      "4821456a-3914-4beb-86c9-9ea289cda41e",
+      "0d4fd407-3854-4329-a91c-d5dce3e0bcf8",
+      "3c93704c-a832-4ffc-91e1-d0c6cc6518ba",
+      "c5ae5bf8-0854-461a-922d-bbfebb418106",
+      "8357138c-0d8a-4380-abec-709a70ef3240"
+    ]
+  },
+  {
+    "candidateSetKey": "da198c10-5269-4497-8a66-e713c8f59aab:direct:2",
+    "electionId": "da198c10-5269-4497-8a66-e713c8f59aab",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 2,
+    "candidateIds": [
+      "0e2693ed-e284-4ebf-8b97-1a7a6ea4a183",
+      "f1203352-93d5-4dce-9953-99bfb15e0fd8",
+      "36567a9b-b79d-42a0-a87b-4e83e5587a6d",
+      "30114948-7b1f-4613-9c1c-d5bc598f0c4b",
+      "f12c4aca-fed7-4e9b-a74a-61f88fc9145e"
+    ],
+    "activeCandidateIds": [
+      "0e2693ed-e284-4ebf-8b97-1a7a6ea4a183",
+      "f1203352-93d5-4dce-9953-99bfb15e0fd8",
+      "36567a9b-b79d-42a0-a87b-4e83e5587a6d",
+      "30114948-7b1f-4613-9c1c-d5bc598f0c4b",
+      "f12c4aca-fed7-4e9b-a74a-61f88fc9145e"
+    ]
+  },
+  {
+    "candidateSetKey": "da198c10-5269-4497-8a66-e713c8f59aab:direct:3",
+    "electionId": "da198c10-5269-4497-8a66-e713c8f59aab",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 3,
+    "candidateIds": [
+      "8a8e4f73-8c37-4545-87f7-b8dd2e8aea35",
+      "521ce38f-9f07-46b6-a1d0-255fa14b8dbd",
+      "f0673cf0-e959-4b1f-a3e4-08345fd9835b",
+      "96e291af-400d-438a-b870-e5eb70ce0539",
+      "0f5fcef1-4dd8-4e87-9a24-2e3008e57f48",
+      "6fc37af2-616e-494c-8456-a2a617560c91",
+      "5006e33c-2c9c-4464-870c-77791c6e5e8b",
+      "500de2b5-71f6-4f2c-b986-f139231a08c9"
+    ],
+    "activeCandidateIds": [
+      "8a8e4f73-8c37-4545-87f7-b8dd2e8aea35",
+      "521ce38f-9f07-46b6-a1d0-255fa14b8dbd",
+      "f0673cf0-e959-4b1f-a3e4-08345fd9835b",
+      "96e291af-400d-438a-b870-e5eb70ce0539",
+      "0f5fcef1-4dd8-4e87-9a24-2e3008e57f48",
+      "6fc37af2-616e-494c-8456-a2a617560c91",
+      "5006e33c-2c9c-4464-870c-77791c6e5e8b",
+      "500de2b5-71f6-4f2c-b986-f139231a08c9"
+    ]
+  },
+  {
+    "candidateSetKey": "da198c10-5269-4497-8a66-e713c8f59aab:direct:4",
+    "electionId": "da198c10-5269-4497-8a66-e713c8f59aab",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 4,
+    "candidateIds": [
+      "47aa7716-4975-458c-b92b-017c25e92c16",
+      "d6a036b9-76b9-4260-861e-6b87babba092",
+      "325e7335-0f09-4ac0-b588-354730829519",
+      "ed95d44b-d0cc-45ba-8acb-350deb6e7052"
+    ],
+    "activeCandidateIds": [
+      "47aa7716-4975-458c-b92b-017c25e92c16",
+      "d6a036b9-76b9-4260-861e-6b87babba092",
+      "325e7335-0f09-4ac0-b588-354730829519",
+      "ed95d44b-d0cc-45ba-8acb-350deb6e7052"
+    ]
+  },
+  {
+    "candidateSetKey": "da198c10-5269-4497-8a66-e713c8f59aab:direct:5",
+    "electionId": "da198c10-5269-4497-8a66-e713c8f59aab",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 5,
+    "candidateIds": [
+      "28758a7e-9d00-42c2-a1b0-0c4fccc5e882",
+      "fc93605f-b5a3-47f8-8926-367c40e2c1a3",
+      "0e591e63-ed83-44a7-b846-12ef3d60affb",
+      "3deb102d-340e-43f6-8f50-ecd0ae16cd61",
+      "82ffc72c-e9c9-4a24-b38a-3dfd821c0426"
+    ],
+    "activeCandidateIds": [
+      "28758a7e-9d00-42c2-a1b0-0c4fccc5e882",
+      "fc93605f-b5a3-47f8-8926-367c40e2c1a3",
+      "0e591e63-ed83-44a7-b846-12ef3d60affb",
+      "3deb102d-340e-43f6-8f50-ecd0ae16cd61",
+      "82ffc72c-e9c9-4a24-b38a-3dfd821c0426"
+    ]
+  },
+  {
+    "candidateSetKey": "da198c10-5269-4497-8a66-e713c8f59aab:direct:6",
+    "electionId": "da198c10-5269-4497-8a66-e713c8f59aab",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 6,
+    "candidateIds": [
+      "dd7b9782-2e89-4353-a4ad-eb64466e524d",
+      "0f1a8b33-bc1e-491b-bb97-dcc544dd10ef",
+      "07d9b64e-7aeb-4b15-8fcb-6c3b55a02381",
+      "66431b6d-80f7-4124-a703-fbd31123fb51"
+    ],
+    "activeCandidateIds": [
+      "dd7b9782-2e89-4353-a4ad-eb64466e524d",
+      "0f1a8b33-bc1e-491b-bb97-dcc544dd10ef",
+      "07d9b64e-7aeb-4b15-8fcb-6c3b55a02381",
+      "66431b6d-80f7-4124-a703-fbd31123fb51"
+    ]
+  },
+  {
+    "candidateSetKey": "0623991f-7159-4c88-aece-f041dff34f90:direct:1",
+    "electionId": "0623991f-7159-4c88-aece-f041dff34f90",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 1,
+    "candidateIds": [
+      "d4e3e181-9890-4cd1-8325-ce936686acd6",
+      "e5551779-fb73-4053-ad92-a9cce7438048",
+      "f2fe94e6-c05d-4cad-b928-25a2b4ddb96e",
+      "217f37cb-4576-4271-a5c5-79eee1abd851",
+      "37a4cbeb-b4b2-46b7-94d9-4d19d8b5116b",
+      "cd5ce356-4be0-4378-9e7f-92e0e5363495",
+      "db610351-c3e1-46dd-9878-ffd781cd2c8a",
+      "35a3d7c1-daf7-4b00-ba30-d3944f2d3f1a"
+    ],
+    "activeCandidateIds": [
+      "d4e3e181-9890-4cd1-8325-ce936686acd6",
+      "e5551779-fb73-4053-ad92-a9cce7438048",
+      "f2fe94e6-c05d-4cad-b928-25a2b4ddb96e",
+      "217f37cb-4576-4271-a5c5-79eee1abd851",
+      "cd5ce356-4be0-4378-9e7f-92e0e5363495",
+      "db610351-c3e1-46dd-9878-ffd781cd2c8a",
+      "35a3d7c1-daf7-4b00-ba30-d3944f2d3f1a"
+    ]
+  },
+  {
+    "candidateSetKey": "0623991f-7159-4c88-aece-f041dff34f90:direct:2",
+    "electionId": "0623991f-7159-4c88-aece-f041dff34f90",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 2,
+    "candidateIds": [
+      "6475319b-2144-4dba-be27-3d0dded158ea",
+      "74d8a90c-aa18-4b9b-a032-c49ec4ac83d8",
+      "b7481698-c5d5-4d99-9d08-143d8086b043",
+      "1f0ebf6d-aee4-4e54-922d-97964b6a7448",
+      "45f49f74-0a0d-4e85-ae4a-e3e24deaaab2",
+      "3ec8a1b6-7031-44f4-a44f-065f73ae43c2",
+      "b062ab93-2ce9-4244-b205-723390588ccb",
+      "5d0214b3-d2e6-434f-9ad0-a0417d5eed08",
+      "7a605bca-44f6-4f8c-941e-e3f635fa03d1",
+      "8c413c5d-ff90-4d9b-9036-5068415cbeb6",
+      "3880abeb-a188-46a7-aca4-10d5e3ad6a6a",
+      "01c73811-42fa-4640-a971-66e543dc0e4b"
+    ],
+    "activeCandidateIds": [
+      "74d8a90c-aa18-4b9b-a032-c49ec4ac83d8",
+      "b7481698-c5d5-4d99-9d08-143d8086b043",
+      "3ec8a1b6-7031-44f4-a44f-065f73ae43c2",
+      "7a605bca-44f6-4f8c-941e-e3f635fa03d1",
+      "8c413c5d-ff90-4d9b-9036-5068415cbeb6",
+      "3880abeb-a188-46a7-aca4-10d5e3ad6a6a",
+      "01c73811-42fa-4640-a971-66e543dc0e4b"
+    ]
+  },
+  {
+    "candidateSetKey": "0623991f-7159-4c88-aece-f041dff34f90:direct:3",
+    "electionId": "0623991f-7159-4c88-aece-f041dff34f90",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 3,
+    "candidateIds": [
+      "016c93c9-9a80-4a41-ba5e-cf9d960e45bd",
+      "dfe463d2-ca47-444e-af5d-a42d663bec30",
+      "00e4888e-534c-4f61-abad-772991b211ec",
+      "5a597eef-e5dd-4f93-b6f7-159daf7ef59b",
+      "b7ebd47d-099c-43a3-90c6-8aaf534aab21",
+      "48186b20-657f-4d39-a208-33837f49253c",
+      "99f2d082-5226-4832-a92e-4b1523ec3354",
+      "73013e98-83a5-4d3f-931b-0194da53b9d0",
+      "10f55e24-386f-497f-aa56-3f78cd0bc57c",
+      "dabb18ed-aba8-4ce2-b59f-ebafb5f9e96c"
+    ],
+    "activeCandidateIds": [
+      "016c93c9-9a80-4a41-ba5e-cf9d960e45bd",
+      "dfe463d2-ca47-444e-af5d-a42d663bec30",
+      "00e4888e-534c-4f61-abad-772991b211ec",
+      "5a597eef-e5dd-4f93-b6f7-159daf7ef59b",
+      "b7ebd47d-099c-43a3-90c6-8aaf534aab21",
+      "48186b20-657f-4d39-a208-33837f49253c",
+      "99f2d082-5226-4832-a92e-4b1523ec3354",
+      "73013e98-83a5-4d3f-931b-0194da53b9d0",
+      "10f55e24-386f-497f-aa56-3f78cd0bc57c",
+      "dabb18ed-aba8-4ce2-b59f-ebafb5f9e96c"
+    ]
+  },
+  {
+    "candidateSetKey": "0623991f-7159-4c88-aece-f041dff34f90:direct:4",
+    "electionId": "0623991f-7159-4c88-aece-f041dff34f90",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 4,
+    "candidateIds": [
+      "9f756893-0b24-44da-9b5b-07152c53fd6f",
+      "bf8321f7-bc9b-4a1b-80ba-83a6ab579df3",
+      "6b31d575-28bf-49af-a7b0-ca01ecfb1104",
+      "d32d2b35-1a83-4d3b-a699-2a2002cf5eb1",
+      "a38ac45d-bb1f-4de5-91d7-b516f90505ba",
+      "6da86cad-b8e5-437c-ab16-fb945b3f2920",
+      "5b2fff99-ab31-4035-acc1-a77a15b6ec68",
+      "002e580f-7b71-4a8d-a271-2bc8c8f591fe",
+      "57fa8cd7-01bc-46a6-a9ca-d6d55c4a2336",
+      "627de831-3bcb-4c9d-a2cd-09c7bccf0f34"
+    ],
+    "activeCandidateIds": [
+      "9f756893-0b24-44da-9b5b-07152c53fd6f",
+      "6b31d575-28bf-49af-a7b0-ca01ecfb1104",
+      "d32d2b35-1a83-4d3b-a699-2a2002cf5eb1",
+      "a38ac45d-bb1f-4de5-91d7-b516f90505ba",
+      "5b2fff99-ab31-4035-acc1-a77a15b6ec68",
+      "002e580f-7b71-4a8d-a271-2bc8c8f591fe",
+      "627de831-3bcb-4c9d-a2cd-09c7bccf0f34"
+    ]
+  }
+]

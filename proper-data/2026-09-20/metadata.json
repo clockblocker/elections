@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "votingDate": "2026-09-20",
+  "scope": "all campaigns returned by the official CEC calendar for the voting date",
+  "electionsSource": {
+    "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/elections?page=1&perPage=5000&votingDateFrom=2026-09-20&votingDateTo=2026-09-20",
+    "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/elections?page=1&perPage=5000&votingDateFrom=2026-09-20&votingDateTo=2026-09-20",
+    "retrievedAt": "2026-08-30T14:04:21.004686+00:00",
+    "sha256": "1c8a61c2db5a16b0b8c023b3a9b8bef483ebedd496372b5c110f296f8614a727",
+    "status": 200,
+    "provenance": "live-official"
+  },
+  "identityAssumption": "Election-specific classifier UIKs are treated as the same existing UIK when region code and UIK number agree. Each election assignment itself is retained with its official classifier UUID and source hash.",
+  "associationRegistrationMark": "not_marked_registered means the type-236 response has no registration decision fields. The official portal warns that those fields can also be absent after cancellation or annulment, so ballotEligibility remains null.",
+  "territorialStatus": {
+    "codes": {
+      "93": "Crimea",
+      "94": "Sevastopol",
+      "95": "Donetsk",
+      "96": "Luhansk",
+      "97": "Zaporizhzhia",
+      "98": "Kherson"
+    },
+    "cecClassification": "subject_of_russian_federation",
+    "internationalRecognition": "part_of_ukraine",
+    "unReferences": [
+      "https://docs.un.org/A/RES/68/262",
+      "https://docs.un.org/A/RES/ES-11/4"
+    ]
+  }
+}

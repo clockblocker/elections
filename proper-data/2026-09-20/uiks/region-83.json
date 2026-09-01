@@ -1,0 +1,3140 @@
+[
+  {
+    "uikKey": "83:1",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 1,
+    "uikNames": [
+      "УИК №1"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318242",
+      "uikName": "УИК №1",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "8e4cec6a-a6cf-40ff-af4c-f5ef7625c744",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:2",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 2,
+    "uikNames": [
+      "УИК №2"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318243",
+      "uikName": "УИК №2",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "c08692ba-60d7-436e-b1f3-dddc28e0ba02",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:3",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 3,
+    "uikNames": [
+      "УИК №3"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318244",
+      "uikName": "УИК №3",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "aba2d4f8-d462-4589-a873-2fec6f9e9456",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:4",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 4,
+    "uikNames": [
+      "УИК №4"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318245",
+      "uikName": "УИК №4",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "fdf3395b-3940-4b07-8757-c940ca3e5dce",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:5",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 5,
+    "uikNames": [
+      "УИК №5"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318246",
+      "uikName": "УИК №5",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "7289e16f-2647-4642-ac78-1f639337e888",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:6",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 6,
+    "uikNames": [
+      "УИК №6"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318247",
+      "uikName": "УИК №6",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "a90976d9-2c14-4ed0-8215-52b467703d09",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:7",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 7,
+    "uikNames": [
+      "УИК №7"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318248",
+      "uikName": "УИК №7",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "2146ed8f-ad1a-447c-85a9-51ff95effcff",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:8",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 8,
+    "uikNames": [
+      "УИК №8"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318249",
+      "uikName": "УИК №8",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "f76f766a-b345-4c79-8082-6423cb08f5f6",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:9",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 9,
+    "uikNames": [
+      "УИК №9"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318250",
+      "uikName": "УИК №9",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "dd66c112-c8cc-43b0-a414-ef35e4da84f8",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:10",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 10,
+    "uikNames": [
+      "УИК №10"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318251",
+      "uikName": "УИК №10",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "56ab9df5-7fe9-45a9-a35e-d3a9383ae7d0",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:11",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 11,
+    "uikNames": [
+      "УИК №11"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318252",
+      "uikName": "УИК №11",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "3423a6bb-7d2f-48ee-9ae3-a8af4b6b3f5f",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:12",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 12,
+    "uikNames": [
+      "УИК №12"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318253",
+      "uikName": "УИК №12",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "e37d44eb-97f9-4d72-8a04-039e6cadbe33",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:13",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 13,
+    "uikNames": [
+      "УИК №13"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318254",
+      "uikName": "УИК №13",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "075f0dee-70ae-4936-b87d-af6fe25a709d",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:14",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 14,
+    "uikNames": [
+      "УИК №14"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318255",
+      "uikName": "УИК №14",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "bfb8bfb3-185d-45fc-bd49-a00d0910db5a",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:15",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 15,
+    "uikNames": [
+      "УИК №15"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318256",
+      "uikName": "УИК №15",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "0d165809-c3b9-4944-a4fb-6890c1ab1fac",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:16",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 16,
+    "uikNames": [
+      "УИК №16"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318257",
+      "uikName": "УИК №16",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "13c49565-7b8a-4d46-b1e1-5edea966b930",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:17",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 17,
+    "uikNames": [
+      "УИК №17"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318258",
+      "uikName": "УИК №17",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "94dd8057-bfee-4c77-a765-d068bee7967b",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:18",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 18,
+    "uikNames": [
+      "УИК №18"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318259",
+      "uikName": "УИК №18",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "c6b71f2e-3173-4a02-a544-68de5db3ee53",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:19",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 19,
+    "uikNames": [
+      "УИК №19"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318260",
+      "uikName": "УИК №19",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "8de2d058-61ed-4774-a6b9-287d5018a028",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:20",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 20,
+    "uikNames": [
+      "УИК №20"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318261",
+      "uikName": "УИК №20",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "762cdd27-74de-4e51-b1c4-0c5deae60f50",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:21",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 21,
+    "uikNames": [
+      "УИК №21"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318262",
+      "uikName": "УИК №21",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "6e38e0a4-ddc2-4850-9f4e-5a723e719afa",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:22",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 22,
+    "uikNames": [
+      "УИК №22"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318263",
+      "uikName": "УИК №22",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "6cfe5204-6987-44a1-a4f4-c116002acce3",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:23",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 23,
+    "uikNames": [
+      "УИК №23"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318264",
+      "uikName": "УИК №23",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "669d1943-9391-4a1e-bb43-e9fa8980c95d",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:24",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 24,
+    "uikNames": [
+      "УИК №24"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318265",
+      "uikName": "УИК №24",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "706b59f7-4f12-46b7-9f1a-b5bd86f17af5",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:25",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 25,
+    "uikNames": [
+      "УИК №25"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318266",
+      "uikName": "УИК №25",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "7b1de9ec-9a43-46bd-bf02-2bb96867925b",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:26",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 26,
+    "uikNames": [
+      "УИК №26"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318267",
+      "uikName": "УИК №26",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "869fe4e7-3ad3-495d-9c57-bac0335d237c",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:27",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 27,
+    "uikNames": [
+      "УИК №27"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318268",
+      "uikName": "УИК №27",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "eb2862b5-d421-47d4-a060-eef1308ac303",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:28",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 28,
+    "uikNames": [
+      "УИК №28"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318269",
+      "uikName": "УИК №28",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "c213cc89-3916-4d27-ab9c-b43ffb5b6d0e",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:29",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 29,
+    "uikNames": [
+      "УИК №29"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318270",
+      "uikName": "УИК №29",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "aad31c36-2d48-4b41-b09b-041322facc55",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      },
+      {
+        "electionId": "73496fc8-d76b-42db-87d1-82c068fb37b8",
+        "electionName": "Выборы Совета депутатов  Сельского поселения \"Малоземельский сельсовет\" Заполярного района Ненецкого автономного округа 8 созыва",
+        "levelCode": "6",
+        "kindCode": "2",
+        "candidateSetRegionCode": "83",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "52288a90-bfa9-41a8-8076-d8c1a5a94ed1",
+            "district": {
+              "classifierId": "ab3cbd37-35c8-4c37-8acf-1ad7a16025a9",
+              "number": 1,
+              "name": "Нельмин-Ноский"
+            },
+            "territorial": null,
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=ab3cbd37-35c8-4c37-8acf-1ad7a16025a9&electionsId=588928929",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=ab3cbd37-35c8-4c37-8acf-1ad7a16025a9&electionsId=588928929",
+              "retrievedAt": "2026-08-30T14:46:34.939425+00:00",
+              "sha256": "f6bcfdfd251b9a7fbb894fe66cc5908970785a8d283950994a8aad65f533044c",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "73496fc8-d76b-42db-87d1-82c068fb37b8:direct:1"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number"
+      },
+      {
+        "electionId": "89921756-8a60-4c97-a78b-0b49c6091683",
+        "electionName": "Выборы Главы Сельского поселения \"Малоземельский сельсовет\" Заполярного района Ненецкого автономного округа",
+        "levelCode": "6",
+        "kindCode": "1",
+        "candidateSetRegionCode": "83",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "9ef4eabc-37f5-4ab9-8a7e-b68ccaec277b",
+            "district": null,
+            "territorial": null,
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?electionsId=588925527",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?electionsId=588925527",
+              "retrievedAt": "2026-08-30T14:46:25.750168+00:00",
+              "sha256": "68a1e88430fdea0681cb9dfed7f2779425b3da90a9d05045f8daba3713017be1",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "89921756-8a60-4c97-a78b-0b49c6091683:direct:all"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:30",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 30,
+    "uikNames": [
+      "УИК №30"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318271",
+      "uikName": "УИК №30",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "edcd4b17-ffc2-4018-802a-87be5f5131a7",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:31",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 31,
+    "uikNames": [
+      "УИК №31"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318272",
+      "uikName": "УИК №31",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "136c850b-6ff8-4c5e-92c7-f6d37b4166bf",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:32",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 32,
+    "uikNames": [
+      "УИК №32"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318273",
+      "uikName": "УИК №32",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "fde5462c-cd35-4909-9353-8ba94846d400",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:33",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 33,
+    "uikNames": [
+      "УИК №33"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318274",
+      "uikName": "УИК №33",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "7c5631b8-0c49-48da-aec9-6a33edf95d1f",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:34",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 34,
+    "uikNames": [
+      "УИК №34"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318275",
+      "uikName": "УИК №34",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "6a418dc2-e37b-4083-b48f-f91e9439e32b",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:35",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 35,
+    "uikNames": [
+      "УИК №35"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318276",
+      "uikName": "УИК №35",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "e797d20b-b78e-4aa9-a423-69798b48da8a",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:36",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 36,
+    "uikNames": [
+      "УИК №36"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318277",
+      "uikName": "УИК №36",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "da7c11e3-6463-46c7-9069-8f788da27da4",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:37",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 37,
+    "uikNames": [
+      "УИК №37"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318278",
+      "uikName": "УИК №37",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "6ddec293-eea3-4260-913c-8777e5904068",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:38",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 38,
+    "uikNames": [
+      "УИК №38"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318279",
+      "uikName": "УИК №38",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "4798df62-5788-4751-84c4-940ff91c3441",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:39",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 39,
+    "uikNames": [
+      "УИК №39"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834002318280",
+      "uikName": "УИК №39",
+      "tikTvd": "2832000486039",
+      "tikName": "Заполярная"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "c0b849dd-aaf3-47eb-82e3-955262abad89",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "09e5acf0-af9c-4ace-81aa-61d4663113e3",
+              "number": 2,
+              "name": "Заполярная"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=09e5acf0-af9c-4ace-81aa-61d4663113e3&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.929292+00:00",
+              "sha256": "6a9641d102985794b6e8caaa4987bc4811382ddd870d12f49829f7a6983c1fa9",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:40",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 40,
+    "uikNames": [
+      "УИК №40"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834001272939",
+      "uikName": "УИК №40",
+      "tikTvd": "2832000486038",
+      "tikName": "Нарьян-Марская"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "a0d4258c-09f1-4e57-b7d3-029683870440",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "5dbfaacf-b640-4280-a503-73967b31b673",
+              "number": 1,
+              "name": "Нарьян-Марская"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.842620+00:00",
+              "sha256": "8b5f5a24b54ddee88eefaca9524f31e83226935821fdceb91c936e53f72fea84",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:41",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 41,
+    "uikNames": [
+      "УИК №41"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834001272940",
+      "uikName": "УИК №41",
+      "tikTvd": "2832000486038",
+      "tikName": "Нарьян-Марская"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "5ba3f5e6-1cc5-41c9-8b8e-a9d9a5254f53",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "5dbfaacf-b640-4280-a503-73967b31b673",
+              "number": 1,
+              "name": "Нарьян-Марская"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.842620+00:00",
+              "sha256": "8b5f5a24b54ddee88eefaca9524f31e83226935821fdceb91c936e53f72fea84",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:42",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 42,
+    "uikNames": [
+      "УИК №42"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834001272941",
+      "uikName": "УИК №42",
+      "tikTvd": "2832000486038",
+      "tikName": "Нарьян-Марская"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "0ec7d095-e556-4617-a86e-172b698cb31c",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "5dbfaacf-b640-4280-a503-73967b31b673",
+              "number": 1,
+              "name": "Нарьян-Марская"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.842620+00:00",
+              "sha256": "8b5f5a24b54ddee88eefaca9524f31e83226935821fdceb91c936e53f72fea84",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:43",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 43,
+    "uikNames": [
+      "УИК №43"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834001272942",
+      "uikName": "УИК №43",
+      "tikTvd": "2832000486038",
+      "tikName": "Нарьян-Марская"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "40afd2c5-2368-433d-8828-85aba0501c20",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "5dbfaacf-b640-4280-a503-73967b31b673",
+              "number": 1,
+              "name": "Нарьян-Марская"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.842620+00:00",
+              "sha256": "8b5f5a24b54ddee88eefaca9524f31e83226935821fdceb91c936e53f72fea84",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:44",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 44,
+    "uikNames": [
+      "УИК №44"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834001272943",
+      "uikName": "УИК №44",
+      "tikTvd": "2832000486038",
+      "tikName": "Нарьян-Марская"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "f2a076bb-901d-4a36-aef0-fea4d2c40adf",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "5dbfaacf-b640-4280-a503-73967b31b673",
+              "number": 1,
+              "name": "Нарьян-Марская"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.842620+00:00",
+              "sha256": "8b5f5a24b54ddee88eefaca9524f31e83226935821fdceb91c936e53f72fea84",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:45",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 45,
+    "uikNames": [
+      "УИК №45"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834001272944",
+      "uikName": "УИК №45",
+      "tikTvd": "2832000486038",
+      "tikName": "Нарьян-Марская"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "d9cc2a4a-c508-46ad-b0fc-73b57e886654",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "5dbfaacf-b640-4280-a503-73967b31b673",
+              "number": 1,
+              "name": "Нарьян-Марская"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.842620+00:00",
+              "sha256": "8b5f5a24b54ddee88eefaca9524f31e83226935821fdceb91c936e53f72fea84",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:46",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 46,
+    "uikNames": [
+      "УИК №46"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834001272945",
+      "uikName": "УИК №46",
+      "tikTvd": "2832000486038",
+      "tikName": "Нарьян-Марская"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "a05c969d-e615-4818-b1aa-d885dddd4de8",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "5dbfaacf-b640-4280-a503-73967b31b673",
+              "number": 1,
+              "name": "Нарьян-Марская"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.842620+00:00",
+              "sha256": "8b5f5a24b54ddee88eefaca9524f31e83226935821fdceb91c936e53f72fea84",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:47",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 47,
+    "uikNames": [
+      "УИК №47"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834001272946",
+      "uikName": "УИК №47",
+      "tikTvd": "2832000486038",
+      "tikName": "Нарьян-Марская"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "68d8670a-54d5-4dc5-8e05-9b5250dd97d9",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "5dbfaacf-b640-4280-a503-73967b31b673",
+              "number": 1,
+              "name": "Нарьян-Марская"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.842620+00:00",
+              "sha256": "8b5f5a24b54ddee88eefaca9524f31e83226935821fdceb91c936e53f72fea84",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:48",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 48,
+    "uikNames": [
+      "УИК №48"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834001272947",
+      "uikName": "УИК №48",
+      "tikTvd": "2832000486038",
+      "tikName": "Нарьян-Марская"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "ee2f3c08-d55f-4b80-80c9-cc6ab267ed5e",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "5dbfaacf-b640-4280-a503-73967b31b673",
+              "number": 1,
+              "name": "Нарьян-Марская"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.842620+00:00",
+              "sha256": "8b5f5a24b54ddee88eefaca9524f31e83226935821fdceb91c936e53f72fea84",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:49",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 49,
+    "uikNames": [
+      "УИК №49"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834001272948",
+      "uikName": "УИК №49",
+      "tikTvd": "2832000486038",
+      "tikName": "Нарьян-Марская"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "f2a71f7f-f690-4bdb-bbb0-db83eb79369b",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "5dbfaacf-b640-4280-a503-73967b31b673",
+              "number": 1,
+              "name": "Нарьян-Марская"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.842620+00:00",
+              "sha256": "8b5f5a24b54ddee88eefaca9524f31e83226935821fdceb91c936e53f72fea84",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:50",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 50,
+    "uikNames": [
+      "УИК №50"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834001272949",
+      "uikName": "УИК №50",
+      "tikTvd": "2832000486038",
+      "tikName": "Нарьян-Марская"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "08cb2d50-1ea5-46f4-bff0-7d543dd5f589",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "5dbfaacf-b640-4280-a503-73967b31b673",
+              "number": 1,
+              "name": "Нарьян-Марская"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.842620+00:00",
+              "sha256": "8b5f5a24b54ddee88eefaca9524f31e83226935821fdceb91c936e53f72fea84",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:51",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 51,
+    "uikNames": [
+      "УИК №51"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834001272950",
+      "uikName": "УИК №51",
+      "tikTvd": "2832000486038",
+      "tikName": "Нарьян-Марская"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "bf8bd874-6c0b-4d74-9bca-3412fcbdbd75",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "5dbfaacf-b640-4280-a503-73967b31b673",
+              "number": 1,
+              "name": "Нарьян-Марская"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.842620+00:00",
+              "sha256": "8b5f5a24b54ddee88eefaca9524f31e83226935821fdceb91c936e53f72fea84",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:52",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 52,
+    "uikNames": [
+      "УИК №52"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834001272951",
+      "uikName": "УИК №52",
+      "tikTvd": "2832000486038",
+      "tikName": "Нарьян-Марская"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "e54f0e3e-c07f-4a44-bdb0-774828ce19c9",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "5dbfaacf-b640-4280-a503-73967b31b673",
+              "number": 1,
+              "name": "Нарьян-Марская"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.842620+00:00",
+              "sha256": "8b5f5a24b54ddee88eefaca9524f31e83226935821fdceb91c936e53f72fea84",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:53",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 53,
+    "uikNames": [
+      "УИК №53"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834001272952",
+      "uikName": "УИК №53",
+      "tikTvd": "2832000486038",
+      "tikName": "Нарьян-Марская"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "9af37ee8-517b-410b-9036-bd30acf7a485",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "5dbfaacf-b640-4280-a503-73967b31b673",
+              "number": 1,
+              "name": "Нарьян-Марская"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.842620+00:00",
+              "sha256": "8b5f5a24b54ddee88eefaca9524f31e83226935821fdceb91c936e53f72fea84",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  },
+  {
+    "uikKey": "83:54",
+    "regionCode": "83",
+    "territorialStatus": null,
+    "uikNumber": 54,
+    "uikNames": [
+      "УИК №54"
+    ],
+    "identityAssumption": "same_region_and_uik_number",
+    "existingStatus": "matched_2024_region_number",
+    "baseline2024": {
+      "uikTvd": "4834001272953",
+      "uikName": "УИК №54",
+      "tikTvd": "2832000486038",
+      "tikName": "Нарьян-Марская"
+    },
+    "assignments": [
+      {
+        "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+        "electionName": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+        "levelCode": "1",
+        "kindCode": "2",
+        "candidateSetRegionCode": "0",
+        "officialClassifierPaths": [
+          {
+            "uikClassifierId": "a6d215b3-2c08-4aa0-811e-43c55dbfbef8",
+            "district": {
+              "classifierId": "dbdda115-80f5-412f-881e-6b31e7c061ea",
+              "number": 221,
+              "name": "Ненецкий автономный округ – Ненецкий"
+            },
+            "territorial": {
+              "classifierId": "5dbfaacf-b640-4280-a503-73967b31b673",
+              "number": 1,
+              "name": "Нарьян-Марская"
+            },
+            "classifierBranch": null,
+            "source": {
+              "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/commissionClassifiers?classifierId=5dbfaacf-b640-4280-a503-73967b31b673&electionsId=587813923",
+              "retrievedAt": "2026-08-30T14:50:23.842620+00:00",
+              "sha256": "8b5f5a24b54ddee88eefaca9524f31e83226935821fdceb91c936e53f72fea84",
+              "status": 200,
+              "provenance": "live-official"
+            }
+          }
+        ],
+        "candidateSetKeys": [
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:direct:221",
+          "2b72bb97-c625-4a02-a76b-b5740c4d5f6a:proportional"
+        ],
+        "mappingStatus": "official_classifier",
+        "candidateMapping": "official_district_number",
+        "proportionalMapping": "official_election_scope"
+      }
+    ]
+  }
+]

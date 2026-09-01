@@ -1,0 +1,64 @@
+[
+  {
+    "candidateSetKey": "e01dbe0a-fcf4-47d1-abd1-44fd2f0061c7:direct:all",
+    "electionId": "e01dbe0a-fcf4-47d1-abd1-44fd2f0061c7",
+    "ballotType": "candidate",
+    "scope": "election_wide",
+    "districtNumber": null,
+    "candidateIds": [
+      "9b3b3819-d02b-4ffd-bf14-e569c75c053e",
+      "e620134a-9f0c-4bc4-a641-3c6b8f28a66b",
+      "f53c9c75-feee-4ef0-b551-4f4ba9ea2e76",
+      "ff5bc272-ab13-47c7-8ca8-20ede0422d5b",
+      "60704694-0f6b-41e2-8379-36d05d6a2e2f",
+      "d9278ac3-dc17-4442-bf72-318f597afcfc"
+    ],
+    "activeCandidateIds": [
+      "9b3b3819-d02b-4ffd-bf14-e569c75c053e",
+      "e620134a-9f0c-4bc4-a641-3c6b8f28a66b",
+      "ff5bc272-ab13-47c7-8ca8-20ede0422d5b",
+      "60704694-0f6b-41e2-8379-36d05d6a2e2f",
+      "d9278ac3-dc17-4442-bf72-318f597afcfc"
+    ]
+  },
+  {
+    "candidateSetKey": "34a82740-f856-4399-93f5-107bbe918c3a:direct:10",
+    "electionId": "34a82740-f856-4399-93f5-107bbe918c3a",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 10,
+    "candidateIds": [
+      "eaf97ba3-220f-4163-8bb6-5ba25d31bba8",
+      "cd3970f2-eca0-49b1-8bf2-a9bf74151b96",
+      "ed633c46-2918-42eb-b618-094bcf4d8d3b",
+      "3df78ea9-2166-4ada-bce1-fe256040dd56",
+      "aa3d750d-3de8-4f6b-8d74-fe8af6ebf373"
+    ],
+    "activeCandidateIds": [
+      "eaf97ba3-220f-4163-8bb6-5ba25d31bba8",
+      "cd3970f2-eca0-49b1-8bf2-a9bf74151b96",
+      "ed633c46-2918-42eb-b618-094bcf4d8d3b",
+      "3df78ea9-2166-4ada-bce1-fe256040dd56",
+      "aa3d750d-3de8-4f6b-8d74-fe8af6ebf373"
+    ]
+  },
+  {
+    "candidateSetKey": "f86a5e2c-ddbb-4f0e-9274-9b5ff082dd31:direct:3",
+    "electionId": "f86a5e2c-ddbb-4f0e-9274-9b5ff082dd31",
+    "ballotType": "candidate",
+    "scope": "district",
+    "districtNumber": 3,
+    "candidateIds": [
+      "2aff061b-ad82-4229-a763-e24e186af9f9",
+      "104078e5-7f94-4bda-8e35-590c9cb55e43",
+      "bfbab563-5524-450e-a588-f1c14781dcc6",
+      "ad4e8d0f-2530-48a0-a0cd-8c2cf560a2e1"
+    ],
+    "activeCandidateIds": [
+      "2aff061b-ad82-4229-a763-e24e186af9f9",
+      "104078e5-7f94-4bda-8e35-590c9cb55e43",
+      "bfbab563-5524-450e-a588-f1c14781dcc6",
+      "ad4e8d0f-2530-48a0-a0cd-8c2cf560a2e1"
+    ]
+  }
+]

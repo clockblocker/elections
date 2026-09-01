@@ -1,0 +1,33 @@
+[
+  {
+    "electionId": "b4029b6c-a6e4-4407-ae0f-168df2205e3f",
+    "internalId": 588449390,
+    "name": "Дополнительные выборы депутатов Элистинского городского Собрания седьмого созыва по одномандатным избирательным округам №№ 3, 5",
+    "votingDate": "2026-09-20",
+    "startVotingDay": null,
+    "finishVotingDay": null,
+    "campaignScope": "municipal",
+    "levelCode": "3",
+    "level": "Центр субъектов",
+    "regionCode": "8",
+    "region": "Республика Калмыкия",
+    "territorialStatus": null,
+    "territory": "город Элиста",
+    "kindCode": "2",
+    "kind": "Выборы депутатов",
+    "systemCode": "1",
+    "system": "мажоритарная",
+    "heldStatus": null,
+    "validStatus": null,
+    "electionStatus": null,
+    "revotingStatus": null,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/elections?page=1&perPage=5000&votingDateFrom=2026-09-20&votingDateTo=2026-09-20",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/elections?page=1&perPage=5000&votingDateFrom=2026-09-20&votingDateTo=2026-09-20",
+      "retrievedAt": "2026-08-30T14:04:21.004686+00:00",
+      "sha256": "1c8a61c2db5a16b0b8c023b3a9b8bef483ebedd496372b5c110f296f8614a727",
+      "status": 200,
+      "provenance": "live-official"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "electionId": "d5082b44-8bb2-48d9-b102-83f415f7cb66",
+    "internalId": 588428020,
+    "name": "Дополнительные выборы депутата городской Думы городского округа Вичуга восьмого созыва по одномандатному избирательному округу №8",
+    "votingDate": "2026-09-20",
+    "startVotingDay": null,
+    "finishVotingDay": null,
+    "campaignScope": "municipal",
+    "levelCode": "4",
+    "level": "Муниципальные районы",
+    "regionCode": "37",
+    "region": "Ивановская область",
+    "territorialStatus": null,
+    "territory": "городской округ Вичуга",
+    "kindCode": "2",
+    "kind": "Выборы депутатов",
+    "systemCode": "1",
+    "system": "мажоритарная",
+    "heldStatus": null,
+    "validStatus": null,
+    "electionStatus": null,
+    "revotingStatus": null,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/elections?page=1&perPage=5000&votingDateFrom=2026-09-20&votingDateTo=2026-09-20",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/elections?page=1&perPage=5000&votingDateFrom=2026-09-20&votingDateTo=2026-09-20",
+      "retrievedAt": "2026-08-30T14:04:21.004686+00:00",
+      "sha256": "1c8a61c2db5a16b0b8c023b3a9b8bef483ebedd496372b5c110f296f8614a727",
+      "status": 200,
+      "provenance": "live-official"
+    }
+  }
+]

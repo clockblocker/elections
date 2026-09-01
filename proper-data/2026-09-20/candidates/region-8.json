@@ -1,0 +1,138 @@
+[
+  {
+    "candidateId": "b92ab02a-7703-4234-b72a-7fbc125af75a",
+    "electionId": "b4029b6c-a6e4-4407-ae0f-168df2205e3f",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Болдунов Аркадий Борисович",
+    "birthDate": "1987-12-20",
+    "associationName": "Элистинское местное отделение Партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-20",
+    "registrationDecisionDate": "2026-07-20",
+    "registrationDecisionNumber": "6/1",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=c051fb4dc9541f4fa151815e4d0f1bb43bf5bbff99f72428413ee0899f942b38",
+      "retrievedAt": "2026-08-30T14:08:16.363575+00:00",
+      "sha256": "11cf81323bcc3583c232fad3796c4e28aa5fbf342e9c0417d0ed776313495eb8",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-20T14:11:46.03553Z"
+    }
+  },
+  {
+    "candidateId": "f3d0ad4c-d97c-48da-af8f-48dfdbb20b12",
+    "electionId": "b4029b6c-a6e4-4407-ae0f-168df2205e3f",
+    "scope": "majoritarian",
+    "districtNumber": 5,
+    "fullName": "Болдырев Мингиян Петрович",
+    "birthDate": "1977-02-06",
+    "associationName": "Калмыцкое региональное отделение Политической партии ЛДПР-Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-20",
+    "registrationDecisionDate": "2026-07-20",
+    "registrationDecisionNumber": "19",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=c051fb4dc9541f4fa151815e4d0f1bb43bf5bbff99f72428413ee0899f942b38",
+      "retrievedAt": "2026-08-30T14:08:16.363575+00:00",
+      "sha256": "11cf81323bcc3583c232fad3796c4e28aa5fbf342e9c0417d0ed776313495eb8",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-20T14:11:46.03553Z"
+    }
+  },
+  {
+    "candidateId": "1b9b794d-88b7-4444-850a-a63e221fcfa6",
+    "electionId": "b4029b6c-a6e4-4407-ae0f-168df2205e3f",
+    "scope": "majoritarian",
+    "districtNumber": 5,
+    "fullName": "Зинченко Наталья Николаевна",
+    "birthDate": "1977-06-16",
+    "associationName": "Региональное отделение Социалистической политической партии \"СПРАВЕДЛИВАЯ РОССИЯ  -  ПАТРИОТЫ -  ЗА ПРАВДУ\" в Республике Калмыкия",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-20",
+    "registrationDecisionDate": "2026-07-20",
+    "registrationDecisionNumber": "18",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=c051fb4dc9541f4fa151815e4d0f1bb43bf5bbff99f72428413ee0899f942b38",
+      "retrievedAt": "2026-08-30T14:08:16.363575+00:00",
+      "sha256": "11cf81323bcc3583c232fad3796c4e28aa5fbf342e9c0417d0ed776313495eb8",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-20T14:11:46.03553Z"
+    }
+  },
+  {
+    "candidateId": "f141bef5-f9cd-4d01-a363-0264ea75951d",
+    "electionId": "b4029b6c-a6e4-4407-ae0f-168df2205e3f",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Шаханова Екатерина Викторовна",
+    "birthDate": "1993-07-11",
+    "associationName": "Калмыцкое региональное отделение Политической партии ЛДПР-Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-20",
+    "registrationDecisionDate": "2026-07-20",
+    "registrationDecisionNumber": "6/2",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=c051fb4dc9541f4fa151815e4d0f1bb43bf5bbff99f72428413ee0899f942b38",
+      "retrievedAt": "2026-08-30T14:08:16.363575+00:00",
+      "sha256": "11cf81323bcc3583c232fad3796c4e28aa5fbf342e9c0417d0ed776313495eb8",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-20T14:11:46.03553Z"
+    }
+  }
+]

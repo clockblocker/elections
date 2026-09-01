@@ -1,0 +1,104 @@
+[
+  {
+    "candidateId": "61180574-bbe9-4fd3-9ac7-4f66e14315de",
+    "electionId": "46ce98a2-8c92-43e2-86e8-b52a0c1ba1f1",
+    "scope": "majoritarian",
+    "districtNumber": 9,
+    "fullName": "Кабардаев Алим Адамович",
+    "birthDate": "1977-05-19",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-20",
+    "registrationDecisionDate": "2026-07-20",
+    "registrationDecisionNumber": "15/51-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=c7765a8fa621c313adaba3da2d012b6093cc3bc14fe4d431bd1d6991c52f642e",
+      "retrievedAt": "2026-08-30T14:08:16.449209+00:00",
+      "sha256": "e4064e1bc7b839b777756adeda54e3a1a099f98a70544cc702bebd4506478d78",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-21T09:45:02.432452Z"
+    }
+  },
+  {
+    "candidateId": "08cc2e26-77b8-41b6-a872-9554bcb1b4d9",
+    "electionId": "46ce98a2-8c92-43e2-86e8-b52a0c1ba1f1",
+    "scope": "majoritarian",
+    "districtNumber": 9,
+    "fullName": "Кятов Курман Арсенович",
+    "birthDate": "1992-06-04",
+    "associationName": "Хабезское местное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-20",
+    "registrationDecisionDate": "2026-07-20",
+    "registrationDecisionNumber": "15/49-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=c7765a8fa621c313adaba3da2d012b6093cc3bc14fe4d431bd1d6991c52f642e",
+      "retrievedAt": "2026-08-30T14:08:16.449209+00:00",
+      "sha256": "e4064e1bc7b839b777756adeda54e3a1a099f98a70544cc702bebd4506478d78",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-21T09:45:02.432452Z"
+    }
+  },
+  {
+    "candidateId": "623ac481-03e1-4397-a55f-81161a9f8e6d",
+    "electionId": "46ce98a2-8c92-43e2-86e8-b52a0c1ba1f1",
+    "scope": "majoritarian",
+    "districtNumber": 9,
+    "fullName": "Туаршев Азамат Фуадович",
+    "birthDate": "1991-07-23",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-20",
+    "registrationDecisionDate": "2026-07-20",
+    "registrationDecisionNumber": "15/50-6",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=c7765a8fa621c313adaba3da2d012b6093cc3bc14fe4d431bd1d6991c52f642e",
+      "retrievedAt": "2026-08-30T14:08:16.449209+00:00",
+      "sha256": "e4064e1bc7b839b777756adeda54e3a1a099f98a70544cc702bebd4506478d78",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-21T09:45:02.432452Z"
+    }
+  }
+]

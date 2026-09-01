@@ -1,0 +1,26 @@
+[
+  {
+    "associationId": "3ffa2ebd-77e3-4883-9277-fe841671ca33",
+    "electionId": "d5082b44-8bb2-48d9-b102-83f415f7cb66",
+    "name": "Вичугское городское местное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "drawNumber": null,
+    "registrationMark": "not_marked_registered",
+    "ballotEligibility": null,
+    "certifiedDecisionDate": null,
+    "certifiedDecisionNumber": null,
+    "registeredDecisionDate": null,
+    "registeredDecisionNumber": null,
+    "majoritarianCertifiedDecisionDate": null,
+    "majoritarianCertifiedDecisionNumber": null,
+    "foreignAgentInList": null,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=d5082b44-8bb2-48d9-b102-83f415f7cb66",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=d5082b44-8bb2-48d9-b102-83f415f7cb66",
+      "retrievedAt": "2026-08-30T14:23:07.075522+00:00",
+      "sha256": "955bfac707b32ac70d4a9a8cd04613df04ec0ef3a1afdc0fa5d417e84b345e9b",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-23T15:53:57.309083+03:00"
+    }
+  }
+]

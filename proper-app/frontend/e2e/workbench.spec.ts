@@ -34,4 +34,8 @@ test("loads the protocol-cloud screen, filters its display, and opens a scored p
   await expect(page.getByLabel("Target candidate")).toContainText("Путин");
   await expect(page.getByText("91,946 imported protocols")).toBeVisible();
   await expect(page.getByRole("heading", { name: "Путин turnout × result field" })).toBeVisible();
+
+  await page.goto("/?election=2024-president&option=124&uik=1117195");
+  await expect(page.getByRole("heading", { name: "UIK 1450" })).toBeVisible();
+  await expect(page.locator(".clt-card").getByText("P_sus grade")).toBeVisible();
 });

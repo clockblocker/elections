@@ -1,0 +1,3297 @@
+[
+  {
+    "candidateId": "d9ce3355-1395-40e8-b4c0-938e3fbd25ff",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Абакаров Абулмуслим Мутаевич",
+    "birthDate": "1966-11-19",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registration_refused",
+      "label": "отказ в регистрации"
+    },
+    "electionStatus": null,
+    "ballotEligible": false,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": null,
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "10/35",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=07c42dfeac29a06a86cced803fbc005e459c14f8cf38f4d436727657a9aacc35",
+      "retrievedAt": "2026-08-30T14:47:13.259379+00:00",
+      "sha256": "9e2c67419528a81c47a6e2d1ced9ef5f59c6937b887cb8a93dc4796e1f93042f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "23a4b714-213f-4b9a-b8fb-5239ae8d3e07",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Агапов Александр Александрович",
+    "birthDate": "1988-09-03",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 3,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "161/910",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "2f8f4c7d-7024-4783-ac4a-49b2fff8659b",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Албегова Берта Эриковна",
+    "birthDate": "1964-08-08",
+    "associationName": "КПРФ - ЧУКОТСКОЕ ОКРУЖНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 7,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/932",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "2e1e6a96-7af1-411f-9291-e133d06bb39c",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Антонова Наталья Николаевна",
+    "birthDate": "1989-06-29",
+    "associationName": "Чукотское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 4,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "162/916",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "43a4adca-ce1f-4dd0-a86f-e41e09a1d5eb",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Басанкеева Светлана Васильевна",
+    "birthDate": "1969-08-27",
+    "associationName": "Чукотское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 11,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "162/916",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "75a619e1-2034-461f-9d7f-fd84c2108e92",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Бауэр Татьяна Евгеньевна",
+    "birthDate": "1990-11-30",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 16,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "161/910",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "0e17939b-418d-4f2b-bcea-0936f1edc34a",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Бережная Ольга Владимировна",
+    "birthDate": "1976-10-22",
+    "associationName": "Чукотское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 15,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "162/916",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "6938c88d-f118-4178-b165-79602249649e",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Богданова Мария Александровна",
+    "birthDate": "1993-08-18",
+    "associationName": "Чукотское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 14,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "162/916",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "8a99aa46-7a1a-449a-bdc0-3fdb2916403d",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Брянцева Любовь Николаевна",
+    "birthDate": "1982-01-19",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 4,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "161/910",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "46c4549e-b38a-4252-9bdf-3757cce7fdc0",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Бутакова Татьяна Андреевна",
+    "birthDate": "2002-12-16",
+    "associationName": "Чукотское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 7,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "162/916",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "8351689a-9bcc-44c8-87c9-b5f6bf3de80e",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Бутакова Юлия Сергеевна",
+    "birthDate": "1977-07-08",
+    "associationName": "Чукотское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 3,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "162/916",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "ac590bf3-27ba-4c98-857d-eab3f22ba672",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Бухлов Евгений Викторович",
+    "birthDate": "1976-10-18",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 6,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "161/910",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "882b34e6-ae6c-4d01-8f9c-d07b5ea0e4c3",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Войлоков Богдан Михайлович",
+    "birthDate": "2002-04-09",
+    "associationName": "КПРФ - ЧУКОТСКОЕ ОКРУЖНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 11,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/932",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "45a06e8a-ea4c-46b0-a336-cb185aec6487",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Вуквукай Самира Ризвановна",
+    "birthDate": "1993-01-29",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Чукотском автономном округе",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 2,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/931",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "538fb2d0-5f46-4dbe-81aa-82aa7544232c",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Гальцов Владимир Анатольевич",
+    "birthDate": "1970-02-14",
+    "associationName": "КПРФ - ЧУКОТСКОЕ ОКРУЖНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 1,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/932",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "f357f732-5897-461b-8bcd-05fb9ea068d7",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Гнеденко Кристина Сергеевна",
+    "birthDate": "1986-12-01",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Чукотском автономном округе",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 11,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/931",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "0a371f01-f8c2-4864-a94c-e065c8c2e9f4",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Гребцов Константин Константинович",
+    "birthDate": "1998-03-17",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 15,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "161/910",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "3c2408f2-0a66-41bd-83a3-133e0aa54ba6",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Гришин Олег Николаевич",
+    "birthDate": "1973-08-01",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 13,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "161/910",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "6b81f5e0-8c8c-4a20-a339-0a399af05d8c",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Гуринец Любовь Сергеевна",
+    "birthDate": "1984-03-01",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Чукотском автономном округе",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 10,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/931",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "2d626a88-573f-493e-a642-fdc39f4bdfe5",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Данилова Людмила Леонидовна",
+    "birthDate": "1978-02-21",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-23",
+    "registrationDecisionDate": "2026-07-23",
+    "registrationDecisionNumber": "10/22",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=07c42dfeac29a06a86cced803fbc005e459c14f8cf38f4d436727657a9aacc35",
+      "retrievedAt": "2026-08-30T14:47:13.259379+00:00",
+      "sha256": "9e2c67419528a81c47a6e2d1ced9ef5f59c6937b887cb8a93dc4796e1f93042f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "5d1443f9-e60d-48d1-8e6e-a84c3ef12f32",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Евтюхова Елена Александровна",
+    "birthDate": "1970-08-07",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 2,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "161/910",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "5e8d3695-97ff-44c0-b781-d54cd2e17631",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Елагин Виктор Юрьевич",
+    "birthDate": "1964-11-25",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "13/27",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=07c42dfeac29a06a86cced803fbc005e459c14f8cf38f4d436727657a9aacc35",
+      "retrievedAt": "2026-08-30T14:47:13.259379+00:00",
+      "sha256": "9e2c67419528a81c47a6e2d1ced9ef5f59c6937b887cb8a93dc4796e1f93042f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "0839458b-1545-4df2-bdb9-2a81040ffd18",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Жданов Александр Викторович",
+    "birthDate": "1972-01-05",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 11,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "161/910",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "feed0440-20b7-447b-bca9-555584dbca93",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Зимарева Кристина Андреевна",
+    "birthDate": "1997-06-18",
+    "associationName": "КПРФ - ЧУКОТСКОЕ ОКРУЖНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 9,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/932",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "62820454-14e2-4a0a-997e-c442dd33c2b7",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Зимина Елена Васильевна",
+    "birthDate": "1973-06-01",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Чукотском автономном округе",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 4,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/931",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "b03c62e1-e7b0-4c33-8c0c-a22c7da62aeb",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Зинченко Александр Владимирович",
+    "birthDate": "1981-09-21",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Чукотском автономном округе",
+    "nominationStatus": {
+      "code": "nomination_lost",
+      "label": "утративший статус выдвинутого кандидата"
+    },
+    "registrationStatus": null,
+    "electionStatus": null,
+    "ballotEligible": false,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 13,
+    "registrationDate": null,
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/931",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "cff849aa-8969-4265-a47d-ddedf41115dc",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Зотиков Владислав Вадимович",
+    "birthDate": "1991-12-24",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-17",
+    "registrationDecisionDate": "2026-07-17",
+    "registrationDecisionNumber": "07/23",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=07c42dfeac29a06a86cced803fbc005e459c14f8cf38f4d436727657a9aacc35",
+      "retrievedAt": "2026-08-30T14:47:13.259379+00:00",
+      "sha256": "9e2c67419528a81c47a6e2d1ced9ef5f59c6937b887cb8a93dc4796e1f93042f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "5956cc01-1c95-4f17-9de2-1d5c6d71923c",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Калинина Алёна Сергеевна",
+    "birthDate": "1989-09-19",
+    "associationName": "КПРФ - ЧУКОТСКОЕ ОКРУЖНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 8,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/932",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "c635dc8d-b067-4fd1-9906-1e3b892e7e5c",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Каргинов Сергей Генрихович",
+    "birthDate": "1969-09-05",
+    "associationName": "Чукотское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 2,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "162/916",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "4c6edc3a-d20b-4b5f-bd48-d5d2fab69d78",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Климов Петр Александрович",
+    "birthDate": "1957-08-21",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 8,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "161/910",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "a26d5048-c33a-4cfd-bc5d-2c1957af496f",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Колесов Леонид Сергеевич",
+    "birthDate": "1989-08-18",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 9,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "161/910",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "68cfb1c5-95e7-4609-859d-ab3fe929a013",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Кривошлыков Сергей Семенович",
+    "birthDate": "1959-09-22",
+    "associationName": "КПРФ - ЧУКОТСКОЕ ОКРУЖНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 10,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/932",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "0c8fb506-e0f6-482d-b553-4acdf56b526b",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Кривошлыкова Ольга Ивановна",
+    "birthDate": "1963-03-21",
+    "associationName": "КПРФ - ЧУКОТСКОЕ ОКРУЖНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 6,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/932",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "a6f06a6b-7d8d-47bc-8f94-0f219a9df045",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Кымыет Наталья Яковлевна",
+    "birthDate": "1971-12-24",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-17",
+    "registrationDecisionDate": "2026-07-17",
+    "registrationDecisionNumber": "07/24",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=07c42dfeac29a06a86cced803fbc005e459c14f8cf38f4d436727657a9aacc35",
+      "retrievedAt": "2026-08-30T14:47:13.259379+00:00",
+      "sha256": "9e2c67419528a81c47a6e2d1ced9ef5f59c6937b887cb8a93dc4796e1f93042f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "ecf81009-52ab-4237-9398-bd2d2e999392",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Лейта Мария Николаевна",
+    "birthDate": "1992-01-16",
+    "associationName": "КПРФ - ЧУКОТСКОЕ ОКРУЖНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 2,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/932",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "481658a2-9906-4b2e-86fc-e18f2c7b7b93",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Литовка Денис Игоревич",
+    "birthDate": "1976-07-08",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Чукотском автономном округе",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 3,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/931",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "6aa26676-5497-4566-86fb-a379fec7b978",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Лобанов Антон Вадимович",
+    "birthDate": "1979-01-16",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Чукотском автономном округе",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 1,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/931",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "d45fed18-606f-4301-a87f-2392b3bf2e7e",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Лобанова Наталия Антоновна",
+    "birthDate": "2000-09-21",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Чукотском автономном округе",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 9,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/931",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "a5276cc1-7f47-4676-a8fd-7ca7400830be",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Луценко Константин Олегович",
+    "birthDate": "1982-09-27",
+    "associationName": "КПРФ - ЧУКОТСКОЕ ОКРУЖНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 5,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/932",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "2929f571-dfc0-4973-b79f-7a9b0c17cfa4",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Мартынов Евгений Васильевич",
+    "birthDate": "2003-02-23",
+    "associationName": "КПРФ - ЧУКОТСКОЕ ОКРУЖНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 14,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/932",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "3029e87c-65fc-4ab8-96aa-65af9dbfb886",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Мещерякова Ирина Нифонтовна",
+    "birthDate": "1968-02-18",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Чукотском автономном округе",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 5,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/931",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "29e95b43-4efc-417e-8f14-19d1ca85e8a2",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Мусорин Вячеслав Александрович",
+    "birthDate": "1985-03-12",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Чукотском автономном округе",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 13,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/931",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "bc4b6651-8791-47b3-9038-297eec2a7520",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Наумова Екатерина Максимовна",
+    "birthDate": "1998-03-16",
+    "associationName": "Чукотское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 12,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "162/916",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "39742d72-f5fa-4bdc-8998-d7f1bc596f50",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Николаев Леонид Анатольевич",
+    "birthDate": "1971-05-29",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 1,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "161/910",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "4a6c7b86-80b1-4b16-85fc-ae67992b8197",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Олейник Рената Валерьевна",
+    "birthDate": "1985-07-17",
+    "associationName": "Чукотское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 6,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "162/916",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "2b535033-a2c6-46d8-b064-0bda80eeee00",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Патрушев Евгений Геннадьевич",
+    "birthDate": "1987-08-05",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-27",
+    "registrationDecisionDate": "2026-07-25",
+    "registrationDecisionNumber": "11/24",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=07c42dfeac29a06a86cced803fbc005e459c14f8cf38f4d436727657a9aacc35",
+      "retrievedAt": "2026-08-30T14:47:13.259379+00:00",
+      "sha256": "9e2c67419528a81c47a6e2d1ced9ef5f59c6937b887cb8a93dc4796e1f93042f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "6b0cb1af-4993-40d1-b275-33ff8e146ebd",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Попова Ольга Анатольевна",
+    "birthDate": "1988-07-24",
+    "associationName": "Чукотское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 9,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "162/916",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "d24fca99-e54a-467f-b729-7ad20797bad7",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Ракитин Анатолий Константинович",
+    "birthDate": "1955-11-05",
+    "associationName": "КПРФ - ЧУКОТСКОЕ ОКРУЖНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 4,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/932",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "e4be137f-2790-40bb-b43f-f8b3af7d236e",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Рамазанова Эмилия Аскербиевна",
+    "birthDate": "1984-12-26",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 7,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "161/910",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "8e6f1c35-4724-4829-bae1-1a7b5f6582cf",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Рахтинаут Вера Константиновна",
+    "birthDate": "1967-08-14",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registration_refused",
+      "label": "отказ в регистрации"
+    },
+    "electionStatus": null,
+    "ballotEligible": false,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": null,
+    "registrationDecisionDate": "2026-08-14",
+    "registrationDecisionNumber": "11/36",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=07c42dfeac29a06a86cced803fbc005e459c14f8cf38f4d436727657a9aacc35",
+      "retrievedAt": "2026-08-30T14:47:13.259379+00:00",
+      "sha256": "9e2c67419528a81c47a6e2d1ced9ef5f59c6937b887cb8a93dc4796e1f93042f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "4683e3aa-ec54-49f4-a506-a076575b93fb",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Русаков Александр Дмитриевич",
+    "birthDate": "2003-07-03",
+    "associationName": "КПРФ - ЧУКОТСКОЕ ОКРУЖНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 13,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/932",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "1e7b4675-fb79-44b3-86ad-d97c3c9ecb7c",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Сафаров Евгений Геннадиевич",
+    "birthDate": "2003-12-19",
+    "associationName": "КПРФ - ЧУКОТСКОЕ ОКРУЖНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 12,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/932",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "ab1e20c8-cab5-443c-a376-f682910d0818",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Семериков Александр Александрович",
+    "birthDate": "1961-09-13",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Чукотском автономном округе",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-27",
+    "registrationDecisionDate": "2026-07-27",
+    "registrationDecisionNumber": "09/31",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=07c42dfeac29a06a86cced803fbc005e459c14f8cf38f4d436727657a9aacc35",
+      "retrievedAt": "2026-08-30T14:47:13.259379+00:00",
+      "sha256": "9e2c67419528a81c47a6e2d1ced9ef5f59c6937b887cb8a93dc4796e1f93042f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "b0806e5a-a0a6-4191-a093-1b1a6272720f",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Серебряков Андрей Петрович",
+    "birthDate": "1967-12-08",
+    "associationName": "Чукотское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 13,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "162/916",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "9ae16fdf-a620-47b8-967c-3c435aa1574c",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Сизова Анастасия Борисовна",
+    "birthDate": "1984-09-05",
+    "associationName": "Чукотское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 16,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "162/916",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "ebb5ee49-f870-4ddb-9ac5-516c9cd9593d",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Скобелев Игнат Игоревич",
+    "birthDate": "1982-04-14",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 5,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "161/910",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "4b0f5080-82d2-4198-8334-42b0b920cadf",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Слуцкий Леонид Эдуардович",
+    "birthDate": "1968-01-04",
+    "associationName": "Чукотское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 1,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "162/916",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "247ac58f-7003-40ac-97c9-eeb267cf7d0b",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Стегний Александр Владимирович",
+    "birthDate": "1992-03-04",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Чукотском автономном округе",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 6,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/931",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "f97cfaae-1c7d-4638-a0a0-d42f405496d7",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Столбов Игорь Евгеньевич",
+    "birthDate": "1977-12-27",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 12,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "161/910",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "5bd79d95-4873-4e3e-a9b6-51cb8b630e43",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Тебешева Мария Ивановна",
+    "birthDate": "1965-08-14",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Чукотском автономном округе",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 7,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/931",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "ba81ed3a-56a5-4664-afbf-2e520848e39b",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Тевлявье Александра Владимировна",
+    "birthDate": "1983-12-19",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registration_refused",
+      "label": "отказ в регистрации"
+    },
+    "electionStatus": null,
+    "ballotEligible": false,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": null,
+    "registrationDecisionDate": "2026-08-14",
+    "registrationDecisionNumber": "11/37",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=07c42dfeac29a06a86cced803fbc005e459c14f8cf38f4d436727657a9aacc35",
+      "retrievedAt": "2026-08-30T14:47:13.259379+00:00",
+      "sha256": "9e2c67419528a81c47a6e2d1ced9ef5f59c6937b887cb8a93dc4796e1f93042f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "6b677c08-3fda-4b2c-9cbc-0c9774e0fe2f",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Тегреттын Вадим Константинович",
+    "birthDate": "1991-12-03",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-17",
+    "registrationDecisionDate": "2026-07-17",
+    "registrationDecisionNumber": "07/25",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=07c42dfeac29a06a86cced803fbc005e459c14f8cf38f4d436727657a9aacc35",
+      "retrievedAt": "2026-08-30T14:47:13.259379+00:00",
+      "sha256": "9e2c67419528a81c47a6e2d1ced9ef5f59c6937b887cb8a93dc4796e1f93042f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "931600d1-a3ad-4054-bbae-75e6f4272dec",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Ткачев Дмитрий Евгеньевич",
+    "birthDate": "1998-12-22",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Чукотском автономном округе",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 8,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/931",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "714d4823-9960-497e-a671-254836488215",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Тришин Руслан Леонидович",
+    "birthDate": "1976-11-01",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 10,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "161/910",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "16239eb5-633a-4e35-b87b-736b4855eabe",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Тютюнник Дарина Денисовна",
+    "birthDate": "2003-09-13",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Чукотском автономном округе",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-26",
+    "registrationDecisionDate": "2026-07-26",
+    "registrationDecisionNumber": "12/26",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=07c42dfeac29a06a86cced803fbc005e459c14f8cf38f4d436727657a9aacc35",
+      "retrievedAt": "2026-08-30T14:47:13.259379+00:00",
+      "sha256": "9e2c67419528a81c47a6e2d1ced9ef5f59c6937b887cb8a93dc4796e1f93042f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "376e62d2-a2cc-4802-87d3-6d5fb8ca8054",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Файман Мария Сергеевна",
+    "birthDate": "1978-06-19",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Чукотском автономном округе",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 12,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/931",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "1148a61d-4ffd-4104-a872-ea5408d0aad3",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Фесенко Максим Михайлович",
+    "birthDate": "1984-11-28",
+    "associationName": "Чукотское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 10,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "162/916",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "3e159f82-091c-419c-b5b3-fad1a2fea607",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Христофорова Валентина Сергеевна",
+    "birthDate": "1985-08-30",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Чукотском автономном округе",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-25",
+    "registrationDecisionDate": "2026-07-25",
+    "registrationDecisionNumber": "11/25",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=07c42dfeac29a06a86cced803fbc005e459c14f8cf38f4d436727657a9aacc35",
+      "retrievedAt": "2026-08-30T14:47:13.259379+00:00",
+      "sha256": "9e2c67419528a81c47a6e2d1ced9ef5f59c6937b887cb8a93dc4796e1f93042f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "d4ca3656-5604-413d-a728-7b5d2ff951a3",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Чащина Анна Павловна",
+    "birthDate": "1988-08-20",
+    "associationName": "Чукотское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 8,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "162/916",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "8c7b8fea-ebb9-467f-b875-4c57c42b263b",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Чеховская Екатерина Викторовна",
+    "birthDate": "1987-04-03",
+    "associationName": "Чукотское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 5,
+    "registrationDate": "2026-07-28",
+    "registrationDecisionDate": "2026-07-28",
+    "registrationDecisionNumber": "162/916",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "7ed3619e-e18a-4ae8-8909-1190a2cec06b",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Шишкова Ольга Анатольевна",
+    "birthDate": "1966-07-14",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 14,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "161/910",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "16381b49-73f7-4911-a718-3483da671e09",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Эрдниев Арлтан Эрдниевич",
+    "birthDate": "2002-09-19",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Чукотском автономном округе",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 14,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/931",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "fbd615ae-b246-48b2-a6ab-bc8708532aae",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Эрдниев Арлтан Эрдниевич",
+    "birthDate": "2002-09-19",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Чукотском автономном округе",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-27",
+    "registrationDecisionDate": "2026-07-27",
+    "registrationDecisionNumber": "09/30",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=07c42dfeac29a06a86cced803fbc005e459c14f8cf38f4d436727657a9aacc35",
+      "retrievedAt": "2026-08-30T14:47:13.259379+00:00",
+      "sha256": "9e2c67419528a81c47a6e2d1ced9ef5f59c6937b887cb8a93dc4796e1f93042f",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "883ddf94-2b32-4245-9553-4be625e6e860",
+    "electionId": "b63d2bbc-f111-46fa-b26f-e57c46dac269",
+    "scope": "proportional",
+    "districtNumber": null,
+    "fullName": "Ярыгина Елена Олеговна",
+    "birthDate": "1968-08-07",
+    "associationName": "КПРФ - ЧУКОТСКОЕ ОКРУЖНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": 3,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "164/932",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=1a913d3198134984f13fec6dbe85d4be6281edd188e868d5fded496555a1518f",
+      "retrievedAt": "2026-08-30T14:47:14.079317+00:00",
+      "sha256": "3292c3cde2a28e9c3746b89273cc016fe59be21fc28317a53013025025ea2976",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-19T03:33:17.574443Z"
+    }
+  },
+  {
+    "candidateId": "32f1d61c-02ad-473d-8c8a-84adf7cbb92b",
+    "electionId": "8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Бутурлакин Роман Владимирович",
+    "birthDate": "1963-11-06",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "05/09",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89ce000c9813b75da551d23e5192c336b69978bff07d81881aaabb8fd50caf8e",
+      "retrievedAt": "2026-08-30T14:47:20.031052+00:00",
+      "sha256": "8b557a29c7ba0dce9c8051222ac07e2aa594349af91c1002015dd3734e85257e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T05:18:28.509241Z"
+    }
+  },
+  {
+    "candidateId": "60853e62-d44c-4ec4-92e4-bac96b7e123d",
+    "electionId": "8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Зедгенидзева Мария Владимировна",
+    "birthDate": "1965-04-10",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "04/07",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89ce000c9813b75da551d23e5192c336b69978bff07d81881aaabb8fd50caf8e",
+      "retrievedAt": "2026-08-30T14:47:20.031052+00:00",
+      "sha256": "8b557a29c7ba0dce9c8051222ac07e2aa594349af91c1002015dd3734e85257e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T05:18:28.509241Z"
+    }
+  },
+  {
+    "candidateId": "5f590f08-b523-4323-bafc-250e08a03042",
+    "electionId": "8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Коляда Дмитрий Александрович",
+    "birthDate": "2003-06-08",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "05/08",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89ce000c9813b75da551d23e5192c336b69978bff07d81881aaabb8fd50caf8e",
+      "retrievedAt": "2026-08-30T14:47:20.031052+00:00",
+      "sha256": "8b557a29c7ba0dce9c8051222ac07e2aa594349af91c1002015dd3734e85257e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T05:18:28.509241Z"
+    }
+  },
+  {
+    "candidateId": "c31f6236-8528-4533-86a7-61c36aa396f6",
+    "electionId": "8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Коляда Станислав Станиславович",
+    "birthDate": "1984-06-12",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "04/14",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89ce000c9813b75da551d23e5192c336b69978bff07d81881aaabb8fd50caf8e",
+      "retrievedAt": "2026-08-30T14:47:20.031052+00:00",
+      "sha256": "8b557a29c7ba0dce9c8051222ac07e2aa594349af91c1002015dd3734e85257e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T05:18:28.509241Z"
+    }
+  },
+  {
+    "candidateId": "95d47ad5-017a-4dad-8ca8-e1765ed11d1d",
+    "electionId": "8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Кузнецов Евгений Николаевич",
+    "birthDate": "1970-01-24",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "04/11",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89ce000c9813b75da551d23e5192c336b69978bff07d81881aaabb8fd50caf8e",
+      "retrievedAt": "2026-08-30T14:47:20.031052+00:00",
+      "sha256": "8b557a29c7ba0dce9c8051222ac07e2aa594349af91c1002015dd3734e85257e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T05:18:28.509241Z"
+    }
+  },
+  {
+    "candidateId": "7964bb72-beca-4a00-9e6d-03a29b4e51a7",
+    "electionId": "8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Ляхова Елизавета Николаевна",
+    "birthDate": "1981-11-21",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "04/09",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89ce000c9813b75da551d23e5192c336b69978bff07d81881aaabb8fd50caf8e",
+      "retrievedAt": "2026-08-30T14:47:20.031052+00:00",
+      "sha256": "8b557a29c7ba0dce9c8051222ac07e2aa594349af91c1002015dd3734e85257e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T05:18:28.509241Z"
+    }
+  },
+  {
+    "candidateId": "5f430230-9aa3-4944-885c-204da3ee11b2",
+    "electionId": "8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Машин Евгений Александрович",
+    "birthDate": "1975-07-14",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "03/06",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89ce000c9813b75da551d23e5192c336b69978bff07d81881aaabb8fd50caf8e",
+      "retrievedAt": "2026-08-30T14:47:20.031052+00:00",
+      "sha256": "8b557a29c7ba0dce9c8051222ac07e2aa594349af91c1002015dd3734e85257e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T05:18:28.509241Z"
+    }
+  },
+  {
+    "candidateId": "867fc212-313b-425c-a900-1bb08f5f7dd0",
+    "electionId": "8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Моргоев Александр Валерьевич",
+    "birthDate": "1973-08-22",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "04/09",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89ce000c9813b75da551d23e5192c336b69978bff07d81881aaabb8fd50caf8e",
+      "retrievedAt": "2026-08-30T14:47:20.031052+00:00",
+      "sha256": "8b557a29c7ba0dce9c8051222ac07e2aa594349af91c1002015dd3734e85257e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T05:18:28.509241Z"
+    }
+  },
+  {
+    "candidateId": "64c786d6-baed-45db-9e26-9b825356bd69",
+    "electionId": "8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Мурашко Таисия Иннокентьевна",
+    "birthDate": "1979-06-12",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "03/07",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89ce000c9813b75da551d23e5192c336b69978bff07d81881aaabb8fd50caf8e",
+      "retrievedAt": "2026-08-30T14:47:20.031052+00:00",
+      "sha256": "8b557a29c7ba0dce9c8051222ac07e2aa594349af91c1002015dd3734e85257e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T05:18:28.509241Z"
+    }
+  },
+  {
+    "candidateId": "cb7aca58-b747-45a3-bf87-e912e5cd470b",
+    "electionId": "8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Мусияка Светлана Ивановна",
+    "birthDate": "1963-01-25",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "0413",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89ce000c9813b75da551d23e5192c336b69978bff07d81881aaabb8fd50caf8e",
+      "retrievedAt": "2026-08-30T14:47:20.031052+00:00",
+      "sha256": "8b557a29c7ba0dce9c8051222ac07e2aa594349af91c1002015dd3734e85257e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T05:18:28.509241Z"
+    }
+  },
+  {
+    "candidateId": "6e796860-cd54-4b18-814a-aa36c44dc779",
+    "electionId": "8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Ольховик Дмитрий Леонидович",
+    "birthDate": "1978-11-24",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "04/08",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89ce000c9813b75da551d23e5192c336b69978bff07d81881aaabb8fd50caf8e",
+      "retrievedAt": "2026-08-30T14:47:20.031052+00:00",
+      "sha256": "8b557a29c7ba0dce9c8051222ac07e2aa594349af91c1002015dd3734e85257e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T05:18:28.509241Z"
+    }
+  },
+  {
+    "candidateId": "08fc5513-3b72-4747-83e9-03ed27be3dfb",
+    "electionId": "8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Павлов Максим Александрович",
+    "birthDate": "1981-11-21",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "04/10",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89ce000c9813b75da551d23e5192c336b69978bff07d81881aaabb8fd50caf8e",
+      "retrievedAt": "2026-08-30T14:47:20.031052+00:00",
+      "sha256": "8b557a29c7ba0dce9c8051222ac07e2aa594349af91c1002015dd3734e85257e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T05:18:28.509241Z"
+    }
+  },
+  {
+    "candidateId": "fe081150-00e9-4463-ba8c-5969b3e3c7c2",
+    "electionId": "8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Парамонов Владимир Викторович",
+    "birthDate": "1974-04-22",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "03/08",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89ce000c9813b75da551d23e5192c336b69978bff07d81881aaabb8fd50caf8e",
+      "retrievedAt": "2026-08-30T14:47:20.031052+00:00",
+      "sha256": "8b557a29c7ba0dce9c8051222ac07e2aa594349af91c1002015dd3734e85257e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T05:18:28.509241Z"
+    }
+  },
+  {
+    "candidateId": "6c406ffa-66f7-41e9-81e9-caa4b611b06f",
+    "electionId": "8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Патрикац Олег Владимирович",
+    "birthDate": "1958-01-25",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "04/11",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89ce000c9813b75da551d23e5192c336b69978bff07d81881aaabb8fd50caf8e",
+      "retrievedAt": "2026-08-30T14:47:20.031052+00:00",
+      "sha256": "8b557a29c7ba0dce9c8051222ac07e2aa594349af91c1002015dd3734e85257e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T05:18:28.509241Z"
+    }
+  },
+  {
+    "candidateId": "126a27d0-145e-408d-91a6-f0f9e907487a",
+    "electionId": "8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Сашенькина Светлана Валентиновна",
+    "birthDate": "2001-08-20",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "05/10",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89ce000c9813b75da551d23e5192c336b69978bff07d81881aaabb8fd50caf8e",
+      "retrievedAt": "2026-08-30T14:47:20.031052+00:00",
+      "sha256": "8b557a29c7ba0dce9c8051222ac07e2aa594349af91c1002015dd3734e85257e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T05:18:28.509241Z"
+    }
+  },
+  {
+    "candidateId": "a6d73ff6-3928-4fd1-a623-17c1543e12d2",
+    "electionId": "8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Суртаев Тимур Тюлегенович",
+    "birthDate": "1984-02-01",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "03/06",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89ce000c9813b75da551d23e5192c336b69978bff07d81881aaabb8fd50caf8e",
+      "retrievedAt": "2026-08-30T14:47:20.031052+00:00",
+      "sha256": "8b557a29c7ba0dce9c8051222ac07e2aa594349af91c1002015dd3734e85257e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T05:18:28.509241Z"
+    }
+  },
+  {
+    "candidateId": "4237f14f-0bb3-493c-9f9c-bc2eb02481c4",
+    "electionId": "8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Титлинов Алексей Борисович",
+    "birthDate": "1978-07-12",
+    "associationName": "Чукотское региональное отделение Всероссийской  политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "04/12",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89ce000c9813b75da551d23e5192c336b69978bff07d81881aaabb8fd50caf8e",
+      "retrievedAt": "2026-08-30T14:47:20.031052+00:00",
+      "sha256": "8b557a29c7ba0dce9c8051222ac07e2aa594349af91c1002015dd3734e85257e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T05:18:28.509241Z"
+    }
+  },
+  {
+    "candidateId": "1291ace2-777d-4348-9dff-b8d70806b30d",
+    "electionId": "8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Фунтов Николай Владимирович",
+    "birthDate": "1990-01-17",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "05/15",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89ce000c9813b75da551d23e5192c336b69978bff07d81881aaabb8fd50caf8e",
+      "retrievedAt": "2026-08-30T14:47:20.031052+00:00",
+      "sha256": "8b557a29c7ba0dce9c8051222ac07e2aa594349af91c1002015dd3734e85257e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T05:18:28.509241Z"
+    }
+  },
+  {
+    "candidateId": "1358e1d1-1dfe-4735-aa9d-bb9f5b429dde",
+    "electionId": "8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Цьолко Константин Степанович",
+    "birthDate": "1984-09-09",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "04/10",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89ce000c9813b75da551d23e5192c336b69978bff07d81881aaabb8fd50caf8e",
+      "retrievedAt": "2026-08-30T14:47:20.031052+00:00",
+      "sha256": "8b557a29c7ba0dce9c8051222ac07e2aa594349af91c1002015dd3734e85257e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T05:18:28.509241Z"
+    }
+  },
+  {
+    "candidateId": "93865a4b-bb5d-495a-865b-dd3206864111",
+    "electionId": "8302143f-3e2c-40e8-ba1f-53c9eb673b2f",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Шевкунов Алексей Александрович",
+    "birthDate": "2003-12-04",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "05/16",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=89ce000c9813b75da551d23e5192c336b69978bff07d81881aaabb8fd50caf8e",
+      "retrievedAt": "2026-08-30T14:47:20.031052+00:00",
+      "sha256": "8b557a29c7ba0dce9c8051222ac07e2aa594349af91c1002015dd3734e85257e",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-05T05:18:28.509241Z"
+    }
+  },
+  {
+    "candidateId": "41c38744-ea30-4c46-927b-5bd4dd54f22e",
+    "electionId": "b85927d8-90bf-4ddc-88f3-cd7fbe6c85bb",
+    "scope": "direct",
+    "districtNumber": null,
+    "fullName": "Кеуйыне Анастасия Руслановна",
+    "birthDate": "1995-01-26",
+    "associationName": "Чукотское местное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "8/16",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=a94bed3b3b03ff3970923f524f84e8607e860f2e85e11fd74b2f90c4734984c7",
+      "retrievedAt": "2026-08-30T14:47:20.586712+00:00",
+      "sha256": "ae497cad7327c76ea02b5df7ef3ad0fc0926215e28f6a412441f2fe845543e2c",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-24T04:33:27.824927Z"
+    }
+  },
+  {
+    "candidateId": "b5380f68-29c8-4f1a-998d-c18714fa226e",
+    "electionId": "b85927d8-90bf-4ddc-88f3-cd7fbe6c85bb",
+    "scope": "direct",
+    "districtNumber": null,
+    "fullName": "Нутетгивев Ирина Викторовна",
+    "birthDate": "1974-07-30",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-20",
+    "registrationDecisionDate": "2026-07-20",
+    "registrationDecisionNumber": "7/14",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=a94bed3b3b03ff3970923f524f84e8607e860f2e85e11fd74b2f90c4734984c7",
+      "retrievedAt": "2026-08-30T14:47:20.586712+00:00",
+      "sha256": "ae497cad7327c76ea02b5df7ef3ad0fc0926215e28f6a412441f2fe845543e2c",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-24T04:33:27.824927Z"
+    }
+  },
+  {
+    "candidateId": "ea501954-3db6-4ebd-a856-d79932c8216f",
+    "electionId": "b85927d8-90bf-4ddc-88f3-cd7fbe6c85bb",
+    "scope": "direct",
+    "districtNumber": null,
+    "fullName": "Тынагиргин Иван Алексеевич",
+    "birthDate": "1998-04-09",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-24",
+    "registrationDecisionDate": "2026-07-24",
+    "registrationDecisionNumber": "8/15",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=a94bed3b3b03ff3970923f524f84e8607e860f2e85e11fd74b2f90c4734984c7",
+      "retrievedAt": "2026-08-30T14:47:20.586712+00:00",
+      "sha256": "ae497cad7327c76ea02b5df7ef3ad0fc0926215e28f6a412441f2fe845543e2c",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-24T04:33:27.824927Z"
+    }
+  }
+]

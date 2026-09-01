@@ -1,0 +1,1526 @@
+[
+  {
+    "candidateId": "94c88f6d-b16b-426e-a218-e07f1ed64760",
+    "electionId": "109a498a-6435-4b9e-bd77-900e2386ceba",
+    "scope": "direct",
+    "districtNumber": null,
+    "fullName": "Ким Марина Евгеньевна",
+    "birthDate": "1983-08-11",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Ульяновской области",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-17",
+    "registrationDecisionDate": "2026-07-17",
+    "registrationDecisionNumber": "128/1015-7",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e491eba093d8ff29f4cbf736e77665e11d5e09e484fffe63f2920c750dddf760",
+      "retrievedAt": "2026-08-30T14:45:12.914883+00:00",
+      "sha256": "c95537af2746193b9e278d60241e68a6c617ab201c0bcbcda6e90b297ea42579",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-17T12:05:16.522807Z"
+    }
+  },
+  {
+    "candidateId": "650403c1-db9a-4351-b2f5-41c42e277feb",
+    "electionId": "109a498a-6435-4b9e-bd77-900e2386ceba",
+    "scope": "direct",
+    "districtNumber": null,
+    "fullName": "Маринин Сергей Владимирович",
+    "birthDate": "1971-11-04",
+    "associationName": "Ульяновское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-14",
+    "registrationDecisionDate": "2026-07-14",
+    "registrationDecisionNumber": "126/996-7",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e491eba093d8ff29f4cbf736e77665e11d5e09e484fffe63f2920c750dddf760",
+      "retrievedAt": "2026-08-30T14:45:12.914883+00:00",
+      "sha256": "c95537af2746193b9e278d60241e68a6c617ab201c0bcbcda6e90b297ea42579",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-17T12:05:16.522807Z"
+    }
+  },
+  {
+    "candidateId": "87ab6bf5-c204-4fca-ab99-179ae56d64ff",
+    "electionId": "109a498a-6435-4b9e-bd77-900e2386ceba",
+    "scope": "direct",
+    "districtNumber": null,
+    "fullName": "Русских Алексей Юрьевич",
+    "birthDate": "1968-07-17",
+    "associationName": "КПРФ - УЛЬЯНОВСКОЕ ОБЛАСТНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-17",
+    "registrationDecisionDate": "2026-07-17",
+    "registrationDecisionNumber": "128/1013-7",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e491eba093d8ff29f4cbf736e77665e11d5e09e484fffe63f2920c750dddf760",
+      "retrievedAt": "2026-08-30T14:45:12.914883+00:00",
+      "sha256": "c95537af2746193b9e278d60241e68a6c617ab201c0bcbcda6e90b297ea42579",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-17T12:05:16.522807Z"
+    }
+  },
+  {
+    "candidateId": "cdfa77ae-b55f-4a01-8462-12cadd749783",
+    "electionId": "109a498a-6435-4b9e-bd77-900e2386ceba",
+    "scope": "direct",
+    "districtNumber": null,
+    "fullName": "Ясайтис Юлия Михайловна",
+    "birthDate": "1984-12-26",
+    "associationName": "Региональное отделение в Ульяновской области Политической партии \"НОВЫЕ ЛЮДИ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-17",
+    "registrationDecisionDate": "2026-07-17",
+    "registrationDecisionNumber": "128/1014-7",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=e491eba093d8ff29f4cbf736e77665e11d5e09e484fffe63f2920c750dddf760",
+      "retrievedAt": "2026-08-30T14:45:12.914883+00:00",
+      "sha256": "c95537af2746193b9e278d60241e68a6c617ab201c0bcbcda6e90b297ea42579",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-17T12:05:16.522807Z"
+    }
+  },
+  {
+    "candidateId": "4eae329f-10c7-4764-b729-b16a07b4ffca",
+    "electionId": "359ae868-d80a-4a0d-b12d-22d834ec9efa",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Гутников Сергей Владимирович",
+    "birthDate": "1987-08-16",
+    "associationName": "Региональное отделение Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ в Ульяновской области",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "11/52-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=5910fa564412128cad5d0f467561a0518a95a5c44f53811cf1424b596e2751a9",
+      "retrievedAt": "2026-08-30T14:45:14.045017+00:00",
+      "sha256": "0c6169c9dcbf80f238547648d430423a2442d611cf9853370872b8493a459c69",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T14:08:32.484847Z"
+    }
+  },
+  {
+    "candidateId": "5846e237-5d44-4c93-a48d-7d81af23e6bc",
+    "electionId": "359ae868-d80a-4a0d-b12d-22d834ec9efa",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Кошлин Александр Сергеевич",
+    "birthDate": "1984-07-02",
+    "associationName": "КПРФ - УЛЬЯНОВСКОЕ ОБЛАСТНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "11/51-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=5910fa564412128cad5d0f467561a0518a95a5c44f53811cf1424b596e2751a9",
+      "retrievedAt": "2026-08-30T14:45:14.045017+00:00",
+      "sha256": "0c6169c9dcbf80f238547648d430423a2442d611cf9853370872b8493a459c69",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T14:08:32.484847Z"
+    }
+  },
+  {
+    "candidateId": "57c9ef3c-33d2-48e7-9a0a-5ed97d78c2e7",
+    "electionId": "359ae868-d80a-4a0d-b12d-22d834ec9efa",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Парамонов Владимир Владимирович",
+    "birthDate": "1986-05-15",
+    "associationName": "Ульяновское региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-27",
+    "registrationDecisionDate": "2026-07-27",
+    "registrationDecisionNumber": "9/49-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=5910fa564412128cad5d0f467561a0518a95a5c44f53811cf1424b596e2751a9",
+      "retrievedAt": "2026-08-30T14:45:14.045017+00:00",
+      "sha256": "0c6169c9dcbf80f238547648d430423a2442d611cf9853370872b8493a459c69",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T14:08:32.484847Z"
+    }
+  },
+  {
+    "candidateId": "a85a5d4c-ae3b-4758-9160-a2e452463286",
+    "electionId": "359ae868-d80a-4a0d-b12d-22d834ec9efa",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Синягина Юлия Евгеньевна",
+    "birthDate": "1989-11-27",
+    "associationName": "Региональное отделение в Ульяновской области Политической партии \"НОВЫЕ ЛЮДИ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "11/53-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=5910fa564412128cad5d0f467561a0518a95a5c44f53811cf1424b596e2751a9",
+      "retrievedAt": "2026-08-30T14:45:14.045017+00:00",
+      "sha256": "0c6169c9dcbf80f238547648d430423a2442d611cf9853370872b8493a459c69",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T14:08:32.484847Z"
+    }
+  },
+  {
+    "candidateId": "4adeae96-c537-4457-861f-0a974599d396",
+    "electionId": "359ae868-d80a-4a0d-b12d-22d834ec9efa",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Шолмов Петр Петрович",
+    "birthDate": "1981-08-02",
+    "associationName": "Ульяновское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "11/54-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=5910fa564412128cad5d0f467561a0518a95a5c44f53811cf1424b596e2751a9",
+      "retrievedAt": "2026-08-30T14:45:14.045017+00:00",
+      "sha256": "0c6169c9dcbf80f238547648d430423a2442d611cf9853370872b8493a459c69",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T14:08:32.484847Z"
+    }
+  },
+  {
+    "candidateId": "62044439-f32e-4fbc-a241-9772077e7ce6",
+    "electionId": "359ae868-d80a-4a0d-b12d-22d834ec9efa",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Шурыгина Наталья Владимировна",
+    "birthDate": "1978-10-05",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nomination_lost",
+      "label": "утративший статус выдвинутого кандидата"
+    },
+    "registrationStatus": null,
+    "electionStatus": null,
+    "ballotEligible": false,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": null,
+    "registrationDecisionDate": null,
+    "registrationDecisionNumber": null,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=5910fa564412128cad5d0f467561a0518a95a5c44f53811cf1424b596e2751a9",
+      "retrievedAt": "2026-08-30T14:45:14.045017+00:00",
+      "sha256": "0c6169c9dcbf80f238547648d430423a2442d611cf9853370872b8493a459c69",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-31T14:08:32.484847Z"
+    }
+  },
+  {
+    "candidateId": "e98915c1-dc57-497f-ab59-f2bc9cea2e34",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Аделов Кярим Абдулхакович",
+    "birthDate": "1956-06-26",
+    "associationName": "КПРФ - УЛЬЯНОВСКОЕ ОБЛАСТНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-07",
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "18/104-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "7f181ed2-0259-46c6-87b5-a7a29105497f",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Аделов Рустям Яхиевич",
+    "birthDate": "1959-09-27",
+    "associationName": "Николаевское местное отделение Ульяновского регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "17/98-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "471cad48-bc41-4f36-b209-fc2333660644",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Айбулатов Умяр Саитович",
+    "birthDate": "1965-02-23",
+    "associationName": "Николаевское местное отделение Ульяновского регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "16/85-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "e427ea85-9caf-4b9b-bb20-a4931feba86e",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Алмаев Александр Григорьевич",
+    "birthDate": "1962-03-17",
+    "associationName": "Николаевское местное отделение Ульяновского регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-07",
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "18/105-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "12b305bb-279d-4051-a0ee-50a8c09f8659",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Бадаев Фярит Самятович",
+    "birthDate": "1957-10-21",
+    "associationName": "КПРФ - УЛЬЯНОВСКОЕ ОБЛАСТНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-07",
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "18/106-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "d8a7bec0-0680-4917-b416-cf2770c68389",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Битяев Сергей Геннадьевич",
+    "birthDate": "1990-01-10",
+    "associationName": "Николаевское местное отделение Ульяновского регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "16/86-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "5c8c3e9e-6950-420b-a1c0-c01b74fd8afd",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Горбатко Светлана Евгеньевна",
+    "birthDate": "1970-10-27",
+    "associationName": "Николаевское местное отделение Ульяновского регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-12",
+    "registrationDecisionDate": "2026-08-12",
+    "registrationDecisionNumber": "19/120-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "39ee897b-3083-4af9-a5ac-bc3c9c16e521",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Гордеев Александр Владимирович",
+    "birthDate": "1989-01-14",
+    "associationName": "Ульяновское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "16/87-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "82584cdf-bd95-4ada-8043-514b2daf8d48",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Дорожкин Алексей Валерьевич",
+    "birthDate": "1997-10-15",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "16/88-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "9947fd9c-1780-43c0-b454-d3b6038a5e5f",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Кавкаева Елена Ивановна",
+    "birthDate": "1971-02-02",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-23",
+    "registrationDecisionDate": "2026-07-23",
+    "registrationDecisionNumber": "14/75-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "00638500-75af-49e5-bd8f-1f5f2aebfe90",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Кавкаева Ирина Ивановна",
+    "birthDate": "1990-03-22",
+    "associationName": "КПРФ - УЛЬЯНОВСКОЕ ОБЛАСТНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-07",
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "18/107-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "71a86826-b98f-473d-a8b5-cb1ad252352b",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Кемаев Александр Николаевич",
+    "birthDate": "1987-05-27",
+    "associationName": "КПРФ - УЛЬЯНОВСКОЕ ОБЛАСТНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-07",
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "18/108-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "712c66d9-a6c3-4021-8d70-50f2f18ef9e5",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Кокорина Татьяна Геннадьевна",
+    "birthDate": "1961-07-06",
+    "associationName": "КПРФ - УЛЬЯНОВСКОЕ ОБЛАСТНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-07",
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "18/109-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "6e116c4b-8c20-461a-82eb-6568cd551d2f",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Лезина Анастасия Андреевна",
+    "birthDate": "2001-07-01",
+    "associationName": "Ульяновское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "17/99-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "10ede4be-1985-40bc-b2d0-8c3b2f1de797",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Лисенков Илья Михайлович",
+    "birthDate": "2004-12-07",
+    "associationName": "Региональное отделение в Ульяновской области Политической партии \"НОВЫЕ ЛЮДИ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-12",
+    "registrationDecisionDate": "2026-08-12",
+    "registrationDecisionNumber": "19/121-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "ad684ffa-074f-4f92-b520-5a1245fe785e",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Лонсков Михаил Владимирович",
+    "birthDate": "1987-02-01",
+    "associationName": "Ульяновское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "16/89-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "19d4e9cc-ceb2-420b-8e2d-b3d50941acb3",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Нестеров Сергей Валерьевич",
+    "birthDate": "1999-08-29",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "17/100-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "d106a926-49e7-4904-8e24-f2d214d1b7ed",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Нестерова Диана Александровна",
+    "birthDate": "2006-09-14",
+    "associationName": "Региональное отделение в Ульяновской области Политической партии \"НОВЫЕ ЛЮДИ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-07",
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "18/110-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "1cfd4691-d619-410e-bf3d-c5a4922e0fe5",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Никитин Дмитрий Петрович",
+    "birthDate": "1990-02-20",
+    "associationName": "самовыдвижение",
+    "nominationStatus": {
+      "code": "nomination_lost",
+      "label": "утративший статус выдвинутого кандидата"
+    },
+    "registrationStatus": null,
+    "electionStatus": null,
+    "ballotEligible": false,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": null,
+    "registrationDecisionDate": null,
+    "registrationDecisionNumber": null,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "e339e9e4-7d3e-4d85-bbf2-731a5f03f6a8",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Никитин Фёдор Александрович",
+    "birthDate": "1962-09-22",
+    "associationName": "Николаевское местное отделение Ульяновского регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "16/90-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "f2b8b509-31dc-4d6a-a644-657364bc50c9",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Плешаков Сергей Михайлович",
+    "birthDate": "1970-03-21",
+    "associationName": "Николаевское местное отделение Ульяновского регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "16/91-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "597c0117-1afd-4e17-bdab-2c9276fd1ebb",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Попов Николай Анатольевич",
+    "birthDate": "1991-10-04",
+    "associationName": "Ульяновское региональное отделение Политической партии ЛДПР - Либерально-демократической партии России",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "16/92-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "000bf6be-04cb-40b6-9830-254c941b1357",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Прибылов Олег Евгеньевич",
+    "birthDate": "1972-11-05",
+    "associationName": "КПРФ - УЛЬЯНОВСКОЕ ОБЛАСТНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-07",
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "18/111-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "b8dc78d1-278b-4562-a3b3-afedddc9079e",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Прохорова Татьяна Александровна",
+    "birthDate": "1974-08-20",
+    "associationName": "Николаевское местное отделение Ульяновского регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-07",
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "18/112-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "405f2285-61b1-4934-8d22-6ccff7cb187b",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Ризаев Александр Николаевич",
+    "birthDate": "1968-01-27",
+    "associationName": "Николаевское местное отделение Ульяновского регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-07",
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "18/113-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "7f2835fa-e1ef-418b-ac63-5dfa3db24e9e",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Романов Вячеслав Евгеньевич",
+    "birthDate": "1984-09-03",
+    "associationName": "Николаевское местное отделение Ульяновского регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-07",
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "18/114-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "13da11cf-dcd8-445f-a6b3-4ecdca6ad2a0",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Такташов Алик Ильясович",
+    "birthDate": "1991-02-19",
+    "associationName": "Николаевское местное отделение Ульяновского регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "16/93-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "03eaa010-be6f-4d63-9e19-d54963ea836a",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 3,
+    "fullName": "Тучина Инна Викторовна",
+    "birthDate": "1976-06-20",
+    "associationName": "Николаевское местное отделение Ульяновского регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "16/94-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "1814c827-6787-4738-8645-ca6a43169ff3",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Ульбекова Альфия Юсуповна",
+    "birthDate": "1964-06-18",
+    "associationName": "КПРФ - УЛЬЯНОВСКОЕ ОБЛАСТНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-07",
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "18/115-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "45b4b19c-9b54-4b44-8919-4c29332044ba",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Умерова Ильвера Ряшитовна",
+    "birthDate": "1971-06-05",
+    "associationName": "КПРФ - УЛЬЯНОВСКОЕ ОБЛАСТНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "17/101-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "07b55c02-02b3-402c-91d0-6fc1a7db6dd0",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Цыганов Павел Анатольевич",
+    "birthDate": "1961-02-26",
+    "associationName": "КПРФ - УЛЬЯНОВСКОЕ ОБЛАСТНОЕ ОТДЕЛЕНИЕ политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-04",
+    "registrationDecisionDate": "2026-08-04",
+    "registrationDecisionNumber": "17/102-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "d0ec0a92-1343-4754-9efe-d20b2442f8c9",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Чичин Дмитрий Федорович",
+    "birthDate": "1983-05-05",
+    "associationName": "Николаевское местное отделение Ульяновского регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-07",
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "18/116-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "c05987bb-b2f2-48e0-b60a-4b95053896ac",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 1,
+    "fullName": "Шадышков Дмитрий Александрович",
+    "birthDate": "1987-02-09",
+    "associationName": "Николаевское местное отделение Ульяновского регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-12",
+    "registrationDecisionDate": "2026-08-12",
+    "registrationDecisionNumber": "19/122-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "582c0e05-d395-4363-b930-967c706dba06",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Шляпникова Ксения Анатольевна",
+    "birthDate": "2000-10-24",
+    "associationName": "Региональное отделение в Ульяновской области Политической партии \"НОВЫЕ ЛЮДИ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-08-07",
+    "registrationDecisionDate": "2026-08-07",
+    "registrationDecisionNumber": "18/117-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  },
+  {
+    "candidateId": "c97b55bb-1630-45b2-a1d7-274121e03e6a",
+    "electionId": "d25d1733-d4fb-4b04-a845-6075ddd1e6c0",
+    "scope": "majoritarian",
+    "districtNumber": 2,
+    "fullName": "Ялбуева Ольга Вячеславна",
+    "birthDate": "1984-08-04",
+    "associationName": "Николаевское местное отделение Ульяновского регионального отделения Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "nominationStatus": {
+      "code": "nominated",
+      "label": "выдвинут"
+    },
+    "registrationStatus": {
+      "code": "registered",
+      "label": "зарегистрирован"
+    },
+    "electionStatus": null,
+    "ballotEligible": true,
+    "regionalGroup": null,
+    "regionalGroupNumber": null,
+    "numberInList": null,
+    "registrationDate": "2026-07-31",
+    "registrationDecisionDate": "2026-07-31",
+    "registrationDecisionNumber": "16/95-5",
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/candidate/paging#request-sha256=cf5558974f93fe8c3bb94574fcfe1c5f231b1b4d00d3626060f68783621708ff",
+      "retrievedAt": "2026-08-30T14:45:16.806228+00:00",
+      "sha256": "606628d6b321c8c0f2a70e32b12cebc70c04e0d3b0314a0fcde1ff79b2652128",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-08-12T11:22:03.802037Z"
+    }
+  }
+]

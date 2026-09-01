@@ -1,0 +1,98 @@
+[
+  {
+    "associationId": "64437c30-0de7-42f0-a339-926bb232f38e",
+    "electionId": "d7ee5ff5-57fe-4af8-9640-822620383fd0",
+    "name": "Шебалинское местное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+    "drawNumber": null,
+    "registrationMark": "not_marked_registered",
+    "ballotEligibility": null,
+    "certifiedDecisionDate": null,
+    "certifiedDecisionNumber": null,
+    "registeredDecisionDate": null,
+    "registeredDecisionNumber": null,
+    "majoritarianCertifiedDecisionDate": null,
+    "majoritarianCertifiedDecisionNumber": null,
+    "foreignAgentInList": null,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=d7ee5ff5-57fe-4af8-9640-822620383fd0",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=d7ee5ff5-57fe-4af8-9640-822620383fd0",
+      "retrievedAt": "2026-08-30T14:04:35.347507+00:00",
+      "sha256": "8bb4a6c06aa3c84ed9cc4e8035abf3f6c00b885bb3f0064645800079a3d2b2bf",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-20T11:15:05.226913+03:00"
+    }
+  },
+  {
+    "associationId": "73493da4-8a73-4fa0-84d4-3582e76439e6",
+    "electionId": "d7ee5ff5-57fe-4af8-9640-822620383fd0",
+    "name": "Шебалинское местное отделение КОММУНИСТИЧЕСКОЙ ПАРТИИ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "drawNumber": null,
+    "registrationMark": "not_marked_registered",
+    "ballotEligibility": null,
+    "certifiedDecisionDate": null,
+    "certifiedDecisionNumber": null,
+    "registeredDecisionDate": null,
+    "registeredDecisionNumber": null,
+    "majoritarianCertifiedDecisionDate": null,
+    "majoritarianCertifiedDecisionNumber": null,
+    "foreignAgentInList": null,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=d7ee5ff5-57fe-4af8-9640-822620383fd0",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=d7ee5ff5-57fe-4af8-9640-822620383fd0",
+      "retrievedAt": "2026-08-30T14:04:35.347507+00:00",
+      "sha256": "8bb4a6c06aa3c84ed9cc4e8035abf3f6c00b885bb3f0064645800079a3d2b2bf",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-20T11:15:05.226913+03:00"
+    }
+  },
+  {
+    "associationId": "6597d504-53da-475c-a509-45f407ef8e52",
+    "electionId": "7b4dc2fd-97a6-478f-af54-49cd9047123f",
+    "name": "КПРФ -АЛТАЙСКОЕ РЕСПУБЛИКАНСКОЕ ОТДЕЛЕНИЕ  политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "drawNumber": null,
+    "registrationMark": "not_marked_registered",
+    "ballotEligibility": null,
+    "certifiedDecisionDate": null,
+    "certifiedDecisionNumber": null,
+    "registeredDecisionDate": null,
+    "registeredDecisionNumber": null,
+    "majoritarianCertifiedDecisionDate": null,
+    "majoritarianCertifiedDecisionNumber": null,
+    "foreignAgentInList": null,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=7b4dc2fd-97a6-478f-af54-49cd9047123f",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=7b4dc2fd-97a6-478f-af54-49cd9047123f",
+      "retrievedAt": "2026-08-30T14:04:35.236316+00:00",
+      "sha256": "b15061ff3f1809b4b7a20815b3de550ad3e0a244c59ff692448264b519b9371d",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-21T12:23:43.78175+03:00"
+    }
+  },
+  {
+    "associationId": "902179d8-7a79-4029-a5a9-3095874046ae",
+    "electionId": "7b4dc2fd-97a6-478f-af54-49cd9047123f",
+    "name": "Региональное отделение Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\" Республики Алтай",
+    "drawNumber": null,
+    "registrationMark": "not_marked_registered",
+    "ballotEligibility": null,
+    "certifiedDecisionDate": null,
+    "certifiedDecisionNumber": null,
+    "registeredDecisionDate": null,
+    "registeredDecisionNumber": null,
+    "majoritarianCertifiedDecisionDate": null,
+    "majoritarianCertifiedDecisionNumber": null,
+    "foreignAgentInList": null,
+    "source": {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=7b4dc2fd-97a6-478f-af54-49cd9047123f",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/236?electionsId=7b4dc2fd-97a6-478f-af54-49cd9047123f",
+      "retrievedAt": "2026-08-30T14:04:35.236316+00:00",
+      "sha256": "b15061ff3f1809b4b7a20815b3de550ad3e0a244c59ff692448264b519b9371d",
+      "status": 200,
+      "provenance": "live-official",
+      "createdAt": "2026-07-21T12:23:43.78175+03:00"
+    }
+  }
+]
