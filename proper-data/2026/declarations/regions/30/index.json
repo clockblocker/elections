@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:32.314217+00:00",
+  "region": {
+    "code": "30",
+    "name": "Астраханская область",
+    "seedUrls": [
+      "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/uvedomlenie1.php",
+      "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/"
+    ],
+    "allowedHosts": [
+      "astrakhan.izbirkom.ru",
+      "www.astrakhan.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 5,
+  "documentCount": 8,
+  "documentCounts": {
+    "declaration": 8
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 2,
+      "explicitEmptyPageCount": 1,
+      "documentCount": 8
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/uvedomlenie1.php",
+      "title": "Сайт избирательной комиссии Астраханской области",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/uvedomlenie1.php",
+        "requestKey": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/uvedomlenie1.php",
+        "retrievedAt": "2026-09-04T03:36:55.918678+00:00",
+        "status": 200,
+        "sha256": "6f2ae9b30e92f3b5b1601b71735d98904d1767fc4a2edc762890bb8212b277fe",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/",
+      "title": "Сайт избирательной комиссии Астраханской области",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/",
+        "requestKey": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/",
+        "retrievedAt": "2026-09-04T03:36:58.428896+00:00",
+        "status": 200,
+        "sha256": "a0fdacf44d674937ae99a822f4296378c70b09702697f733de9e677fb44e6f50",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/dohod-imush/",
+      "title": "Сайт избирательной комиссии Астраханской области",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 8
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://astrakhan.izbirkom.ru/files/2026/Аюпов_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов_опубликование.xlsx",
+        "http://astrakhan.izbirkom.ru/files/2026/ГДФСРФ_Отчет_о_сведениях_о_доходах_и_имуществе_Щербаков_опубликование.xlsx",
+        "http://astrakhan.izbirkom.ru/files/2026/Лампадов_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.xlsx",
+        "http://astrakhan.izbirkom.ru/files/2026/Лиджиева_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_опубликование.xlsx",
+        "http://astrakhan.izbirkom.ru/files/2026/Лиджиева_ГДРФ_СВЕДЕНИЯ%20ОБ%20ИМУЩЕСТВЕ_превышение.docx",
+        "http://astrakhan.izbirkom.ru/files/2026/Самодаева_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов_опубликование.xlsx",
+        "http://astrakhan.izbirkom.ru/files/2026/Севастьянов_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов_опубликование.xlsx",
+        "http://astrakhan.izbirkom.ru/files/2026/Сухарев_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов_опубликование.xlsx"
+      ],
+      "source": {
+        "url": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/dohod-imush/",
+        "requestKey": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/dohod-imush/",
+        "retrievedAt": "2026-09-04T03:37:00.428921+00:00",
+        "status": 200,
+        "sha256": "58f5fa69dd319b61610fdb1eaa61baedff98ef2f806c1825ea4f1ed8ec0a42d9",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/izbiratelnye-fondy",
+      "title": "Сайт избирательной комиссии Астраханской области",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/izbiratelnye-fondy/",
+        "requestKey": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/izbiratelnye-fondy",
+        "retrievedAt": "2026-09-04T03:37:01.823495+00:00",
+        "status": 200,
+        "sha256": "b5cccd843c0187f8982dc4a67650261d9ad5fa2b6df4d8be02d7adc448f8c154",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/izbiratelnye-fondy/",
+      "title": "Сайт избирательной комиссии Астраханской области",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/izbiratelnye-fondy/",
+        "requestKey": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/izbiratelnye-fondy/",
+        "retrievedAt": "2026-09-04T03:37:03.143010+00:00",
+        "status": 200,
+        "sha256": "b5cccd843c0187f8982dc4a67650261d9ad5fa2b6df4d8be02d7adc448f8c154",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "Аюпов Р. З.",
+      "officialUrl": "http://astrakhan.izbirkom.ru/files/2026/Аюпов_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов_опубликование.xlsx",
+      "sourcePages": [
+        {
+          "url": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/dohod-imush/",
+          "title": "Сайт избирательной комиссии Астраханской области",
+          "depth": 1,
+          "sha256": "58f5fa69dd319b61610fdb1eaa61baedff98ef2f806c1825ea4f1ed8ec0a42d9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "d53c71e3eb9c27136d2c2c1a5c4823f08cb5aff7c44ba23313a33ba825baa4d7",
+      "originalFilename": "Аюпов_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов_опубликование.xlsx",
+      "filename": "Аюпов_Р._З-d53c71e3eb9c.xlsx",
+      "path": "files/Аюпов_Р._З-d53c71e3eb9c.xlsx",
+      "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byteLength": 11972,
+      "sha256": "d53c71e3eb9c27136d2c2c1a5c4823f08cb5aff7c44ba23313a33ba825baa4d7",
+      "source": {
+        "url": "http://astrakhan.izbirkom.ru/files/2026/%D0%90%D1%8E%D0%BF%D0%BE%D0%B2_%D0%93%D0%94%D0%A0%D0%A4_%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2_%D0%BE%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.xlsx",
+        "requestKey": "http://astrakhan.izbirkom.ru/files/2026/Аюпов_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов_опубликование.xlsx",
+        "retrievedAt": "2026-09-04T03:37:03.775462+00:00",
+        "status": 200,
+        "sha256": "d53c71e3eb9c27136d2c2c1a5c4823f08cb5aff7c44ba23313a33ba825baa4d7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Щербаков Т.А.",
+      "officialUrl": "http://astrakhan.izbirkom.ru/files/2026/ГДФСРФ_Отчет_о_сведениях_о_доходах_и_имуществе_Щербаков_опубликование.xlsx",
+      "sourcePages": [
+        {
+          "url": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/dohod-imush/",
+          "title": "Сайт избирательной комиссии Астраханской области",
+          "depth": 1,
+          "sha256": "58f5fa69dd319b61610fdb1eaa61baedff98ef2f806c1825ea4f1ed8ec0a42d9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "827f83d8b1c61d2fd0068e82cfa5a066fa8f0ec29573c4ab8edd669d50beee99",
+      "originalFilename": "ГДФСРФ_Отчет_о_сведениях_о_доходах_и_имуществе_Щербаков_опубликование.xlsx",
+      "filename": "Щербаков_Т.А-827f83d8b1c6.xlsx",
+      "path": "files/Щербаков_Т.А-827f83d8b1c6.xlsx",
+      "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byteLength": 11900,
+      "sha256": "827f83d8b1c61d2fd0068e82cfa5a066fa8f0ec29573c4ab8edd669d50beee99",
+      "source": {
+        "url": "http://astrakhan.izbirkom.ru/files/2026/%D0%93%D0%94%D0%A4%D0%A1%D0%A0%D0%A4_%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%A9%D0%B5%D1%80%D0%B1%D0%B0%D0%BA%D0%BE%D0%B2_%D0%BE%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.xlsx",
+        "requestKey": "http://astrakhan.izbirkom.ru/files/2026/ГДФСРФ_Отчет_о_сведениях_о_доходах_и_имуществе_Щербаков_опубликование.xlsx",
+        "retrievedAt": "2026-09-04T03:37:04.434468+00:00",
+        "status": 200,
+        "sha256": "827f83d8b1c61d2fd0068e82cfa5a066fa8f0ec29573c4ab8edd669d50beee99",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Лампадов С.А.",
+      "officialUrl": "http://astrakhan.izbirkom.ru/files/2026/Лампадов_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.xlsx",
+      "sourcePages": [
+        {
+          "url": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/dohod-imush/",
+          "title": "Сайт избирательной комиссии Астраханской области",
+          "depth": 1,
+          "sha256": "58f5fa69dd319b61610fdb1eaa61baedff98ef2f806c1825ea4f1ed8ec0a42d9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "1b1577f47233b58268c7e82a1adf11be429163b1dca27e562ab5db7eb78090a3",
+      "originalFilename": "Лампадов_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.xlsx",
+      "filename": "Лампадов_С.А-1b1577f47233.xlsx",
+      "path": "files/Лампадов_С.А-1b1577f47233.xlsx",
+      "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byteLength": 11692,
+      "sha256": "1b1577f47233b58268c7e82a1adf11be429163b1dca27e562ab5db7eb78090a3",
+      "source": {
+        "url": "http://astrakhan.izbirkom.ru/files/2026/%D0%9B%D0%B0%D0%BC%D0%BF%D0%B0%D0%B4%D0%BE%D0%B2_%D0%93%D0%94%D0%A0%D0%A4_%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2.xlsx",
+        "requestKey": "http://astrakhan.izbirkom.ru/files/2026/Лампадов_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.xlsx",
+        "retrievedAt": "2026-09-04T03:37:05.147125+00:00",
+        "status": 200,
+        "sha256": "1b1577f47233b58268c7e82a1adf11be429163b1dca27e562ab5db7eb78090a3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Лиджиева М.В.",
+      "officialUrl": "http://astrakhan.izbirkom.ru/files/2026/Лиджиева_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_опубликование.xlsx",
+      "sourcePages": [
+        {
+          "url": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/dohod-imush/",
+          "title": "Сайт избирательной комиссии Астраханской области",
+          "depth": 1,
+          "sha256": "58f5fa69dd319b61610fdb1eaa61baedff98ef2f806c1825ea4f1ed8ec0a42d9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "dd32469dbfedd621f472dbd6ff06147443a370495b6f7080ecb1d4363d2c3ccf",
+      "originalFilename": "Лиджиева_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_опубликование.xlsx",
+      "filename": "Лиджиева_М.В-dd32469dbfed.xlsx",
+      "path": "files/Лиджиева_М.В-dd32469dbfed.xlsx",
+      "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byteLength": 11885,
+      "sha256": "dd32469dbfedd621f472dbd6ff06147443a370495b6f7080ecb1d4363d2c3ccf",
+      "source": {
+        "url": "http://astrakhan.izbirkom.ru/files/2026/%D0%9B%D0%B8%D0%B4%D0%B6%D0%B8%D0%B5%D0%B2%D0%B0_%D0%93%D0%94%D0%A0%D0%A4_%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BE%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.xlsx",
+        "requestKey": "http://astrakhan.izbirkom.ru/files/2026/Лиджиева_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_опубликование.xlsx",
+        "retrievedAt": "2026-09-04T03:37:05.870489+00:00",
+        "status": 200,
+        "sha256": "dd32469dbfedd621f472dbd6ff06147443a370495b6f7080ecb1d4363d2c3ccf",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Сведения о расходах кандидата, его супруги (супруга) и несовершеннолетних детей по каждой сделке по приобретению земельного участка, другого объекта недвижимости, транспортного средства, ценных бумаг (долей участия, паев в уставных (складочных) капиталах организаций), цифровых финансовых активов, цифровой валюты, совершенной в течении послдених трех лет, если сумма сделки превышает общий доход кандидата и его супруга за три послдених года, предшествующих совершению сделки, и об источниках получения средств, за счет которых совершена сделка, представляемая кандидатом в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва - Лиджиева Мария Викторовна",
+      "officialUrl": "http://astrakhan.izbirkom.ru/files/2026/Лиджиева_ГДРФ_СВЕДЕНИЯ%20ОБ%20ИМУЩЕСТВЕ_превышение.docx",
+      "sourcePages": [
+        {
+          "url": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/dohod-imush/",
+          "title": "Сайт избирательной комиссии Астраханской области",
+          "depth": 1,
+          "sha256": "58f5fa69dd319b61610fdb1eaa61baedff98ef2f806c1825ea4f1ed8ec0a42d9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "ba1c5563a33c99045edb9721df6c6461a5a5053a91e0a3d7968020df84c53bb2",
+      "originalFilename": "Лиджиева_ГДРФ_СВЕДЕНИЯ ОБ ИМУЩЕСТВЕ_превышение.docx",
+      "filename": "Сведения_о_расходах_кандидата_его_супруги_супруга_и_несовершеннолетних_детей_по_каждой_сделке_по_при-ba1c5563a33c.docx",
+      "path": "files/Сведения_о_расходах_кандидата_его_супруги_супруга_и_несовершеннолетних_детей_по_каждой_сделке_по_при-ba1c5563a33c.docx",
+      "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "byteLength": 26350,
+      "sha256": "ba1c5563a33c99045edb9721df6c6461a5a5053a91e0a3d7968020df84c53bb2",
+      "source": {
+        "url": "http://astrakhan.izbirkom.ru/files/2026/%D0%9B%D0%B8%D0%B4%D0%B6%D0%B8%D0%B5%D0%B2%D0%B0_%D0%93%D0%94%D0%A0%D0%A4_%D0%A1%D0%92%D0%95%D0%94%D0%95%D0%9D%D0%98%D0%AF%20%D0%9E%D0%91%20%D0%98%D0%9C%D0%A3%D0%A9%D0%95%D0%A1%D0%A2%D0%92%D0%95_%D0%BF%D1%80%D0%B5%D0%B2%D1%8B%D1%88%D0%B5%D0%BD%D0%B8%D0%B5.docx",
+        "requestKey": "http://astrakhan.izbirkom.ru/files/2026/Лиджиева_ГДРФ_СВЕДЕНИЯ%20ОБ%20ИМУЩЕСТВЕ_превышение.docx",
+        "retrievedAt": "2026-09-04T03:37:06.587932+00:00",
+        "status": 200,
+        "sha256": "ba1c5563a33c99045edb9721df6c6461a5a5053a91e0a3d7968020df84c53bb2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Самодаева Л.Н.",
+      "officialUrl": "http://astrakhan.izbirkom.ru/files/2026/Самодаева_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов_опубликование.xlsx",
+      "sourcePages": [
+        {
+          "url": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/dohod-imush/",
+          "title": "Сайт избирательной комиссии Астраханской области",
+          "depth": 1,
+          "sha256": "58f5fa69dd319b61610fdb1eaa61baedff98ef2f806c1825ea4f1ed8ec0a42d9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "cdee32b6e7725c9fd2bfb474d6b64f6be8dc590a9b76af59d0f968761a756209",
+      "originalFilename": "Самодаева_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов_опубликование.xlsx",
+      "filename": "Самодаева_Л.Н-cdee32b6e772.xlsx",
+      "path": "files/Самодаева_Л.Н-cdee32b6e772.xlsx",
+      "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byteLength": 11909,
+      "sha256": "cdee32b6e7725c9fd2bfb474d6b64f6be8dc590a9b76af59d0f968761a756209",
+      "source": {
+        "url": "http://astrakhan.izbirkom.ru/files/2026/%D0%A1%D0%B0%D0%BC%D0%BE%D0%B4%D0%B0%D0%B5%D0%B2%D0%B0_%D0%93%D0%94%D0%A0%D0%A4_%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2_%D0%BE%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.xlsx",
+        "requestKey": "http://astrakhan.izbirkom.ru/files/2026/Самодаева_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов_опубликование.xlsx",
+        "retrievedAt": "2026-09-04T03:37:07.256062+00:00",
+        "status": 200,
+        "sha256": "cdee32b6e7725c9fd2bfb474d6b64f6be8dc590a9b76af59d0f968761a756209",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Севастьянов С.В.",
+      "officialUrl": "http://astrakhan.izbirkom.ru/files/2026/Севастьянов_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов_опубликование.xlsx",
+      "sourcePages": [
+        {
+          "url": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/dohod-imush/",
+          "title": "Сайт избирательной комиссии Астраханской области",
+          "depth": 1,
+          "sha256": "58f5fa69dd319b61610fdb1eaa61baedff98ef2f806c1825ea4f1ed8ec0a42d9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "8804be29b526d1f9445cedc670dc7d1c9a363ee5f500c6f9b626eed9b8f65bcd",
+      "originalFilename": "Севастьянов_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов_опубликование.xlsx",
+      "filename": "Севастьянов_С.В-8804be29b526.xlsx",
+      "path": "files/Севастьянов_С.В-8804be29b526.xlsx",
+      "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byteLength": 11936,
+      "sha256": "8804be29b526d1f9445cedc670dc7d1c9a363ee5f500c6f9b626eed9b8f65bcd",
+      "source": {
+        "url": "http://astrakhan.izbirkom.ru/files/2026/%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2_%D0%93%D0%94%D0%A0%D0%A4_%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2_%D0%BE%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.xlsx",
+        "requestKey": "http://astrakhan.izbirkom.ru/files/2026/Севастьянов_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов_опубликование.xlsx",
+        "retrievedAt": "2026-09-04T03:37:08.177949+00:00",
+        "status": 200,
+        "sha256": "8804be29b526d1f9445cedc670dc7d1c9a363ee5f500c6f9b626eed9b8f65bcd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Сухарев В.В.",
+      "officialUrl": "http://astrakhan.izbirkom.ru/files/2026/Сухарев_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов_опубликование.xlsx",
+      "sourcePages": [
+        {
+          "url": "http://astrakhan.izbirkom.ru/edinye-dni/ed2026/duma/dohod-imush/",
+          "title": "Сайт избирательной комиссии Астраханской области",
+          "depth": 1,
+          "sha256": "58f5fa69dd319b61610fdb1eaa61baedff98ef2f806c1825ea4f1ed8ec0a42d9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "9a260e2e83cb2998a403569929056193e46f0cc926a008eabdd0eea95b17c852",
+      "originalFilename": "Сухарев_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов_опубликование.xlsx",
+      "filename": "Сухарев_В.В-9a260e2e83cb.xlsx",
+      "path": "files/Сухарев_В.В-9a260e2e83cb.xlsx",
+      "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byteLength": 12063,
+      "sha256": "9a260e2e83cb2998a403569929056193e46f0cc926a008eabdd0eea95b17c852",
+      "source": {
+        "url": "http://astrakhan.izbirkom.ru/files/2026/%D0%A1%D1%83%D1%85%D0%B0%D1%80%D0%B5%D0%B2_%D0%93%D0%94%D0%A0%D0%A4_%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2_%D0%BE%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.xlsx",
+        "requestKey": "http://astrakhan.izbirkom.ru/files/2026/Сухарев_ГДРФ_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов_опубликование.xlsx",
+        "retrievedAt": "2026-09-04T03:37:08.664256+00:00",
+        "status": 200,
+        "sha256": "9a260e2e83cb2998a403569929056193e46f0cc926a008eabdd0eea95b17c852",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

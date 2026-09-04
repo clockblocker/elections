@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:39.036846+00:00",
+  "region": {
+    "code": "46",
+    "name": "Курская область",
+    "seedUrls": [
+      "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva.php",
+      "http://kursk.izbirkom.ru/dokumenty-izbiratelnoy-komissii/resheniya-izbiratelnoy-komissii-kurskoy-oblasti/2026-god/13-avgusta-2026-goda/131-1093-7/o-raspredelenii-po-kolichestvu-izbiratelnykh-byulleteney-po-federalnomu-i-odnomandatnym-izbiratelnym.php"
+    ],
+    "allowedHosts": [
+      "kursk.izbirkom.ru",
+      "www.kursk.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": false,
+  "truncated": false,
+  "pageCount": 6,
+  "documentCount": 1,
+  "documentCounts": {
+    "inaccuracy": 1
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 1,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 1
+    }
+  },
+  "failures": {
+    "pages": [
+      {
+        "url": "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+        "depth": 2,
+        "status": 404,
+        "error": "HTTP 404"
+      }
+    ],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva.php",
+        "requestKey": "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva.php",
+        "retrievedAt": "2026-09-04T03:41:54.032248+00:00",
+        "status": 200,
+        "sha256": "b7e8fa4f0294cfeaaee273dbe7a0f2f2204ff4779762dd8993d265bd448db04c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kursk.izbirkom.ru/dokumenty-izbiratelnoy-komissii/resheniya-izbiratelnoy-komissii-kurskoy-oblasti/2026-god/13-avgusta-2026-goda/131-1093-7/o-raspredelenii-po-kolichestvu-izbiratelnykh-byulleteney-po-federalnomu-i-odnomandatnym-izbiratelnym.php",
+      "title": "О распределении по количеству избирательных бюллетеней по федеральному и одномандатным избирательным округам для голосования на выборах депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва территориальным избирательным",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kursk.izbirkom.ru/dokumenty-izbiratelnoy-komissii/resheniya-izbiratelnoy-komissii-kurskoy-oblasti/2026-god/13-avgusta-2026-goda/131-1093-7/o-raspredelenii-po-kolichestvu-izbiratelnykh-byulleteney-po-federalnomu-i-odnomandatnym-izbiratelnym.php",
+        "requestKey": "http://kursk.izbirkom.ru/dokumenty-izbiratelnoy-komissii/resheniya-izbiratelnoy-komissii-kurskoy-oblasti/2026-god/13-avgusta-2026-goda/131-1093-7/o-raspredelenii-po-kolichestvu-izbiratelnykh-byulleteney-po-federalnomu-i-odnomandatnym-izbiratelnym.php",
+        "retrievedAt": "2026-09-04T03:41:54.945130+00:00",
+        "status": 200,
+        "sha256": "6b50a1fb9c982c95492bf4d3d46afabe9f2abd2806353442d4618321bace08e7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/skhema-odnomandatnykh-izbiratelnykh-okrugov/skhema-odnomandatnykh-izbiratelnykh-okrugov.php",
+      "title": "Схема одномандатных избирательных округов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/skhema-odnomandatnykh-izbiratelnykh-okrugov/skhema-odnomandatnykh-izbiratelnykh-okrugov.php",
+        "requestKey": "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/skhema-odnomandatnykh-izbiratelnykh-okrugov/skhema-odnomandatnykh-izbiratelnykh-okrugov.php",
+        "retrievedAt": "2026-09-04T03:41:55.697785+00:00",
+        "status": 200,
+        "sha256": "cc0681bc4726d8f7982663911ad791296c420b422091c2b1234fb17bcdc31b53",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/svedeniya-o-kandidatakh.php",
+      "title": "Сведения о кандидатах",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/Недостоверности%20ГД.pdf"
+      ],
+      "source": {
+        "url": "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/svedeniya-o-kandidatakh.php",
+        "requestKey": "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/svedeniya-o-kandidatakh.php",
+        "retrievedAt": "2026-09-04T03:41:56.573235+00:00",
+        "status": 200,
+        "sha256": "c7084902c49db302fa11c33124179147d5eb74304313e289c074cdba7088aca2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/kurskiy-odnomandatnyy-izbiratelnyy-okrug-110/kurskiy-odnomandatnyy-izbiratelnyy-okrug-110.php",
+      "title": "Курский одномандатный избирательный округ № 110",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/kurskiy-odnomandatnyy-izbiratelnyy-okrug-110/kurskiy-odnomandatnyy-izbiratelnyy-okrug-110.php",
+        "requestKey": "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/kurskiy-odnomandatnyy-izbiratelnyy-okrug-110/kurskiy-odnomandatnyy-izbiratelnyy-okrug-110.php",
+        "retrievedAt": "2026-09-04T03:41:57.348646+00:00",
+        "status": 200,
+        "sha256": "1343978c7bcb1aa8d7437304a970ec6171ef7ca655f83ec636aa2d96a73b19ad",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/seymskiy-odnomandatnyy-izbiratelnyy-okrug-111/seymskiy-odnomandatnyy-izbiratelnyy-okrug-111.php",
+      "title": "Сеймский одномандатный избирательный округ № 111",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/seymskiy-odnomandatnyy-izbiratelnyy-okrug-111/seymskiy-odnomandatnyy-izbiratelnyy-okrug-111.php",
+        "requestKey": "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/seymskiy-odnomandatnyy-izbiratelnyy-okrug-111/seymskiy-odnomandatnyy-izbiratelnyy-okrug-111.php",
+        "retrievedAt": "2026-09-04T03:41:58.391152+00:00",
+        "status": 200,
+        "sha256": "4ec429acf9779cf3a8be3a84445c40e95e2819c621c9f14971babcfd58bbd980",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "inaccuracy",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных кандидатами в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатным избирательным округам",
+      "officialUrl": "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/Недостоверности%20ГД.pdf",
+      "sourcePages": [
+        {
+          "url": "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/svedeniya-o-kandidatakh.php",
+          "title": "Сведения о кандидатах",
+          "depth": 1,
+          "sha256": "c7084902c49db302fa11c33124179147d5eb74304313e289c074cdba7088aca2"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "4947de43e13bbfd52ce2ffc0052a490b3638637f31c614c14b261ff80ca1ad08",
+      "originalFilename": "Недостоверности ГД.pdf",
+      "filename": "Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-4947de43e13b.pdf",
+      "path": "files/Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-4947de43e13b.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 238966,
+      "sha256": "4947de43e13bbfd52ce2ffc0052a490b3638637f31c614c14b261ff80ca1ad08",
+      "source": {
+        "url": "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/%D0%9D%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%93%D0%94.pdf",
+        "requestKey": "http://kursk.izbirkom.ru/edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/Недостоверности%20ГД.pdf",
+        "retrievedAt": "2026-09-04T03:42:00.029037+00:00",
+        "status": 200,
+        "sha256": "4947de43e13bbfd52ce2ffc0052a490b3638637f31c614c14b261ff80ca1ad08",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

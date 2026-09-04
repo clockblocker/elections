@@ -1,0 +1,665 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:32.434767+00:00",
+  "region": {
+    "code": "33",
+    "name": "Владимирская область",
+    "seedUrls": [
+      "http://vladimir.izbirkom.ru/docs/10716/?lang=ru"
+    ],
+    "allowedHosts": [
+      "vladimir.izbirkom.ru",
+      "www.vladimir.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 5,
+  "documentCount": 17,
+  "documentCounts": {
+    "declaration": 15,
+    "inaccuracy": 2
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 2,
+      "explicitEmptyPageCount": 1,
+      "documentCount": 15
+    },
+    "inaccuracy": {
+      "signalPageCount": 1,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 2
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://vladimir.izbirkom.ru/docs/10716/?lang=ru",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/docs/10716/?lang=ru",
+        "requestKey": "http://vladimir.izbirkom.ru/docs/10716/?lang=ru",
+        "retrievedAt": "2026-09-04T03:43:20.568082+00:00",
+        "status": 200,
+        "sha256": "4a9b3fc3137500ae9edbb0a4fa70495ede2d182a589429680692853ef0cb5aa5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://vladimir.izbirkom.ru/docs/10729/",
+      "title": "Информация для кандидатов и политических партий",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/docs/10729/",
+        "requestKey": "http://vladimir.izbirkom.ru/docs/10729/",
+        "retrievedAt": "2026-09-04T03:43:23.713550+00:00",
+        "status": 200,
+        "sha256": "7f6033411d5c4145522602f33c499a92c1bfc1db466193307b8a560f784bcd44",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://vladimir.izbirkom.ru/docs/10863/",
+      "title": "Сведения о выдвинутых и зарегистрированных кандидатах",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/docs/10863/",
+        "requestKey": "http://vladimir.izbirkom.ru/docs/10863/",
+        "retrievedAt": "2026-09-04T03:43:24.520230+00:00",
+        "status": 200,
+        "sha256": "39668e28da3c5d4d137c80476cddfdd439f691b5ac1705545184d779a57affc8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://vladimir.izbirkom.ru/docs/10730/",
+      "title": "Время приема избирательных документов, представляемых кандидатами в Избирательную комиссию Владимирской области",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/docs/10730/",
+        "requestKey": "http://vladimir.izbirkom.ru/docs/10730/",
+        "retrievedAt": "2026-09-04T03:43:25.206490+00:00",
+        "status": 200,
+        "sha256": "1a1585dcf44d014ac9b3156ed928829374ce37fc1bdef32f8922d142d27b0394",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://vladimir.izbirkom.ru/docs/10918/",
+      "title": "СВЕДЕНИЯ о размере и об источниках доходов, имуществе кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 15,
+        "inaccuracy": 2
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://vladimir.izbirkom.ru/etc/nedost_sved_gd_83_2026.docx",
+        "http://vladimir.izbirkom.ru/etc/nedost_sved_gd_84_2026.docx",
+        "http://vladimir.izbirkom.ru/etc/sved_anikeev_gd_26.pdf",
+        "http://vladimir.izbirkom.ru/etc/sved_birukov_gd_26.pdf",
+        "http://vladimir.izbirkom.ru/etc/sved_bugaev_gd_26.pdf",
+        "http://vladimir.izbirkom.ru/etc/sved_chernishov_gd_26.pdf",
+        "http://vladimir.izbirkom.ru/etc/sved_chernov_gd_26.pdf",
+        "http://vladimir.izbirkom.ru/etc/sved_firsov_gd_26.pdf",
+        "http://vladimir.izbirkom.ru/etc/sved_igoshin_gd_26.pdf",
+        "http://vladimir.izbirkom.ru/etc/sved_kanisheva_gd_26.pdf",
+        "http://vladimir.izbirkom.ru/etc/sved_kornishov_gd_26.pdf",
+        "http://vladimir.izbirkom.ru/etc/sved_kotler_gd_26.pdf",
+        "http://vladimir.izbirkom.ru/etc/sved_petrosan_gd_26.pdf",
+        "http://vladimir.izbirkom.ru/etc/sved_rostovtsev_gd_26.pdf",
+        "http://vladimir.izbirkom.ru/etc/sved_samin_gd_26.pdf",
+        "http://vladimir.izbirkom.ru/etc/sved_serebrov_gd_26.pdf",
+        "http://vladimir.izbirkom.ru/etc/sved_solovev_gd_26.pdf"
+      ],
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/docs/10918/",
+        "requestKey": "http://vladimir.izbirkom.ru/docs/10918/",
+        "retrievedAt": "2026-09-04T03:43:25.811042+00:00",
+        "status": 200,
+        "sha256": "47fb9fff22097d09002c176168ffb16d2fd13d6e4870eeed586408a4b736549e",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "АНИКЕЕВ Григорий Викторович",
+      "officialUrl": "http://vladimir.izbirkom.ru/etc/sved_anikeev_gd_26.pdf",
+      "sourcePages": [
+        {
+          "url": "http://vladimir.izbirkom.ru/docs/10918/",
+          "title": "СВЕДЕНИЯ о размере и об источниках доходов, имуществе кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 2,
+          "sha256": "47fb9fff22097d09002c176168ffb16d2fd13d6e4870eeed586408a4b736549e"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "b059c4988f1adabe16a8c022e5304bc988027d0f9b01be8e004a20644d7ebd40",
+      "originalFilename": "sved_anikeev_gd_26.pdf",
+      "filename": "АНИКЕЕВ_Григорий_Викторович-b059c4988f1a.pdf",
+      "path": "files/АНИКЕЕВ_Григорий_Викторович-b059c4988f1a.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 292537,
+      "sha256": "b059c4988f1adabe16a8c022e5304bc988027d0f9b01be8e004a20644d7ebd40",
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/etc/sved_anikeev_gd_26.pdf",
+        "requestKey": "http://vladimir.izbirkom.ru/etc/sved_anikeev_gd_26.pdf",
+        "retrievedAt": "2026-09-04T03:43:27.938527+00:00",
+        "status": 200,
+        "sha256": "b059c4988f1adabe16a8c022e5304bc988027d0f9b01be8e004a20644d7ebd40",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "БИРЮКОВ Сергей Евгеньевич",
+      "officialUrl": "http://vladimir.izbirkom.ru/etc/sved_birukov_gd_26.pdf",
+      "sourcePages": [
+        {
+          "url": "http://vladimir.izbirkom.ru/docs/10918/",
+          "title": "СВЕДЕНИЯ о размере и об источниках доходов, имуществе кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 2,
+          "sha256": "47fb9fff22097d09002c176168ffb16d2fd13d6e4870eeed586408a4b736549e"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "180c51ddbaca2136241a4b0fd622664bed497f0a2d2166018a2566a8994ba3f7",
+      "originalFilename": "sved_birukov_gd_26.pdf",
+      "filename": "БИРЮКОВ_Сергей_Евгеньевич-180c51ddbaca.pdf",
+      "path": "files/БИРЮКОВ_Сергей_Евгеньевич-180c51ddbaca.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 286772,
+      "sha256": "180c51ddbaca2136241a4b0fd622664bed497f0a2d2166018a2566a8994ba3f7",
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/etc/sved_birukov_gd_26.pdf",
+        "requestKey": "http://vladimir.izbirkom.ru/etc/sved_birukov_gd_26.pdf",
+        "retrievedAt": "2026-09-04T03:43:28.662490+00:00",
+        "status": 200,
+        "sha256": "180c51ddbaca2136241a4b0fd622664bed497f0a2d2166018a2566a8994ba3f7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "БУГАЕВ Александр Петрович",
+      "officialUrl": "http://vladimir.izbirkom.ru/etc/sved_bugaev_gd_26.pdf",
+      "sourcePages": [
+        {
+          "url": "http://vladimir.izbirkom.ru/docs/10918/",
+          "title": "СВЕДЕНИЯ о размере и об источниках доходов, имуществе кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 2,
+          "sha256": "47fb9fff22097d09002c176168ffb16d2fd13d6e4870eeed586408a4b736549e"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "d58307c9068dd138c3eb5e186746a73a369b9c890d98f3412122a90fef80b7e5",
+      "originalFilename": "sved_bugaev_gd_26.pdf",
+      "filename": "БУГАЕВ_Александр_Петрович-d58307c9068d.pdf",
+      "path": "files/БУГАЕВ_Александр_Петрович-d58307c9068d.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 286408,
+      "sha256": "d58307c9068dd138c3eb5e186746a73a369b9c890d98f3412122a90fef80b7e5",
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/etc/sved_bugaev_gd_26.pdf",
+        "requestKey": "http://vladimir.izbirkom.ru/etc/sved_bugaev_gd_26.pdf",
+        "retrievedAt": "2026-09-04T03:43:29.399056+00:00",
+        "status": 200,
+        "sha256": "d58307c9068dd138c3eb5e186746a73a369b9c890d98f3412122a90fef80b7e5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ЧЕРНЫШОВ Борис Борисович",
+      "officialUrl": "http://vladimir.izbirkom.ru/etc/sved_chernishov_gd_26.pdf",
+      "sourcePages": [
+        {
+          "url": "http://vladimir.izbirkom.ru/docs/10918/",
+          "title": "СВЕДЕНИЯ о размере и об источниках доходов, имуществе кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 2,
+          "sha256": "47fb9fff22097d09002c176168ffb16d2fd13d6e4870eeed586408a4b736549e"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "533fa8ea830e6ac680197dfab0da38f94353ef77e77a2493910231e01b45546d",
+      "originalFilename": "sved_chernishov_gd_26.pdf",
+      "filename": "ЧЕРНЫШОВ_Борис_Борисович-533fa8ea830e.pdf",
+      "path": "files/ЧЕРНЫШОВ_Борис_Борисович-533fa8ea830e.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 287380,
+      "sha256": "533fa8ea830e6ac680197dfab0da38f94353ef77e77a2493910231e01b45546d",
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/etc/sved_chernishov_gd_26.pdf",
+        "requestKey": "http://vladimir.izbirkom.ru/etc/sved_chernishov_gd_26.pdf",
+        "retrievedAt": "2026-09-04T03:43:30.052696+00:00",
+        "status": 200,
+        "sha256": "533fa8ea830e6ac680197dfab0da38f94353ef77e77a2493910231e01b45546d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ЧЕРНОВ Максим Дмитриевич",
+      "officialUrl": "http://vladimir.izbirkom.ru/etc/sved_chernov_gd_26.pdf",
+      "sourcePages": [
+        {
+          "url": "http://vladimir.izbirkom.ru/docs/10918/",
+          "title": "СВЕДЕНИЯ о размере и об источниках доходов, имуществе кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 2,
+          "sha256": "47fb9fff22097d09002c176168ffb16d2fd13d6e4870eeed586408a4b736549e"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "ed756699c95610378c59f38151c332c419bb26337498cc176eef92ff18e48f8b",
+      "originalFilename": "sved_chernov_gd_26.pdf",
+      "filename": "ЧЕРНОВ_Максим_Дмитриевич-ed756699c956.pdf",
+      "path": "files/ЧЕРНОВ_Максим_Дмитриевич-ed756699c956.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 281575,
+      "sha256": "ed756699c95610378c59f38151c332c419bb26337498cc176eef92ff18e48f8b",
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/etc/sved_chernov_gd_26.pdf",
+        "requestKey": "http://vladimir.izbirkom.ru/etc/sved_chernov_gd_26.pdf",
+        "retrievedAt": "2026-09-04T03:43:30.811727+00:00",
+        "status": 200,
+        "sha256": "ed756699c95610378c59f38151c332c419bb26337498cc176eef92ff18e48f8b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ФИРСОВ Алексей Александрович",
+      "officialUrl": "http://vladimir.izbirkom.ru/etc/sved_firsov_gd_26.pdf",
+      "sourcePages": [
+        {
+          "url": "http://vladimir.izbirkom.ru/docs/10918/",
+          "title": "СВЕДЕНИЯ о размере и об источниках доходов, имуществе кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 2,
+          "sha256": "47fb9fff22097d09002c176168ffb16d2fd13d6e4870eeed586408a4b736549e"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "25bfd6e76882bd393ad521ae08e7801438f2cf527e7fe0db23b22e3609873669",
+      "originalFilename": "sved_firsov_gd_26.pdf",
+      "filename": "ФИРСОВ_Алексей_Александрович-25bfd6e76882.pdf",
+      "path": "files/ФИРСОВ_Алексей_Александрович-25bfd6e76882.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 286069,
+      "sha256": "25bfd6e76882bd393ad521ae08e7801438f2cf527e7fe0db23b22e3609873669",
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/etc/sved_firsov_gd_26.pdf",
+        "requestKey": "http://vladimir.izbirkom.ru/etc/sved_firsov_gd_26.pdf",
+        "retrievedAt": "2026-09-04T03:43:31.532027+00:00",
+        "status": 200,
+        "sha256": "25bfd6e76882bd393ad521ae08e7801438f2cf527e7fe0db23b22e3609873669",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ИГОШИН Игорь Николаевич",
+      "officialUrl": "http://vladimir.izbirkom.ru/etc/sved_igoshin_gd_26.pdf",
+      "sourcePages": [
+        {
+          "url": "http://vladimir.izbirkom.ru/docs/10918/",
+          "title": "СВЕДЕНИЯ о размере и об источниках доходов, имуществе кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 2,
+          "sha256": "47fb9fff22097d09002c176168ffb16d2fd13d6e4870eeed586408a4b736549e"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "690daaaceb57078a7806bf414cccee2c709fe62042d80b072d4b3517395bfeab",
+      "originalFilename": "sved_igoshin_gd_26.pdf",
+      "filename": "ИГОШИН_Игорь_Николаевич-690daaaceb57.pdf",
+      "path": "files/ИГОШИН_Игорь_Николаевич-690daaaceb57.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 133617,
+      "sha256": "690daaaceb57078a7806bf414cccee2c709fe62042d80b072d4b3517395bfeab",
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/etc/sved_igoshin_gd_26.pdf",
+        "requestKey": "http://vladimir.izbirkom.ru/etc/sved_igoshin_gd_26.pdf",
+        "retrievedAt": "2026-09-04T03:43:32.166615+00:00",
+        "status": 200,
+        "sha256": "690daaaceb57078a7806bf414cccee2c709fe62042d80b072d4b3517395bfeab",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "КАНИЩЕВА Ольга Николаевна",
+      "officialUrl": "http://vladimir.izbirkom.ru/etc/sved_kanisheva_gd_26.pdf",
+      "sourcePages": [
+        {
+          "url": "http://vladimir.izbirkom.ru/docs/10918/",
+          "title": "СВЕДЕНИЯ о размере и об источниках доходов, имуществе кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 2,
+          "sha256": "47fb9fff22097d09002c176168ffb16d2fd13d6e4870eeed586408a4b736549e"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "b94da63acebf922e2a16ace877ed0610884f3db6586b61d43d25f8bf87f50952",
+      "originalFilename": "sved_kanisheva_gd_26.pdf",
+      "filename": "КАНИЩЕВА_Ольга_Николаевна-b94da63acebf.pdf",
+      "path": "files/КАНИЩЕВА_Ольга_Николаевна-b94da63acebf.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 139722,
+      "sha256": "b94da63acebf922e2a16ace877ed0610884f3db6586b61d43d25f8bf87f50952",
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/etc/sved_kanisheva_gd_26.pdf",
+        "requestKey": "http://vladimir.izbirkom.ru/etc/sved_kanisheva_gd_26.pdf",
+        "retrievedAt": "2026-09-04T03:43:32.900234+00:00",
+        "status": 200,
+        "sha256": "b94da63acebf922e2a16ace877ed0610884f3db6586b61d43d25f8bf87f50952",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "КОРНИШОВ Сергей Викторович",
+      "officialUrl": "http://vladimir.izbirkom.ru/etc/sved_kornishov_gd_26.pdf",
+      "sourcePages": [
+        {
+          "url": "http://vladimir.izbirkom.ru/docs/10918/",
+          "title": "СВЕДЕНИЯ о размере и об источниках доходов, имуществе кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 2,
+          "sha256": "47fb9fff22097d09002c176168ffb16d2fd13d6e4870eeed586408a4b736549e"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "44ac2210a3a1cff3c36836ed047e786669aea5c2e75ceec31b987ba578c062c8",
+      "originalFilename": "sved_kornishov_gd_26.pdf",
+      "filename": "КОРНИШОВ_Сергей_Викторович-44ac2210a3a1.pdf",
+      "path": "files/КОРНИШОВ_Сергей_Викторович-44ac2210a3a1.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 280858,
+      "sha256": "44ac2210a3a1cff3c36836ed047e786669aea5c2e75ceec31b987ba578c062c8",
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/etc/sved_kornishov_gd_26.pdf",
+        "requestKey": "http://vladimir.izbirkom.ru/etc/sved_kornishov_gd_26.pdf",
+        "retrievedAt": "2026-09-04T03:43:33.638795+00:00",
+        "status": 200,
+        "sha256": "44ac2210a3a1cff3c36836ed047e786669aea5c2e75ceec31b987ba578c062c8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "КОТЛЕР Данил Дмитриевич",
+      "officialUrl": "http://vladimir.izbirkom.ru/etc/sved_kotler_gd_26.pdf",
+      "sourcePages": [
+        {
+          "url": "http://vladimir.izbirkom.ru/docs/10918/",
+          "title": "СВЕДЕНИЯ о размере и об источниках доходов, имуществе кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 2,
+          "sha256": "47fb9fff22097d09002c176168ffb16d2fd13d6e4870eeed586408a4b736549e"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "fb048d89d383180cfd4da73a6120410b6c973e59793eaebd5b411e91574e5d5c",
+      "originalFilename": "sved_kotler_gd_26.pdf",
+      "filename": "КОТЛЕР_Данил_Дмитриевич-fb048d89d383.pdf",
+      "path": "files/КОТЛЕР_Данил_Дмитриевич-fb048d89d383.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 138419,
+      "sha256": "fb048d89d383180cfd4da73a6120410b6c973e59793eaebd5b411e91574e5d5c",
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/etc/sved_kotler_gd_26.pdf",
+        "requestKey": "http://vladimir.izbirkom.ru/etc/sved_kotler_gd_26.pdf",
+        "retrievedAt": "2026-09-04T03:43:34.281707+00:00",
+        "status": 200,
+        "sha256": "fb048d89d383180cfd4da73a6120410b6c973e59793eaebd5b411e91574e5d5c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ПЕТРОСЯН Рафаэль Давитович",
+      "officialUrl": "http://vladimir.izbirkom.ru/etc/sved_petrosan_gd_26.pdf",
+      "sourcePages": [
+        {
+          "url": "http://vladimir.izbirkom.ru/docs/10918/",
+          "title": "СВЕДЕНИЯ о размере и об источниках доходов, имуществе кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 2,
+          "sha256": "47fb9fff22097d09002c176168ffb16d2fd13d6e4870eeed586408a4b736549e"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "8d9688d2ae097d74bc06c196bc16774dc5eeb0634f0e1d5bf290c1b09c9c6d5c",
+      "originalFilename": "sved_petrosan_gd_26.pdf",
+      "filename": "ПЕТРОСЯН_Рафаэль_Давитович-8d9688d2ae09.pdf",
+      "path": "files/ПЕТРОСЯН_Рафаэль_Давитович-8d9688d2ae09.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 136830,
+      "sha256": "8d9688d2ae097d74bc06c196bc16774dc5eeb0634f0e1d5bf290c1b09c9c6d5c",
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/etc/sved_petrosan_gd_26.pdf",
+        "requestKey": "http://vladimir.izbirkom.ru/etc/sved_petrosan_gd_26.pdf",
+        "retrievedAt": "2026-09-04T03:43:34.982305+00:00",
+        "status": 200,
+        "sha256": "8d9688d2ae097d74bc06c196bc16774dc5eeb0634f0e1d5bf290c1b09c9c6d5c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "РОСТОВЦЕВ Иван Александрович",
+      "officialUrl": "http://vladimir.izbirkom.ru/etc/sved_rostovtsev_gd_26.pdf",
+      "sourcePages": [
+        {
+          "url": "http://vladimir.izbirkom.ru/docs/10918/",
+          "title": "СВЕДЕНИЯ о размере и об источниках доходов, имуществе кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 2,
+          "sha256": "47fb9fff22097d09002c176168ffb16d2fd13d6e4870eeed586408a4b736549e"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "acd445f66224ccc371d65129860640dc1b68138e307395f1d50b8983b6e5983b",
+      "originalFilename": "sved_rostovtsev_gd_26.pdf",
+      "filename": "РОСТОВЦЕВ_Иван_Александрович-acd445f66224.pdf",
+      "path": "files/РОСТОВЦЕВ_Иван_Александрович-acd445f66224.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 283157,
+      "sha256": "acd445f66224ccc371d65129860640dc1b68138e307395f1d50b8983b6e5983b",
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/etc/sved_rostovtsev_gd_26.pdf",
+        "requestKey": "http://vladimir.izbirkom.ru/etc/sved_rostovtsev_gd_26.pdf",
+        "retrievedAt": "2026-09-04T03:43:35.681926+00:00",
+        "status": 200,
+        "sha256": "acd445f66224ccc371d65129860640dc1b68138e307395f1d50b8983b6e5983b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "САМИНЬ Анна Владимировна",
+      "officialUrl": "http://vladimir.izbirkom.ru/etc/sved_samin_gd_26.pdf",
+      "sourcePages": [
+        {
+          "url": "http://vladimir.izbirkom.ru/docs/10918/",
+          "title": "СВЕДЕНИЯ о размере и об источниках доходов, имуществе кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 2,
+          "sha256": "47fb9fff22097d09002c176168ffb16d2fd13d6e4870eeed586408a4b736549e"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "453fce9182df9e2cfc49e73368161644a99bbdbc194d2ecb9094cc0b4bba81f8",
+      "originalFilename": "sved_samin_gd_26.pdf",
+      "filename": "САМИНЬ_Анна_Владимировна-453fce9182df.pdf",
+      "path": "files/САМИНЬ_Анна_Владимировна-453fce9182df.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 280078,
+      "sha256": "453fce9182df9e2cfc49e73368161644a99bbdbc194d2ecb9094cc0b4bba81f8",
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/etc/sved_samin_gd_26.pdf",
+        "requestKey": "http://vladimir.izbirkom.ru/etc/sved_samin_gd_26.pdf",
+        "retrievedAt": "2026-09-04T03:43:36.376694+00:00",
+        "status": 200,
+        "sha256": "453fce9182df9e2cfc49e73368161644a99bbdbc194d2ecb9094cc0b4bba81f8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "СЕРЕБРОВ Вадим Анатольевич",
+      "officialUrl": "http://vladimir.izbirkom.ru/etc/sved_serebrov_gd_26.pdf",
+      "sourcePages": [
+        {
+          "url": "http://vladimir.izbirkom.ru/docs/10918/",
+          "title": "СВЕДЕНИЯ о размере и об источниках доходов, имуществе кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 2,
+          "sha256": "47fb9fff22097d09002c176168ffb16d2fd13d6e4870eeed586408a4b736549e"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "6ddcfe59f1bf953ea560f91df75d4a28d40302c48d6f08b09febeb59ef3d5d11",
+      "originalFilename": "sved_serebrov_gd_26.pdf",
+      "filename": "СЕРЕБРОВ_Вадим_Анатольевич-6ddcfe59f1bf.pdf",
+      "path": "files/СЕРЕБРОВ_Вадим_Анатольевич-6ddcfe59f1bf.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 284753,
+      "sha256": "6ddcfe59f1bf953ea560f91df75d4a28d40302c48d6f08b09febeb59ef3d5d11",
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/etc/sved_serebrov_gd_26.pdf",
+        "requestKey": "http://vladimir.izbirkom.ru/etc/sved_serebrov_gd_26.pdf",
+        "retrievedAt": "2026-09-04T03:43:36.913450+00:00",
+        "status": 200,
+        "sha256": "6ddcfe59f1bf953ea560f91df75d4a28d40302c48d6f08b09febeb59ef3d5d11",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "СОЛОВЬЕВ Егор Валерьевич",
+      "officialUrl": "http://vladimir.izbirkom.ru/etc/sved_solovev_gd_26.pdf",
+      "sourcePages": [
+        {
+          "url": "http://vladimir.izbirkom.ru/docs/10918/",
+          "title": "СВЕДЕНИЯ о размере и об источниках доходов, имуществе кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 2,
+          "sha256": "47fb9fff22097d09002c176168ffb16d2fd13d6e4870eeed586408a4b736549e"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "f1116585641ac870aa75a8e38157e00042751833c0beea61fa88be09d5383549",
+      "originalFilename": "sved_solovev_gd_26.pdf",
+      "filename": "СОЛОВЬЕВ_Егор_Валерьевич-f1116585641a.pdf",
+      "path": "files/СОЛОВЬЕВ_Егор_Валерьевич-f1116585641a.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 133331,
+      "sha256": "f1116585641ac870aa75a8e38157e00042751833c0beea61fa88be09d5383549",
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/etc/sved_solovev_gd_26.pdf",
+        "requestKey": "http://vladimir.izbirkom.ru/etc/sved_solovev_gd_26.pdf",
+        "retrievedAt": "2026-09-04T03:43:37.375706+00:00",
+        "status": 200,
+        "sha256": "f1116585641ac870aa75a8e38157e00042751833c0beea61fa88be09d5383549",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных кандидатами в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу Владимирская область – Владимирский одномандатный избирательный округ № 83",
+      "officialUrl": "http://vladimir.izbirkom.ru/etc/nedost_sved_gd_83_2026.docx",
+      "sourcePages": [
+        {
+          "url": "http://vladimir.izbirkom.ru/docs/10918/",
+          "title": "СВЕДЕНИЯ о размере и об источниках доходов, имуществе кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 2,
+          "sha256": "47fb9fff22097d09002c176168ffb16d2fd13d6e4870eeed586408a4b736549e"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "db6ab38498a7a0b9656092cf2a96fbc6ba7cc508eb3842a3e0d5b83bc44a5d75",
+      "originalFilename": "nedost_sved_gd_83_2026.docx",
+      "filename": "Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-db6ab38498a7.docx",
+      "path": "files/Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-db6ab38498a7.docx",
+      "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "byteLength": 15707,
+      "sha256": "db6ab38498a7a0b9656092cf2a96fbc6ba7cc508eb3842a3e0d5b83bc44a5d75",
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/etc/nedost_sved_gd_83_2026.docx",
+        "requestKey": "http://vladimir.izbirkom.ru/etc/nedost_sved_gd_83_2026.docx",
+        "retrievedAt": "2026-09-04T03:43:26.444569+00:00",
+        "status": 200,
+        "sha256": "db6ab38498a7a0b9656092cf2a96fbc6ba7cc508eb3842a3e0d5b83bc44a5d75",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных кандидатами в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу Владимирская область – Суздальский одномандатный избирательный округ № 84",
+      "officialUrl": "http://vladimir.izbirkom.ru/etc/nedost_sved_gd_84_2026.docx",
+      "sourcePages": [
+        {
+          "url": "http://vladimir.izbirkom.ru/docs/10918/",
+          "title": "СВЕДЕНИЯ о размере и об источниках доходов, имуществе кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 2,
+          "sha256": "47fb9fff22097d09002c176168ffb16d2fd13d6e4870eeed586408a4b736549e"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "467a37f9e5c14d33eea6f341cf027c0e282568dd2c98d8ecb5f9d2acdb1cf2b1",
+      "originalFilename": "nedost_sved_gd_84_2026.docx",
+      "filename": "Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-467a37f9e5c1.docx",
+      "path": "files/Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-467a37f9e5c1.docx",
+      "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "byteLength": 16136,
+      "sha256": "467a37f9e5c14d33eea6f341cf027c0e282568dd2c98d8ecb5f9d2acdb1cf2b1",
+      "source": {
+        "url": "http://vladimir.izbirkom.ru/etc/nedost_sved_gd_84_2026.docx",
+        "requestKey": "http://vladimir.izbirkom.ru/etc/nedost_sved_gd_84_2026.docx",
+        "retrievedAt": "2026-09-04T03:43:27.093700+00:00",
+        "status": 200,
+        "sha256": "467a37f9e5c14d33eea6f341cf027c0e282568dd2c98d8ecb5f9d2acdb1cf2b1",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

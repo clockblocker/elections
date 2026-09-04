@@ -1,0 +1,753 @@
+{
+  "schemaVersion": 1,
+  "dataset": "cik-2026-duma-federal-party-list-declarations",
+  "generatedAt": "2026-09-04T03:14:56.356267+00:00",
+  "sourcePage": {
+    "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/",
+    "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/",
+    "retrievedAt": "2026-09-04T03:14:38.564686+00:00",
+    "status": 200,
+    "contentType": "text/html; charset=UTF-8",
+    "sha256": "aaa8b445d2fa789134da333f10319bc113c90d56c6edaad43d1ae7f1b8f79678",
+    "byteLength": 150048,
+    "provenance": "live-official",
+    "path": "source.html"
+  },
+  "categories": {
+    "income_property": "income and property",
+    "foreign_property": "foreign property and obligations",
+    "large_transactions": "large transactions and funding sources"
+  },
+  "parties": [
+    {
+      "partyId": "party-34f7d2091cbd",
+      "heading": "ВСЕРОССИЙСКАЯ ПОЛИТИЧЕСКАЯ ПАРТИЯ «РОДИНА»",
+      "documentCount": 3,
+      "categories": {
+        "foreign_property": 1,
+        "income_property": 1,
+        "large_transactions": 1
+      }
+    },
+    {
+      "partyId": "party-08fdfef54a9d",
+      "heading": "Всероссийская политическая партия «ЕДИНАЯ РОССИЯ»",
+      "documentCount": 3,
+      "categories": {
+        "foreign_property": 1,
+        "income_property": 1,
+        "large_transactions": 1
+      }
+    },
+    {
+      "partyId": "party-d9b70e1f1822",
+      "heading": "КПРФ – политическая партия КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+      "documentCount": 3,
+      "categories": {
+        "foreign_property": 1,
+        "income_property": 1,
+        "large_transactions": 1
+      }
+    },
+    {
+      "partyId": "party-557d0ed525eb",
+      "heading": "Политическая партия «НОВЫЕ ЛЮДИ»",
+      "documentCount": 3,
+      "categories": {
+        "foreign_property": 1,
+        "income_property": 1,
+        "large_transactions": 1
+      }
+    },
+    {
+      "partyId": "party-0288fc49da65",
+      "heading": "Политическая партия «Партия прямой демократии»",
+      "documentCount": 2,
+      "categories": {
+        "income_property": 1,
+        "large_transactions": 1
+      }
+    },
+    {
+      "partyId": "party-1046581854ed",
+      "heading": "Политическая партия «РОССИЙСКАЯ ПАРТИЯ ПЕНСИОНЕРОВ ЗА СОЦИАЛЬНУЮ СПРАВЕДЛИВОСТЬ»",
+      "documentCount": 3,
+      "categories": {
+        "foreign_property": 1,
+        "income_property": 1,
+        "large_transactions": 1
+      }
+    },
+    {
+      "partyId": "party-c203a9a17a40",
+      "heading": "Политическая партия «Российская экологическая партия «ЗЕЛЁНЫЕ»",
+      "documentCount": 3,
+      "categories": {
+        "foreign_property": 1,
+        "income_property": 1,
+        "large_transactions": 1
+      }
+    },
+    {
+      "partyId": "party-b912c8588c12",
+      "heading": "Политическая партия КОММУНИСТИЧЕСКАЯ ПАРТИЯ КОММУНИСТЫ РОССИИ",
+      "documentCount": 3,
+      "categories": {
+        "foreign_property": 1,
+        "income_property": 1,
+        "large_transactions": 1
+      }
+    },
+    {
+      "partyId": "party-b2845d6c6869",
+      "heading": "Политическая партия ЛДПР – Либерально - демократическая партия России",
+      "documentCount": 2,
+      "categories": {
+        "income_property": 1,
+        "large_transactions": 1
+      }
+    },
+    {
+      "partyId": "party-a14652551c31",
+      "heading": "Социалистическая политическая партия СПРАВЕДЛИВАЯ РОССИЯ",
+      "documentCount": 3,
+      "categories": {
+        "foreign_property": 1,
+        "income_property": 1,
+        "large_transactions": 1
+      }
+    }
+  ],
+  "documents": [
+    {
+      "partyId": "party-34f7d2091cbd",
+      "party": "ВСЕРОССИЙСКАЯ ПОЛИТИЧЕСКАЯ ПАРТИЯ «РОДИНА»",
+      "category": "foreign_property",
+      "title": "Сведения о принадлежащем кандидату, его супруге (супругу) и несовершеннолетним детям недвижимом имуществе, находящемся за пределами территории Российской Федерации, об источниках получения средств, за счет которых приобретено указанное имущество, об их обязательствах имущественного характера за пределами территории Российской Федерации, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов, глав муниципальных округов и глав городских округов ВСЕРОССИЙСКОЙ ПОЛИТИЧЕСКОЙ ПАРТИИ «РОДИНА»",
+      "originalFilename": "Родина имущество за рубежом 2026_ФИНАЛ.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%A0%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC%202026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+      "path": "files/party-34f7d2091cbd/foreign_property/6f45954695b90f96f0ed3b471c57f80ca2210fd49045a837dc8dc1b5d8b1bfef.pdf",
+      "sha256": "6f45954695b90f96f0ed3b471c57f80ca2210fd49045a837dc8dc1b5d8b1bfef",
+      "byteLength": 79396,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%A0%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC%202026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%A0%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC%202026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+        "retrievedAt": "2026-09-04T03:14:53.135126+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "6f45954695b90f96f0ed3b471c57f80ca2210fd49045a837dc8dc1b5d8b1bfef",
+        "byteLength": 79396,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-34f7d2091cbd",
+      "party": "ВСЕРОССИЙСКАЯ ПОЛИТИЧЕСКАЯ ПАРТИЯ «РОДИНА»",
+      "category": "income_property",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату на праве собственности, о счетах (вкладах) в банках, ценных бумагах ВСЕРОССИЙСКОЙ ПОЛИТИЧЕСКОЙ ПАРТИИ «РОДИНА»",
+      "originalFilename": "РОДИНА_итог.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/02.09.2026/%D0%A0%D0%9E%D0%94%D0%98%D0%9D%D0%90_%D0%B8%D1%82%D0%BE%D0%B3.pdf",
+      "path": "files/party-34f7d2091cbd/income_property/8b24b2ee4d69d0de944beed0c22cec253c70a163d6b8f1f0d9efa6a720893074.pdf",
+      "sha256": "8b24b2ee4d69d0de944beed0c22cec253c70a163d6b8f1f0d9efa6a720893074",
+      "byteLength": 527826,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/02.09.2026/%D0%A0%D0%9E%D0%94%D0%98%D0%9D%D0%90_%D0%B8%D1%82%D0%BE%D0%B3.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/02.09.2026/%D0%A0%D0%9E%D0%94%D0%98%D0%9D%D0%90_%D0%B8%D1%82%D0%BE%D0%B3.pdf",
+        "retrievedAt": "2026-09-04T03:14:52.734066+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "8b24b2ee4d69d0de944beed0c22cec253c70a163d6b8f1f0d9efa6a720893074",
+        "byteLength": 527826,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-34f7d2091cbd",
+      "party": "ВСЕРОССИЙСКАЯ ПОЛИТИЧЕСКАЯ ПАРТИЯ «РОДИНА»",
+      "category": "large_transactions",
+      "title": "Сведения о расходах кандидата, его супруги (супруга) и несовершеннолетних детей по каждой сделке по приобретению земельного участка, другого объекта недвижимости, транспортного средства, ценных бумаг (долей участия,паев в уставных (складочных) капиталах организаций), цифровых финансовых активов, цифровой валюты и об источниках получения средств, за счет которых совершена сделка, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов,глав муниципальных округов и глав городских округов ВСЕРОССИЙСКОЙ ПОЛИТИЧЕСКОЙ ПАРТИИ «РОДИНА»",
+      "originalFilename": "РОДИНА_крупные сделки.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/02.09.2026/%D0%A0%D0%9E%D0%94%D0%98%D0%9D%D0%90_%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8.pdf",
+      "path": "files/party-34f7d2091cbd/large_transactions/e21f4c999fbfdefb4a6ff458a16c6bcb9d5e5c0d18915a2b21e570268da31dba.pdf",
+      "sha256": "e21f4c999fbfdefb4a6ff458a16c6bcb9d5e5c0d18915a2b21e570268da31dba",
+      "byteLength": 102971,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/02.09.2026/%D0%A0%D0%9E%D0%94%D0%98%D0%9D%D0%90_%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/02.09.2026/%D0%A0%D0%9E%D0%94%D0%98%D0%9D%D0%90_%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8.pdf",
+        "retrievedAt": "2026-09-04T03:14:53.714830+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "e21f4c999fbfdefb4a6ff458a16c6bcb9d5e5c0d18915a2b21e570268da31dba",
+        "byteLength": 102971,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-08fdfef54a9d",
+      "party": "Всероссийская политическая партия «ЕДИНАЯ РОССИЯ»",
+      "category": "foreign_property",
+      "title": "Сведения о принадлежащем кандидату, его супруге (супругу) и несовершеннолетним детям недвижимом имуществе, находящемся за пределами территории Российской Федерации, об источниках получения средств, за счет которых приобретено указанное имущество, об их обязательствах имущественного характера за пределами территории Российской Федерации, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов, глав муниципальных округов и глав городских округов Всероссийской политической партии «ЕДИНАЯ РОССИЯ»",
+      "originalFilename": "ЕДИНАЯ РОССИЯ имущество за рубежом.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%95%D0%94%D0%98%D0%9D%D0%90%D0%AF%20%D0%A0%D0%9E%D0%A1%D0%A1%D0%98%D0%AF%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC.pdf",
+      "path": "files/party-08fdfef54a9d/foreign_property/9d817160488e09df722f179ec6220e592d0e2b5243fd5b4976ed79aeedca5cd3.pdf",
+      "sha256": "9d817160488e09df722f179ec6220e592d0e2b5243fd5b4976ed79aeedca5cd3",
+      "byteLength": 108649,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%95%D0%94%D0%98%D0%9D%D0%90%D0%AF%20%D0%A0%D0%9E%D0%A1%D0%A1%D0%98%D0%AF%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%95%D0%94%D0%98%D0%9D%D0%90%D0%AF%20%D0%A0%D0%9E%D0%A1%D0%A1%D0%98%D0%AF%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC.pdf",
+        "retrievedAt": "2026-09-04T03:14:45.611243+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "9d817160488e09df722f179ec6220e592d0e2b5243fd5b4976ed79aeedca5cd3",
+        "byteLength": 108649,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-08fdfef54a9d",
+      "party": "Всероссийская политическая партия «ЕДИНАЯ РОССИЯ»",
+      "category": "income_property",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату на праве собственности, о счетах (вкладах) в банках, ценных бумагах Всероссийской политической партии «ЕДИНАЯ РОССИЯ»",
+      "originalFilename": "ЕДИНАЯ РОССИЯ_итог.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%95%D0%94%D0%98%D0%9D%D0%90%D0%AF%20%D0%A0%D0%9E%D0%A1%D0%A1%D0%98%D0%AF_%D0%B8%D1%82%D0%BE%D0%B3.pdf",
+      "path": "files/party-08fdfef54a9d/income_property/54d1e0419e874d2cf2f365193a6910fed5a45897cd76bcf7d7cab1107df33c71.pdf",
+      "sha256": "54d1e0419e874d2cf2f365193a6910fed5a45897cd76bcf7d7cab1107df33c71",
+      "byteLength": 855634,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%95%D0%94%D0%98%D0%9D%D0%90%D0%AF%20%D0%A0%D0%9E%D0%A1%D0%A1%D0%98%D0%AF_%D0%B8%D1%82%D0%BE%D0%B3.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%95%D0%94%D0%98%D0%9D%D0%90%D0%AF%20%D0%A0%D0%9E%D0%A1%D0%A1%D0%98%D0%AF_%D0%B8%D1%82%D0%BE%D0%B3.pdf",
+        "retrievedAt": "2026-09-04T03:14:45.120168+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "54d1e0419e874d2cf2f365193a6910fed5a45897cd76bcf7d7cab1107df33c71",
+        "byteLength": 855634,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-08fdfef54a9d",
+      "party": "Всероссийская политическая партия «ЕДИНАЯ РОССИЯ»",
+      "category": "large_transactions",
+      "title": "Сведения о расходах кандидата, его супруги (супруга) и несовершеннолетних детей по каждой сделке по приобретению земельного участка, другого объекта недвижимости, транспортного средства, ценных бумаг (долей участия,паев в уставных (складочных) капиталах организаций), цифровых финансовых активов, цифровой валюты и об источниках получения средств, за счет которых совершена сделка, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов,глав муниципальных округов и глав городских округов Всероссийской политической партии «ЕДИНАЯ РОССИЯ»",
+      "originalFilename": "ЕР крупные сделки_2026_ФИНАЛ_ЕР_ИТОГ.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%95%D0%A0%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8_2026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%95%D0%A0_%D0%98%D0%A2%D0%9E%D0%93.pdf",
+      "path": "files/party-08fdfef54a9d/large_transactions/539a9780f976b37fbd73b6f8eb5aee4cd8c7dcac10f9bbd83a361043bec6cdb4.pdf",
+      "sha256": "539a9780f976b37fbd73b6f8eb5aee4cd8c7dcac10f9bbd83a361043bec6cdb4",
+      "byteLength": 145423,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%95%D0%A0%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8_2026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%95%D0%A0_%D0%98%D0%A2%D0%9E%D0%93.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%95%D0%A0%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8_2026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%95%D0%A0_%D0%98%D0%A2%D0%9E%D0%93.pdf",
+        "retrievedAt": "2026-09-04T03:14:46.101603+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "539a9780f976b37fbd73b6f8eb5aee4cd8c7dcac10f9bbd83a361043bec6cdb4",
+        "byteLength": 145423,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-d9b70e1f1822",
+      "party": "КПРФ – политическая партия КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+      "category": "foreign_property",
+      "title": "Сведения о принадлежащем кандидату, его супруге (супругу) и несовершеннолетним детям недвижимом имуществе, находящемся за пределами территории Российской Федерации, об источниках получения средств, за счет которых приобретено указанное имущество, об их обязательствах имущественного характера за пределами территории Российской Федерации, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов, глав муниципальных округов и глав городских округов КПРФ - КОММУНИСТИЧЕСКОЙ ПАРТИИ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+      "originalFilename": "СВЕДЕНИЯ об имуществе за рубежом КПРФ 2026.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%A1%D0%92%D0%95%D0%94%D0%95%D0%9D%D0%98%D0%AF%20%D0%BE%D0%B1%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC%20%D0%9A%D0%9F%D0%A0%D0%A4%202026.pdf",
+      "path": "files/party-d9b70e1f1822/foreign_property/fb087c0866b70089e97089acffd025437a08ef0f5285d9f969ca46754b6fef10.pdf",
+      "sha256": "fb087c0866b70089e97089acffd025437a08ef0f5285d9f969ca46754b6fef10",
+      "byteLength": 148224,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%A1%D0%92%D0%95%D0%94%D0%95%D0%9D%D0%98%D0%AF%20%D0%BE%D0%B1%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC%20%D0%9A%D0%9F%D0%A0%D0%A4%202026.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%A1%D0%92%D0%95%D0%94%D0%95%D0%9D%D0%98%D0%AF%20%D0%BE%D0%B1%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC%20%D0%9A%D0%9F%D0%A0%D0%A4%202026.pdf",
+        "retrievedAt": "2026-09-04T03:14:39.862105+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "fb087c0866b70089e97089acffd025437a08ef0f5285d9f969ca46754b6fef10",
+        "byteLength": 148224,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-d9b70e1f1822",
+      "party": "КПРФ – политическая партия КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+      "category": "income_property",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату на праве собственности, о счетах (вкладах) в банках, ценных бумагах КПРФ - КОММУНИСТИЧЕСКОЙ ПАРТИИ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+      "originalFilename": "КПРФ_итог_.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/31.08.2026/%D0%9A%D0%9F%D0%A0%D0%A4_%D0%B8%D1%82%D0%BE%D0%B3_.pdf",
+      "path": "files/party-d9b70e1f1822/income_property/bbc4467eca1a583a0a59d39d4f07a4fb88f869bd714599639831b255d87cf0da.pdf",
+      "sha256": "bbc4467eca1a583a0a59d39d4f07a4fb88f869bd714599639831b255d87cf0da",
+      "byteLength": 628122,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/31.08.2026/%D0%9A%D0%9F%D0%A0%D0%A4_%D0%B8%D1%82%D0%BE%D0%B3_.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/31.08.2026/%D0%9A%D0%9F%D0%A0%D0%A4_%D0%B8%D1%82%D0%BE%D0%B3_.pdf",
+        "retrievedAt": "2026-09-04T03:14:39.301789+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "bbc4467eca1a583a0a59d39d4f07a4fb88f869bd714599639831b255d87cf0da",
+        "byteLength": 628122,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-d9b70e1f1822",
+      "party": "КПРФ – политическая партия КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+      "category": "large_transactions",
+      "title": "Сведения о расходах кандидата, его супруги (супруга) и несовершеннолетних детей по каждой сделке по приобретению земельного участка, другого объекта недвижимости, транспортного средства, ценных бумаг (долей участия, паев в уставных (складочных) капиталах организаций), цифровых финансовых активов, цифровой валюты и об источниках получения средств, за счет которых совершена сделка, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов, глав муниципальных округов и глав городских округов КПРФ - КОММУНИСТИЧЕСКОЙ ПАРТИИ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+      "originalFilename": "КПРФ_крупные сделки.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/31.08.2026/%D0%9A%D0%9F%D0%A0%D0%A4_%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8.pdf",
+      "path": "files/party-d9b70e1f1822/large_transactions/e9786d1a894b8306f34a0953143f16c32f9572c20033820a77b86fe7256c57df.pdf",
+      "sha256": "e9786d1a894b8306f34a0953143f16c32f9572c20033820a77b86fe7256c57df",
+      "byteLength": 111531,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/31.08.2026/%D0%9A%D0%9F%D0%A0%D0%A4_%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/31.08.2026/%D0%9A%D0%9F%D0%A0%D0%A4_%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8.pdf",
+        "retrievedAt": "2026-09-04T03:14:40.336252+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "e9786d1a894b8306f34a0953143f16c32f9572c20033820a77b86fe7256c57df",
+        "byteLength": 111531,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-557d0ed525eb",
+      "party": "Политическая партия «НОВЫЕ ЛЮДИ»",
+      "category": "foreign_property",
+      "title": "Сведения о принадлежащем кандидату, его супруге (супругу) и несовершеннолетним детям недвижимом имуществе, находящемся за пределами территории Российской Федерации, об источниках получения средств, за счет которых приобретено указанное имущество, об их обязательствах имущественного характера за пределами территории Российской Федерации, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов, глав муниципальных округов и глав городских округов Политической партии «НОВЫЕ ЛЮДИ»",
+      "originalFilename": "НОВЫЕ ЛЮДИ имущество за рубежом_.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/26.08.2026/%D0%9D%D0%9E%D0%92%D0%AB%D0%95%20%D0%9B%D0%AE%D0%94%D0%98%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC_.pdf",
+      "path": "files/party-557d0ed525eb/foreign_property/7c5ed56cdfa779f315d02f0ab75cf2405936b44555f63060fc15eb66c33cf6db.pdf",
+      "sha256": "7c5ed56cdfa779f315d02f0ab75cf2405936b44555f63060fc15eb66c33cf6db",
+      "byteLength": 82269,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/26.08.2026/%D0%9D%D0%9E%D0%92%D0%AB%D0%95%20%D0%9B%D0%AE%D0%94%D0%98%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC_.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/26.08.2026/%D0%9D%D0%9E%D0%92%D0%AB%D0%95%20%D0%9B%D0%AE%D0%94%D0%98%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC_.pdf",
+        "retrievedAt": "2026-09-04T03:14:44.058548+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "7c5ed56cdfa779f315d02f0ab75cf2405936b44555f63060fc15eb66c33cf6db",
+        "byteLength": 82269,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-557d0ed525eb",
+      "party": "Политическая партия «НОВЫЕ ЛЮДИ»",
+      "category": "income_property",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату на праве собственности, о счетах (вкладах) в банках, ценных бумагах Политической партии «НОВЫЕ ЛЮДИ»",
+      "originalFilename": "НОВЫЕ ЛЮДИ_итог.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/02.09.2026/%D0%9D%D0%9E%D0%92%D0%AB%D0%95%20%D0%9B%D0%AE%D0%94%D0%98_%D0%B8%D1%82%D0%BE%D0%B3.pdf",
+      "path": "files/party-557d0ed525eb/income_property/c016fd3bb6a5289f8adbe51a0a5821689b56aa1da1e9ee7d0279bd15af0b7461.pdf",
+      "sha256": "c016fd3bb6a5289f8adbe51a0a5821689b56aa1da1e9ee7d0279bd15af0b7461",
+      "byteLength": 577083,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/02.09.2026/%D0%9D%D0%9E%D0%92%D0%AB%D0%95%20%D0%9B%D0%AE%D0%94%D0%98_%D0%B8%D1%82%D0%BE%D0%B3.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/02.09.2026/%D0%9D%D0%9E%D0%92%D0%AB%D0%95%20%D0%9B%D0%AE%D0%94%D0%98_%D0%B8%D1%82%D0%BE%D0%B3.pdf",
+        "retrievedAt": "2026-09-04T03:14:43.489409+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "c016fd3bb6a5289f8adbe51a0a5821689b56aa1da1e9ee7d0279bd15af0b7461",
+        "byteLength": 577083,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-557d0ed525eb",
+      "party": "Политическая партия «НОВЫЕ ЛЮДИ»",
+      "category": "large_transactions",
+      "title": "Сведения о расходах кандидата, его супруги (супруга) и несовершеннолетних детей по каждой сделке по приобретению земельного участка, другого объекта недвижимости, транспортного средства, ценных бумаг (долей участия,паев в уставных (складочных) капиталах организаций), цифровых финансовых активов, цифровой валюты и об источниках получения средств, за счет которых совершена сделка, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов,глав муниципальных округов и глав городских округов Политической партии «НОВЫЕ ЛЮДИ»",
+      "originalFilename": "НОВЫЕ ЛЮДИ_крупные сделки.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/31.08.2026/%D0%9D%D0%9E%D0%92%D0%AB%D0%95%20%D0%9B%D0%AE%D0%94%D0%98_%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8.pdf",
+      "path": "files/party-557d0ed525eb/large_transactions/4706946727be2e439b7958f05e961ed803598c3df8fd624b74b647c3d1f26c39.pdf",
+      "sha256": "4706946727be2e439b7958f05e961ed803598c3df8fd624b74b647c3d1f26c39",
+      "byteLength": 130273,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/31.08.2026/%D0%9D%D0%9E%D0%92%D0%AB%D0%95%20%D0%9B%D0%AE%D0%94%D0%98_%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/31.08.2026/%D0%9D%D0%9E%D0%92%D0%AB%D0%95%20%D0%9B%D0%AE%D0%94%D0%98_%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8.pdf",
+        "retrievedAt": "2026-09-04T03:14:44.528814+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "4706946727be2e439b7958f05e961ed803598c3df8fd624b74b647c3d1f26c39",
+        "byteLength": 130273,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-0288fc49da65",
+      "party": "Политическая партия «Партия прямой демократии»",
+      "category": "income_property",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату на праве собственности, о счетах (вкладах) в банках, ценных бумагах Политической партии «Партия прямой демократии»",
+      "originalFilename": "ППД_итог_.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/26.08.2026/%D0%9F%D0%9F%D0%94_%D0%B8%D1%82%D0%BE%D0%B3_.pdf",
+      "path": "files/party-0288fc49da65/income_property/399218d2c61bc9d6b2b0850037c516bfc15ca8212c398f588f3fbac50315fcc0.pdf",
+      "sha256": "399218d2c61bc9d6b2b0850037c516bfc15ca8212c398f588f3fbac50315fcc0",
+      "byteLength": 527024,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/26.08.2026/%D0%9F%D0%9F%D0%94_%D0%B8%D1%82%D0%BE%D0%B3_.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/26.08.2026/%D0%9F%D0%9F%D0%94_%D0%B8%D1%82%D0%BE%D0%B3_.pdf",
+        "retrievedAt": "2026-09-04T03:14:54.285226+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "399218d2c61bc9d6b2b0850037c516bfc15ca8212c398f588f3fbac50315fcc0",
+        "byteLength": 527024,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-0288fc49da65",
+      "party": "Политическая партия «Партия прямой демократии»",
+      "category": "large_transactions",
+      "title": "Сведения о расходах кандидата, его супруги (супруга) и несовершеннолетних детей по каждой сделке по приобретению земельного участка, другого объекта недвижимости, транспортного средства, ценных бумаг (долей участия,паев в уставных (складочных) капиталах организаций), цифровых финансовых активов, цифровой валюты и об источниках получения средств, за счет которых совершена сделка, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов,глав муниципальных округов и глав городских округов Политической партии «Партия прямой демократии»",
+      "originalFilename": "ППД крупные сделки_2026_ФИНАЛ.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%9F%D0%9F%D0%94%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8_2026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+      "path": "files/party-0288fc49da65/large_transactions/78ded265c19b89eca33217890fcdc01976e8ac6ae7e9ff4462a85b9febf2dcbe.pdf",
+      "sha256": "78ded265c19b89eca33217890fcdc01976e8ac6ae7e9ff4462a85b9febf2dcbe",
+      "byteLength": 78432,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%9F%D0%9F%D0%94%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8_2026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%9F%D0%9F%D0%94%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8_2026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+        "retrievedAt": "2026-09-04T03:14:54.727121+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "78ded265c19b89eca33217890fcdc01976e8ac6ae7e9ff4462a85b9febf2dcbe",
+        "byteLength": 78432,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-1046581854ed",
+      "party": "Политическая партия «РОССИЙСКАЯ ПАРТИЯ ПЕНСИОНЕРОВ ЗА СОЦИАЛЬНУЮ СПРАВЕДЛИВОСТЬ»",
+      "category": "foreign_property",
+      "title": "Сведения о принадлежащем кандидату, его супруге (супругу) и несовершеннолетним детям недвижимом имуществе, находящемся за пределами территории Российской Федерации, об источниках получения средств, за счет которых приобретено указанное имущество, об их обязательствах имущественного характера за пределами территории Российской Федерации, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов, глав муниципальных округов и глав городских округов Политической партии «РОССИЙСКАЯ ПАРТИЯ ПЕНСИОНЕРОВ ЗА СОЦИАЛЬНУЮ СПРАВЕДЛИВОСТЬ»",
+      "originalFilename": "Пенсионеры имущество за рубежом 2026_ФИНАЛ.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%9F%D0%B5%D0%BD%D1%81%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D1%8B%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC%202026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+      "path": "files/party-1046581854ed/foreign_property/9ece31aa6560e02e678e63f5adc240af49012810084b55cbcd7893b5fd49dfd6.pdf",
+      "sha256": "9ece31aa6560e02e678e63f5adc240af49012810084b55cbcd7893b5fd49dfd6",
+      "byteLength": 40712,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%9F%D0%B5%D0%BD%D1%81%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D1%8B%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC%202026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%9F%D0%B5%D0%BD%D1%81%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D1%8B%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC%202026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+        "retrievedAt": "2026-09-04T03:14:51.504662+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "9ece31aa6560e02e678e63f5adc240af49012810084b55cbcd7893b5fd49dfd6",
+        "byteLength": 40712,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-1046581854ed",
+      "party": "Политическая партия «РОССИЙСКАЯ ПАРТИЯ ПЕНСИОНЕРОВ ЗА СОЦИАЛЬНУЮ СПРАВЕДЛИВОСТЬ»",
+      "category": "income_property",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату на праве собственности, о счетах (вкладах) в банках, ценных бумагах Политической партии «РОССИЙСКАЯ ПАРТИЯ ПЕНСИОНЕРОВ ЗА СОЦИАЛЬНУЮ СПРАВЕДЛИВОСТЬ»",
+      "originalFilename": "ПАРТИЯ ПЕНСИОНЕРОВ_итог_.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/02.09.2026/%D0%9F%D0%90%D0%A0%D0%A2%D0%98%D0%AF%20%D0%9F%D0%95%D0%9D%D0%A1%D0%98%D0%9E%D0%9D%D0%95%D0%A0%D0%9E%D0%92_%D0%B8%D1%82%D0%BE%D0%B3_.pdf",
+      "path": "files/party-1046581854ed/income_property/316c0a6b7045cd1b907b9352f8e3a3d5431657c4749584da637814bc266c0c2a.pdf",
+      "sha256": "316c0a6b7045cd1b907b9352f8e3a3d5431657c4749584da637814bc266c0c2a",
+      "byteLength": 443077,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/02.09.2026/%D0%9F%D0%90%D0%A0%D0%A2%D0%98%D0%AF%20%D0%9F%D0%95%D0%9D%D0%A1%D0%98%D0%9E%D0%9D%D0%95%D0%A0%D0%9E%D0%92_%D0%B8%D1%82%D0%BE%D0%B3_.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/02.09.2026/%D0%9F%D0%90%D0%A0%D0%A2%D0%98%D0%AF%20%D0%9F%D0%95%D0%9D%D0%A1%D0%98%D0%9E%D0%9D%D0%95%D0%A0%D0%9E%D0%92_%D0%B8%D1%82%D0%BE%D0%B3_.pdf",
+        "retrievedAt": "2026-09-04T03:14:51.138269+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "316c0a6b7045cd1b907b9352f8e3a3d5431657c4749584da637814bc266c0c2a",
+        "byteLength": 443077,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-1046581854ed",
+      "party": "Политическая партия «РОССИЙСКАЯ ПАРТИЯ ПЕНСИОНЕРОВ ЗА СОЦИАЛЬНУЮ СПРАВЕДЛИВОСТЬ»",
+      "category": "large_transactions",
+      "title": "Сведения о расходах кандидата, его супруги (супруга) и несовершеннолетних детей по каждой сделке по приобретению земельного участка, другого объекта недвижимости, транспортного средства, ценных бумаг (долей участия,паев в уставных (складочных) капиталах организаций), цифровых финансовых активов, цифровой валюты и об источниках получения средств, за счет которых совершена сделка, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов,глав муниципальных округов и глав городских округов Политической партии «РОССИЙСКАЯ ПАРТИЯ ПЕНСИОНЕРОВ ЗА СОЦИАЛЬНУЮ СПРАВЕДЛИВОСТЬ»",
+      "originalFilename": "Пенсионеры крупные сделки.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%9F%D0%B5%D0%BD%D1%81%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D1%8B%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8.pdf",
+      "path": "files/party-1046581854ed/large_transactions/2ebdf0e013cfc8c5fc98c4122fcd5ab5de8482310d55bdfe9c4751993a50c7fa.pdf",
+      "sha256": "2ebdf0e013cfc8c5fc98c4122fcd5ab5de8482310d55bdfe9c4751993a50c7fa",
+      "byteLength": 71435,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%9F%D0%B5%D0%BD%D1%81%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D1%8B%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%9F%D0%B5%D0%BD%D1%81%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D1%8B%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8.pdf",
+        "retrievedAt": "2026-09-04T03:14:52.073617+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "2ebdf0e013cfc8c5fc98c4122fcd5ab5de8482310d55bdfe9c4751993a50c7fa",
+        "byteLength": 71435,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-c203a9a17a40",
+      "party": "Политическая партия «Российская экологическая партия «ЗЕЛЁНЫЕ»",
+      "category": "foreign_property",
+      "title": "Сведения о принадлежащем кандидату, его супруге (супругу) и несовершеннолетним детям недвижимом имуществе, находящемся за пределами территории Российской Федерации, об источниках получения средств, за счет которых приобретено указанное имущество, об их обязательствах имущественного характера за пределами территории Российской Федерации, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов, глав муниципальных округов и глав городских округов Политической партии «Российская экологическая партия «ЗЕЛЁНЫЕ»",
+      "originalFilename": "Зеленые имущество за рубежом 2026_ФИНАЛ.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC%202026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+      "path": "files/party-c203a9a17a40/foreign_property/dd966f21d32f6a91e13b1586df4b7a637087c15acc038dd85a4e4c82624ad2c9.pdf",
+      "sha256": "dd966f21d32f6a91e13b1586df4b7a637087c15acc038dd85a4e4c82624ad2c9",
+      "byteLength": 64218,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC%202026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC%202026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+        "retrievedAt": "2026-09-04T03:14:55.872550+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "dd966f21d32f6a91e13b1586df4b7a637087c15acc038dd85a4e4c82624ad2c9",
+        "byteLength": 64218,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-c203a9a17a40",
+      "party": "Политическая партия «Российская экологическая партия «ЗЕЛЁНЫЕ»",
+      "category": "income_property",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату на праве собственности, о счетах (вкладах) в банках, ценных бумагах Политической партии «Российская экологическая партия «ЗЕЛЁНЫЕ»",
+      "originalFilename": "Зеленые_итог_24.08.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B5_%D0%B8%D1%82%D0%BE%D0%B3_24.08.pdf",
+      "path": "files/party-c203a9a17a40/income_property/18d22464f9801c8f892d5e0f6d79259107b6643dd379ddeec5d98223ea32b5ec.pdf",
+      "sha256": "18d22464f9801c8f892d5e0f6d79259107b6643dd379ddeec5d98223ea32b5ec",
+      "byteLength": 612431,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B5_%D0%B8%D1%82%D0%BE%D0%B3_24.08.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B5_%D0%B8%D1%82%D0%BE%D0%B3_24.08.pdf",
+        "retrievedAt": "2026-09-04T03:14:55.416364+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "18d22464f9801c8f892d5e0f6d79259107b6643dd379ddeec5d98223ea32b5ec",
+        "byteLength": 612431,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-c203a9a17a40",
+      "party": "Политическая партия «Российская экологическая партия «ЗЕЛЁНЫЕ»",
+      "category": "large_transactions",
+      "title": "Сведения о расходах кандидата, его супруги (супруга) и несовершеннолетних детей по каждой сделке по приобретению земельного участка, другого объекта недвижимости, транспортного средства, ценных бумаг (долей участия,паев в уставных (складочных) капиталах организаций), цифровых финансовых активов, цифровой валюты и об источниках получения средств, за счет которых совершена сделка, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов,глав муниципальных округов и глав городских округов Политической партии «Российская экологическая партия «ЗЕЛЁНЫЕ»",
+      "originalFilename": "Зеленые крупные сделки_2026_ФИНАЛ.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B5%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8_2026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+      "path": "files/party-c203a9a17a40/large_transactions/b40313891e3bf031f0bf65510db01a85cf6a4069f7163fc69d4588d60b50ea65.pdf",
+      "sha256": "b40313891e3bf031f0bf65510db01a85cf6a4069f7163fc69d4588d60b50ea65",
+      "byteLength": 79964,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B5%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8_2026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B5%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8_2026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+        "retrievedAt": "2026-09-04T03:14:56.344383+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "b40313891e3bf031f0bf65510db01a85cf6a4069f7163fc69d4588d60b50ea65",
+        "byteLength": 79964,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-b912c8588c12",
+      "party": "Политическая партия КОММУНИСТИЧЕСКАЯ ПАРТИЯ КОММУНИСТЫ РОССИИ",
+      "category": "foreign_property",
+      "title": "Сведения о принадлежащем кандидату, его супруге (супругу) и несовершеннолетним детям недвижимом имуществе, находящемся за пределами территории Российской Федерации, об источниках получения средств, за счет которых приобретено указанное имущество, об их обязательствах имущественного характера за пределами территории Российской Федерации, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов, глав муниципальных округов и глав городских округов Политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ КОММУНИСТЫ РОССИИ",
+      "originalFilename": "Коммунисты имущество за рубежом 2026_ФИНАЛ.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D1%81%D1%82%D1%8B%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC%202026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+      "path": "files/party-b912c8588c12/foreign_property/06cd1f17d30c2192f8f90f89f9fc98dafb26248f67f70a78ccc97f39f37b6b4e.pdf",
+      "sha256": "06cd1f17d30c2192f8f90f89f9fc98dafb26248f67f70a78ccc97f39f37b6b4e",
+      "byteLength": 38839,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D1%81%D1%82%D1%8B%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC%202026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D1%81%D1%82%D1%8B%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC%202026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+        "retrievedAt": "2026-09-04T03:14:49.943839+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "06cd1f17d30c2192f8f90f89f9fc98dafb26248f67f70a78ccc97f39f37b6b4e",
+        "byteLength": 38839,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-b912c8588c12",
+      "party": "Политическая партия КОММУНИСТИЧЕСКАЯ ПАРТИЯ КОММУНИСТЫ РОССИИ",
+      "category": "income_property",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату на праве собственности, о счетах (вкладах) в банках, ценных бумагах Политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ КОММУНИСТЫ РОССИИ",
+      "originalFilename": "Коммунисты России_итог.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/02.09.2026/%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D1%81%D1%82%D1%8B%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%B8%D1%82%D0%BE%D0%B3.pdf",
+      "path": "files/party-b912c8588c12/income_property/2eda0f6faf9d42b9a706d23791bef8ead452a9ae62e891009ad4dd04d6e93bb8.pdf",
+      "sha256": "2eda0f6faf9d42b9a706d23791bef8ead452a9ae62e891009ad4dd04d6e93bb8",
+      "byteLength": 439819,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/02.09.2026/%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D1%81%D1%82%D1%8B%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%B8%D1%82%D0%BE%D0%B3.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/02.09.2026/%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D1%81%D1%82%D1%8B%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%B8%D1%82%D0%BE%D0%B3.pdf",
+        "retrievedAt": "2026-09-04T03:14:49.548768+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "2eda0f6faf9d42b9a706d23791bef8ead452a9ae62e891009ad4dd04d6e93bb8",
+        "byteLength": 439819,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-b912c8588c12",
+      "party": "Политическая партия КОММУНИСТИЧЕСКАЯ ПАРТИЯ КОММУНИСТЫ РОССИИ",
+      "category": "large_transactions",
+      "title": "Сведения о расходах кандидата, его супруги (супруга) и несовершеннолетних детей по каждой сделке по приобретению земельного участка, другого объекта недвижимости, транспортного средства, ценных бумаг (долей участия,паев в уставных (складочных) капиталах организаций), цифровых финансовых активов, цифровой валюты и об источниках получения средств, за счет которых совершена сделка, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов,глав муниципальных округов и глав городских округов Политической партии КОММУНИСТИЧЕСКАЯ ПАРТИЯ КОММУНИСТЫ РОССИИ",
+      "originalFilename": "Коммунисты крупные сделки_2026_ФИНАЛ.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D1%81%D1%82%D1%8B%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8_2026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+      "path": "files/party-b912c8588c12/large_transactions/17bd89d52f31e05f0b2969b6d951e4c5cd8309b2be3f81cae785edf7154be59c.pdf",
+      "sha256": "17bd89d52f31e05f0b2969b6d951e4c5cd8309b2be3f81cae785edf7154be59c",
+      "byteLength": 39455,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D1%81%D1%82%D1%8B%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8_2026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D1%81%D1%82%D1%8B%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8_2026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+        "retrievedAt": "2026-09-04T03:14:50.425304+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "17bd89d52f31e05f0b2969b6d951e4c5cd8309b2be3f81cae785edf7154be59c",
+        "byteLength": 39455,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-b2845d6c6869",
+      "party": "Политическая партия ЛДПР – Либерально - демократическая партия России",
+      "category": "income_property",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату на праве собственности, о счетах (вкладах) в банках, ценных бумагах Политической партии ЛДПР – Либерально–демократической партии России",
+      "originalFilename": "ЛДПР_итог.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/26.08.2026/%D0%9B%D0%94%D0%9F%D0%A0_%D0%B8%D1%82%D0%BE%D0%B3.pdf",
+      "path": "files/party-b2845d6c6869/income_property/25592567e6f8a1c56af08d377967f702064366287bdb40c4adc13c558db2ab21.pdf",
+      "sha256": "25592567e6f8a1c56af08d377967f702064366287bdb40c4adc13c558db2ab21",
+      "byteLength": 596592,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/26.08.2026/%D0%9B%D0%94%D0%9F%D0%A0_%D0%B8%D1%82%D0%BE%D0%B3.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/26.08.2026/%D0%9B%D0%94%D0%9F%D0%A0_%D0%B8%D1%82%D0%BE%D0%B3.pdf",
+        "retrievedAt": "2026-09-04T03:14:46.689405+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "25592567e6f8a1c56af08d377967f702064366287bdb40c4adc13c558db2ab21",
+        "byteLength": 596592,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-b2845d6c6869",
+      "party": "Политическая партия ЛДПР – Либерально - демократическая партия России",
+      "category": "large_transactions",
+      "title": "Сведения о расходах кандидата, его супруги (супруга) и несовершеннолетних детей по каждой сделке по приобретению земельного участка, другого объекта недвижимости, транспортного средства, ценных бумаг (долей участия,паев в уставных (складочных) капиталах организаций), цифровых финансовых активов, цифровой валюты и об источниках получения средств, за счет которых совершена сделка, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов,глав муниципальных округов и глав городских округов Политической партии ЛДПР – Либерально–демократической партии России",
+      "originalFilename": "ЛДПР крупные сделки_2026_ФИНАЛ.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%9B%D0%94%D0%9F%D0%A0%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8_2026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+      "path": "files/party-b2845d6c6869/large_transactions/c7307b68de5797600fe2fe5c0b93a1baebf570a273549b01f0a520d7e7890707.pdf",
+      "sha256": "c7307b68de5797600fe2fe5c0b93a1baebf570a273549b01f0a520d7e7890707",
+      "byteLength": 90173,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%9B%D0%94%D0%9F%D0%A0%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8_2026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%9B%D0%94%D0%9F%D0%A0%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8_2026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+        "retrievedAt": "2026-09-04T03:14:47.107634+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "c7307b68de5797600fe2fe5c0b93a1baebf570a273549b01f0a520d7e7890707",
+        "byteLength": 90173,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-a14652551c31",
+      "party": "Социалистическая политическая партия СПРАВЕДЛИВАЯ РОССИЯ",
+      "category": "foreign_property",
+      "title": "Сведения о принадлежащем кандидату, его супруге (супругу) и несовершеннолетним детям недвижимом имуществе, находящемся за пределами территории Российской Федерации, об источниках получения средств, за счет которых приобретено указанное имущество, об их обязательствах имущественного характера за пределами территории Российской Федерации, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов, глав муниципальных округов и глав городских округов Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ",
+      "originalFilename": "СР имущество за рубежом 2026_ФИНАЛ.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%A1%D0%A0%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC%202026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+      "path": "files/party-a14652551c31/foreign_property/97cd99eab09d1cc63fa655af7a8f5608b1d18ad5df32b2af7ac1941d4bf8c058.pdf",
+      "sha256": "97cd99eab09d1cc63fa655af7a8f5608b1d18ad5df32b2af7ac1941d4bf8c058",
+      "byteLength": 67822,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%A1%D0%A0%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC%202026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%A1%D0%A0%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC%202026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+        "retrievedAt": "2026-09-04T03:14:48.173282+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "97cd99eab09d1cc63fa655af7a8f5608b1d18ad5df32b2af7ac1941d4bf8c058",
+        "byteLength": 67822,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-a14652551c31",
+      "party": "Социалистическая политическая партия СПРАВЕДЛИВАЯ РОССИЯ",
+      "category": "income_property",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату на праве собственности, о счетах (вкладах) в банках, ценных бумагах Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ",
+      "originalFilename": "СПРАВЕДЛИВАЯ РОССИЯ_итог.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/02.09.2026/%D0%A1%D0%9F%D0%A0%D0%90%D0%92%D0%95%D0%94%D0%9B%D0%98%D0%92%D0%90%D0%AF%20%D0%A0%D0%9E%D0%A1%D0%A1%D0%98%D0%AF_%D0%B8%D1%82%D0%BE%D0%B3.pdf",
+      "path": "files/party-a14652551c31/income_property/7680a38591a8ce27f202c988dbcadc5c04372977505754bcf50561aaf44a0bc1.pdf",
+      "sha256": "7680a38591a8ce27f202c988dbcadc5c04372977505754bcf50561aaf44a0bc1",
+      "byteLength": 623855,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/02.09.2026/%D0%A1%D0%9F%D0%A0%D0%90%D0%92%D0%95%D0%94%D0%9B%D0%98%D0%92%D0%90%D0%AF%20%D0%A0%D0%9E%D0%A1%D0%A1%D0%98%D0%AF_%D0%B8%D1%82%D0%BE%D0%B3.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/02.09.2026/%D0%A1%D0%9F%D0%A0%D0%90%D0%92%D0%95%D0%94%D0%9B%D0%98%D0%92%D0%90%D0%AF%20%D0%A0%D0%9E%D0%A1%D0%A1%D0%98%D0%AF_%D0%B8%D1%82%D0%BE%D0%B3.pdf",
+        "retrievedAt": "2026-09-04T03:14:47.766918+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "7680a38591a8ce27f202c988dbcadc5c04372977505754bcf50561aaf44a0bc1",
+        "byteLength": 623855,
+        "provenance": "live-official"
+      }
+    },
+    {
+      "partyId": "party-a14652551c31",
+      "party": "Социалистическая политическая партия СПРАВЕДЛИВАЯ РОССИЯ",
+      "category": "large_transactions",
+      "title": "Сведения о расходах кандидата, его супруги (супруга) и несовершеннолетних детей по каждой сделке по приобретению земельного участка, другого объекта недвижимости, транспортного средства, ценных бумаг (долей участия,паев в уставных (складочных) капиталах организаций), цифровых финансовых активов, цифровой валюты и об источниках получения средств, за счет которых совершена сделка, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов,глав муниципальных округов и глав городских округов Социалистической политической партии СПРАВЕДЛИВАЯ РОССИЯ",
+      "originalFilename": "СР крупные сделки_2026_ФИНАЛ.pdf",
+      "url": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%A1%D0%A0%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8_2026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+      "path": "files/party-a14652551c31/large_transactions/41ef7e17aefb066494131830affd7fac401a8f9cf3042f754989bcc4fff5a6c1.pdf",
+      "sha256": "41ef7e17aefb066494131830affd7fac401a8f9cf3042f754989bcc4fff5a6c1",
+      "byteLength": 155273,
+      "pdfMagicValid": true,
+      "source": {
+        "requestedUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%A1%D0%A0%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8_2026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+        "finalUrl": "http://www.cikrf.ru/analog/ediny-den-golosovaniya-2026/kategorii-viborov/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/federalnye-spiski-kandidatov/svedeniya-o-dokhodakh-i-imushchestve-kandidatov-perechen-politicheskikh-partiy-vydvinuvshikh-zaregis/%D0%A1%D0%A0%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B8_2026_%D0%A4%D0%98%D0%9D%D0%90%D0%9B.pdf",
+        "retrievedAt": "2026-09-04T03:14:49.017454+00:00",
+        "status": 200,
+        "contentType": "application/pdf",
+        "sha256": "41ef7e17aefb066494131830affd7fac401a8f9cf3042f754989bcc4fff5a6c1",
+        "byteLength": 155273,
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "failures": [],
+  "completeness": {
+    "minimumExpected": 28,
+    "discovered": 28,
+    "downloaded": 28,
+    "validPdf": 28,
+    "failed": 0,
+    "complete": true,
+    "categoryCounts": {
+      "income_property": 10,
+      "foreign_property": 8,
+      "large_transactions": 10
+    }
+  }
+}

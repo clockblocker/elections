@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:10.190756+00:00",
+  "region": {
+    "code": "63",
+    "name": "Самарская область",
+    "seedUrls": [
+      "http://samara.izbirkom.ru/2026edg/gdfs-2026/",
+      "http://samara.izbirkom.ru/2026edg/gdfs-2026/index.php"
+    ],
+    "allowedHosts": [
+      "samara.izbirkom.ru",
+      "www.samara.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 2,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://samara.izbirkom.ru/2026edg/gdfs-2026/",
+      "title": "Выборы в Государственную Думу Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://samara.izbirkom.ru/2026edg/gdfs-2026/",
+        "requestKey": "http://samara.izbirkom.ru/2026edg/gdfs-2026/",
+        "retrievedAt": "2026-09-04T03:39:48.244854+00:00",
+        "status": 200,
+        "sha256": "2094ad45cac61970f717cdf4d0b49e5a837eeda4dbb2954ffdd7daf1e398f1e1",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://samara.izbirkom.ru/2026edg/gdfs-2026/index.php",
+      "title": "Выборы в Государственную Думу Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://samara.izbirkom.ru/2026edg/gdfs-2026/index.php",
+        "requestKey": "http://samara.izbirkom.ru/2026edg/gdfs-2026/index.php",
+        "retrievedAt": "2026-09-04T03:39:49.249859+00:00",
+        "status": 200,
+        "sha256": "2094ad45cac61970f717cdf4d0b49e5a837eeda4dbb2954ffdd7daf1e398f1e1",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

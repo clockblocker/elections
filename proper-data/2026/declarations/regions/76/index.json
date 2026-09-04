@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:10.940783+00:00",
+  "region": {
+    "code": "76",
+    "name": "Ярославская область",
+    "seedUrls": [
+      "http://yaroslavl.izbirkom.ru/vybory/edinyy-den-golosovaniya-20-09-2026/index.php"
+    ],
+    "allowedHosts": [
+      "www.yaroslavl.izbirkom.ru",
+      "yaroslavl.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 2,
+  "documentCount": 3,
+  "documentCounts": {
+    "declaration": 1,
+    "inaccuracy": 2
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 1,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 1
+    },
+    "inaccuracy": {
+      "signalPageCount": 1,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 2
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://yaroslavl.izbirkom.ru/vybory/edinyy-den-golosovaniya-20-09-2026/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 2,
+        "inaccuracy": 4
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://yaroslavl.izbirkom.ru/vybory/edinyy-den-golosovaniya-20-09-2026/Недостоверность 193.pdf",
+        "http://yaroslavl.izbirkom.ru/vybory/edinyy-den-golosovaniya-20-09-2026/Недостоверность 194.pdf",
+        "http://yaroslavl.izbirkom.ru/vybory/edinyy-den-golosovaniya-20-09-2026/Сведения о доходах и имуществе зарегистрированных кандидатов_10082026.xlsx"
+      ],
+      "source": {
+        "url": "http://yaroslavl.izbirkom.ru/vybory/edinyy-den-golosovaniya-20-09-2026/index.php",
+        "requestKey": "http://yaroslavl.izbirkom.ru/vybory/edinyy-den-golosovaniya-20-09-2026/index.php",
+        "retrievedAt": "2026-09-04T03:47:16.325667+00:00",
+        "status": 200,
+        "sha256": "aa1be13759f34a48a090d8178776618f8e5cccc1e0c6ed3c56bcd3c3a42706d3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://yaroslavl.izbirkom.ru/izbiratelnye-okruga/izbirateln_okr.php",
+      "title": "Избирательные округа",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://yaroslavl.izbirkom.ru/izbiratelnye-okruga/izbirateln_okr.php",
+        "requestKey": "http://yaroslavl.izbirkom.ru/izbiratelnye-okruga/izbirateln_okr.php",
+        "retrievedAt": "2026-09-04T03:47:23.140826+00:00",
+        "status": 200,
+        "sha256": "8cad7425ae42560275c61f6b7df48360038a796fb5e2f259752e7107fb43f281",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "Сведения о доходах и имуществе зарегистрированных кандидатов",
+      "officialUrl": "http://yaroslavl.izbirkom.ru/vybory/edinyy-den-golosovaniya-20-09-2026/Сведения о доходах и имуществе зарегистрированных кандидатов_10082026.xlsx",
+      "sourcePages": [
+        {
+          "url": "http://yaroslavl.izbirkom.ru/vybory/edinyy-den-golosovaniya-20-09-2026/index.php",
+          "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 0,
+          "sha256": "aa1be13759f34a48a090d8178776618f8e5cccc1e0c6ed3c56bcd3c3a42706d3"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "04e7767683012f98a3d05447f9c72ceaa7ae77f4aa0fa3c1510ec3c269e6661f",
+      "originalFilename": "Сведения о доходах и имуществе зарегистрированных кандидатов_10082026.xlsx",
+      "filename": "Сведения_о_доходах_и_имуществе_зарегистрированных_кандидатов-04e776768301.xlsx",
+      "path": "files/Сведения_о_доходах_и_имуществе_зарегистрированных_кандидатов-04e776768301.xlsx",
+      "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byteLength": 15848,
+      "sha256": "04e7767683012f98a3d05447f9c72ceaa7ae77f4aa0fa3c1510ec3c269e6661f",
+      "source": {
+        "url": "http://yaroslavl.izbirkom.ru/vybory/edinyy-den-golosovaniya-20-09-2026/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85%20%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%20%D0%B7%D0%B0%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2_10082026.xlsx",
+        "requestKey": "http://yaroslavl.izbirkom.ru/vybory/edinyy-den-golosovaniya-20-09-2026/Сведения о доходах и имуществе зарегистрированных кандидатов_10082026.xlsx",
+        "retrievedAt": "2026-09-04T03:47:45.597929+00:00",
+        "status": 200,
+        "sha256": "04e7767683012f98a3d05447f9c72ceaa7ae77f4aa0fa3c1510ec3c269e6661f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных кандидатами по избирательному округу № 193",
+      "officialUrl": "http://yaroslavl.izbirkom.ru/vybory/edinyy-den-golosovaniya-20-09-2026/Недостоверность 193.pdf",
+      "sourcePages": [
+        {
+          "url": "http://yaroslavl.izbirkom.ru/vybory/edinyy-den-golosovaniya-20-09-2026/index.php",
+          "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 0,
+          "sha256": "aa1be13759f34a48a090d8178776618f8e5cccc1e0c6ed3c56bcd3c3a42706d3"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "e15c172e529a7761ec5b0243cd2822f45ebf70cf8ed3bcc3fef655f970e65747",
+      "originalFilename": "Недостоверность 193.pdf",
+      "filename": "Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_по_избирательному_о-e15c172e529a.pdf",
+      "path": "files/Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_по_избирательному_о-e15c172e529a.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 65879,
+      "sha256": "e15c172e529a7761ec5b0243cd2822f45ebf70cf8ed3bcc3fef655f970e65747",
+      "source": {
+        "url": "http://yaroslavl.izbirkom.ru/vybory/edinyy-den-golosovaniya-20-09-2026/%D0%9D%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20193.pdf",
+        "requestKey": "http://yaroslavl.izbirkom.ru/vybory/edinyy-den-golosovaniya-20-09-2026/Недостоверность 193.pdf",
+        "retrievedAt": "2026-09-04T03:47:44.766615+00:00",
+        "status": 200,
+        "sha256": "e15c172e529a7761ec5b0243cd2822f45ebf70cf8ed3bcc3fef655f970e65747",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных кандидатами по избирательному округу № 194",
+      "officialUrl": "http://yaroslavl.izbirkom.ru/vybory/edinyy-den-golosovaniya-20-09-2026/Недостоверность 194.pdf",
+      "sourcePages": [
+        {
+          "url": "http://yaroslavl.izbirkom.ru/vybory/edinyy-den-golosovaniya-20-09-2026/index.php",
+          "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 0,
+          "sha256": "aa1be13759f34a48a090d8178776618f8e5cccc1e0c6ed3c56bcd3c3a42706d3"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "a952eba786f4be694734b50de636946f027da099546dd2d78bbb639c4d6edd75",
+      "originalFilename": "Недостоверность 194.pdf",
+      "filename": "Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_по_избирательному_о-a952eba786f4.pdf",
+      "path": "files/Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_по_избирательному_о-a952eba786f4.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 117894,
+      "sha256": "a952eba786f4be694734b50de636946f027da099546dd2d78bbb639c4d6edd75",
+      "source": {
+        "url": "http://yaroslavl.izbirkom.ru/vybory/edinyy-den-golosovaniya-20-09-2026/%D0%9D%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20194.pdf",
+        "requestKey": "http://yaroslavl.izbirkom.ru/vybory/edinyy-den-golosovaniya-20-09-2026/Недостоверность 194.pdf",
+        "retrievedAt": "2026-09-04T03:47:45.212884+00:00",
+        "status": 200,
+        "sha256": "a952eba786f4be694734b50de636946f027da099546dd2d78bbb639c4d6edd75",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:36.941516+00:00",
+  "region": {
+    "code": "44",
+    "name": "Костромская область",
+    "seedUrls": [
+      "http://kostroma.izbirkom.ru/vybory-i-referendumy/tekushchie-izbiratelnye-kampanii.php?ELEMENT_ID=50358",
+      "http://kostroma.izbirkom.ru/vybory/50358/"
+    ],
+    "allowedHosts": [
+      "kostroma.izbirkom.ru",
+      "www.kostroma.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 4,
+  "documentCount": 1,
+  "documentCounts": {
+    "inaccuracy": 1
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 3,
+      "explicitEmptyPageCount": 3,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 1,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 1
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://kostroma.izbirkom.ru/vybory-i-referendumy/tekushchie-izbiratelnye-kampanii.php?ELEMENT_ID=50358",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kostroma.izbirkom.ru/vybory-i-referendumy/tekushchie-izbiratelnye-kampanii.php?ELEMENT_ID=50358",
+        "requestKey": "http://kostroma.izbirkom.ru/vybory-i-referendumy/tekushchie-izbiratelnye-kampanii.php?ELEMENT_ID=50358",
+        "retrievedAt": "2026-09-04T03:47:00.080437+00:00",
+        "status": 200,
+        "sha256": "8c5c69956a8b3adfcea2622669c3c93f2e1ff6a36a88ae0ccb94adaeda1a0448",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kostroma.izbirkom.ru/vybory/50358/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kostroma.izbirkom.ru/vybory/50358/",
+        "requestKey": "http://kostroma.izbirkom.ru/vybory/50358/",
+        "retrievedAt": "2026-09-04T03:47:00.753200+00:00",
+        "status": 200,
+        "sha256": "9f8e5c95090a0fa14c0e88e6bd123613045e89a58c88e1faa4c0bd80dc5284ad",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kostroma.izbirkom.ru/vybory/20-sentyabrya-2026-goda/gdrf/svedeniya-o-zaregistrirovannykh-kandidatakh-v-deputaty-gosudarstvennoy-dumy-federalnogo-sobraniya-ro.php",
+      "title": "Сведения о зарегистрированных кандидатах в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу «Костромская область – Костромской одномандатный избирательный округ № 108»",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kostroma.izbirkom.ru/vybory/20-sentyabrya-2026-goda/gdrf/svedeniya-o-zaregistrirovannykh-kandidatakh-v-deputaty-gosudarstvennoy-dumy-federalnogo-sobraniya-ro.php",
+        "requestKey": "http://kostroma.izbirkom.ru/vybory/20-sentyabrya-2026-goda/gdrf/svedeniya-o-zaregistrirovannykh-kandidatakh-v-deputaty-gosudarstvennoy-dumy-federalnogo-sobraniya-ro.php",
+        "retrievedAt": "2026-09-04T03:47:02.137329+00:00",
+        "status": 200,
+        "sha256": "fd23af741de5814f09305c3d69ac70998bc6cda5589b841c2352a6f25266bbff",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kostroma.izbirkom.ru/vybory/20-sentyabrya-2026-goda/gdrf/cvedeniya-o-razmere-i-ob-istochnikakh-dokhodov.php",
+      "title": "Cведения о размере и об источниках доходов, имуществе, принадлежащем зарегистрированным кандидатам на праве собственности, о счетах (вкладах) в банках, ценных бумагах",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [
+        "http://kostroma.izbirkom.ru/upload/Documents/Files/S22C-7i260826102300.pdf"
+      ],
+      "source": {
+        "url": "http://kostroma.izbirkom.ru/vybory/20-sentyabrya-2026-goda/gdrf/cvedeniya-o-razmere-i-ob-istochnikakh-dokhodov.php",
+        "requestKey": "http://kostroma.izbirkom.ru/vybory/20-sentyabrya-2026-goda/gdrf/cvedeniya-o-razmere-i-ob-istochnikakh-dokhodov.php",
+        "retrievedAt": "2026-09-04T03:47:02.809203+00:00",
+        "status": 200,
+        "sha256": "0c71e1f0fb39ea6e7341147e39e2b77f0e5523e585b0ced66f39717f47226ed5",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "inaccuracy",
+      "title": "скачать",
+      "officialUrl": "http://kostroma.izbirkom.ru/upload/Documents/Files/S22C-7i260826102300.pdf",
+      "sourcePages": [
+        {
+          "url": "http://kostroma.izbirkom.ru/vybory/20-sentyabrya-2026-goda/gdrf/cvedeniya-o-razmere-i-ob-istochnikakh-dokhodov.php",
+          "title": "Cведения о размере и об источниках доходов, имуществе, принадлежащем зарегистрированным кандидатам на праве собственности, о счетах (вкладах) в банках, ценных бумагах",
+          "depth": 1,
+          "sha256": "0c71e1f0fb39ea6e7341147e39e2b77f0e5523e585b0ced66f39717f47226ed5"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "6f404eb139a6a1d588d105c4d8ad46077679ba53e52a78ab4b3ff14fc23ec622",
+      "originalFilename": "S22C-7i260826102300.pdf",
+      "filename": "скачать-6f404eb139a6.pdf",
+      "path": "files/скачать-6f404eb139a6.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 138853,
+      "sha256": "6f404eb139a6a1d588d105c4d8ad46077679ba53e52a78ab4b3ff14fc23ec622",
+      "source": {
+        "url": "http://kostroma.izbirkom.ru/upload/Documents/Files/S22C-7i260826102300.pdf",
+        "requestKey": "http://kostroma.izbirkom.ru/upload/Documents/Files/S22C-7i260826102300.pdf",
+        "retrievedAt": "2026-09-04T03:54:15.695398+00:00",
+        "status": 200,
+        "sha256": "6f404eb139a6a1d588d105c4d8ad46077679ba53e52a78ab4b3ff14fc23ec622",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

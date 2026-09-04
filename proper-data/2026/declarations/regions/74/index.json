@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:10.916795+00:00",
+  "region": {
+    "code": "74",
+    "name": "Челябинская область",
+    "seedUrls": [
+      "http://chelyabinsk.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+      "http://chelyabinsk.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8"
+    ],
+    "allowedHosts": [
+      "chelyabinsk.izbirkom.ru",
+      "www.chelyabinsk.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 2,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 1,
+      "explicitEmptyPageCount": 1,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://chelyabinsk.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+      "title": "Поиск",
+      "depth": 0,
+      "electionContextConfirmed": false,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://chelyabinsk.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+        "requestKey": "http://chelyabinsk.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+        "retrievedAt": "2026-09-04T03:47:14.442557+00:00",
+        "status": 200,
+        "sha256": "480c7f13e20f56f8ee0ecd42f5082b08e70cace07ec2a43d045ca9a79cd3ede7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://chelyabinsk.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+      "title": "Поиск",
+      "depth": 0,
+      "electionContextConfirmed": false,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://chelyabinsk.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+        "requestKey": "http://chelyabinsk.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+        "retrievedAt": "2026-09-04T03:47:15.311843+00:00",
+        "status": 200,
+        "sha256": "56ff5f614ad177c4c77d3b6733adea91375dafd0cfb8e2b4e1765cc1cc0577ed",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

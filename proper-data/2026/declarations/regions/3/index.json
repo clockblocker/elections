@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:29.238461+00:00",
+  "region": {
+    "code": "3",
+    "name": "Республика Башкортостан",
+    "seedUrls": [
+      "http://bashkortostan.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+      "http://bashkortostan.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8"
+    ],
+    "allowedHosts": [
+      "bashkortostan.izbirkom.ru",
+      "www.bashkortostan.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 2,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 1,
+      "explicitEmptyPageCount": 1,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 1,
+      "explicitEmptyPageCount": 1,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://bashkortostan.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+      "title": "Поиск",
+      "depth": 0,
+      "electionContextConfirmed": false,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bashkortostan.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+        "requestKey": "http://bashkortostan.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+        "retrievedAt": "2026-09-04T03:28:35.719167+00:00",
+        "status": 200,
+        "sha256": "1aba2fa67c7ffeebf0c813c1cf531eec611db6367efe46d08e8d691d79f85894",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bashkortostan.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+      "title": "Поиск",
+      "depth": 0,
+      "electionContextConfirmed": false,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bashkortostan.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+        "requestKey": "http://bashkortostan.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+        "retrievedAt": "2026-09-04T03:28:37.951427+00:00",
+        "status": 200,
+        "sha256": "e7dd017b55ce0938805b09043703e9884503fa9ef818e8cb67d6f05818a92579",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

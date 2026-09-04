@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:10.519128+00:00",
+  "region": {
+    "code": "66",
+    "name": "Свердловская область",
+    "seedUrls": [
+      "http://sverdlovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edg2026/zherebevka-gd/index.php",
+      "http://sverdlovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/2026/"
+    ],
+    "allowedHosts": [
+      "sverdlovsk.izbirkom.ru",
+      "www.sverdlovsk.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 6,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://sverdlovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edg2026/zherebevka-gd/index.php",
+      "title": "Уполномоченным представителям политических партий, зарегистрированным кандидатам на выборах депутатов Государственной Думы Федерального Собрания Российской Федерации 9 созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://sverdlovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edg2026/zherebevka-gd/index.php",
+        "requestKey": "http://sverdlovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edg2026/zherebevka-gd/index.php",
+        "retrievedAt": "2026-09-04T03:41:24.256057+00:00",
+        "status": 200,
+        "sha256": "0bb87215e03426b9b587797dad7a6eef96dd3ddd404e66ba7c8449975d38ddba",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://sverdlovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/2026/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва 20 сентября 2026 года",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://sverdlovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/2026/",
+        "requestKey": "http://sverdlovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/2026/",
+        "retrievedAt": "2026-09-04T03:41:25.287059+00:00",
+        "status": 200,
+        "sha256": "6127971089cf91a18a9eedf130ed4f920651711ebd66ebd39dc0843e74a39a43",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://sverdlovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edg2026/zherebevka-gd/",
+      "title": "Уполномоченным представителям политических партий, зарегистрированным кандидатам на выборах депутатов Государственной Думы Федерального Собрания Российской Федерации 9 созыва",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://sverdlovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edg2026/zherebevka-gd/",
+        "requestKey": "http://sverdlovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edg2026/zherebevka-gd/",
+        "retrievedAt": "2026-09-04T03:41:27.411788+00:00",
+        "status": 200,
+        "sha256": "0bb87215e03426b9b587797dad7a6eef96dd3ddd404e66ba7c8449975d38ddba",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://sverdlovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://sverdlovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/",
+        "requestKey": "http://sverdlovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации/",
+        "retrievedAt": "2026-09-04T03:41:28.478976+00:00",
+        "status": 200,
+        "sha256": "0b58ff2e5adab3df4e189075f474cd68083429891aaa50a95c78da7315bfe94f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://sverdlovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации/2026/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва 20 сентября 2026 года",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://sverdlovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/2026/",
+        "requestKey": "http://sverdlovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации/2026/",
+        "retrievedAt": "2026-09-04T03:41:29.506015+00:00",
+        "status": 200,
+        "sha256": "6127971089cf91a18a9eedf130ed4f920651711ebd66ebd39dc0843e74a39a43",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://sverdlovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/Выборы%20депутатов%20Государственной%20Думы%20Федерального%20Собрания%20Российской%20Федерации/2026/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва 20 сентября 2026 года",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://sverdlovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/2026/index.php",
+        "requestKey": "http://sverdlovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/Выборы%20депутатов%20Государственной%20Думы%20Федерального%20Собрания%20Российской%20Федерации/2026/index.php",
+        "retrievedAt": "2026-09-04T03:41:39.642800+00:00",
+        "status": 200,
+        "sha256": "6127971089cf91a18a9eedf130ed4f920651711ebd66ebd39dc0843e74a39a43",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

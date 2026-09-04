@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:33.195260+00:00",
+  "region": {
+    "code": "39",
+    "name": "Калининградская область",
+    "seedUrls": [
+      "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/",
+      "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/index.php"
+    ],
+    "allowedHosts": [
+      "kaliningrad.izbirkom.ru",
+      "www.kaliningrad.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 6,
+  "documentCount": 2,
+  "documentCounts": {
+    "declaration": 2
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 2,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 2
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/",
+        "requestKey": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/",
+        "retrievedAt": "2026-09-04T03:44:43.483846+00:00",
+        "status": 200,
+        "sha256": "d7c6197219dd806ce80ed0eb8a7618b06dcf8fd4a1c5a06057a1cd24a531e167",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/index.php",
+        "requestKey": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/index.php",
+        "retrievedAt": "2026-09-04T03:44:44.359652+00:00",
+        "status": 200,
+        "sha256": "d7c6197219dd806ce80ed0eb8a7618b06dcf8fd4a1c5a06057a1cd24a531e167",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/izb-fond-kand",
+      "title": "Сведения о поступлении средств в избирательные фонды кандидатов и расходовании этих средств на выборах депутатов Государственной Думы Федерального собрания Российской Федерации IX созыва",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/izb-fond-kand/",
+        "requestKey": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/izb-fond-kand",
+        "retrievedAt": "2026-09-04T03:44:46.961952+00:00",
+        "status": 200,
+        "sha256": "813ac81c8a61aa0772baa5deeba4c1ed70e746f64a298636c4496ea845e45738",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/doh-im",
+      "title": "Сведения о зарегистрированных кандидатах и их доходы и имущество",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 4
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/doh-im/ГД 100 ДИ НС на 20.08.26.zip",
+        "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/doh-im/ГД 99 ДИ НС на 20.08.26.zip"
+      ],
+      "source": {
+        "url": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/doh-im/",
+        "requestKey": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/doh-im",
+        "retrievedAt": "2026-09-04T03:44:47.776816+00:00",
+        "status": 200,
+        "sha256": "e9fa78a3155cc252d2bf098156549dff35f399ae2e3bf2a4b72e371a0f881294",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/izb-fond-kand/",
+      "title": "Сведения о поступлении средств в избирательные фонды кандидатов и расходовании этих средств на выборах депутатов Государственной Думы Федерального собрания Российской Федерации IX созыва",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/izb-fond-kand/",
+        "requestKey": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/izb-fond-kand/",
+        "retrievedAt": "2026-09-04T03:44:52.867135+00:00",
+        "status": 200,
+        "sha256": "813ac81c8a61aa0772baa5deeba4c1ed70e746f64a298636c4496ea845e45738",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/doh-im/",
+      "title": "Сведения о зарегистрированных кандидатах и их доходы и имущество",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 4
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/doh-im/ГД 100 ДИ НС на 20.08.26.zip",
+        "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/doh-im/ГД 99 ДИ НС на 20.08.26.zip"
+      ],
+      "source": {
+        "url": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/doh-im/",
+        "requestKey": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/doh-im/",
+        "retrievedAt": "2026-09-04T03:44:53.529430+00:00",
+        "status": 200,
+        "sha256": "e9fa78a3155cc252d2bf098156549dff35f399ae2e3bf2a4b72e371a0f881294",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "ОИО-100 Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату на праве собственности, о счетах (вкладах) в банках, ценных бумагах",
+      "officialUrl": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/doh-im/ГД 100 ДИ НС на 20.08.26.zip",
+      "sourcePages": [
+        {
+          "url": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/doh-im",
+          "title": "Сведения о зарегистрированных кандидатах и их доходы и имущество",
+          "depth": 1,
+          "sha256": "e9fa78a3155cc252d2bf098156549dff35f399ae2e3bf2a4b72e371a0f881294"
+        },
+        {
+          "url": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/doh-im/",
+          "title": "Сведения о зарегистрированных кандидатах и их доходы и имущество",
+          "depth": 2,
+          "sha256": "e9fa78a3155cc252d2bf098156549dff35f399ae2e3bf2a4b72e371a0f881294"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "9eeb9695747c8ceefc7baebad6d24e377145a026442cb11a87b8985207d06fa4",
+      "originalFilename": "ГД 100 ДИ НС на 20.08.26.zip",
+      "filename": "ОИО-100_Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащем_кандидату_на_праве_собств-9eeb9695747c.zip",
+      "path": "files/ОИО-100_Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащем_кандидату_на_праве_собств-9eeb9695747c.zip",
+      "mediaType": "application/zip",
+      "byteLength": 346926,
+      "sha256": "9eeb9695747c8ceefc7baebad6d24e377145a026442cb11a87b8985207d06fa4",
+      "source": {
+        "url": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/doh-im/%D0%93%D0%94%20100%20%D0%94%D0%98%20%D0%9D%D0%A1%20%D0%BD%D0%B0%2020.08.26.zip",
+        "requestKey": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/doh-im/ГД 100 ДИ НС на 20.08.26.zip",
+        "retrievedAt": "2026-09-04T03:45:36.188251+00:00",
+        "status": 200,
+        "sha256": "9eeb9695747c8ceefc7baebad6d24e377145a026442cb11a87b8985207d06fa4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ОИО-99 Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату на праве собственности, о счетах (вкладах) в банках, ценных бумагах",
+      "officialUrl": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/doh-im/ГД 99 ДИ НС на 20.08.26.zip",
+      "sourcePages": [
+        {
+          "url": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/doh-im",
+          "title": "Сведения о зарегистрированных кандидатах и их доходы и имущество",
+          "depth": 1,
+          "sha256": "e9fa78a3155cc252d2bf098156549dff35f399ae2e3bf2a4b72e371a0f881294"
+        },
+        {
+          "url": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/doh-im/",
+          "title": "Сведения о зарегистрированных кандидатах и их доходы и имущество",
+          "depth": 2,
+          "sha256": "e9fa78a3155cc252d2bf098156549dff35f399ae2e3bf2a4b72e371a0f881294"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "030d2d1cdf665f9e8bbee5b5d4af07714fafc2f1a58c7359a41ebf24bcfa1f9e",
+      "originalFilename": "ГД 99 ДИ НС на 20.08.26.zip",
+      "filename": "ОИО-99_Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащем_кандидату_на_праве_собстве-030d2d1cdf66.zip",
+      "path": "files/ОИО-99_Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащем_кандидату_на_праве_собстве-030d2d1cdf66.zip",
+      "mediaType": "application/zip",
+      "byteLength": 266019,
+      "sha256": "030d2d1cdf665f9e8bbee5b5d4af07714fafc2f1a58c7359a41ebf24bcfa1f9e",
+      "source": {
+        "url": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/doh-im/%D0%93%D0%94%2099%20%D0%94%D0%98%20%D0%9D%D0%A1%20%D0%BD%D0%B0%2020.08.26.zip",
+        "requestKey": "http://kaliningrad.izbirkom.ru/vybory-edg-2026/vybory-gd-ix-2026/doh-im/ГД 99 ДИ НС на 20.08.26.zip",
+        "retrievedAt": "2026-09-04T03:45:36.744665+00:00",
+        "status": 200,
+        "sha256": "030d2d1cdf665f9e8bbee5b5d4af07714fafc2f1a58c7359a41ebf24bcfa1f9e",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

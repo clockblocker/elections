@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:11.028189+00:00",
+  "region": {
+    "code": "83",
+    "name": "Ненецкий автономный округ",
+    "seedUrls": [
+      "http://nenetsk.izbirkom.ru/aktualnye-temy/5146/",
+      "http://nenetsk.izbirkom.ru/news/5144/"
+    ],
+    "allowedHosts": [
+      "nenetsk.izbirkom.ru",
+      "www.nenetsk.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 2,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://nenetsk.izbirkom.ru/aktualnye-temy/5146/",
+      "title": "К сведению политических партий и зарегистрированных кандидатов на выборах депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://nenetsk.izbirkom.ru/aktualnye-temy/5146/",
+        "requestKey": "http://nenetsk.izbirkom.ru/aktualnye-temy/5146/",
+        "retrievedAt": "2026-09-04T03:47:58.727669+00:00",
+        "status": 200,
+        "sha256": "cb6ff05c3af78e76357007ba379700157c24b1d275ab8989623e96553d41a61a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://nenetsk.izbirkom.ru/news/5144/",
+      "title": "К сведению политических партий и зарегистрированных кандидатов на выборах депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://nenetsk.izbirkom.ru/news/5144/",
+        "requestKey": "http://nenetsk.izbirkom.ru/news/5144/",
+        "retrievedAt": "2026-09-04T03:47:59.300581+00:00",
+        "status": 200,
+        "sha256": "2e1dad347868346cc5fd8255f79165eda8d14f8d5d2533fbe2e19e297e0d05db",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

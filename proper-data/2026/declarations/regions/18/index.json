@@ -1,0 +1,347 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:30.874947+00:00",
+  "region": {
+    "code": "18",
+    "name": "Удмуртская Республика",
+    "seedUrls": [
+      "http://udmurt.izbirkom.ru/vybory/2026-god/gd/",
+      "http://udmurt.izbirkom.ru/vybory/2026-god/gd/index.php"
+    ],
+    "allowedHosts": [
+      "udmurt.izbirkom.ru",
+      "www.udmurt.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 8,
+  "documentCount": 4,
+  "documentCounts": {
+    "declaration": 4
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 6,
+      "explicitEmptyPageCount": 4,
+      "documentCount": 4
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/",
+        "requestKey": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/",
+        "retrievedAt": "2026-09-04T03:34:20.274380+00:00",
+        "status": 200,
+        "sha256": "2bfc3456b0792c20e3dc50425dc381ebab28e9d90df72919ff26cb279c8d2510",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/index.php",
+        "requestKey": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/index.php",
+        "retrievedAt": "2026-09-04T03:34:20.701901+00:00",
+        "status": 200,
+        "sha256": "2bfc3456b0792c20e3dc50425dc381ebab28e9d90df72919ff26cb279c8d2510",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/index.php",
+      "title": "Сведения о кандидатах, выдвинутых по одномандатным избирательным округам",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/index.php",
+        "requestKey": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/index.php",
+        "retrievedAt": "2026-09-04T03:34:22.576865+00:00",
+        "status": 200,
+        "sha256": "941ab7aff5f09ee2cbf89e7363040b5dde8feb1e5264d43e8125972bc655b7bd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/",
+      "title": "Сведения о кандидатах, выдвинутых по одномандатным избирательным округам",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/",
+        "requestKey": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/",
+        "retrievedAt": "2026-09-04T03:34:29.202281+00:00",
+        "status": 200,
+        "sha256": "941ab7aff5f09ee2cbf89e7363040b5dde8feb1e5264d43e8125972bc655b7bd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/index.php",
+      "title": "Сведения о доходах и имуществе кандидатов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/index.php",
+        "requestKey": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/index.php",
+        "retrievedAt": "2026-09-04T03:34:29.976974+00:00",
+        "status": 200,
+        "sha256": "fcb1b575fbde67cd3487f4171b4bbc81971538edf8ef85b38238ae285a20f20e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/",
+      "title": "Сведения о доходах и имуществе кандидатов",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/",
+        "requestKey": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/",
+        "retrievedAt": "2026-09-04T03:34:43.195434+00:00",
+        "status": 200,
+        "sha256": "fcb1b575fbde67cd3487f4171b4bbc81971538edf8ef85b38238ae285a20f20e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/38/index.php",
+      "title": "Удмуртский одномандатный избирательный округ № 38",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 2
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/38/ДОХОДЫ%2038%20округ.pdf",
+        "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/38/Справка%20о%20расходах.pdf"
+      ],
+      "source": {
+        "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/38/index.php",
+        "requestKey": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/38/index.php",
+        "retrievedAt": "2026-09-04T03:34:43.907140+00:00",
+        "status": 200,
+        "sha256": "78b5ef64e2c0ccb3a1c3d84772031eebef7edf6a008fec165a899602e8c5761e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/39/index.php",
+      "title": "Ижевский одномандатный избирательный округ № 39",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 2
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/39/ДОХОДЫ%2039%20округ.pdf",
+        "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/39/Справка%20о%20расходах.pdf"
+      ],
+      "source": {
+        "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/39/index.php",
+        "requestKey": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/39/index.php",
+        "retrievedAt": "2026-09-04T03:34:44.571944+00:00",
+        "status": 200,
+        "sha256": "b1f1d4389d57788189e9eaf3a4618f6d3cd1bea2a911818a43d2480b0515cc95",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащему кандидату на праве собственности, о счетах (вкладах) в банках, ценных бумагах",
+      "officialUrl": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/38/ДОХОДЫ%2038%20округ.pdf",
+      "sourcePages": [
+        {
+          "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/38/index.php",
+          "title": "Удмуртский одномандатный избирательный округ № 38",
+          "depth": 3,
+          "sha256": "78b5ef64e2c0ccb3a1c3d84772031eebef7edf6a008fec165a899602e8c5761e"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "31a2d58fd089e13c1d91abb64c8e84f180e116f8260f0c1e885a1b6812216c75",
+      "originalFilename": "ДОХОДЫ 38 округ.pdf",
+      "filename": "Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащему_кандидату_на_праве_собственности-31a2d58fd089.pdf",
+      "path": "files/Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащему_кандидату_на_праве_собственности-31a2d58fd089.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 94074,
+      "sha256": "31a2d58fd089e13c1d91abb64c8e84f180e116f8260f0c1e885a1b6812216c75",
+      "source": {
+        "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/38/%D0%94%D0%9E%D0%A5%D0%9E%D0%94%D0%AB%2038%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3.pdf",
+        "requestKey": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/38/ДОХОДЫ%2038%20округ.pdf",
+        "retrievedAt": "2026-09-04T03:34:48.743733+00:00",
+        "status": 200,
+        "sha256": "31a2d58fd089e13c1d91abb64c8e84f180e116f8260f0c1e885a1b6812216c75",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Сведения о расходах кандидата, его супруги (супруга) и несовершеннолетних детей по каждой сделке по приобретению земельного участка, другого объекта недвижимости, транспортного средства, ценных бумаг (долей участия, паев в уставных (складочных) капиталах организаций), цифровых финансовых активов, цифровой валюты и об источниках получения средств, за счет которых совершена сделка, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов, глав муниципальных округов и глав городских округов",
+      "officialUrl": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/38/Справка%20о%20расходах.pdf",
+      "sourcePages": [
+        {
+          "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/38/index.php",
+          "title": "Удмуртский одномандатный избирательный округ № 38",
+          "depth": 3,
+          "sha256": "78b5ef64e2c0ccb3a1c3d84772031eebef7edf6a008fec165a899602e8c5761e"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "f5f9cdd3c23a3e9fc2700806035f4a0e644203853927e9edefdfb4dbdb7a195a",
+      "originalFilename": "Справка о расходах.pdf",
+      "filename": "Сведения_о_расходах_кандидата_его_супруги_супруга_и_несовершеннолетних_детей_по_каждой_сделке_по_при-f5f9cdd3c23a.pdf",
+      "path": "files/Сведения_о_расходах_кандидата_его_супруги_супруга_и_несовершеннолетних_детей_по_каждой_сделке_по_при-f5f9cdd3c23a.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 38487,
+      "sha256": "f5f9cdd3c23a3e9fc2700806035f4a0e644203853927e9edefdfb4dbdb7a195a",
+      "source": {
+        "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/38/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0%20%D0%BE%20%D1%80%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%B0%D1%85.pdf",
+        "requestKey": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/38/Справка%20о%20расходах.pdf",
+        "retrievedAt": "2026-09-04T03:34:49.602608+00:00",
+        "status": 200,
+        "sha256": "f5f9cdd3c23a3e9fc2700806035f4a0e644203853927e9edefdfb4dbdb7a195a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащему кандидату на праве собственности, о счетах (вкладах) в банках, ценных бумагах",
+      "officialUrl": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/39/ДОХОДЫ%2039%20округ.pdf",
+      "sourcePages": [
+        {
+          "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/39/index.php",
+          "title": "Ижевский одномандатный избирательный округ № 39",
+          "depth": 3,
+          "sha256": "b1f1d4389d57788189e9eaf3a4618f6d3cd1bea2a911818a43d2480b0515cc95"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "2689068d9e6c97c63464bfb164a1717009fc505be91a110e513770e136fdf19e",
+      "originalFilename": "ДОХОДЫ 39 округ.pdf",
+      "filename": "Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащему_кандидату_на_праве_собственности-2689068d9e6c.pdf",
+      "path": "files/Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащему_кандидату_на_праве_собственности-2689068d9e6c.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 71506,
+      "sha256": "2689068d9e6c97c63464bfb164a1717009fc505be91a110e513770e136fdf19e",
+      "source": {
+        "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/39/%D0%94%D0%9E%D0%A5%D0%9E%D0%94%D0%AB%2039%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3.pdf",
+        "requestKey": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/39/ДОХОДЫ%2039%20округ.pdf",
+        "retrievedAt": "2026-09-04T03:34:50.186039+00:00",
+        "status": 200,
+        "sha256": "2689068d9e6c97c63464bfb164a1717009fc505be91a110e513770e136fdf19e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Сведения о расходах кандидата, его супруги (супруга) и несовершеннолетних детей по каждой сделке по приобретению земельного участка, другого объекта недвижимости, транспортного средства, ценных бумаг (долей участия, паев в уставных (складочных) капиталах организаций), цифровых финансовых активов, цифровой валюты и об источниках получения средств, за счет которых совершена сделка, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов, глав муниципальных округов и глав городских округов",
+      "officialUrl": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/39/Справка%20о%20расходах.pdf",
+      "sourcePages": [
+        {
+          "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/39/index.php",
+          "title": "Ижевский одномандатный избирательный округ № 39",
+          "depth": 3,
+          "sha256": "b1f1d4389d57788189e9eaf3a4618f6d3cd1bea2a911818a43d2480b0515cc95"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "f629c1b669ee2094aa84a0af627c7c03c5646f628714e4c239ab0ed8fb3243e1",
+      "originalFilename": "Справка о расходах.pdf",
+      "filename": "Сведения_о_расходах_кандидата_его_супруги_супруга_и_несовершеннолетних_детей_по_каждой_сделке_по_при-f629c1b669ee.pdf",
+      "path": "files/Сведения_о_расходах_кандидата_его_супруги_супруга_и_несовершеннолетних_детей_по_каждой_сделке_по_при-f629c1b669ee.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 50302,
+      "sha256": "f629c1b669ee2094aa84a0af627c7c03c5646f628714e4c239ab0ed8fb3243e1",
+      "source": {
+        "url": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/39/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0%20%D0%BE%20%D1%80%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%B0%D1%85.pdf",
+        "requestKey": "http://udmurt.izbirkom.ru/vybory/2026-god/gd/kand/dohod/39/Справка%20о%20расходах.pdf",
+        "retrievedAt": "2026-09-04T03:34:50.912014+00:00",
+        "status": 200,
+        "sha256": "f629c1b669ee2094aa84a0af627c7c03c5646f628714e4c239ab0ed8fb3243e1",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

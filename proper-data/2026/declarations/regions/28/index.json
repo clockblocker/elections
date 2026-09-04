@@ -1,0 +1,483 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:32.268514+00:00",
+  "region": {
+    "code": "28",
+    "name": "Амурская область",
+    "seedUrls": [
+      "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/index.php",
+      "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/"
+    ],
+    "allowedHosts": [
+      "amur.izbirkom.ru",
+      "www.amur.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 8,
+  "documentCount": 7,
+  "documentCounts": {
+    "declaration": 6,
+    "inaccuracy": 1
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 4,
+      "explicitEmptyPageCount": 2,
+      "documentCount": 6
+    },
+    "inaccuracy": {
+      "signalPageCount": 2,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 1
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/index.php",
+        "requestKey": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/index.php",
+        "retrievedAt": "2026-09-04T03:36:37.850731+00:00",
+        "status": 200,
+        "sha256": "32b6e77a1f4873ff9462e49db0c88201278b8cc378a19c28636963df6d2cbc89",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/",
+        "requestKey": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/",
+        "retrievedAt": "2026-09-04T03:36:38.896395+00:00",
+        "status": 200,
+        "sha256": "32b6e77a1f4873ff9462e49db0c88201278b8cc378a19c28636963df6d2cbc89",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/npa-oik75/index.php",
+      "title": "Документы окружной избирательной комиссии по одномандатному избирательному округу «Амурская область – Амурский одномандатный избирательный округ № 75»",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/npa-oik75/index.php",
+        "requestKey": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/npa-oik75/index.php",
+        "retrievedAt": "2026-09-04T03:36:39.938891+00:00",
+        "status": 200,
+        "sha256": "7830d1e9d6a1f49566bd7eab2b747a8ec6b62135620255e74e28edfc1a95af90",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/o-kandidatakh/index.php",
+      "title": "Сведения о кандидатах",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/o-kandidatakh/index.php",
+        "requestKey": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/o-kandidatakh/index.php",
+        "retrievedAt": "2026-09-04T03:36:40.999455+00:00",
+        "status": 200,
+        "sha256": "be49ff3541a72740045159210ace3941bdc1b836dd0968a98dcb3ad283d0d2ca",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+      "title": "Сведения о доходах и имуществе кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 6,
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Зимин_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Зотов%20Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Кобызов_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Козаненко_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Логинов_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Рафальский_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/недостоверность.pdf"
+      ],
+      "source": {
+        "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+        "requestKey": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+        "retrievedAt": "2026-09-04T03:36:42.014596+00:00",
+        "status": 200,
+        "sha256": "044962c8e35db140fc68837447b7c7a33538a8e10b72e3da223b4b6ae3fc727d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/uvedomleniya-o-predostavlenii-pomeshcheniy/index.php",
+      "title": "Уведомление о фактах предоставления помещений",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/uvedomleniya-o-predostavlenii-pomeshcheniy/index.php",
+        "requestKey": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/uvedomleniya-o-predostavlenii-pomeshcheniy/index.php",
+        "retrievedAt": "2026-09-04T03:36:43.077484+00:00",
+        "status": 200,
+        "sha256": "babd86a2df3cf4d41b0af27ff29a87fd1cfaf5340cf4425e0c6cf4d99559f857",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/o-kandidatakh/",
+      "title": "Сведения о кандидатах",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/o-kandidatakh/",
+        "requestKey": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/o-kandidatakh/",
+        "retrievedAt": "2026-09-04T03:36:44.125390+00:00",
+        "status": 200,
+        "sha256": "be49ff3541a72740045159210ace3941bdc1b836dd0968a98dcb3ad283d0d2ca",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+      "title": "Сведения о доходах и имуществе кандидатов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 6,
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Зимин_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Зотов%20Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Кобызов_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Козаненко_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Логинов_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Рафальский_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/недостоверность.pdf"
+      ],
+      "source": {
+        "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+        "requestKey": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+        "retrievedAt": "2026-09-04T03:36:45.132818+00:00",
+        "status": 200,
+        "sha256": "044962c8e35db140fc68837447b7c7a33538a8e10b72e3da223b4b6ae3fc727d",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату (супругу и несовершеннолетним детям) на праве собственности, о счетах (вкладах в банках, ценных бумагах",
+      "officialUrl": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Зимин_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+      "sourcePages": [
+        {
+          "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "044962c8e35db140fc68837447b7c7a33538a8e10b72e3da223b4b6ae3fc727d"
+        },
+        {
+          "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "044962c8e35db140fc68837447b7c7a33538a8e10b72e3da223b4b6ae3fc727d"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "4c208768e9ce730e91fa29ee54f3aa3521b44be11ac15726ca9c6c0007ab7d20",
+      "originalFilename": "Зимин_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+      "filename": "Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащем_кандидату_супругу_и_несовершеннол-4c208768e9ce.pdf",
+      "path": "files/Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащем_кандидату_супругу_и_несовершеннол-4c208768e9ce.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 241572,
+      "sha256": "4c208768e9ce730e91fa29ee54f3aa3521b44be11ac15726ca9c6c0007ab7d20",
+      "source": {
+        "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/%D0%97%D0%B8%D0%BC%D0%B8%D0%BD_%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2.pdf",
+        "requestKey": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Зимин_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "retrievedAt": "2026-09-04T03:36:46.261494+00:00",
+        "status": 200,
+        "sha256": "4c208768e9ce730e91fa29ee54f3aa3521b44be11ac15726ca9c6c0007ab7d20",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату (супругу и несовершеннолетним детям) на праве собственности, о счетах (вкладах в банках, ценных бумагах",
+      "officialUrl": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Зотов%20Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+      "sourcePages": [
+        {
+          "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "044962c8e35db140fc68837447b7c7a33538a8e10b72e3da223b4b6ae3fc727d"
+        },
+        {
+          "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "044962c8e35db140fc68837447b7c7a33538a8e10b72e3da223b4b6ae3fc727d"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "99a12ca422486c9e966f03ca4f59d7c408454151ed81a7a98e695d3a44438f53",
+      "originalFilename": "Зотов Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+      "filename": "Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащем_кандидату_супругу_и_несовершеннол-99a12ca42248.pdf",
+      "path": "files/Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащем_кандидату_супругу_и_несовершеннол-99a12ca42248.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 190931,
+      "sha256": "99a12ca422486c9e966f03ca4f59d7c408454151ed81a7a98e695d3a44438f53",
+      "source": {
+        "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/%D0%97%D0%BE%D1%82%D0%BE%D0%B2%20%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2.pdf",
+        "requestKey": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Зотов%20Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "retrievedAt": "2026-09-04T03:36:47.212597+00:00",
+        "status": 200,
+        "sha256": "99a12ca422486c9e966f03ca4f59d7c408454151ed81a7a98e695d3a44438f53",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату (супругу и несовершеннолетним детям) на праве собственности, о счетах (вкладах в банках, ценных бумагах",
+      "officialUrl": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Кобызов_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+      "sourcePages": [
+        {
+          "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "044962c8e35db140fc68837447b7c7a33538a8e10b72e3da223b4b6ae3fc727d"
+        },
+        {
+          "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "044962c8e35db140fc68837447b7c7a33538a8e10b72e3da223b4b6ae3fc727d"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "10f5e6eb979cb941bf29cb688df722986d573d3b55607495604c3a1c7a2485f3",
+      "originalFilename": "Кобызов_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+      "filename": "Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащем_кандидату_супругу_и_несовершеннол-10f5e6eb979c.pdf",
+      "path": "files/Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащем_кандидату_супругу_и_несовершеннол-10f5e6eb979c.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 189733,
+      "sha256": "10f5e6eb979cb941bf29cb688df722986d573d3b55607495604c3a1c7a2485f3",
+      "source": {
+        "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/%D0%9A%D0%BE%D0%B1%D1%8B%D0%B7%D0%BE%D0%B2_%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2.pdf",
+        "requestKey": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Кобызов_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "retrievedAt": "2026-09-04T03:36:48.271378+00:00",
+        "status": 200,
+        "sha256": "10f5e6eb979cb941bf29cb688df722986d573d3b55607495604c3a1c7a2485f3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату (супругу и несовершеннолетним детям) на праве собственности, о счетах (вкладах в банках, ценных бумагах",
+      "officialUrl": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Козаненко_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+      "sourcePages": [
+        {
+          "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "044962c8e35db140fc68837447b7c7a33538a8e10b72e3da223b4b6ae3fc727d"
+        },
+        {
+          "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "044962c8e35db140fc68837447b7c7a33538a8e10b72e3da223b4b6ae3fc727d"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "493c8a68750a8b9e81749e0572d4a7e957c0f450cec83982c2732192b57bf23a",
+      "originalFilename": "Козаненко_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+      "filename": "Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащем_кандидату_супругу_и_несовершеннол-493c8a68750a.pdf",
+      "path": "files/Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащем_кандидату_супругу_и_несовершеннол-493c8a68750a.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 187727,
+      "sha256": "493c8a68750a8b9e81749e0572d4a7e957c0f450cec83982c2732192b57bf23a",
+      "source": {
+        "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/%D0%9A%D0%BE%D0%B7%D0%B0%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE_%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2.pdf",
+        "requestKey": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Козаненко_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "retrievedAt": "2026-09-04T03:36:49.336303+00:00",
+        "status": 200,
+        "sha256": "493c8a68750a8b9e81749e0572d4a7e957c0f450cec83982c2732192b57bf23a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату (супругу и несовершеннолетним детям) на праве собственности, о счетах (вкладах в банках, ценных бумагах",
+      "officialUrl": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Логинов_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+      "sourcePages": [
+        {
+          "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "044962c8e35db140fc68837447b7c7a33538a8e10b72e3da223b4b6ae3fc727d"
+        },
+        {
+          "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "044962c8e35db140fc68837447b7c7a33538a8e10b72e3da223b4b6ae3fc727d"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "add37f9c5bc06b456e5c6231cfc5e7201518c89ffa283bf0dad0410cb7c0648f",
+      "originalFilename": "Логинов_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+      "filename": "Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащем_кандидату_супругу_и_несовершеннол-add37f9c5bc0.pdf",
+      "path": "files/Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащем_кандидату_супругу_и_несовершеннол-add37f9c5bc0.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 186718,
+      "sha256": "add37f9c5bc06b456e5c6231cfc5e7201518c89ffa283bf0dad0410cb7c0648f",
+      "source": {
+        "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/%D0%9B%D0%BE%D0%B3%D0%B8%D0%BD%D0%BE%D0%B2_%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2.pdf",
+        "requestKey": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Логинов_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "retrievedAt": "2026-09-04T03:36:50.369596+00:00",
+        "status": 200,
+        "sha256": "add37f9c5bc06b456e5c6231cfc5e7201518c89ffa283bf0dad0410cb7c0648f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату (супругу и несовершеннолетним детям) на праве собственности, о счетах (вкладах в банках, ценных бумагах",
+      "officialUrl": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Рафальский_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+      "sourcePages": [
+        {
+          "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "044962c8e35db140fc68837447b7c7a33538a8e10b72e3da223b4b6ae3fc727d"
+        },
+        {
+          "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "044962c8e35db140fc68837447b7c7a33538a8e10b72e3da223b4b6ae3fc727d"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "b33c15290183ddcabc1029b21b2bc3ce20851b3ddf54cbdecbf9fafaa2e63bd9",
+      "originalFilename": "Рафальский_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+      "filename": "Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащем_кандидату_супругу_и_несовершеннол-b33c15290183.pdf",
+      "path": "files/Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащем_кандидату_супругу_и_несовершеннол-b33c15290183.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 196950,
+      "sha256": "b33c15290183ddcabc1029b21b2bc3ce20851b3ddf54cbdecbf9fafaa2e63bd9",
+      "source": {
+        "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/%D0%A0%D0%B0%D1%84%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2.pdf",
+        "requestKey": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Рафальский_Отчет_о_сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "retrievedAt": "2026-09-04T03:36:51.419657+00:00",
+        "status": 200,
+        "sha256": "b33c15290183ddcabc1029b21b2bc3ce20851b3ddf54cbdecbf9fafaa2e63bd9",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных кандидатами в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу «Амурская область – \"Амурский одномандатный избирательный округ No 75\"",
+      "officialUrl": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/недостоверность.pdf",
+      "sourcePages": [
+        {
+          "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "044962c8e35db140fc68837447b7c7a33538a8e10b72e3da223b4b6ae3fc727d"
+        },
+        {
+          "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "044962c8e35db140fc68837447b7c7a33538a8e10b72e3da223b4b6ae3fc727d"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "49ee6ac8a7955496c365339761ba08ec35c1774371f3061ac3f773c8cd4331c4",
+      "originalFilename": "недостоверность.pdf",
+      "filename": "Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-49ee6ac8a795.pdf",
+      "path": "files/Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-49ee6ac8a795.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 232763,
+      "sha256": "49ee6ac8a7955496c365339761ba08ec35c1774371f3061ac3f773c8cd4331c4",
+      "source": {
+        "url": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C.pdf",
+        "requestKey": "http://amur.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/vybory-deputatov-gd-fs-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/недостоверность.pdf",
+        "retrievedAt": "2026-09-04T03:36:52.472229+00:00",
+        "status": 200,
+        "sha256": "49ee6ac8a7955496c365339761ba08ec35c1774371f3061ac3f773c8cd4331c4",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

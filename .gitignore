@@ -27,5 +27,6 @@ proper-app/research/**/__pycache__/
 # Local election data and generated artifacts
 data/raw/
 reports/generated/
+proper-app/db/duma-2021.sql
 *.sqlite
 *.sqlite3

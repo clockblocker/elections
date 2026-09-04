@@ -1,0 +1,534 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:11.010537+00:00",
+  "region": {
+    "code": "79",
+    "name": "Еврейская автономная область",
+    "seedUrls": [
+      "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/gosduma.php",
+      "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-postuplenii-sredstv/gosduma.php"
+    ],
+    "allowedHosts": [
+      "jewish-aut.izbirkom.ru",
+      "www.jewish-aut.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 7,
+  "documentCount": 9,
+  "documentCounts": {
+    "declaration": 8,
+    "inaccuracy": 1
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 3,
+      "explicitEmptyPageCount": 1,
+      "documentCount": 8
+    },
+    "inaccuracy": {
+      "signalPageCount": 2,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 1
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/gosduma.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/gosduma.php",
+        "requestKey": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/gosduma.php",
+        "retrievedAt": "2026-09-04T03:47:46.004264+00:00",
+        "status": 200,
+        "sha256": "19cbdc3bef0a5a8dfd2f70b50d6d81f868d55c60ce5cb356865d34a7358efdcd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-postuplenii-sredstv/gosduma.php",
+      "title": "",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-postuplenii-sredstv/gosduma.php",
+        "requestKey": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-postuplenii-sredstv/gosduma.php",
+        "retrievedAt": "2026-09-04T03:47:46.402991+00:00",
+        "status": 200,
+        "sha256": "ed1138dd173c90ac1dd54305338df2e319cf51a9255329ed2749c7c99cdaf489",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/okruzhnaya-izbiratelnaya-komissiya-220/index.php",
+      "title": "",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/okruzhnaya-izbiratelnaya-komissiya-220/index.php",
+        "requestKey": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/okruzhnaya-izbiratelnaya-komissiya-220/index.php",
+        "retrievedAt": "2026-09-04T03:47:49.517122+00:00",
+        "status": 200,
+        "sha256": "f2f8b5a06bd32791b9dc02f7c827ebf12958e63e1360a24b5d183803d551cf99",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+      "title": "Сведения о доходах и имуществе кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 11,
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Сведения%20%20о%20НЕДОСТОВ%20ГД.pdf",
+        "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20БАШАНКАЕВ%20Б.Н.pdf",
+        "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20КОНОПАТКИН%20Е.Г..pdf",
+        "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20КУЛИКОВА%20С.И..pdf",
+        "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20ПОЛОДЮК%20Н.В..pdf",
+        "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20ПРОХОДЦЕВ%20И.Д..pdf",
+        "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20СЛУЦКАЯ%20Т.В..pdf",
+        "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20ТАРАСОВ%20Д.В..pdf",
+        "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20ХОЛОВА%20О.В.pdf"
+      ],
+      "source": {
+        "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+        "requestKey": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+        "retrievedAt": "2026-09-04T03:47:49.918953+00:00",
+        "status": 200,
+        "sha256": "11703712519f1b7965f2fbee736717a7c65ec9ec694cd11b33e3f01cb1e4a816",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/rezhim-raboty/gosduma.php",
+      "title": "",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/rezhim-raboty/gosduma.php",
+        "requestKey": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/rezhim-raboty/gosduma.php",
+        "retrievedAt": "2026-09-04T03:47:50.359983+00:00",
+        "status": 200,
+        "sha256": "348c6ee37af5175468e192b6bcc0b0d47c37d9c12d0549b3ccc8d35518234aee",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/okruzhnaya-izbiratelnaya-komissiya-220/",
+      "title": "",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/okruzhnaya-izbiratelnaya-komissiya-220/",
+        "requestKey": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/okruzhnaya-izbiratelnaya-komissiya-220/",
+        "retrievedAt": "2026-09-04T03:47:53.467610+00:00",
+        "status": 200,
+        "sha256": "f2f8b5a06bd32791b9dc02f7c827ebf12958e63e1360a24b5d183803d551cf99",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+      "title": "Сведения о доходах и имуществе кандидатов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 11,
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Сведения%20%20о%20НЕДОСТОВ%20ГД.pdf",
+        "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20БАШАНКАЕВ%20Б.Н.pdf",
+        "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20КОНОПАТКИН%20Е.Г..pdf",
+        "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20КУЛИКОВА%20С.И..pdf",
+        "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20ПОЛОДЮК%20Н.В..pdf",
+        "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20ПРОХОДЦЕВ%20И.Д..pdf",
+        "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20СЛУЦКАЯ%20Т.В..pdf",
+        "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20ТАРАСОВ%20Д.В..pdf",
+        "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20ХОЛОВА%20О.В.pdf"
+      ],
+      "source": {
+        "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+        "requestKey": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+        "retrievedAt": "2026-09-04T03:47:53.851737+00:00",
+        "status": 200,
+        "sha256": "11703712519f1b7965f2fbee736717a7c65ec9ec694cd11b33e3f01cb1e4a816",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "Избирательная комиссия Еврейской автономной области",
+      "officialUrl": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20БАШАНКАЕВ%20Б.Н.pdf",
+      "sourcePages": [
+        {
+          "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "11703712519f1b7965f2fbee736717a7c65ec9ec694cd11b33e3f01cb1e4a816"
+        },
+        {
+          "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "11703712519f1b7965f2fbee736717a7c65ec9ec694cd11b33e3f01cb1e4a816"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "ae3fd27dc2972d6de5acfcc3f3b42e762a6de30566985a7f459345c063db01c2",
+      "originalFilename": "сведения о размере и об источниках доходов, имуществе кандидата БАШАНКАЕВ Б.Н.pdf",
+      "filename": "Избирательная_комиссия_Еврейской_автономной_области-ae3fd27dc297.pdf",
+      "path": "files/Избирательная_комиссия_Еврейской_автономной_области-ae3fd27dc297.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 43872,
+      "sha256": "ae3fd27dc2972d6de5acfcc3f3b42e762a6de30566985a7f459345c063db01c2",
+      "source": {
+        "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%20%D0%B8%20%D0%BE%D0%B1%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D1%85%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%BE%D0%B2,%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%20%D0%91%D0%90%D0%A8%D0%90%D0%9D%D0%9A%D0%90%D0%95%D0%92%20%D0%91.%D0%9D.pdf",
+        "requestKey": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20БАШАНКАЕВ%20Б.Н.pdf",
+        "retrievedAt": "2026-09-04T03:47:55.161146+00:00",
+        "status": 200,
+        "sha256": "ae3fd27dc2972d6de5acfcc3f3b42e762a6de30566985a7f459345c063db01c2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Конопаткин Евгений Григорьевич",
+      "officialUrl": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20КОНОПАТКИН%20Е.Г..pdf",
+      "sourcePages": [
+        {
+          "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "11703712519f1b7965f2fbee736717a7c65ec9ec694cd11b33e3f01cb1e4a816"
+        },
+        {
+          "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "11703712519f1b7965f2fbee736717a7c65ec9ec694cd11b33e3f01cb1e4a816"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "5b0a49c16c13f0da6c115013022c9223b76606de26412febb017c0f1bd795a97",
+      "originalFilename": "сведения о размере и об источниках доходов, имуществе кандидата КОНОПАТКИН Е.Г..pdf",
+      "filename": "Конопаткин_Евгений_Григорьевич-5b0a49c16c13.pdf",
+      "path": "files/Конопаткин_Евгений_Григорьевич-5b0a49c16c13.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 43257,
+      "sha256": "5b0a49c16c13f0da6c115013022c9223b76606de26412febb017c0f1bd795a97",
+      "source": {
+        "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%20%D0%B8%20%D0%BE%D0%B1%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D1%85%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%BE%D0%B2,%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%20%D0%9A%D0%9E%D0%9D%D0%9E%D0%9F%D0%90%D0%A2%D0%9A%D0%98%D0%9D%20%D0%95.%D0%93..pdf",
+        "requestKey": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20КОНОПАТКИН%20Е.Г..pdf",
+        "retrievedAt": "2026-09-04T03:47:55.591464+00:00",
+        "status": 200,
+        "sha256": "5b0a49c16c13f0da6c115013022c9223b76606de26412febb017c0f1bd795a97",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Куликова Светлана Иосифовна",
+      "officialUrl": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20КУЛИКОВА%20С.И..pdf",
+      "sourcePages": [
+        {
+          "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "11703712519f1b7965f2fbee736717a7c65ec9ec694cd11b33e3f01cb1e4a816"
+        },
+        {
+          "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "11703712519f1b7965f2fbee736717a7c65ec9ec694cd11b33e3f01cb1e4a816"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "f292981ec3f737b68582e88edd5ca9f18898b09bbd920cbe3b87ab248d9428b5",
+      "originalFilename": "сведения о размере и об источниках доходов, имуществе кандидата КУЛИКОВА С.И..pdf",
+      "filename": "Куликова_Светлана_Иосифовна-f292981ec3f7.pdf",
+      "path": "files/Куликова_Светлана_Иосифовна-f292981ec3f7.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 51816,
+      "sha256": "f292981ec3f737b68582e88edd5ca9f18898b09bbd920cbe3b87ab248d9428b5",
+      "source": {
+        "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%20%D0%B8%20%D0%BE%D0%B1%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D1%85%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%BE%D0%B2,%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%20%D0%9A%D0%A3%D0%9B%D0%98%D0%9A%D0%9E%D0%92%D0%90%20%D0%A1.%D0%98..pdf",
+        "requestKey": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20КУЛИКОВА%20С.И..pdf",
+        "retrievedAt": "2026-09-04T03:47:56.000771+00:00",
+        "status": 200,
+        "sha256": "f292981ec3f737b68582e88edd5ca9f18898b09bbd920cbe3b87ab248d9428b5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Полодюк Наталья Владимировна",
+      "officialUrl": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20ПОЛОДЮК%20Н.В..pdf",
+      "sourcePages": [
+        {
+          "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "11703712519f1b7965f2fbee736717a7c65ec9ec694cd11b33e3f01cb1e4a816"
+        },
+        {
+          "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "11703712519f1b7965f2fbee736717a7c65ec9ec694cd11b33e3f01cb1e4a816"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "832dcd59f4dfb41a573103d01a3dee21748c529ee4e4b0754e9fdbe0403705b6",
+      "originalFilename": "сведения о размере и об источниках доходов, имуществе кандидата ПОЛОДЮК Н.В..pdf",
+      "filename": "Полодюк_Наталья_Владимировна-832dcd59f4df.pdf",
+      "path": "files/Полодюк_Наталья_Владимировна-832dcd59f4df.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 49662,
+      "sha256": "832dcd59f4dfb41a573103d01a3dee21748c529ee4e4b0754e9fdbe0403705b6",
+      "source": {
+        "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%20%D0%B8%20%D0%BE%D0%B1%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D1%85%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%BE%D0%B2,%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%20%D0%9F%D0%9E%D0%9B%D0%9E%D0%94%D0%AE%D0%9A%20%D0%9D.%D0%92..pdf",
+        "requestKey": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20ПОЛОДЮК%20Н.В..pdf",
+        "retrievedAt": "2026-09-04T03:47:56.428504+00:00",
+        "status": 200,
+        "sha256": "832dcd59f4dfb41a573103d01a3dee21748c529ee4e4b0754e9fdbe0403705b6",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Проходцев Иван Дмитриевич",
+      "officialUrl": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20ПРОХОДЦЕВ%20И.Д..pdf",
+      "sourcePages": [
+        {
+          "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "11703712519f1b7965f2fbee736717a7c65ec9ec694cd11b33e3f01cb1e4a816"
+        },
+        {
+          "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "11703712519f1b7965f2fbee736717a7c65ec9ec694cd11b33e3f01cb1e4a816"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "ccfafee117e885a2ac4e67e26505805b6dcdf2799f8a0c608b3c3781f571e7b3",
+      "originalFilename": "сведения о размере и об источниках доходов, имуществе кандидата ПРОХОДЦЕВ И.Д..pdf",
+      "filename": "Проходцев_Иван_Дмитриевич-ccfafee117e8.pdf",
+      "path": "files/Проходцев_Иван_Дмитриевич-ccfafee117e8.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 45109,
+      "sha256": "ccfafee117e885a2ac4e67e26505805b6dcdf2799f8a0c608b3c3781f571e7b3",
+      "source": {
+        "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%20%D0%B8%20%D0%BE%D0%B1%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D1%85%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%BE%D0%B2,%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%20%D0%9F%D0%A0%D0%9E%D0%A5%D0%9E%D0%94%D0%A6%D0%95%D0%92%20%D0%98.%D0%94..pdf",
+        "requestKey": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20ПРОХОДЦЕВ%20И.Д..pdf",
+        "retrievedAt": "2026-09-04T03:47:56.812087+00:00",
+        "status": 200,
+        "sha256": "ccfafee117e885a2ac4e67e26505805b6dcdf2799f8a0c608b3c3781f571e7b3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Слуцкая Татьяна Владимировна",
+      "officialUrl": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20СЛУЦКАЯ%20Т.В..pdf",
+      "sourcePages": [
+        {
+          "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "11703712519f1b7965f2fbee736717a7c65ec9ec694cd11b33e3f01cb1e4a816"
+        },
+        {
+          "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "11703712519f1b7965f2fbee736717a7c65ec9ec694cd11b33e3f01cb1e4a816"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "410d9f024883b0a9c1308868e70086a98284f6de5e8ddc2c4aa68a57163b948c",
+      "originalFilename": "сведения о размере и об источниках доходов, имуществе кандидата СЛУЦКАЯ Т.В..pdf",
+      "filename": "Слуцкая_Татьяна_Владимировна-410d9f024883.pdf",
+      "path": "files/Слуцкая_Татьяна_Владимировна-410d9f024883.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 51348,
+      "sha256": "410d9f024883b0a9c1308868e70086a98284f6de5e8ddc2c4aa68a57163b948c",
+      "source": {
+        "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%20%D0%B8%20%D0%BE%D0%B1%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D1%85%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%BE%D0%B2,%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%20%D0%A1%D0%9B%D0%A3%D0%A6%D0%9A%D0%90%D0%AF%20%D0%A2.%D0%92..pdf",
+        "requestKey": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20СЛУЦКАЯ%20Т.В..pdf",
+        "retrievedAt": "2026-09-04T03:47:57.233732+00:00",
+        "status": 200,
+        "sha256": "410d9f024883b0a9c1308868e70086a98284f6de5e8ddc2c4aa68a57163b948c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Тарасов Дмитрий Валерьевич",
+      "officialUrl": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20ТАРАСОВ%20Д.В..pdf",
+      "sourcePages": [
+        {
+          "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "11703712519f1b7965f2fbee736717a7c65ec9ec694cd11b33e3f01cb1e4a816"
+        },
+        {
+          "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "11703712519f1b7965f2fbee736717a7c65ec9ec694cd11b33e3f01cb1e4a816"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "798996e8ab512e8b794d30adbb258b4f46145f926823627d18ef949b71c46c84",
+      "originalFilename": "сведения о размере и об источниках доходов, имуществе кандидата ТАРАСОВ Д.В..pdf",
+      "filename": "Тарасов_Дмитрий_Валерьевич-798996e8ab51.pdf",
+      "path": "files/Тарасов_Дмитрий_Валерьевич-798996e8ab51.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 50353,
+      "sha256": "798996e8ab512e8b794d30adbb258b4f46145f926823627d18ef949b71c46c84",
+      "source": {
+        "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%20%D0%B8%20%D0%BE%D0%B1%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D1%85%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%BE%D0%B2,%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%20%D0%A2%D0%90%D0%A0%D0%90%D0%A1%D0%9E%D0%92%20%D0%94.%D0%92..pdf",
+        "requestKey": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20ТАРАСОВ%20Д.В..pdf",
+        "retrievedAt": "2026-09-04T03:47:57.667774+00:00",
+        "status": 200,
+        "sha256": "798996e8ab512e8b794d30adbb258b4f46145f926823627d18ef949b71c46c84",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Холова Ольга Витальевна",
+      "officialUrl": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20ХОЛОВА%20О.В.pdf",
+      "sourcePages": [
+        {
+          "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "11703712519f1b7965f2fbee736717a7c65ec9ec694cd11b33e3f01cb1e4a816"
+        },
+        {
+          "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "11703712519f1b7965f2fbee736717a7c65ec9ec694cd11b33e3f01cb1e4a816"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "853c67bfcb08acfe66e01e662e423623693775eec7d9f2b8fd45706d72d31cbd",
+      "originalFilename": "сведения о размере и об источниках доходов, имуществе кандидата ХОЛОВА О.В.pdf",
+      "filename": "Холова_Ольга_Витальевна-853c67bfcb08.pdf",
+      "path": "files/Холова_Ольга_Витальевна-853c67bfcb08.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 43879,
+      "sha256": "853c67bfcb08acfe66e01e662e423623693775eec7d9f2b8fd45706d72d31cbd",
+      "source": {
+        "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%20%D0%B8%20%D0%BE%D0%B1%20%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D1%85%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%BE%D0%B2,%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%20%D0%A5%D0%9E%D0%9B%D0%9E%D0%92%D0%90%20%D0%9E.%D0%92.pdf",
+        "requestKey": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/сведения%20о%20размере%20и%20об%20источниках%20доходов,%20имуществе%20кандидата%20ХОЛОВА%20О.В.pdf",
+        "retrievedAt": "2026-09-04T03:47:58.072064+00:00",
+        "status": 200,
+        "sha256": "853c67bfcb08acfe66e01e662e423623693775eec7d9f2b8fd45706d72d31cbd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных кандидатами в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу \"Еврейская автономная область - Еврейский одномандатный избирательный округ № 220\"",
+      "officialUrl": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Сведения%20%20о%20НЕДОСТОВ%20ГД.pdf",
+      "sourcePages": [
+        {
+          "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/index.php",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "11703712519f1b7965f2fbee736717a7c65ec9ec694cd11b33e3f01cb1e4a816"
+        },
+        {
+          "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "11703712519f1b7965f2fbee736717a7c65ec9ec694cd11b33e3f01cb1e4a816"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "f6bb5fc8f5f33669ebebcd7ff21558407138a0cc95e9d8735541119f9647a7c1",
+      "originalFilename": "Сведения  о НЕДОСТОВ ГД.pdf",
+      "filename": "Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-f6bb5fc8f5f3.pdf",
+      "path": "files/Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-f6bb5fc8f5f3.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 192965,
+      "sha256": "f6bb5fc8f5f33669ebebcd7ff21558407138a0cc95e9d8735541119f9647a7c1",
+      "source": {
+        "url": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%20%D0%BE%20%D0%9D%D0%95%D0%94%D0%9E%D0%A1%D0%A2%D0%9E%D0%92%20%D0%93%D0%94.pdf",
+        "requestKey": "http://jewish-aut.izbirkom.ru/edinyy-den-golosovaniya/20-09-2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Сведения%20%20о%20НЕДОСТОВ%20ГД.pdf",
+        "retrievedAt": "2026-09-04T03:47:54.728414+00:00",
+        "status": 200,
+        "sha256": "f6bb5fc8f5f33669ebebcd7ff21558407138a0cc95e9d8735541119f9647a7c1",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

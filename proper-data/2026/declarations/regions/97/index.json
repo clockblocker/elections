@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:12.625145+00:00",
+  "region": {
+    "code": "97",
+    "name": "Запорожская область",
+    "seedUrls": [
+      "http://zaporozhye.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/"
+    ],
+    "allowedHosts": [
+      "www.zaporozhye.izbirkom.ru",
+      "zaporozhye.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 5,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://zaporozhye.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://zaporozhye.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+        "requestKey": "http://zaporozhye.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+        "retrievedAt": "2026-09-04T03:50:51.908860+00:00",
+        "status": 200,
+        "sha256": "10918cc789a34f0f82360933d397f9d5fa4c9d5122a04cfa9fd5f2e8f8ada81e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://zaporozhye.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/dlya-politicheskikh-partiy-i-kandidatov",
+      "title": "Для политических партий и кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://zaporozhye.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/dlya-politicheskikh-partiy-i-kandidatov/",
+        "requestKey": "http://zaporozhye.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/dlya-politicheskikh-partiy-i-kandidatov",
+        "retrievedAt": "2026-09-04T03:50:53.121697+00:00",
+        "status": 200,
+        "sha256": "ec682680ce48c4076f1569dedcf14a48ae4b46df84cc7e1416e153fc4b255a0c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://zaporozhye.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh",
+      "title": "Сведения о кандидатах",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://zaporozhye.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/",
+        "requestKey": "http://zaporozhye.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh",
+        "retrievedAt": "2026-09-04T03:50:56.163780+00:00",
+        "status": 200,
+        "sha256": "ab8b8cb5473445437cda6b5b06b6327db8584f9a85487103f08e4e41c11701e3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://zaporozhye.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/dlya-politicheskikh-partiy-i-kandidatov/",
+      "title": "Для политических партий и кандидатов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://zaporozhye.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/dlya-politicheskikh-partiy-i-kandidatov/",
+        "requestKey": "http://zaporozhye.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/dlya-politicheskikh-partiy-i-kandidatov/",
+        "retrievedAt": "2026-09-04T03:50:58.584166+00:00",
+        "status": 200,
+        "sha256": "ec682680ce48c4076f1569dedcf14a48ae4b46df84cc7e1416e153fc4b255a0c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://zaporozhye.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/",
+      "title": "Сведения о кандидатах",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://zaporozhye.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/",
+        "requestKey": "http://zaporozhye.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/",
+        "retrievedAt": "2026-09-04T03:51:02.109432+00:00",
+        "status": 200,
+        "sha256": "ab8b8cb5473445437cda6b5b06b6327db8584f9a85487103f08e4e41c11701e3",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

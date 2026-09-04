@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:12.293530+00:00",
+  "region": {
+    "code": "94",
+    "name": "город Севастополь",
+    "seedUrls": [
+      "http://sevastopol.izbirkom.ru/2026EDG/2026GD/",
+      "http://sevastopol.izbirkom.ru/2026EDG/2026GD/index.php"
+    ],
+    "allowedHosts": [
+      "sevastopol.izbirkom.ru",
+      "www.sevastopol.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": false,
+  "truncated": false,
+  "pageCount": 9,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [
+      {
+        "url": "http://sevastopol.izbirkom.ru/local/utils/getPBCopy.php?url=reports/62/files?npaEditionId=e367b9ff-1d08-4aef-881a-588c4b814986",
+        "depth": 2,
+        "error": "seed/page is not HTML"
+      },
+      {
+        "url": "http://sevastopol.izbirkom.ru/local/utils/getPBCopy.php?url=reports/62/files?npaEditionId=258d992f-11f6-4b14-86a1-4be695fcd3d7",
+        "depth": 2,
+        "error": "seed/page is not HTML"
+      },
+      {
+        "url": "http://sevastopol.izbirkom.ru/local/utils/getPBCopy.php?url=reports/62/files?npaEditionId=15bbde24-361a-415c-8693-f0480af0fe35",
+        "depth": 2,
+        "error": "seed/page is not HTML"
+      },
+      {
+        "url": "http://sevastopol.izbirkom.ru/local/utils/getPBCopy.php?url=reports/62/files?npaEditionId=c0048bf3-4e12-488e-a74a-cd2cb7ca237e",
+        "depth": 2,
+        "error": "seed/page is not HTML"
+      },
+      {
+        "url": "http://sevastopol.izbirkom.ru/local/utils/getPBCopy.php?url=reports/62/files?npaEditionId=ccccf6e9-315e-440f-9cf4-d1507980fbed",
+        "depth": 2,
+        "error": "seed/page is not HTML"
+      },
+      {
+        "url": "http://sevastopol.izbirkom.ru/local/utils/getPBCopy.php?url=reports/62/files?npaEditionId=ac25ebcc-3e78-48cb-b040-72ba61159958",
+        "depth": 2,
+        "error": "seed/page is not HTML"
+      },
+      {
+        "url": "http://sevastopol.izbirkom.ru/local/utils/getPBCopy.php?url=reports/62/files?npaEditionId=da0cc770-2e19-48ef-bd87-9eb0a497455b",
+        "depth": 2,
+        "error": "seed/page is not HTML"
+      },
+      {
+        "url": "http://sevastopol.izbirkom.ru/local/utils/getPBCopy.php?url=reports/62/files?npaEditionId=6fc35a70-004b-43c5-a9eb-2fbae1a1e2c0",
+        "depth": 2,
+        "error": "seed/page is not HTML"
+      },
+      {
+        "url": "http://sevastopol.izbirkom.ru/local/utils/getPBCopy.php?url=reports/62/files?npaEditionId=9665385e-49dd-4375-9d97-0fe0e47d1df9",
+        "depth": 2,
+        "error": "seed/page is not HTML"
+      },
+      {
+        "url": "http://sevastopol.izbirkom.ru/local/utils/getPBCopy.php?url=reports/62/files?npaEditionId=47bf2a3b-d48c-4949-a032-4ffc233933c2",
+        "depth": 2,
+        "error": "seed/page is not HTML"
+      },
+      {
+        "url": "http://sevastopol.izbirkom.ru/local/utils/getPBCopy.php?url=reports/62/files?npaEditionId=8f46d01c-c2f5-49cd-8f20-472540a7961b",
+        "depth": 2,
+        "error": "seed/page is not HTML"
+      },
+      {
+        "url": "http://sevastopol.izbirkom.ru/local/utils/getPBCopy.php?url=reports/62/files?npaEditionId=64acca03-6dbd-47b2-90a6-7e0be9798acb",
+        "depth": 2,
+        "error": "seed/page is not HTML"
+      }
+    ],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/",
+        "requestKey": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/",
+        "retrievedAt": "2026-09-04T03:49:18.134474+00:00",
+        "status": 200,
+        "sha256": "4e03478bd9fbc57525aa52b4b156da3c143fe1929ddc7316a96aa6cc4a8dc42a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/index.php",
+        "requestKey": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/index.php",
+        "retrievedAt": "2026-09-04T03:49:18.580449+00:00",
+        "status": 200,
+        "sha256": "4e03478bd9fbc57525aa52b4b156da3c143fe1929ddc7316a96aa6cc4a8dc42a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/kandidat/index.php",
+      "title": "Информация для кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/kandidat/index.php",
+        "requestKey": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/kandidat/index.php",
+        "retrievedAt": "2026-09-04T03:49:22.081484+00:00",
+        "status": 200,
+        "sha256": "bf23e88974a5bed4d199f1be8d0e9434e3903021779d1dda77678d65221f8904",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/svedeniya/index.php",
+      "title": "Сведения о кандидатах",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/svedeniya/index.php",
+        "requestKey": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/svedeniya/index.php",
+        "retrievedAt": "2026-09-04T03:49:24.212666+00:00",
+        "status": 200,
+        "sha256": "ff8682220a346bfa533a9d116fa3bf7267f0f76863c906659223e1caa3eb5665",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/kandidat/",
+      "title": "Информация для кандидатов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/kandidat/",
+        "requestKey": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/kandidat/",
+        "retrievedAt": "2026-09-04T03:49:29.166002+00:00",
+        "status": 200,
+        "sha256": "bf23e88974a5bed4d199f1be8d0e9434e3903021779d1dda77678d65221f8904",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/kandidat/bankkandit.php",
+      "title": "Формирование избирательных фондов кандидатов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/kandidat/bankkandit.php",
+        "requestKey": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/kandidat/bankkandit.php",
+        "retrievedAt": "2026-09-04T03:49:38.690428+00:00",
+        "status": 200,
+        "sha256": "5164d3c6aba77a23620ce1c49133e7678cce2087f2e6426026313293d31b36ea",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/kandidat/bankparty.php",
+      "title": "Формирование избирательных фондов региональных отделений политических партий",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/kandidat/bankparty.php",
+        "requestKey": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/kandidat/bankparty.php",
+        "retrievedAt": "2026-09-04T03:49:39.181911+00:00",
+        "status": 200,
+        "sha256": "e8382c6ce5c650e3fae28f90dbbac17d1b42175b840bcb907f0aa2dcf5123e4a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/kandidat/docskand.php",
+      "title": "Режим для приёма документов от кандидатов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/kandidat/docskand.php",
+        "requestKey": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/kandidat/docskand.php",
+        "retrievedAt": "2026-09-04T03:49:39.899754+00:00",
+        "status": 200,
+        "sha256": "f2a1607de5cc44ed176d09b262112b08c0c68219a87cb0cbf438e3835e546534",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/svedeniya/",
+      "title": "Сведения о кандидатах",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/svedeniya/",
+        "requestKey": "http://sevastopol.izbirkom.ru/2026EDG/2026GD/svedeniya/",
+        "retrievedAt": "2026-09-04T03:50:06.358649+00:00",
+        "status": 200,
+        "sha256": "ff8682220a346bfa533a9d116fa3bf7267f0f76863c906659223e1caa3eb5665",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

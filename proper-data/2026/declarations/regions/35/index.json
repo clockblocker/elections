@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:32.461597+00:00",
+  "region": {
+    "code": "35",
+    "name": "Вологодская область",
+    "seedUrls": [
+      "http://vologod.izbirkom.ru/docs/17750/",
+      "http://vologod.izbirkom.ru/docs/17751/"
+    ],
+    "allowedHosts": [
+      "vologod.izbirkom.ru",
+      "www.vologod.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 2,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://vologod.izbirkom.ru/docs/17750/",
+      "title": "20 августа 2026 г. № 157/789 \"Об утверждении графиков распределения эфирного времени, предоставляемого безвозмездно, между политическими партиями, зарегистрированными кандидатами на выборах депутатов Государственной Думы Федерального Собрания Россий...\"",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://vologod.izbirkom.ru/docs/17750/",
+        "requestKey": "http://vologod.izbirkom.ru/docs/17750/",
+        "retrievedAt": "2026-09-04T03:43:39.942427+00:00",
+        "status": 200,
+        "sha256": "8d35f3eb0d0be49b078fffc4457023e2d7cbbfd5e5c87f38c9807547f46642be",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://vologod.izbirkom.ru/docs/17751/",
+      "title": "20 августа 2026 г. № 157/790 \"Об утверждении протоколов жеребьевок по распределению между политическими партиями, зарегистрированными кандидатами бесплатной печатной площади на выборах депутатов Государственной Думы Федерального Собрания Российской Ф...\"",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://vologod.izbirkom.ru/docs/17751/",
+        "requestKey": "http://vologod.izbirkom.ru/docs/17751/",
+        "retrievedAt": "2026-09-04T03:43:40.400017+00:00",
+        "status": 200,
+        "sha256": "4849b7560d4f8edb0d05a8e3de681fa58883367b28c5b974543efdef7b3c7bda",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

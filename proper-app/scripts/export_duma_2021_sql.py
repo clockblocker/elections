@@ -4,7 +4,9 @@
 Reads ../../proper-data/2021-duma/** (generated TypeScript shards), normalizes them
 into the schema below, and writes a psql-loadable file that uses COPY ... FROM stdin.
 
-Load with:  psql -d <db> -v ON_ERROR_STOP=1 -f duma-2021.sql
+By default the generated dump is written under reports/generated/, which is
+excluded from Git. Load it with:
+  psql -d <db> -v ON_ERROR_STOP=1 -f reports/generated/duma-2021.sql
 Everything lives in schema `duma_2021`, so it does not collide with the app tables.
 
 Normalization decisions (vs. the shards):
@@ -36,7 +38,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 DATA = ROOT / "proper-data" / "2021-duma"
-OUT = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "proper-app" / "db" / "duma-2021.sql"
+OUT = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "reports" / "generated" / "duma-2021.sql"
 
 ACCOUNTING = [
     ("registered_voters", "Число избирателей, внесенных в список избирателей на момент окончания голосования"),

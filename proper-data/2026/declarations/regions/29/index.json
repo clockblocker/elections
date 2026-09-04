@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:32.275525+00:00",
+  "region": {
+    "code": "29",
+    "name": "Архангельская область",
+    "seedUrls": [
+      "http://arkhangelsk.izbirkom.ru/news/17962/"
+    ],
+    "allowedHosts": [
+      "arkhangelsk.izbirkom.ru",
+      "www.arkhangelsk.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 1,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://arkhangelsk.izbirkom.ru/news/17962/",
+      "title": "В период подготовки и проведения выборов депутатов Государственной Думы ФС РФ девятого созыва работает справочный центр ЦИК России и «горячая линия» избирательной комиссии Архангельской области",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://arkhangelsk.izbirkom.ru/news/17962/",
+        "requestKey": "http://arkhangelsk.izbirkom.ru/news/17962/",
+        "retrievedAt": "2026-09-04T03:36:53.814182+00:00",
+        "status": 200,
+        "sha256": "106037fd183553be755e4f57b55601f5450696cfb15a66ce8f464ecca5a69640",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

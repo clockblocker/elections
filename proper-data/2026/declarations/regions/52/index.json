@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:39.388439+00:00",
+  "region": {
+    "code": "52",
+    "name": "Нижегородская область",
+    "seedUrls": [
+      "http://nnov.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gd-rf-devyatogo-sozyva/",
+      "http://nnov.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gd-rf-devyatogo-sozyva/index.php"
+    ],
+    "allowedHosts": [
+      "nnov.izbirkom.ru",
+      "www.nnov.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 2,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://nnov.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gd-rf-devyatogo-sozyva/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://nnov.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gd-rf-devyatogo-sozyva/",
+        "requestKey": "http://nnov.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gd-rf-devyatogo-sozyva/",
+        "retrievedAt": "2026-09-04T03:42:45.844027+00:00",
+        "status": 200,
+        "sha256": "ac6958c37fbda4c3d112c0325def35f5cf6b3af8cded83638995dfe943c2e867",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://nnov.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gd-rf-devyatogo-sozyva/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://nnov.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gd-rf-devyatogo-sozyva/index.php",
+        "requestKey": "http://nnov.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gd-rf-devyatogo-sozyva/index.php",
+        "retrievedAt": "2026-09-04T03:42:46.882634+00:00",
+        "status": 200,
+        "sha256": "ac6958c37fbda4c3d112c0325def35f5cf6b3af8cded83638995dfe943c2e867",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

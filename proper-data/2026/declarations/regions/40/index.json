@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:33.260283+00:00",
+  "region": {
+    "code": "40",
+    "name": "Калужская область",
+    "seedUrls": [
+      "http://kaluga.izbirkom.ru/arkhiv-vyborov-i-referendumov/20%20%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F%202026%20-%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/index.php"
+    ],
+    "allowedHosts": [
+      "kaluga.izbirkom.ru",
+      "www.kaluga.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 6,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://kaluga.izbirkom.ru/arkhiv-vyborov-i-referendumov/20%20%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F%202026%20-%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kaluga.izbirkom.ru/arkhiv-vyborov-i-referendumov/20%20%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F%202026%20-%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/index.php",
+        "requestKey": "http://kaluga.izbirkom.ru/arkhiv-vyborov-i-referendumov/20%20%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F%202026%20-%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/index.php",
+        "retrievedAt": "2026-09-04T03:45:37.363663+00:00",
+        "status": 200,
+        "sha256": "a228454308a96f142e2357c89dce4bb142a6920aff52178cceca68f410f240e4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kaluga.izbirkom.ru/arkhiv-vyborov-i-referendumov/20 сентября 2026 - Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации/Кандидатам, избирательным объединениям, избирателям/index.php",
+      "title": "Кандидатам, избирательным объединениям, избирателям",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kaluga.izbirkom.ru/arkhiv-vyborov-i-referendumov/20%20%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F%202026%20-%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%D0%BC,%20%D0%B8%D0%B7%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC,%20%D0%B8%D0%B7%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D0%BC/index.php",
+        "requestKey": "http://kaluga.izbirkom.ru/arkhiv-vyborov-i-referendumov/20 сентября 2026 - Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации/Кандидатам, избирательным объединениям, избирателям/index.php",
+        "retrievedAt": "2026-09-04T03:45:37.831538+00:00",
+        "status": 200,
+        "sha256": "5d9e4a5e88dd9bb5bcfcdb0eb81ebef722643215973573ef51c55b3cfb1e887f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kaluga.izbirkom.ru/arkhiv-vyborov-i-referendumov/20 сентября 2026 - Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации/Информационное обеспечение выборов для СМИ, полиграфические организации/index.php",
+      "title": "Информационное обеспечение выборов: СМИ, полиграфические организации",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kaluga.izbirkom.ru/arkhiv-vyborov-i-referendumov/20%20%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F%202026%20-%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D0%BE%D0%B2%20%D0%B4%D0%BB%D1%8F%20%D0%A1%D0%9C%D0%98,%20%D0%BF%D0%BE%D0%BB%D0%B8%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/index.php",
+        "requestKey": "http://kaluga.izbirkom.ru/arkhiv-vyborov-i-referendumov/20 сентября 2026 - Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации/Информационное обеспечение выборов для СМИ, полиграфические организации/index.php",
+        "retrievedAt": "2026-09-04T03:45:38.570220+00:00",
+        "status": 200,
+        "sha256": "f076d9c9b2abf3d8315ea204224a77aea6d6a9f7909534bbebed4e019a4b5289",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kaluga.izbirkom.ru/arkhiv-vyborov-i-referendumov/20 сентября 2026 - Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации/Законы, инструкции, методические рекомендации, постановления комиссий/index.php",
+      "title": "Законы, инструкции, методические рекомендации, постановления комиссий",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kaluga.izbirkom.ru/arkhiv-vyborov-i-referendumov/20%20%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F%202026%20-%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B,%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8,%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8,%20%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D0%B9/index.php",
+        "requestKey": "http://kaluga.izbirkom.ru/arkhiv-vyborov-i-referendumov/20 сентября 2026 - Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации/Законы, инструкции, методические рекомендации, постановления комиссий/index.php",
+        "retrievedAt": "2026-09-04T03:45:39.059072+00:00",
+        "status": 200,
+        "sha256": "6658a37b42f7d261465534a6b0718a31a47ebf6bd1276f9fd639ed9e52f9b11a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kaluga.izbirkom.ru/arkhiv-vyborov-i-referendumov/20 сентября 2026 - Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации/Финансирование выборов/index.php",
+      "title": "Финансирование выборов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kaluga.izbirkom.ru/arkhiv-vyborov-i-referendumov/20%20%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F%202026%20-%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D0%BE%D0%B2/index.php",
+        "requestKey": "http://kaluga.izbirkom.ru/arkhiv-vyborov-i-referendumov/20 сентября 2026 - Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации/Финансирование выборов/index.php",
+        "retrievedAt": "2026-09-04T03:45:39.732329+00:00",
+        "status": 200,
+        "sha256": "bac734c6d42bf77211ef4f478f19c9877a71abb10095a83a0916decbd83e9668",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kaluga.izbirkom.ru/arkhiv-vyborov-i-referendumov/20 сентября 2026 - Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации/spi.php",
+      "title": "Специальное программное изделие «Подготовка и формирование списков назначенных наблюдателей при проведении выборов, референдумов»",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kaluga.izbirkom.ru/arkhiv-vyborov-i-referendumov/20%20%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F%202026%20-%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/spi.php",
+        "requestKey": "http://kaluga.izbirkom.ru/arkhiv-vyborov-i-referendumov/20 сентября 2026 - Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации/spi.php",
+        "retrievedAt": "2026-09-04T03:45:40.216755+00:00",
+        "status": 200,
+        "sha256": "7a3a53c26625f6252691250971c5c5e7b5c1caab396e7d0c744ffb0e55fac7d9",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

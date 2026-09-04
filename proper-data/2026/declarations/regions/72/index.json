@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:10.892464+00:00",
+  "region": {
+    "code": "72",
+    "name": "Тюменская область",
+    "seedUrls": [
+      "http://tyumen.izbirkom.ru/news/v-tyumenskoy-oblasti-pristupili-k-pechati-izbiratelnykh-byulleteney-dlya-golosovaniya-po-odnomandatn_2026_08_31/"
+    ],
+    "allowedHosts": [
+      "tyumen.izbirkom.ru",
+      "www.tyumen.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 2,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://tyumen.izbirkom.ru/news/v-tyumenskoy-oblasti-pristupili-k-pechati-izbiratelnykh-byulleteney-dlya-golosovaniya-po-odnomandatn_2026_08_31/",
+      "title": "В Тюменской области приступили к печати избирательных бюллетеней для голосования по одномандатным избирательным округам № 183 и 184 на выборах депутатов Государственной Думы!",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tyumen.izbirkom.ru/news/v-tyumenskoy-oblasti-pristupili-k-pechati-izbiratelnykh-byulleteney-dlya-golosovaniya-po-odnomandatn_2026_08_31/",
+        "requestKey": "http://tyumen.izbirkom.ru/news/v-tyumenskoy-oblasti-pristupili-k-pechati-izbiratelnykh-byulleteney-dlya-golosovaniya-po-odnomandatn_2026_08_31/",
+        "retrievedAt": "2026-09-04T03:47:05.989641+00:00",
+        "status": 200,
+        "sha256": "4e31cf14f853fcf93b11613ad2770e53c0f2d3edebfffee292626dac3de5d86f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tyumen.izbirkom.ru/news/peredan-tirazh-izbiratelnykh-byulleteney-dlya-golosovaniya-na-vyborakh-deputatov-tyumenskoy-oblastno_2026_08_27/",
+      "title": "Передан тираж избирательных бюллетеней для голосования на выборах депутатов Тюменской областной Думы по единому округу и по одномандатным округам, расположенным на территории Тюменской области",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tyumen.izbirkom.ru/news/peredan-tirazh-izbiratelnykh-byulleteney-dlya-golosovaniya-na-vyborakh-deputatov-tyumenskoy-oblastno_2026_08_27/",
+        "requestKey": "http://tyumen.izbirkom.ru/news/peredan-tirazh-izbiratelnykh-byulleteney-dlya-golosovaniya-na-vyborakh-deputatov-tyumenskoy-oblastno_2026_08_27/",
+        "retrievedAt": "2026-09-04T03:47:09.522775+00:00",
+        "status": 200,
+        "sha256": "5af24e7b39c5d9a0b0b91ec05e9f4d4d1e02e2db77d1a3e07dbd134cfcfa303e",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

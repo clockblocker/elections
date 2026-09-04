@@ -1,0 +1,1946 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:36.904432+00:00",
+  "region": {
+    "code": "43",
+    "name": "Кировская область",
+    "seedUrls": [
+      "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-rossiyskoy-federatsii-devyatogo-sozyva-.php",
+      "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/"
+    ],
+    "allowedHosts": [
+      "kirov.izbirkom.ru",
+      "www.kirov.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": false,
+  "truncated": true,
+  "pageCount": 100,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-rossiyskoy-federatsii-devyatogo-sozyva-.php",
+      "title": "Выборы депутатов Государственной Думы Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-rossiyskoy-federatsii-devyatogo-sozyva-.php",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-rossiyskoy-federatsii-devyatogo-sozyva-.php",
+        "retrievedAt": "2026-09-04T03:45:54.019976+00:00",
+        "status": 200,
+        "sha256": "f8edad9adea863b73a31ca9a4f8f3bf4cd1dc17475048ba8c6698096aaa1ea33",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/",
+        "retrievedAt": "2026-09-04T03:45:54.656458+00:00",
+        "status": 200,
+        "sha256": "cc231949b15c38b5da936ec6fd47334e5a60e71d067bd7456ca1a7d19f505be4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php",
+        "retrievedAt": "2026-09-04T03:46:03.503924+00:00",
+        "status": 200,
+        "sha256": "c80c19a60297a71c42f01fa7caa39fda3b16ecb49c63cb2aadc837e99ee3508c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/",
+      "title": "Одномандатные округа",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/",
+        "retrievedAt": "2026-09-04T03:38:53.342701+00:00",
+        "status": 200,
+        "sha256": "f2ab0a250ce15fce031701de69c574be2d23c2b8593534ad3920172ed7328de7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/index.php",
+      "title": "Одномандатный избирательный округ №106",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/index.php",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/index.php",
+        "retrievedAt": "2026-09-04T03:38:54.426126+00:00",
+        "status": 200,
+        "sha256": "3ad153459f6dbe594705e000e703e431e378428e4d20de09eb6059ae66d266e4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/index.php",
+      "title": "Одномандатный избирательный округ №107",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/index.php",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/index.php",
+        "retrievedAt": "2026-09-04T03:38:55.418108+00:00",
+        "status": 200,
+        "sha256": "e1e5fd63675970b41db226f2f8570f3b0f4ab7030f260a456cb6db4a9a0de3ad",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=191",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=191",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=191",
+        "retrievedAt": "2026-09-04T03:38:56.467302+00:00",
+        "status": 200,
+        "sha256": "b8b7f5be40abac3b7bbf7909c2eca66767e5ab734dc50497fa04a4e9bf195fff",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=190",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=190",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=190",
+        "retrievedAt": "2026-09-04T03:38:57.548402+00:00",
+        "status": 200,
+        "sha256": "b7b897dbd71c73726225dc65e58bb1e157e49b4aab08fa1286c6c52541b419d9",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=189",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=189",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=189",
+        "retrievedAt": "2026-09-04T03:38:58.559221+00:00",
+        "status": 200,
+        "sha256": "1b765df4fc296fd4ffca3496b6d461c99956394067bce847c7402fe5396b6523",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=188",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=188",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=188",
+        "retrievedAt": "2026-09-04T03:38:59.627758+00:00",
+        "status": 200,
+        "sha256": "3a7847eedb7ba2a318c12d6ad1d446b796a4f3fce439821bf9d99aca5380ebaa",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=1",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=1",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=1",
+        "retrievedAt": "2026-09-04T03:39:00.652893+00:00",
+        "status": 200,
+        "sha256": "7dfcf01c7b76ea612f225e4e2d174506248ab98dbe91582fa4599c3881b1fc61",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?SHOWALL_1=1",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?SHOWALL_1=1",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?SHOWALL_1=1",
+        "retrievedAt": "2026-09-04T03:39:02.102463+00:00",
+        "status": 200,
+        "sha256": "3dd7b651b78218ca522971ced9709b3caaaac615b54fa922e576ac8751eab7b7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/?PAGEN_1=191",
+      "title": "Одномандатные округа",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/?PAGEN_1=191",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/?PAGEN_1=191",
+        "retrievedAt": "2026-09-04T03:39:03.103989+00:00",
+        "status": 200,
+        "sha256": "9ac8776f41b0342b99f199abe0cd4526222ef1b6932b4867a25e7ffae6e6a837",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/?PAGEN_1=190",
+      "title": "Одномандатные округа",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/?PAGEN_1=190",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/?PAGEN_1=190",
+        "retrievedAt": "2026-09-04T03:39:04.200697+00:00",
+        "status": 200,
+        "sha256": "f60c57f6d0fd34f1fbbe629364eae6ca336574ae86a1db62752be62d52a27cbb",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/?PAGEN_1=189",
+      "title": "Одномандатные округа",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/?PAGEN_1=189",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/?PAGEN_1=189",
+        "retrievedAt": "2026-09-04T03:39:05.284605+00:00",
+        "status": 200,
+        "sha256": "85ed7a3139376ec49cdabf7b142149c08f6c3feb80391e867ce90f641f300906",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/?PAGEN_1=188",
+      "title": "Одномандатные округа",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/?PAGEN_1=188",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/?PAGEN_1=188",
+        "retrievedAt": "2026-09-04T03:39:06.310907+00:00",
+        "status": 200,
+        "sha256": "f4736ae4ad67ece6169dcc5a5ca6ce1ec85382a5e49b59e9027ebf4f3cbbf8ec",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/?PAGEN_1=1",
+      "title": "Одномандатные округа",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/?PAGEN_1=1",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/?PAGEN_1=1",
+        "retrievedAt": "2026-09-04T03:39:07.361823+00:00",
+        "status": 200,
+        "sha256": "1d62a051cbd7a2e129aa6a5532f4674d90bf2748206062adaaeb0ef3ee722aee",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/?SHOWALL_1=1",
+      "title": "Одномандатные округа",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/?SHOWALL_1=1",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/?SHOWALL_1=1",
+        "retrievedAt": "2026-09-04T03:39:08.779315+00:00",
+        "status": 200,
+        "sha256": "93ec1d2372ce6cf608436442a64a1ce7abfb0184bb3734a8b012a1721c49194d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/",
+      "title": "Одномандатный избирательный округ №106",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/",
+        "retrievedAt": "2026-09-04T03:39:09.775006+00:00",
+        "status": 200,
+        "sha256": "6c73949317f815522d87eb8707234b3fe24f815e94233b589df6dfeb93cdaa1a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/index.php?PAGEN_1=191",
+      "title": "Одномандатный избирательный округ №106",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/index.php?PAGEN_1=191",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/index.php?PAGEN_1=191",
+        "retrievedAt": "2026-09-04T03:39:10.830378+00:00",
+        "status": 200,
+        "sha256": "c6ae2b48c799e0480b6cb7ec5216b8c90bb0dc8bf8ba2a48688229faf60139ab",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/index.php?PAGEN_1=190",
+      "title": "Одномандатный избирательный округ №106",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/index.php?PAGEN_1=190",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/index.php?PAGEN_1=190",
+        "retrievedAt": "2026-09-04T03:39:11.901035+00:00",
+        "status": 200,
+        "sha256": "66b0c654378eeb7470f5aab64b88b5924ac06e0db78f9fc3f2d9d4b414ea64ca",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/index.php?PAGEN_1=189",
+      "title": "Одномандатный избирательный округ №106",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/index.php?PAGEN_1=189",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/index.php?PAGEN_1=189",
+        "retrievedAt": "2026-09-04T03:39:12.975051+00:00",
+        "status": 200,
+        "sha256": "8c849e8e8990f6cdfe5932f1db6a9958e4b11d157a4f505eb6d3168fb9d54ce5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/index.php?PAGEN_1=188",
+      "title": "Одномандатный избирательный округ №106",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/index.php?PAGEN_1=188",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/index.php?PAGEN_1=188",
+        "retrievedAt": "2026-09-04T03:39:14.033236+00:00",
+        "status": 200,
+        "sha256": "b84bef2a5958a8a12b94e2d774633818a7a1745c957bca3570d2ebd46720e43f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/index.php?PAGEN_1=1",
+      "title": "Одномандатный избирательный округ №106",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/index.php?PAGEN_1=1",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/index.php?PAGEN_1=1",
+        "retrievedAt": "2026-09-04T03:39:14.704668+00:00",
+        "status": 200,
+        "sha256": "789864a53dd6ba7a49778e401710feb6cea94f217663dc8f7d867360b9dfeac3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/index.php?SHOWALL_1=1",
+      "title": "Одномандатный избирательный округ №106",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/index.php?SHOWALL_1=1",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-106/index.php?SHOWALL_1=1",
+        "retrievedAt": "2026-09-04T03:39:15.744727+00:00",
+        "status": 200,
+        "sha256": "70b7d64b3b894d7a20f0d91ce5d9386ce614f935d4ff815add0415717d677fbf",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/",
+      "title": "Одномандатный избирательный округ №107",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/",
+        "retrievedAt": "2026-09-04T03:39:16.771201+00:00",
+        "status": 200,
+        "sha256": "e92ca2bb8acf83f93ac746693a95efeb469cca545537a0a136418e1ce6013e43",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/index.php?PAGEN_1=191",
+      "title": "Одномандатный избирательный округ №107",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/index.php?PAGEN_1=191",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/index.php?PAGEN_1=191",
+        "retrievedAt": "2026-09-04T03:39:17.789889+00:00",
+        "status": 200,
+        "sha256": "6e375cd580aa922ad307b1c3d2aa15639c3e75a0842c5f09a87979d76f0659d1",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/index.php?PAGEN_1=190",
+      "title": "Одномандатный избирательный округ №107",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/index.php?PAGEN_1=190",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/index.php?PAGEN_1=190",
+        "retrievedAt": "2026-09-04T03:39:18.897390+00:00",
+        "status": 200,
+        "sha256": "5d1c2a95106359039bf7727b68542269f4f2aa2da64372e4808125cce3ff1089",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/index.php?PAGEN_1=189",
+      "title": "Одномандатный избирательный округ №107",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/index.php?PAGEN_1=189",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/index.php?PAGEN_1=189",
+        "retrievedAt": "2026-09-04T03:39:19.934204+00:00",
+        "status": 200,
+        "sha256": "ca04220f693ab18c6deea472b1dc6e43843dd94551aaeaabe7cb2fa51074a730",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/index.php?PAGEN_1=188",
+      "title": "Одномандатный избирательный округ №107",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/index.php?PAGEN_1=188",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/index.php?PAGEN_1=188",
+        "retrievedAt": "2026-09-04T03:39:20.981191+00:00",
+        "status": 200,
+        "sha256": "f69d7d0e464d6ab2797e7e93950091aec524d82efd143e84b35ef780a81965fd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/index.php?PAGEN_1=1",
+      "title": "Одномандатный избирательный округ №107",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/index.php?PAGEN_1=1",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/index.php?PAGEN_1=1",
+        "retrievedAt": "2026-09-04T03:39:22.039440+00:00",
+        "status": 200,
+        "sha256": "ac7355f75dd530370bf365743ae61a0bf2bf8696c555719993f05e10744ca4e5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/index.php?SHOWALL_1=1",
+      "title": "Одномандатный избирательный округ №107",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/index.php?SHOWALL_1=1",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnyy-izbiratelnyy-okrug-107/index.php?SHOWALL_1=1",
+        "retrievedAt": "2026-09-04T03:39:23.405974+00:00",
+        "status": 200,
+        "sha256": "5e47497c6fbc8d344627b454aff0b470b367d6e9063e5910e615ccb49a1e6e5d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6914/",
+      "title": "Информационное сообщение о приеме предложений по кандидатуре члена территориальной избирательной комиссии Лузского муниципального округа с правом решающего голоса на вакантное место",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6914/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6914/",
+        "retrievedAt": "2026-09-04T03:46:20.993891+00:00",
+        "status": 200,
+        "sha256": "658184c891c3f51b7402a84d4de3cd448d76bec056f6be34eea41da97e9c6563",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6901/",
+      "title": "Информационное сообщение о приеме предложений по кандидатуре члена территориальной избирательной комиссии Опаринского муниципального округа с правом решающего голоса на вакантное место",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6901/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6901/",
+        "retrievedAt": "2026-09-04T03:46:22.273546+00:00",
+        "status": 200,
+        "sha256": "7f0e836a7e68ed8175302f54be3867f7294e2af189d13a251f9d6b8ea083ee35",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6898/",
+      "title": "Галина Буркова вручила удостоверение кандидата в Госдуму",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6898/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6898/",
+        "retrievedAt": "2026-09-04T03:46:23.060024+00:00",
+        "status": 200,
+        "sha256": "def635a3ec70623542fb7e41a8dcb0e5c76c3172bb5841c0e8bf8514bbad7d4e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6895/",
+      "title": "Информационное сообщение о приеме предложений по кандидатурам членов территориальных избирательных комиссий Верхошижемского, Унинского муниципальных округов, Октябрьского района г. Кирова №2 с правом решающего голоса на вакантные места",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6895/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6895/",
+        "retrievedAt": "2026-09-04T03:46:23.578523+00:00",
+        "status": 200,
+        "sha256": "32859624cd567fd02bba6f4e1ead9386a99e9aea1ca31c4e3fa999c8883967a3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6889/",
+      "title": "Кандидаты в депутаты Государственной Думы подали документы в Избирательную комиссию Кировской области на выдвижение по одномандатным избирательным округам",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6889/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6889/",
+        "retrievedAt": "2026-09-04T03:46:24.306900+00:00",
+        "status": 200,
+        "sha256": "1be818f5c71628e99a59c531654ccf11fbd49917f9cec3aefbdd9943cc39e617",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6887/",
+      "title": "Кандидаты в депутаты Государственной Думы, выдвинутые партией «НОВЫЕ ЛЮДИ», представили в Облизбирком документы о выдвижении",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6887/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6887/",
+        "retrievedAt": "2026-09-04T03:46:24.829124+00:00",
+        "status": 200,
+        "sha256": "0ec31f7a4d52b481f36b1c11a720599672f6ca3e3e4bb9af428aae22bb18278d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6886/",
+      "title": "Кандидат в депутаты Государственной Думы представил в Избирательную комиссию Кировской области документы о выдвижении",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6886/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6886/",
+        "retrievedAt": "2026-09-04T03:46:25.534506+00:00",
+        "status": 200,
+        "sha256": "eb4ff8507d0eb9e5c4bd9fcb4a1cadc71facf850ef32a1c1a0046cbe323bd660",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6883/",
+      "title": "Информационное сообщение о приеме предложений по кандидатуре члена территориальной избирательной комиссии г. Котельнича с правом решающего голоса на вакантное место",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6883/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6883/",
+        "retrievedAt": "2026-09-04T03:46:26.086434+00:00",
+        "status": 200,
+        "sha256": "180781b6022cecd6356a6bac9d29005159b6c443ffa2464d8b423eb82152baa6",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=187",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=187",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=187",
+        "retrievedAt": "2026-09-04T03:39:34.013642+00:00",
+        "status": 200,
+        "sha256": "1e9eeae3fb4eaff14dee3bd4cb272b198556c0af47ce6e2fa2268b95761ac398",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6879/",
+      "title": "Кандидат в депутаты Государственной Думы представил в Избирательную комиссию Кировской области документы о своем выдвижении",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6879/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6879/",
+        "retrievedAt": "2026-09-04T03:46:27.258141+00:00",
+        "status": 200,
+        "sha256": "56391790bc067c6f2927b067e923728d58deba05d8e73aac23c5cf230a869a95",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6876/",
+      "title": "Информационное сообщение о приеме предложений по кандидатурам членов территориальных избирательных комиссий Куменского муниципального округа и Октябрьского района г. Кирова №2с правом решающего голоса на вакантное место",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6876/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6876/",
+        "retrievedAt": "2026-09-04T03:46:27.979867+00:00",
+        "status": 200,
+        "sha256": "2242eb5e6a114a0fe9cbe8c9f5794fccf00c8696294da8b5d30d3cc94f7605b1",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=186",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=186",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=186",
+        "retrievedAt": "2026-09-04T03:39:37.127109+00:00",
+        "status": 200,
+        "sha256": "a3dbb3332d225b520b6b523f00b06ffa2be12cbc2850b4d29a46e845c626362d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=2",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=2",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=2",
+        "retrievedAt": "2026-09-04T03:39:38.154442+00:00",
+        "status": 200,
+        "sha256": "917513fec0b0a5fabb774de6c2d5d3a8fbb97e343eca0ce14a21db1312963d67",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=5",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=5",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=5",
+        "retrievedAt": "2026-09-04T03:39:39.243358+00:00",
+        "status": 200,
+        "sha256": "438a0f697faf9298ba1488a474e25c65042f687f633bd7fc9dabfd2661c1f603",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=4",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=4",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=4",
+        "retrievedAt": "2026-09-04T03:39:40.235951+00:00",
+        "status": 200,
+        "sha256": "329f1a72a0833e7123ecc4c7fa112f3883bf90bac17b1355e9a413eab571484f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=3",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=3",
+        "requestKey": "http://kirov.izbirkom.ru/arkhiv/2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii/odnomandatnye-okruga/odnomandatnye-izbiratelnye-okruga.php?PAGEN_1=3",
+        "retrievedAt": "2026-09-04T03:39:41.293489+00:00",
+        "status": 200,
+        "sha256": "a460dacd480becf9abe3abc2af1d28181ec51bf6152eb85761d10e60450412a7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6868/",
+      "title": "Информационное сообщение о приеме предложений по кандидатуре члена территориальной избирательной комиссии Унинского муниципального округа с правом решающего голоса на вакантное место",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6868/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6868/",
+        "retrievedAt": "2026-09-04T03:46:32.798953+00:00",
+        "status": 200,
+        "sha256": "13c4d5c5dfb8d0f9853159a076413c4a7a755661e0a2c0d232ac89260c0b38ae",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6850/",
+      "title": "Информационное сообщение о приеме предложений по кандидатуре члена территориальной избирательной комиссии Санчурского муниципального округа с правом решающего голоса на вакантное место",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6850/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6850/",
+        "retrievedAt": "2026-09-04T03:46:33.985472+00:00",
+        "status": 200,
+        "sha256": "69caf4f853b5b5513c7c68848656e22f6d38119e6c6548e152cac8fbc5f67999",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6842/",
+      "title": "Информационное сообщение о приеме предложений по кандидатуре члена территориальной избирательной комиссии Яранского муниципального округа с правом решающего голоса на вакантное место",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6842/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6842/",
+        "retrievedAt": "2026-09-04T03:46:34.510754+00:00",
+        "status": 200,
+        "sha256": "be69eed21f2023c86c952358b1ce3b504b8d23ec3f730ad8581a98ff36b38909",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6836/",
+      "title": "ИНФОРМАЦИОННОЕ СООБЩЕНИЕ о приеме предложений по кандидатурам членов территориальных избирательных комиссий Лебяжского, Орловского, Санчурского муниципальных округов с правом решающего голоса на вакантное место",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6836/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6836/",
+        "retrievedAt": "2026-09-04T03:46:35.092100+00:00",
+        "status": 200,
+        "sha256": "b3bcc65849289cc046e777866d19900281efd9ab7d766bd5fcaebb311945f87c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6835/",
+      "title": "ИНФОРМАЦИОННОЕ СООБЩЕНИЕ о приеме предложений по двум кандидатурам членов территориальной избирательной комиссии Тужинского муниципального округа с правом решающего голоса на вакантное место",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6835/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6835/",
+        "retrievedAt": "2026-09-04T03:46:35.791557+00:00",
+        "status": 200,
+        "sha256": "95c01d9061898698d6c514df807a1c740583623b842c035f890ebc11b1a0c09a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6827/",
+      "title": "Информационное сообщение о приеме предложений по кандидатуре члена территориальной избирательной комиссии Октябрьского района города Кирова №1 с правом решающего голоса на вакантное место",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6827/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6827/",
+        "retrievedAt": "2026-09-04T03:46:36.336914+00:00",
+        "status": 200,
+        "sha256": "a39bf6a873d16a37ab6cd682606a32061d7fefc6b2c3968e2575462372da6337",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6826/",
+      "title": "Информационное сообщение о приеме предложений по двум кандидатурам членов территориальной избирательной комиссии Ленинского района города Кирова №2 с правом решающего голоса на вакантные места",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6826/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6826/",
+        "retrievedAt": "2026-09-04T03:46:36.906895+00:00",
+        "status": 200,
+        "sha256": "5471b7a8a020f33f413916ede9341f29b8af2a6efc8695678310a5f05e859d40",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6819/",
+      "title": "На облизбирком возложены полномочия окружных избирательных комиссий по выборам депутатов Государственной Думы",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6819/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6819/",
+        "retrievedAt": "2026-09-04T03:46:37.506793+00:00",
+        "status": 200,
+        "sha256": "8327a67367b425d767c76fa5b61fa6acf06dc710167e045f9cb0c43304dd93d7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6818/",
+      "title": "Информационное сообщение о приеме предложений по кандидатуре члена территориальной избирательной комиссии Нагорского районас правом решающего голоса на вакантное место",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6818/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6818/",
+        "retrievedAt": "2026-09-04T03:46:38.022889+00:00",
+        "status": 200,
+        "sha256": "4d36e47b3aaf5decb7439181e8557ffa0a8667cf99b81411269e4c84354a2dc5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6801/",
+      "title": "Информационное сообщение о приеме предложений по двум кандидатурам членов территориальной избирательной комиссии Советского района с правом решающего голоса на вакантное место",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6801/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6801/",
+        "retrievedAt": "2026-09-04T03:46:39.232584+00:00",
+        "status": 200,
+        "sha256": "9c28b06299e4b3164131160da87e5b388eaa0f0aa514ff1a2c78ed7ca69d99d6",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6758/",
+      "title": "Информационное сообщение о приеме предложений по кандидатуре члена территориальный избирательных комиссий Куменского района с правом решающего голоса на вакантное место",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6758/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6758/",
+        "retrievedAt": "2026-09-04T03:46:40.453094+00:00",
+        "status": 200,
+        "sha256": "e67344c1443190734e64ca255e240ad856cba264cb0164339c44b54f5392aaf7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6749/",
+      "title": "Информационное сообщение о приеме предложений по кандидатурам членов территориальных избирательных комиссий Нововятского района г. Кирова, Октябрьского района г. Кирова № 2 с правом решающего голоса на вакантное место",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6749/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6749/",
+        "retrievedAt": "2026-09-04T03:46:41.225456+00:00",
+        "status": 200,
+        "sha256": "3fc431de53d2eda9fd7fe6e008b214efcb9699c82de2805003570a6fa52126f2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6693/",
+      "title": "Публикация фотографий кандидатов на портале Госуслуг",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6693/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6693/",
+        "retrievedAt": "2026-09-04T03:46:48.159716+00:00",
+        "status": 200,
+        "sha256": "585009d1b3f4cd0698f165f367c092e5ede2ba29fb8c86744a26ea252a2b8e72",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6689/",
+      "title": "Информационное сообщение о приеме предложений по кандидатуре члена территориальной избирательной комиссии Фаленского района с правом решающего голоса на вакантное место",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6689/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6689/",
+        "retrievedAt": "2026-09-04T03:46:48.870592+00:00",
+        "status": 200,
+        "sha256": "a99e82efdedd161009f9cfac89a426801916e969b3d5febf3cd954321e7d0daf",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6683/",
+      "title": "Информационное сообщение о приеме предложений по кандидатуре члена территориальной избирательной комиссии Орловского района с правом решающего голоса на вакантное место",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6683/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6683/",
+        "retrievedAt": "2026-09-04T03:46:49.559968+00:00",
+        "status": 200,
+        "sha256": "2f6ab3eaff071319201502f5db058adb6affc2d49f392e40d85b16f941831c5c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6682/",
+      "title": "Информационное сообщение о приеме предложений по кандидатуре члена территориальной избирательной комиссии Лебяжского района с правом решающего голоса на вакантное место",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6682/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6682/",
+        "retrievedAt": "2026-09-04T03:46:50.258270+00:00",
+        "status": 200,
+        "sha256": "4c9443f9b033b55a6172b08367fba6d090e43d206e57180dde2b4ccfbd3082ea",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6655/",
+      "title": "Информационное сообщение о приеме предложений по кандидатуре члена территориальной избирательной комиссии г. Котельнича с правом решающего голоса в состав территориальной избирательной комиссии г. Котельнича на вакантное место",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6655/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6655/",
+        "retrievedAt": "2026-09-04T03:46:50.973914+00:00",
+        "status": 200,
+        "sha256": "da19c472c8e46e34fb4c094396b7a9fe80f7262b13279b507c4c14ae609fc683",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6656/",
+      "title": "Информационное сообщение о приеме предложений по кандидатуре члена территориальной избирательной комиссии Лебяжского с правом решающего голоса в состав территориальной избирательной комиссии Лебяжского района на вакантное место",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6656/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6656/",
+        "retrievedAt": "2026-09-04T03:46:51.600049+00:00",
+        "status": 200,
+        "sha256": "86cc2d7e36e67ae500e9c92aa53816eabbaaf7177117a865a21c1ed8b9849fec",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6247/",
+      "title": "В школе № 62 г. Кирова состоялся День кандидата",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6247/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6247/",
+        "retrievedAt": "2026-09-04T03:46:58.634909+00:00",
+        "status": 200,
+        "sha256": "d3f0f944c18aa7a0e6216e74f05412166fe8ce9f4e054343b8ec99f72c5ea003",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6190/",
+      "title": "Утвержден график распределения эфирного времени, безвозмездно предоставляемого зарегистрированным кандидатам для проведения агитации",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6190/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6190/",
+        "retrievedAt": "2026-09-04T03:40:07.440393+00:00",
+        "status": 200,
+        "sha256": "228c40339aa5fd5dd02edaddbb0d1ce804e008e73bb40e6e8e682d87133edf59",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6187/",
+      "title": "Состоялась жеребьевка по распределению бесплатного эфирного времени между зарегистрированными кандидатами по Котельничскому одномандатному округу № 9",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6187/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6187/",
+        "retrievedAt": "2026-09-04T03:40:08.450653+00:00",
+        "status": 200,
+        "sha256": "b7d29531862f510eb204df7b6393d7a33ea369408b36bbb6427de90998068412",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6175/",
+      "title": "Окружная избирательная комиссия Котельничского одномандатного избирательного округа № 9 завершила прием документов кандидатов, выдвинутых от партий",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6175/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6175/",
+        "retrievedAt": "2026-09-04T03:40:10.531351+00:00",
+        "status": 200,
+        "sha256": "52ce66f111251abe2e459c8f3cb1e96833adf017563f9bb410d7926508acc2f9",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6169/",
+      "title": "Партийные мероприятия политических партий по выдвижению кандидатов на выборах",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6169/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6169/",
+        "retrievedAt": "2026-09-04T03:40:13.288343+00:00",
+        "status": 200,
+        "sha256": "ef8a808ffaaa86da295a4239e2ac0b59252233fb2279659a1d8044d42b01a542",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6167/",
+      "title": "Избирательные объединения приступили к выдвижению кандидатов",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6167/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6167/",
+        "retrievedAt": "2026-09-04T03:40:14.389039+00:00",
+        "status": 200,
+        "sha256": "8e76f0f15335af8897fdaf7f4af28bbc8a028353a736c1bc94b4c8f8173350b4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6130/",
+      "title": "Состоялся конкурс рисунков (плакатов) «Я рисую выборы»",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6130/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6130/",
+        "retrievedAt": "2026-09-04T03:55:02.002533+00:00",
+        "status": 200,
+        "sha256": "e400dfaa229392e6d73addd7d6c29af3f4c992bb70f586029a29c89976677e78",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6122/",
+      "title": "Завершилась регистрация кандидатов на дополнительных выборах депутатов",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6122/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6122/",
+        "retrievedAt": "2026-09-04T03:40:15.429813+00:00",
+        "status": 200,
+        "sha256": "eac4a4500be45fb895f304ebfa78c3add0b5d6be8fce94a3909647f4bd236ae7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/6119/",
+      "title": "Завершилось выдвижение кандидатов на дополнительных выборах депутатов Бобинской сельской Думы Слободского района Кировской области пятого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/6119/",
+        "requestKey": "http://kirov.izbirkom.ru/news/6119/",
+        "retrievedAt": "2026-09-04T03:40:16.452244+00:00",
+        "status": 200,
+        "sha256": "1bffdc14fbf8a8fbd145a0d642b5867961fb4d0e14ee7f7b04ec4984c044f9f0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5980/",
+      "title": "Состоялась жеребьевка по распределению бесплатного эфирного времени между зарегистрированными кандидатами и избирательными объединениями при проведении выборов депутатов Государственной Думы Федерального Собрания Российской Федерации восьмого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5980/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5980/",
+        "retrievedAt": "2026-09-04T03:55:02.571234+00:00",
+        "status": 200,
+        "sha256": "168e33572cf17b0e998c2ca2d5641565c698dad944af911f6007a2b6f633c207",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5970/",
+      "title": "Председатель Избирательной комиссии Кировской области вручил удостоверение зарегистрированному кандидату в депутаты Государственной Думы Федерального Собрания Российской Федерации",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5970/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5970/",
+        "retrievedAt": "2026-09-04T03:55:03.102826+00:00",
+        "status": 200,
+        "sha256": "98f174fea952e0a3d57f3fa87e695d645396029bf43554bfbcee251fb0b57ad0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5971/",
+      "title": "Председатель Избирательной комиссии Кировской области вручил удостоверение зарегистрированному кандидату в депутаты Государственной Думы Федерального Собрания Российской Федерации",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5971/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5971/",
+        "retrievedAt": "2026-09-04T03:55:03.680299+00:00",
+        "status": 200,
+        "sha256": "27e413a4aeadfb459d8b20b0396578a9fdbd5f32b8bbb7d20fbd03b290fde409",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5966/",
+      "title": "Председатель Избирательной комиссии Кировской области вручил удостоверение зарегистрированному кандидату в депутаты Государственной Думы Федерального Собрания Российской Федерации",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5966/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5966/",
+        "retrievedAt": "2026-09-04T03:55:04.226762+00:00",
+        "status": 200,
+        "sha256": "097d0eb93e5dd4553480d45c44896ade74563871c631dbe6feedf140bfe9812b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5962/",
+      "title": "В Избирательную комиссию Кировской области представлены документы на выдвижение кандидата в депутаты Государственной Думы Федерального Собрания Российской Федерации восьмого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5962/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5962/",
+        "retrievedAt": "2026-09-04T03:55:04.782003+00:00",
+        "status": 200,
+        "sha256": "3764ea2357e0a40e00a40c97eb08342aaa77f9a4512316dc44b168962914689c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5959/",
+      "title": "В Избирательную комиссию Кировской области представлены документы на выдвижение кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации восьмого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5959/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5959/",
+        "retrievedAt": "2026-09-04T03:55:05.344337+00:00",
+        "status": 200,
+        "sha256": "aa4281271818e6cb7668eefccb095412aa4b48a6107b0e0c7b60cf044f9237ef",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5956/",
+      "title": "В Избирательную комиссию Кировской области представлены документы на выдвижение кандидата в депутаты Государственной Думы Федерального Собрания Российской Федерации восьмого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5956/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5956/",
+        "retrievedAt": "2026-09-04T03:55:05.886937+00:00",
+        "status": 200,
+        "sha256": "647acddffd32f45ceba7b98d90258f4184bbadd7fdd64fb097cbfc8bfec91152",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5955/",
+      "title": "В Избирательную комиссию Кировской области представлены документы на выдвижение кандидата в депутаты Государственной Думы Федерального Собрания Российской Федерации восьмого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5955/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5955/",
+        "retrievedAt": "2026-09-04T03:55:06.453687+00:00",
+        "status": 200,
+        "sha256": "2f0f22f5958a57da902a8ebf368db114a3aba5a8069241e2add7e32f5214635a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5953/",
+      "title": "В Избирательную комиссию Кировской области представлены документы на выдвижение кандидата в депутаты Государственной Думы Федерального Собрания Российской Федерации восьмого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5953/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5953/",
+        "retrievedAt": "2026-09-04T03:55:06.977288+00:00",
+        "status": 200,
+        "sha256": "87d09ee70189c019797ebaabbacb8aefa147d7cc782be05e46dac6fe9b280bc2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5951/",
+      "title": "В Избирательную комиссию Кировской области представлены документы на выдвижение кандидата в депутаты Государственной Думы Федерального Собрания Российской Федерации восьмого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5951/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5951/",
+        "retrievedAt": "2026-09-04T03:55:07.494020+00:00",
+        "status": 200,
+        "sha256": "b948e71e2602d5c8d947209ddc2f56f377847aabd4a89df8082c9051751c3416",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5950/",
+      "title": "В Избирательную комиссию Кировской области представлены документы на выдвижение кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации восьмого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5950/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5950/",
+        "retrievedAt": "2026-09-04T03:55:08.021867+00:00",
+        "status": 200,
+        "sha256": "c8073e5af17baa64c91aebeade88a2f3321056c94b7cc081d362a7175c2a179f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5947/",
+      "title": "В Избирательную комиссию Кировской области представлены документы на выдвижение кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации восьмого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5947/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5947/",
+        "retrievedAt": "2026-09-04T03:55:08.550262+00:00",
+        "status": 200,
+        "sha256": "254356e67f3dbd808603e98073d3e8fd49fefa35a46a9b7d63db0db64e5d5128",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5946/",
+      "title": "В Избирательную комиссию Кировской области представлены документы на выдвижение кандидата в депутаты Государственной Думы Федерального Собрания Российской Федерации восьмого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5946/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5946/",
+        "retrievedAt": "2026-09-04T03:55:09.085107+00:00",
+        "status": 200,
+        "sha256": "b76d0bf63cd9aed09d57161d92ef91357f15140d0d706a22c471f7d66ed6ae4a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5945/",
+      "title": "В Избирательную комиссию Кировской области представлены документы на выдвижение кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации восьмого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5945/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5945/",
+        "retrievedAt": "2026-09-04T03:55:09.594485+00:00",
+        "status": 200,
+        "sha256": "583958c549075f6ea3f21025b67f32270a359b68cc125878508623f4eece63cd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5942/",
+      "title": "В Избирательную комиссию Кировской области представлен пакет документов на выдвижение кандидатом в депутаты Государственной Думы Федерального Собрания Российской Федерации восьмого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5942/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5942/",
+        "retrievedAt": "2026-09-04T03:55:10.164475+00:00",
+        "status": 200,
+        "sha256": "0cdcbda719e9742ed4dfb3b69ca32f769f9edf5f6c87fea2aa67b01f5c5134d8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5933/",
+      "title": "В Избирательную комиссию Кировской области представлен пакет документов на выдвижение кандидатом в депутаты Государственной Думы Федерального Собрания Российской Федерации восьмого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5933/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5933/",
+        "retrievedAt": "2026-09-04T03:55:10.674301+00:00",
+        "status": 200,
+        "sha256": "317425ed72acfd4172f3260d37c9e44d8f9e5ef1db082156fd95bfa43de5f212",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5932/",
+      "title": "В Избирательную комиссию Кировской области представлены документы на выдвижение кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации восьмого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5932/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5932/",
+        "retrievedAt": "2026-09-04T03:55:11.230735+00:00",
+        "status": 200,
+        "sha256": "0f2063a9a3f10f70d4445e316f3e4e53b61f4b6eef955dedbe02e8ea5ad7eee0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5921/",
+      "title": "Избирательная комиссия Кировской области сообщает о графике приема документов от кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации восьмого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5921/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5921/",
+        "retrievedAt": "2026-09-04T03:55:11.789126+00:00",
+        "status": 200,
+        "sha256": "c9fd1e7e5c60d4fe635fca86f0b72d7d028ace4b84f17f39ab7570b1fd842af0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5819/",
+      "title": "Начался прием предложений по кандидатурам членов территориальных избирательных комиссий с правом решающего голоса",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5819/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5819/",
+        "retrievedAt": "2026-09-04T03:55:12.346807+00:00",
+        "status": 200,
+        "sha256": "3af4cfd2c98b6568f00148914a271bd7cfd82d633ca3d87ce32d96109060a78d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5662/",
+      "title": "Началось выдвижение кандидатов на дополнительных выборах депутатов Мурашинской городской Думы",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5662/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5662/",
+        "retrievedAt": "2026-09-04T03:55:12.875155+00:00",
+        "status": 200,
+        "sha256": "43bf9f5360e219c48532e7f8363254db3ddf283e2c921c9309756099fb39e0f4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5684/",
+      "title": "ТИК Немского района принимают предложения по кандидатурам для дополнительного зачисления в резерв составов участковых комиссий",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5684/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5684/",
+        "retrievedAt": "2026-09-04T03:55:13.421978+00:00",
+        "status": 200,
+        "sha256": "beffdf109a6549dcf5ee1c04525eea32b379a5b4bce37b0588a5db2c74c76152",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5652/",
+      "title": "Информация территориальной избирательной комиссии Верхнекамского района о приеме предложений по кандидатурам для дополнительного зачисления в резерв составов участковых комиссий",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5652/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5652/",
+        "retrievedAt": "2026-09-04T03:55:13.960332+00:00",
+        "status": 200,
+        "sha256": "b8d0d8d962c6c9c530a097587c4a7c60c4b7c15d3aa68f62c2ba9ed0e0659b3a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5562/",
+      "title": "Избирательная комиссия Кировской области сообщает о графике приема печатных предвыборных агитационных материалов",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5562/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5562/",
+        "retrievedAt": "2026-09-04T03:55:14.486142+00:00",
+        "status": 200,
+        "sha256": "97b6026f7960b8cf5bcf5f650f84fde2b0598a3a3421102b3eaede3b4ba424a1",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5527/",
+      "title": "Состоялась жеребьевка по распределению бесплатного эфирного времени между зарегистрированными кандидатами, политическими партиями, выдвинувшими зарегистрированных кандидатов, при проведении выборов Президента Российской Федерации",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5527/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5527/",
+        "retrievedAt": "2026-09-04T03:55:15.010430+00:00",
+        "status": 200,
+        "sha256": "a80c5bbb4ef72bc07c6143bfc572f46e8d5273267f38072b47a78b3858a4a86e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kirov.izbirkom.ru/news/5465/",
+      "title": "Избирательная комиссия Кировской области информирует о том, что начинается прием предложений по кандидатуре члена территориальной избирательной комиссии Белохолуницкого района с правом решающего голоса",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kirov.izbirkom.ru/news/5465/",
+        "requestKey": "http://kirov.izbirkom.ru/news/5465/",
+        "retrievedAt": "2026-09-04T03:55:15.574941+00:00",
+        "status": 200,
+        "sha256": "294ff4d46b954a78fed2a6c123a0cf4a02f786c5901ca6e513666c7d5267ee36",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

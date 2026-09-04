@@ -1,0 +1,420 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:29.222091+00:00",
+  "region": {
+    "code": "2",
+    "name": "Республика Алтай",
+    "seedUrls": [
+      "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/",
+      "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/index.php",
+      "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/"
+    ],
+    "allowedHosts": [
+      "altai-rep.izbirkom.ru",
+      "www.altai-rep.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 17,
+  "documentCount": 1,
+  "documentCounts": {
+    "inaccuracy": 1
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 2,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 1
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/",
+        "requestKey": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/",
+        "retrievedAt": "2026-09-04T03:28:19.663019+00:00",
+        "status": 200,
+        "sha256": "b532891d4cf2db33e0bb47d8ddf9443723c8f72cf72042c57fe562c463845a4f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/index.php",
+        "requestKey": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/index.php",
+        "retrievedAt": "2026-09-04T03:28:20.085951+00:00",
+        "status": 200,
+        "sha256": "b532891d4cf2db33e0bb47d8ddf9443723c8f72cf72042c57fe562c463845a4f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/",
+      "title": "Информационное обеспечение",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/Сведения%20о%20недостоверности.docx"
+      ],
+      "source": {
+        "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/",
+        "requestKey": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/",
+        "retrievedAt": "2026-09-04T03:28:20.512853+00:00",
+        "status": 200,
+        "sha256": "53692de87fba74a8263e61bd653cb15a826028a642ed7d6b13fae0cd06a1870d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/nablyudenie-za-distantsionnym-elektronnym-golosovaniem/index.php",
+      "title": "Наблюдение ﻿за дистанционным электронным голосованием",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/nablyudenie-za-distantsionnym-elektronnym-golosovaniem/index.php",
+        "requestKey": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/nablyudenie-za-distantsionnym-elektronnym-golosovaniem/index.php",
+        "retrievedAt": "2026-09-04T03:28:21.760089+00:00",
+        "status": 200,
+        "sha256": "c1fd9d4acfa8257efe6ab484b1649358c388c85e4d76636ce0bf5507aba860b7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/rezhim-raboty-RG/index.php",
+      "title": "РЕЖИМ РАБОТЫ ПО ПРИЕМУ ДОКУМЕНТОВ",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/rezhim-raboty-RG/index.php",
+        "requestKey": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/rezhim-raboty-RG/index.php",
+        "retrievedAt": "2026-09-04T03:28:22.173446+00:00",
+        "status": 200,
+        "sha256": "b5cb4f781b9449599169a02496a22d97cb933ba1f8c1e4b9836efefeb7ce9e34",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/sberbank/index.php",
+      "title": "Местонахождение и время работы структурных подразделений ПАО Сбербанк, осуществляющих открытие специальных избирательных счетов кандидатов на территории Республики Алтай",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/sberbank/index.php",
+        "requestKey": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/sberbank/index.php",
+        "retrievedAt": "2026-09-04T03:28:22.625933+00:00",
+        "status": 200,
+        "sha256": "36d0e4f7404538532b527ce31921fff75e238e6837a03c03f4d985925ae302d7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/index.php",
+      "title": "Информационное обеспечение",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/Сведения%20о%20недостоверности.docx"
+      ],
+      "source": {
+        "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/index.php",
+        "requestKey": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/index.php",
+        "retrievedAt": "2026-09-04T03:28:23.051002+00:00",
+        "status": 200,
+        "sha256": "53692de87fba74a8263e61bd653cb15a826028a642ed7d6b13fae0cd06a1870d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://altai-rep.izbirkom.ru/news/?ELEMENT_ID=2583",
+      "title": "Завершился первый этап передачи избирательных бюллетеней для голосования по федеральному и одномандатному избирательным округам",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://altai-rep.izbirkom.ru/news/?ELEMENT_ID=2583",
+        "requestKey": "http://altai-rep.izbirkom.ru/news/?ELEMENT_ID=2583",
+        "retrievedAt": "2026-09-04T03:28:23.468575+00:00",
+        "status": 200,
+        "sha256": "536798d69864d099afeb5495301d2ee2edbc54276b4d3fc4baef38e275b985fc",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/IP/index.php",
+      "title": "К сведению руководителей организаций, индивидуальных предпринимателей, выполняющих работы или оказывающих услуги по изготовлению печатных предвыборных агитационных материалов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/IP/index.php",
+        "requestKey": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/IP/index.php",
+        "retrievedAt": "2026-09-04T03:28:23.918775+00:00",
+        "status": 200,
+        "sha256": "c55f5387ed76cbf758d962514065261f785eedcd6c2ae1da85ba456d1202a27e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/akkreditatsiya-smi/index.php",
+      "title": "Аккредитация представителей СМИ на выборах, голосование на которых состоится 18, 19 и 20 сентября 2026 года, для присутствия в течение всего периода голосования в помещениях для голосования и при установлении итогов голосования, определении результатов выборов.",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/akkreditatsiya-smi/index.php",
+        "requestKey": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/akkreditatsiya-smi/index.php",
+        "retrievedAt": "2026-09-04T03:28:24.348403+00:00",
+        "status": 200,
+        "sha256": "8fbd8da35b775d7b0eae365142918b8b7dc505f3abafccff53b655a86532f604",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/SMI/index.php",
+      "title": "К сведению руководителей организаций, осуществляющих выпуск средств массовой информации",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/SMI/index.php",
+        "requestKey": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/SMI/index.php",
+        "retrievedAt": "2026-09-04T03:28:24.764678+00:00",
+        "status": 200,
+        "sha256": "eaa6a6db0a7260398bd4a392a22e3d9f84a4fc605a437c916c57bddef19fac09",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/nablyudenie-za-distantsionnym-elektronnym-golosovaniem/",
+      "title": "Наблюдение ﻿за дистанционным электронным голосованием",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/nablyudenie-za-distantsionnym-elektronnym-golosovaniem/",
+        "requestKey": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/nablyudenie-za-distantsionnym-elektronnym-golosovaniem/",
+        "retrievedAt": "2026-09-04T03:28:26.166159+00:00",
+        "status": 200,
+        "sha256": "c1fd9d4acfa8257efe6ab484b1649358c388c85e4d76636ce0bf5507aba860b7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/rezhim-raboty-RG/",
+      "title": "РЕЖИМ РАБОТЫ ПО ПРИЕМУ ДОКУМЕНТОВ",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/rezhim-raboty-RG/",
+        "requestKey": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/rezhim-raboty-RG/",
+        "retrievedAt": "2026-09-04T03:28:26.561757+00:00",
+        "status": 200,
+        "sha256": "b5cb4f781b9449599169a02496a22d97cb933ba1f8c1e4b9836efefeb7ce9e34",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/sberbank/",
+      "title": "Местонахождение и время работы структурных подразделений ПАО Сбербанк, осуществляющих открытие специальных избирательных счетов кандидатов на территории Республики Алтай",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/sberbank/",
+        "requestKey": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/sberbank/",
+        "retrievedAt": "2026-09-04T03:28:26.954735+00:00",
+        "status": 200,
+        "sha256": "36d0e4f7404538532b527ce31921fff75e238e6837a03c03f4d985925ae302d7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/IP/",
+      "title": "К сведению руководителей организаций, индивидуальных предпринимателей, выполняющих работы или оказывающих услуги по изготовлению печатных предвыборных агитационных материалов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/IP/",
+        "requestKey": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/IP/",
+        "retrievedAt": "2026-09-04T03:28:30.041846+00:00",
+        "status": 200,
+        "sha256": "c55f5387ed76cbf758d962514065261f785eedcd6c2ae1da85ba456d1202a27e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/akkreditatsiya-smi/",
+      "title": "Аккредитация представителей СМИ на выборах, голосование на которых состоится 18, 19 и 20 сентября 2026 года, для присутствия в течение всего периода голосования в помещениях для голосования и при установлении итогов голосования, определении результатов выборов.",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/akkreditatsiya-smi/",
+        "requestKey": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/akkreditatsiya-smi/",
+        "retrievedAt": "2026-09-04T03:28:30.445258+00:00",
+        "status": 200,
+        "sha256": "8fbd8da35b775d7b0eae365142918b8b7dc505f3abafccff53b655a86532f604",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/SMI/",
+      "title": "К сведению руководителей организаций, осуществляющих выпуск средств массовой информации",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/SMI/",
+        "requestKey": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/SMI/",
+        "retrievedAt": "2026-09-04T03:28:31.311324+00:00",
+        "status": 200,
+        "sha256": "eaa6a6db0a7260398bd4a392a22e3d9f84a4fc605a437c916c57bddef19fac09",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "inaccuracy",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных кандидатами в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу Республики Алтай – Алтайский одномандатный округ №2",
+      "officialUrl": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/Сведения%20о%20недостоверности.docx",
+      "sourcePages": [
+        {
+          "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/",
+          "title": "Информационное обеспечение",
+          "depth": 0,
+          "sha256": "53692de87fba74a8263e61bd653cb15a826028a642ed7d6b13fae0cd06a1870d"
+        },
+        {
+          "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/index.php",
+          "title": "Информационное обеспечение",
+          "depth": 1,
+          "sha256": "53692de87fba74a8263e61bd653cb15a826028a642ed7d6b13fae0cd06a1870d"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "17197cd3b6a6b921a9608451f78149f973d2b2e5fb1512097bbbcd532df76382",
+      "originalFilename": "Сведения о недостоверности.docx",
+      "filename": "Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-17197cd3b6a6.docx",
+      "path": "files/Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-17197cd3b6a6.docx",
+      "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "byteLength": 19443,
+      "sha256": "17197cd3b6a6b921a9608451f78149f973d2b2e5fb1512097bbbcd532df76382",
+      "source": {
+        "url": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8.docx",
+        "requestKey": "http://altai-rep.izbirkom.ru/vybory-v-respublike-altay/2026/edg/GosDuma/informatsionnoe-obespechenie/Сведения%20о%20недостоверности.docx",
+        "retrievedAt": "2026-09-04T03:28:33.367881+00:00",
+        "status": 200,
+        "sha256": "17197cd3b6a6b921a9608451f78149f973d2b2e5fb1512097bbbcd532df76382",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

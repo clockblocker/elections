@@ -1,0 +1,1555 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:38.219872+00:00",
+  "region": {
+    "code": "45",
+    "name": "Курганская область",
+    "seedUrls": [
+      "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45742",
+      "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45743",
+      "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/vybory-gosduma.php"
+    ],
+    "allowedHosts": [
+      "kurgan.izbirkom.ru",
+      "www.kurgan.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": false,
+  "truncated": false,
+  "pageCount": 73,
+  "documentCount": 2,
+  "documentCounts": {
+    "declaration": 1,
+    "inaccuracy": 1
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 1
+    },
+    "inaccuracy": {
+      "signalPageCount": 4,
+      "explicitEmptyPageCount": 1,
+      "documentCount": 1
+    }
+  },
+  "failures": {
+    "pages": [
+      {
+        "url": "http://kurgan.izbirkom.ru/Izbiratelnye_komissii/list.php?SECTION_ID=2408",
+        "depth": 1,
+        "status": 404,
+        "error": "HTTP 404"
+      }
+    ],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45742",
+      "title": "Решения 2026",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45742",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45742",
+        "retrievedAt": "2026-09-04T03:40:38.480154+00:00",
+        "status": 200,
+        "sha256": "cdaf41a9be60bbe543b41199c03942e48e9815e90c717ff8d9ece4321f3ce6fa",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45743",
+      "title": "Решения 2026",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45743",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45743",
+        "retrievedAt": "2026-09-04T03:40:39.510951+00:00",
+        "status": 200,
+        "sha256": "9f17733b2b839ad13ca88985cc8359ab3573fb952835fbbd94a9936794cce7ab",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/vybory-gosduma.php",
+      "title": "Выборы 20 сентября 2026 года / Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1,
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://kurgan.izbirkom.ru/etc2/GD_dohodi_zareg_kand.pdf",
+        "http://kurgan.izbirkom.ru/etc2/nedostovernye_svedenya_GD_2026.pdf"
+      ],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/vybory-gosduma.php",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/vybory-gosduma.php",
+        "retrievedAt": "2026-09-04T03:40:40.675099+00:00",
+        "status": 200,
+        "sha256": "0f750874f43a8b29658f0e56401eb55b8e051c6bbe4f9b81554fe052a437943a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/news/detail.php?ID=45837",
+      "title": "Президент Российской Федерации Владимир Путин назначил выборы депутатов Государственной Думы девятого созыва",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/news/detail.php?ID=45837",
+        "requestKey": "http://kurgan.izbirkom.ru/news/detail.php?ID=45837",
+        "retrievedAt": "2026-09-04T03:40:42.652802+00:00",
+        "status": 200,
+        "sha256": "3b49e263f074696d23a2d62e0160f02a5f29a6f69977504a73debab5b6d38e3a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/izbiratelnye-komissii/izbiratelnaya-komissiya-kurganskoy-oblasti/dokumenty-izbiratelnoy-komissii/resheniya-izbiratelnoy-komissii/46489/",
+      "title": "Решения Избирательной комиссии Курганской области",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/izbiratelnye-komissii/izbiratelnaya-komissiya-kurganskoy-oblasti/dokumenty-izbiratelnoy-komissii/resheniya-izbiratelnoy-komissii/46489/",
+        "requestKey": "http://kurgan.izbirkom.ru/izbiratelnye-komissii/izbiratelnaya-komissiya-kurganskoy-oblasti/dokumenty-izbiratelnoy-komissii/resheniya-izbiratelnoy-komissii/46489/",
+        "retrievedAt": "2026-09-04T03:40:43.699577+00:00",
+        "status": 200,
+        "sha256": "751e1eb7e0275fdf194decb7d4a6ee06a44751f2d8284cd35d4ce7646c3790a0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/izbiratelnye-komissii/izbiratelnaya-komissiya-kurganskoy-oblasti/dokumenty-izbiratelnoy-komissii/resheniya-izbiratelnoy-komissii/46488/",
+      "title": "Решения Избирательной комиссии Курганской области",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/izbiratelnye-komissii/izbiratelnaya-komissiya-kurganskoy-oblasti/dokumenty-izbiratelnoy-komissii/resheniya-izbiratelnoy-komissii/46488/",
+        "requestKey": "http://kurgan.izbirkom.ru/izbiratelnye-komissii/izbiratelnaya-komissiya-kurganskoy-oblasti/dokumenty-izbiratelnoy-komissii/resheniya-izbiratelnoy-komissii/46488/",
+        "retrievedAt": "2026-09-04T03:40:44.715087+00:00",
+        "status": 200,
+        "sha256": "601e7e97fc58412b34939ce86fe198982a2bfee41961640d0d3b352aeb4a005e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/etc/r1055_7.htm",
+      "title": "",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "windows-1251",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/etc/r1055_7.htm",
+        "requestKey": "http://kurgan.izbirkom.ru/etc/r1055_7.htm",
+        "retrievedAt": "2026-09-04T03:40:45.707592+00:00",
+        "status": 200,
+        "sha256": "15081a15dae37adbc7d4614065dafaae2115d248c9cddd38b00314a274e1a1c3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46675",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46675",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46675",
+        "retrievedAt": "2026-09-04T03:40:46.864757+00:00",
+        "status": 200,
+        "sha256": "b9b59d7ba38cb67d007ec22853ab7cde8fcb2d7926ade7afbf6fc24cd260f774",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46674",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46674",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46674",
+        "retrievedAt": "2026-09-04T03:40:47.937459+00:00",
+        "status": 200,
+        "sha256": "52987eb892bd5efdc23c2211c5e9a81032d982a401830d0d92f0ab43cc7a79f0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46624",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46624",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46624",
+        "retrievedAt": "2026-09-04T03:40:48.957255+00:00",
+        "status": 200,
+        "sha256": "80ea05b2564d5a2b837b11ac35f5f2044264570289fbe1627f7833ed34a3ccd2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46623",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46623",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46623",
+        "retrievedAt": "2026-09-04T03:40:50.009068+00:00",
+        "status": 200,
+        "sha256": "d153dd48772fdf9d078e1cf049cca8883aa6a2630379541bd052206372f4a14b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46621",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46621",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46621",
+        "retrievedAt": "2026-09-04T03:40:51.065872+00:00",
+        "status": 200,
+        "sha256": "bfacefb7189f74785eefae4b4cac1b994990d62916d10504310afa158bd5f493",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46615",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46615",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46615",
+        "retrievedAt": "2026-09-04T03:40:52.067595+00:00",
+        "status": 200,
+        "sha256": "bf354fd72a694dae1b63cc8f15395cd21a4e2518f783001d97a1778f6f741ab6",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46614",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46614",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46614",
+        "retrievedAt": "2026-09-04T03:40:53.212482+00:00",
+        "status": 200,
+        "sha256": "5267def7183fe030859173f3c3da1b71ceda8f6bf7e84e475cdec4e840988402",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46613",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46613",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46613",
+        "retrievedAt": "2026-09-04T03:40:54.279283+00:00",
+        "status": 200,
+        "sha256": "cda39432310103a1ea61e04b52c282babafae9dc7af56908f652058a61536e40",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46611",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46611",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46611",
+        "retrievedAt": "2026-09-04T03:40:55.271404+00:00",
+        "status": 200,
+        "sha256": "431d3976bc0097fc4f8878e8e3a0aa332692c87f90f00853482fd6a83dbe90a7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46550",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46550",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46550",
+        "retrievedAt": "2026-09-04T03:40:56.325987+00:00",
+        "status": 200,
+        "sha256": "a0c5a7468e93d961c17b43ab5173b95b38c27e669e56ef282fea784e7a97e665",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46549",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46549",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46549",
+        "retrievedAt": "2026-09-04T03:40:57.375090+00:00",
+        "status": 200,
+        "sha256": "2834451977efdac561422b9c8687d534b6bd1121a57ca43e22d2ae82b82e879e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46548",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46548",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46548",
+        "retrievedAt": "2026-09-04T03:40:58.445728+00:00",
+        "status": 200,
+        "sha256": "18dedd4874b5d97320d3e1163d883922a0124beeb0625daaefb5ff9c8621436e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46489",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46489",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46489",
+        "retrievedAt": "2026-09-04T03:40:59.500151+00:00",
+        "status": 200,
+        "sha256": "ad70a71cbd05a27a77de25b5c985156f0298fde71ddd8532805cf064fe777bbd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46488",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46488",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46488",
+        "retrievedAt": "2026-09-04T03:41:00.622263+00:00",
+        "status": 200,
+        "sha256": "f3dc5117c4124f070ccc9bfab494706fafa97ef890ff488dc3cd0e127fa51114",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46487",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46487",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46487",
+        "retrievedAt": "2026-09-04T03:41:01.617138+00:00",
+        "status": 200,
+        "sha256": "46fd30ebe33eb53bbfaacae214faea9931e14509579372ff6966fa2e1bd13cd7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46486",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46486",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46486",
+        "retrievedAt": "2026-09-04T03:41:02.624633+00:00",
+        "status": 200,
+        "sha256": "7b830c81f0cc3500cd036570d7eee4c6140638e2057cd2029b3fc834fc08ea90",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46485",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46485",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46485",
+        "retrievedAt": "2026-09-04T03:41:03.733665+00:00",
+        "status": 200,
+        "sha256": "cf64a2000434d976aa03debe75d469f9f9f14672ed912c93cc24dd0b60c156bf",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46483",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46483",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46483",
+        "retrievedAt": "2026-09-04T03:41:04.739620+00:00",
+        "status": 200,
+        "sha256": "1606a524c718ef7b6ed0429694fc24eb903dc67c72e1cdb312deb9e6437d544d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46484",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46484",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46484",
+        "retrievedAt": "2026-09-04T03:41:05.799551+00:00",
+        "status": 200,
+        "sha256": "721a382058cb2aa3b206d389b6c51e71e077e0b11c0e2103a59222a86e5b096b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46394",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46394",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46394",
+        "retrievedAt": "2026-09-04T03:41:06.836174+00:00",
+        "status": 200,
+        "sha256": "ed43fd1f83d023774123a90d2baf6b582c33a247c037f5d5b70c5e780e58c513",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46393",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46393",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46393",
+        "retrievedAt": "2026-09-04T03:41:07.919473+00:00",
+        "status": 200,
+        "sha256": "7d35934ec244c3a2ce889f537082d1e73bdde7b5721ae2b3c36b5e300e5e2016",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46392",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46392",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46392",
+        "retrievedAt": "2026-09-04T03:41:09.012357+00:00",
+        "status": 200,
+        "sha256": "649eedc3611a78e692686a2f2beee8e9c260bf7f596ca4d8c9cdecb273d188c4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46391",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46391",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46391",
+        "retrievedAt": "2026-09-04T03:41:10.022081+00:00",
+        "status": 200,
+        "sha256": "2ec63b9ed59439e2a48b83f53a31969bfd3347e346c22f36bd7caf23f2a444f9",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46390",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46390",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46390",
+        "retrievedAt": "2026-09-04T03:41:11.065225+00:00",
+        "status": 200,
+        "sha256": "5509b6f442ce69e2aca1a684ebcfa3866f3ced2729391ff4cb835901e0cef91a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46314",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46314",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46314",
+        "retrievedAt": "2026-09-04T03:41:12.126613+00:00",
+        "status": 200,
+        "sha256": "9448172cbec35ccca697863dd4379fda0e2cf2961bf8e932db81a92202567bd8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46313",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46313",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46313",
+        "retrievedAt": "2026-09-04T03:41:13.170380+00:00",
+        "status": 200,
+        "sha256": "fc18d2595f95a4fca8c513bbbef35c2b39bfb41217ecb6a78d052ee22350a8c9",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46312",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46312",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46312",
+        "retrievedAt": "2026-09-04T03:41:14.233219+00:00",
+        "status": 200,
+        "sha256": "6c1a18961e19d1e56b17f5b25b0e9d931501b7a4edb97a53811323053d8446ed",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46311",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46311",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46311",
+        "retrievedAt": "2026-09-04T03:41:15.306450+00:00",
+        "status": 200,
+        "sha256": "f13143832d568ed91aa6940f8887a4662528b7ddd72bc85b1915c3a90f0d448a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46310",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46310",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46310",
+        "retrievedAt": "2026-09-04T03:41:16.344751+00:00",
+        "status": 200,
+        "sha256": "ef884cf2390f9d6c5ec830a65ab53ec1dc931a30bfb916c7d2844d855e07c587",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46240",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46240",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46240",
+        "retrievedAt": "2026-09-04T03:41:17.348549+00:00",
+        "status": 200,
+        "sha256": "16d516c28aca655c95f89c1d67d93bed0252884b046dc32ff83f0b38cb84d50e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46239",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46239",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46239",
+        "retrievedAt": "2026-09-04T03:41:18.441971+00:00",
+        "status": 200,
+        "sha256": "f9b6bae0a28017cb7f7a9ba7e68e96f73f69b665af6bce3975c42297ac2ea15e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46238",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46238",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46238",
+        "retrievedAt": "2026-09-04T03:41:19.482325+00:00",
+        "status": 200,
+        "sha256": "9cd77c4efec85f78defe9b9c502cd3af3fd4e7a5c0cac3f5fa070cd97d81fc7a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46237",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46237",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46237",
+        "retrievedAt": "2026-09-04T03:41:20.571131+00:00",
+        "status": 200,
+        "sha256": "45310adf8a88013e776cc074ba1215049306644c07a907e90c869c54660bf87d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46236",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46236",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46236",
+        "retrievedAt": "2026-09-04T03:41:21.593635+00:00",
+        "status": 200,
+        "sha256": "eec33bbf15294fa7525114d7f624378d59eb03442da9f25d830f7db5b7c10ba9",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46235",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46235",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46235",
+        "retrievedAt": "2026-09-04T03:41:22.656232+00:00",
+        "status": 200,
+        "sha256": "85c9a2ac5e98e2098e432e76d2ff303d34342465cdf07c8732b0f53d4d9690db",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46234",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46234",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46234",
+        "retrievedAt": "2026-09-04T03:41:23.709045+00:00",
+        "status": 200,
+        "sha256": "347531a36f3b260f13290b33db21befe7af89d87462c71bf07647a889f259a0f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46189",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46189",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46189",
+        "retrievedAt": "2026-09-04T03:41:24.748045+00:00",
+        "status": 200,
+        "sha256": "9dafe0c94794db256bf2c0ece60b97d6736f26591285eec912a016245ef8b0d6",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46188",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46188",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46188",
+        "retrievedAt": "2026-09-04T03:41:25.721920+00:00",
+        "status": 200,
+        "sha256": "5000113e4a86debc4ebfbaebdaac25c3a759e13c77f260f8da8685a7273fa7dd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46187",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46187",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46187",
+        "retrievedAt": "2026-09-04T03:41:26.827401+00:00",
+        "status": 200,
+        "sha256": "98d7df55cc2a5650ab6fc766f6ed2763337af279e6288dd239ae9c1e1e7bc785",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46186",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46186",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46186",
+        "retrievedAt": "2026-09-04T03:41:27.861538+00:00",
+        "status": 200,
+        "sha256": "55af2ec6ba89b6d483097e51a835a78d52217190b687cd4c0678644c5ff8a882",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46155",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46155",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46155",
+        "retrievedAt": "2026-09-04T03:41:28.988736+00:00",
+        "status": 200,
+        "sha256": "9cdcdad3038e1a9773530d30c3b2b973671860a83a40a84a4359e88273395090",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46154",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46154",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46154",
+        "retrievedAt": "2026-09-04T03:41:29.955506+00:00",
+        "status": 200,
+        "sha256": "c869e948d3c8614e465631f3e3314967f694e0d342fbf82a2295477a805ac1e6",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46153",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46153",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46153",
+        "retrievedAt": "2026-09-04T03:41:30.638240+00:00",
+        "status": 200,
+        "sha256": "e835fe5fddf21c7743153350f682430ed60605da1fc1a1184e18c0b223a86d5d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46152",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46152",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46152",
+        "retrievedAt": "2026-09-04T03:41:31.335480+00:00",
+        "status": 200,
+        "sha256": "4754fb670cba6f77ff534f9f59541ffd9daaadc931b74fba76125e377b23be61",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46150",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46150",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46150",
+        "retrievedAt": "2026-09-04T03:41:32.399581+00:00",
+        "status": 200,
+        "sha256": "3bde92463845032fd63341c7d32918178ed166f1d3904b28f46aef56ed8031b2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46149",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46149",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46149",
+        "retrievedAt": "2026-09-04T03:41:33.089695+00:00",
+        "status": 200,
+        "sha256": "31db2f56413a3f433f6bb085bdf399ae026d9a07c0c8dc7e99b803967f70cb42",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46148",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46148",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46148",
+        "retrievedAt": "2026-09-04T03:41:34.157437+00:00",
+        "status": 200,
+        "sha256": "40467963506ed03893c2555d6bee47db0c15985650e21194ec4b3d9a7fae6aa0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46147",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46147",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46147",
+        "retrievedAt": "2026-09-04T03:41:34.841710+00:00",
+        "status": 200,
+        "sha256": "682b21fd1bcd973be646727f6c876abc991b667a9f8a20e69a8a20de7ec382f5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46102",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46102",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46102",
+        "retrievedAt": "2026-09-04T03:41:35.565213+00:00",
+        "status": 200,
+        "sha256": "02186c3fce6213a30f48dc50e4a38e34461e16e85df9b847f7a896d5cd5b72f2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46101",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46101",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46101",
+        "retrievedAt": "2026-09-04T03:41:36.619530+00:00",
+        "status": 200,
+        "sha256": "2355b9bded9e1e964e262dd2333fed1d2660d7c0f0ff9ca81dc49c83e634e187",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46100",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46100",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46100",
+        "retrievedAt": "2026-09-04T03:41:37.359032+00:00",
+        "status": 200,
+        "sha256": "3bab76e9b0c6bbbacbc6533802605d78536aa82b81f31288df706c537ce1d639",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46073",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46073",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=46073",
+        "retrievedAt": "2026-09-04T03:41:38.350636+00:00",
+        "status": 200,
+        "sha256": "d4dfd2d46a41c7d0da0cb84415d5015fc9cf2ebd6988eaecd0d525af2cb2af83",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45934",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45934",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45934",
+        "retrievedAt": "2026-09-04T03:41:39.072513+00:00",
+        "status": 200,
+        "sha256": "8f154cdde683ce40b2e6bcdfd7ddcefd7297086a1f9314192c0af2d5e540b8ec",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45930",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45930",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45930",
+        "retrievedAt": "2026-09-04T03:41:40.119302+00:00",
+        "status": 200,
+        "sha256": "79367811810c17f5f0619fa655360b0f94592735d350af7b80ff0d3b6ac53b23",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45927",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45927",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45927",
+        "retrievedAt": "2026-09-04T03:41:41.208036+00:00",
+        "status": 200,
+        "sha256": "275c2ec18d5290e07e497b6b79aa97ab3d97ae15ad5c4e4dcc02d71e1d12cc6e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45921",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45921",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45921",
+        "retrievedAt": "2026-09-04T03:41:42.210510+00:00",
+        "status": 200,
+        "sha256": "a90c9f63e152dd66a0bf0d37e0078d073b677083999a4e86d3c0bd9c5885de21",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45855",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45855",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45855",
+        "retrievedAt": "2026-09-04T03:41:42.892918+00:00",
+        "status": 200,
+        "sha256": "9640e47e10d7a61005c4c6a3f0a32a9447ef589d74498c855ed4e7b88761cb91",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45818",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45818",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45818",
+        "retrievedAt": "2026-09-04T03:41:44.009476+00:00",
+        "status": 200,
+        "sha256": "ae7a1aeaf976df3e7b4f09795e3bbdaf616f123c99ad9fe1f96458b942e51468",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45745",
+      "title": "Решения 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45745",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-ikko-podrobno(gosduma).php?ID=45745",
+        "retrievedAt": "2026-09-04T03:41:45.045143+00:00",
+        "status": 200,
+        "sha256": "bb8cd48a055f3ee2500cfa93b8b0f1d0d3b21fbdfe019b1ae4f210a587e970c7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/vybory-gosduma.php?SHOWALL_1=1",
+      "title": "Выборы 20 сентября 2026 года / Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1,
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://kurgan.izbirkom.ru/etc2/GD_dohodi_zareg_kand.pdf",
+        "http://kurgan.izbirkom.ru/etc2/nedostovernye_svedenya_GD_2026.pdf"
+      ],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/vybory-gosduma.php?SHOWALL_1=1",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/vybory-gosduma.php?SHOWALL_1=1",
+        "retrievedAt": "2026-09-04T03:41:46.217407+00:00",
+        "status": 200,
+        "sha256": "bdff61560c0ea26fee6810f1926afdfbfb8d3a2a707521d56325352ae9a03647",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/izbiratelnye-komissii/izbiratelnaya-komissiya-kurganskoy-oblasti/dokumenty-izbiratelnoy-komissii/resheniya-izbiratelnoy-komissii/46073/",
+      "title": "Решения Избирательной комиссии Курганской области",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/izbiratelnye-komissii/izbiratelnaya-komissiya-kurganskoy-oblasti/dokumenty-izbiratelnoy-komissii/resheniya-izbiratelnoy-komissii/46073/",
+        "requestKey": "http://kurgan.izbirkom.ru/izbiratelnye-komissii/izbiratelnaya-komissiya-kurganskoy-oblasti/dokumenty-izbiratelnoy-komissii/resheniya-izbiratelnoy-komissii/46073/",
+        "retrievedAt": "2026-09-04T03:55:17.394000+00:00",
+        "status": 200,
+        "sha256": "92cb8330d484e2ff33ef52ae194d8a04515ce91159d1671267667dddc008a9b4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/news/detail.php?ID=45909",
+      "title": "В Курганской области можно будет проголосовать дистанционно на выборах депутатов Государственной Думы",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/news/detail.php?ID=45909",
+        "requestKey": "http://kurgan.izbirkom.ru/news/detail.php?ID=45909",
+        "retrievedAt": "2026-09-04T03:41:47.127507+00:00",
+        "status": 200,
+        "sha256": "c85c87931bc41786b871b3f621f8c84ae9a7ee959aa349ef616f17fba08a9163",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/perechen-spetsialnykh-mest-vydelennykh-dlya-razmeshcheniya-pechatnykh-agitatsionnykh-materialov.php",
+      "title": "Перечень специальных мест, выделенных для размещения печатных агитационных материалов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/perechen-spetsialnykh-mest-vydelennykh-dlya-razmeshcheniya-pechatnykh-agitatsionnykh-materialov.php",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/perechen-spetsialnykh-mest-vydelennykh-dlya-razmeshcheniya-pechatnykh-agitatsionnykh-materialov.php",
+        "retrievedAt": "2026-09-04T03:41:48.108846+00:00",
+        "status": 200,
+        "sha256": "bd5f435a4fb5e676e0610e136cfa694943e0f8a37a56c787f802b6c0cd3bcfa1",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-tik-ob-ustanovlenii-vremeni-provedeniya-agitatsionnykh-publichnykh-meropriyatiy.php",
+      "title": "Об установлении времени для проведения агитационных публичных мероприятий в форме собраний для встреч с избирателями зарегистрированных кандидатов, политических партий, выдвинувших зарегистрированных кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-tik-ob-ustanovlenii-vremeni-provedeniya-agitatsionnykh-publichnykh-meropriyatiy.php",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/resheniya-tik-ob-ustanovlenii-vremeni-provedeniya-agitatsionnykh-publichnykh-meropriyatiy.php",
+        "retrievedAt": "2026-09-04T03:41:49.125010+00:00",
+        "status": 200,
+        "sha256": "1d435b4c85a6d666efa4bdb40deeae2e734b2774ba3208f76804049e15f657e3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/svedeniya-o-predostavlennykh-pomeshcheniyakh-zaregistrirovannym-kandidatam-politicheskim-partiyam.php",
+      "title": "Сведения о предоставленных помещениях зарегистрированным кандидатам, политическим партиям, выдвинувшим зарегистрированных кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/svedeniya-o-predostavlennykh-pomeshcheniyakh-zaregistrirovannym-kandidatam-politicheskim-partiyam.php",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/svedeniya-o-predostavlennykh-pomeshcheniyakh-zaregistrirovannym-kandidatam-politicheskim-partiyam.php",
+        "retrievedAt": "2026-09-04T03:41:49.886040+00:00",
+        "status": 200,
+        "sha256": "64268b4102e53cb2d4a92cd5c1d83937f781697322b24e2d605e40512b33cae1",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/vybory-gosduma.php?SHOWALL_1=0",
+      "title": "Выборы 20 сентября 2026 года / Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1,
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://kurgan.izbirkom.ru/etc2/GD_dohodi_zareg_kand.pdf",
+        "http://kurgan.izbirkom.ru/etc2/nedostovernye_svedenya_GD_2026.pdf"
+      ],
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/vybory-gosduma.php?SHOWALL_1=0",
+        "requestKey": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/vybory-gosduma.php?SHOWALL_1=0",
+        "retrievedAt": "2026-09-04T03:41:51.090777+00:00",
+        "status": 200,
+        "sha256": "e30ece7fab39b2936b95667d369cb027098f8c35fdd80c9f919e4d37f5b3fa71",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащим зарегистрированным кандидатам на праве собственности, о счетах (вкладах) в банках, ценных бумагах",
+      "officialUrl": "http://kurgan.izbirkom.ru/etc2/GD_dohodi_zareg_kand.pdf",
+      "sourcePages": [
+        {
+          "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/vybory-gosduma.php",
+          "title": "Выборы 20 сентября 2026 года / Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 0,
+          "sha256": "0f750874f43a8b29658f0e56401eb55b8e051c6bbe4f9b81554fe052a437943a"
+        },
+        {
+          "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/vybory-gosduma.php?SHOWALL_1=1",
+          "title": "Выборы 20 сентября 2026 года / Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 1,
+          "sha256": "bdff61560c0ea26fee6810f1926afdfbfb8d3a2a707521d56325352ae9a03647"
+        },
+        {
+          "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/vybory-gosduma.php?SHOWALL_1=0",
+          "title": "Выборы 20 сентября 2026 года / Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 2,
+          "sha256": "e30ece7fab39b2936b95667d369cb027098f8c35fdd80c9f919e4d37f5b3fa71"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "cec8895b21b9939cd101c5b69c2a34158134cf96e032b6ce78eccc9040a0bd21",
+      "originalFilename": "GD_dohodi_zareg_kand.pdf",
+      "filename": "Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащим_зарегистрированным_кандидатам_на-cec8895b21b9.pdf",
+      "path": "files/Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащим_зарегистрированным_кандидатам_на-cec8895b21b9.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 96932,
+      "sha256": "cec8895b21b9939cd101c5b69c2a34158134cf96e032b6ce78eccc9040a0bd21",
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/etc2/GD_dohodi_zareg_kand.pdf",
+        "requestKey": "http://kurgan.izbirkom.ru/etc2/GD_dohodi_zareg_kand.pdf",
+        "retrievedAt": "2026-09-04T03:41:51.891555+00:00",
+        "status": 200,
+        "sha256": "cec8895b21b9939cd101c5b69c2a34158134cf96e032b6ce78eccc9040a0bd21",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных кандидатами в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созывапо одномандатному избирательному округу Курганская область — Курганский одномандатный избирательный округ № 109",
+      "officialUrl": "http://kurgan.izbirkom.ru/etc2/nedostovernye_svedenya_GD_2026.pdf",
+      "sourcePages": [
+        {
+          "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/vybory-gosduma.php",
+          "title": "Выборы 20 сентября 2026 года / Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 0,
+          "sha256": "0f750874f43a8b29658f0e56401eb55b8e051c6bbe4f9b81554fe052a437943a"
+        },
+        {
+          "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/vybory-gosduma.php?SHOWALL_1=1",
+          "title": "Выборы 20 сентября 2026 года / Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 1,
+          "sha256": "bdff61560c0ea26fee6810f1926afdfbfb8d3a2a707521d56325352ae9a03647"
+        },
+        {
+          "url": "http://kurgan.izbirkom.ru/vybory-i-referendumy/arkhiv-vyborov-i-referendumov/vybory-2026-goda/vybory-20-sentyabrya-2026-goda/vybory-gosduma.php?SHOWALL_1=0",
+          "title": "Выборы 20 сентября 2026 года / Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 2,
+          "sha256": "e30ece7fab39b2936b95667d369cb027098f8c35fdd80c9f919e4d37f5b3fa71"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "8d088570cf71da2569ca7f53e5a72cf5f38e26612d8925fcdfe675a222d37b7e",
+      "originalFilename": "nedostovernye_svedenya_GD_2026.pdf",
+      "filename": "Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-8d088570cf71.pdf",
+      "path": "files/Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-8d088570cf71.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 51412,
+      "sha256": "8d088570cf71da2569ca7f53e5a72cf5f38e26612d8925fcdfe675a222d37b7e",
+      "source": {
+        "url": "http://kurgan.izbirkom.ru/etc2/nedostovernye_svedenya_GD_2026.pdf",
+        "requestKey": "http://kurgan.izbirkom.ru/etc2/nedostovernye_svedenya_GD_2026.pdf",
+        "retrievedAt": "2026-09-04T03:41:52.600664+00:00",
+        "status": 200,
+        "sha256": "8d088570cf71da2569ca7f53e5a72cf5f38e26612d8925fcdfe675a222d37b7e",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

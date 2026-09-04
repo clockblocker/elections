@@ -1,0 +1,503 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:10.139990+00:00",
+  "region": {
+    "code": "60",
+    "name": "Псковская область",
+    "seedUrls": [
+      "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/index.php",
+      "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/"
+    ],
+    "allowedHosts": [
+      "pskov.izbirkom.ru",
+      "www.pskov.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 5,
+  "documentCount": 9,
+  "documentCounts": {
+    "declaration": 9
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 4,
+      "explicitEmptyPageCount": 2,
+      "documentCount": 9
+    },
+    "inaccuracy": {
+      "signalPageCount": 2,
+      "explicitEmptyPageCount": 2,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/index.php",
+      "title": "Выборы депутатов Государственной Думы",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/index.php",
+        "requestKey": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/index.php",
+        "retrievedAt": "2026-09-04T03:38:57.152467+00:00",
+        "status": 200,
+        "sha256": "3b916c6b294588d9830b69ef79a9a7679e787b9dce73769e88b240ad1774a593",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/",
+      "title": "Выборы депутатов Государственной Думы",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/",
+        "requestKey": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/",
+        "retrievedAt": "2026-09-04T03:38:58.131535+00:00",
+        "status": 200,
+        "sha256": "3b916c6b294588d9830b69ef79a9a7679e787b9dce73769e88b240ad1774a593",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov",
+      "title": "Сведения о доходах и имуществе кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 10
+      },
+      "explicitEmptyCategories": [
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [
+        "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-zakonodatelnogo-sobraniya/informatsionnoe-obespechenie/spo-podgotovka-uvedomleniya-o-predostavlenii-v-izbiratelnuyu-komissiyu-ekzemplyarov-kopiy-agitatsion/Козловский%20Александр%20Николаевич.pdf",
+        "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-v-organy-mestnogo-samoupravleniya/dopolnitelnye-vybory-deputata-sobraniya-deputatov-pskovskogo-munitsipalnogo-okruga-pervogo-sozyva-po/Бикташев%20Павел%20Фанавиевич.pdf",
+        "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-v-organy-mestnogo-samoupravleniya/dopolnitelnye-vybory-deputata-sobraniya-deputatov-pskovskogo-munitsipalnogo-okruga-pervogo-sozyva-po/Сорокин%20Кирилл%20Михайлович.pdf",
+        "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Васильев%20Евгений%20Геннадьевич.pdf",
+        "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Иванов%20Михаил%20Александрович.pdf",
+        "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Минаков%20Антон%20Александрвич.pdf",
+        "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Михайлов%20Дмитрий%20Юрьевич.pdf",
+        "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Романов%20Игорь%20Павлович.pdf",
+        "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Тудакова%20Наталья%20Викторовна.pdf"
+      ],
+      "source": {
+        "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+        "requestKey": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov",
+        "retrievedAt": "2026-09-04T03:39:03.507367+00:00",
+        "status": 200,
+        "sha256": "f220dc879badc24c8d1c5e0e9987cdf202db301efd8f17ad8fec546ff36796d6",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-po-pomeshcheniyam",
+      "title": "Сведения о фактах предоставления помещений",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-po-pomeshcheniyam/",
+        "requestKey": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-po-pomeshcheniyam",
+        "retrievedAt": "2026-09-04T03:39:04.537645+00:00",
+        "status": 200,
+        "sha256": "86889432f33f0c3edc02353f37dde5d1340fe9c59301ee43b692de0921118b75",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+      "title": "Сведения о доходах и имуществе кандидатов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 10
+      },
+      "explicitEmptyCategories": [
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [
+        "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-zakonodatelnogo-sobraniya/informatsionnoe-obespechenie/spo-podgotovka-uvedomleniya-o-predostavlenii-v-izbiratelnuyu-komissiyu-ekzemplyarov-kopiy-agitatsion/Козловский%20Александр%20Николаевич.pdf",
+        "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-v-organy-mestnogo-samoupravleniya/dopolnitelnye-vybory-deputata-sobraniya-deputatov-pskovskogo-munitsipalnogo-okruga-pervogo-sozyva-po/Бикташев%20Павел%20Фанавиевич.pdf",
+        "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-v-organy-mestnogo-samoupravleniya/dopolnitelnye-vybory-deputata-sobraniya-deputatov-pskovskogo-munitsipalnogo-okruga-pervogo-sozyva-po/Сорокин%20Кирилл%20Михайлович.pdf",
+        "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Васильев%20Евгений%20Геннадьевич.pdf",
+        "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Иванов%20Михаил%20Александрович.pdf",
+        "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Минаков%20Антон%20Александрвич.pdf",
+        "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Михайлов%20Дмитрий%20Юрьевич.pdf",
+        "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Романов%20Игорь%20Павлович.pdf",
+        "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Тудакова%20Наталья%20Викторовна.pdf"
+      ],
+      "source": {
+        "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+        "requestKey": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+        "retrievedAt": "2026-09-04T03:39:13.579543+00:00",
+        "status": 200,
+        "sha256": "f220dc879badc24c8d1c5e0e9987cdf202db301efd8f17ad8fec546ff36796d6",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "Козловский Александр Николаевич",
+      "officialUrl": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-zakonodatelnogo-sobraniya/informatsionnoe-obespechenie/spo-podgotovka-uvedomleniya-o-predostavlenii-v-izbiratelnuyu-komissiyu-ekzemplyarov-kopiy-agitatsion/Козловский%20Александр%20Николаевич.pdf",
+      "sourcePages": [
+        {
+          "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "f220dc879badc24c8d1c5e0e9987cdf202db301efd8f17ad8fec546ff36796d6"
+        },
+        {
+          "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "f220dc879badc24c8d1c5e0e9987cdf202db301efd8f17ad8fec546ff36796d6"
+        }
+      ],
+      "scopeWarnings": [
+        "target URL is under another-election path; retained because its source context is the 2026 State Duma election"
+      ],
+      "documentId": "456c929ab907c7b0ac0d04083549f2c0047166328346d6699ca9284cb1077596",
+      "originalFilename": "Козловский Александр Николаевич.pdf",
+      "filename": "Козловский_Александр_Николаевич-456c929ab907.pdf",
+      "path": "files/Козловский_Александр_Николаевич-456c929ab907.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 136647,
+      "sha256": "456c929ab907c7b0ac0d04083549f2c0047166328346d6699ca9284cb1077596",
+      "source": {
+        "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-zakonodatelnogo-sobraniya/informatsionnoe-obespechenie/spo-podgotovka-uvedomleniya-o-predostavlenii-v-izbiratelnuyu-komissiyu-ekzemplyarov-kopiy-agitatsion/%D0%9A%D0%BE%D0%B7%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87.pdf",
+        "requestKey": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-zakonodatelnogo-sobraniya/informatsionnoe-obespechenie/spo-podgotovka-uvedomleniya-o-predostavlenii-v-izbiratelnuyu-komissiyu-ekzemplyarov-kopiy-agitatsion/Козловский%20Александр%20Николаевич.pdf",
+        "retrievedAt": "2026-09-04T03:39:28.571028+00:00",
+        "status": 200,
+        "sha256": "456c929ab907c7b0ac0d04083549f2c0047166328346d6699ca9284cb1077596",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Бикташев Павел Фанавиевич",
+      "officialUrl": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-v-organy-mestnogo-samoupravleniya/dopolnitelnye-vybory-deputata-sobraniya-deputatov-pskovskogo-munitsipalnogo-okruga-pervogo-sozyva-po/Бикташев%20Павел%20Фанавиевич.pdf",
+      "sourcePages": [
+        {
+          "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "f220dc879badc24c8d1c5e0e9987cdf202db301efd8f17ad8fec546ff36796d6"
+        },
+        {
+          "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "f220dc879badc24c8d1c5e0e9987cdf202db301efd8f17ad8fec546ff36796d6"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "bc7571a98c580a6595098b6bfed4572a5fd993bd04cd8bbda440a9f808677be4",
+      "originalFilename": "Бикташев Павел Фанавиевич.pdf",
+      "filename": "Бикташев_Павел_Фанавиевич-bc7571a98c58.pdf",
+      "path": "files/Бикташев_Павел_Фанавиевич-bc7571a98c58.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 136935,
+      "sha256": "bc7571a98c580a6595098b6bfed4572a5fd993bd04cd8bbda440a9f808677be4",
+      "source": {
+        "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-v-organy-mestnogo-samoupravleniya/dopolnitelnye-vybory-deputata-sobraniya-deputatov-pskovskogo-munitsipalnogo-okruga-pervogo-sozyva-po/%D0%91%D0%B8%D0%BA%D1%82%D0%B0%D1%88%D0%B5%D0%B2%20%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB%20%D0%A4%D0%B0%D0%BD%D0%B0%D0%B2%D0%B8%D0%B5%D0%B2%D0%B8%D1%87.pdf",
+        "requestKey": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-v-organy-mestnogo-samoupravleniya/dopolnitelnye-vybory-deputata-sobraniya-deputatov-pskovskogo-munitsipalnogo-okruga-pervogo-sozyva-po/Бикташев%20Павел%20Фанавиевич.pdf",
+        "retrievedAt": "2026-09-04T03:39:29.353951+00:00",
+        "status": 200,
+        "sha256": "bc7571a98c580a6595098b6bfed4572a5fd993bd04cd8bbda440a9f808677be4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Сорокин Кирилл Михайлович",
+      "officialUrl": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-v-organy-mestnogo-samoupravleniya/dopolnitelnye-vybory-deputata-sobraniya-deputatov-pskovskogo-munitsipalnogo-okruga-pervogo-sozyva-po/Сорокин%20Кирилл%20Михайлович.pdf",
+      "sourcePages": [
+        {
+          "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "f220dc879badc24c8d1c5e0e9987cdf202db301efd8f17ad8fec546ff36796d6"
+        },
+        {
+          "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "f220dc879badc24c8d1c5e0e9987cdf202db301efd8f17ad8fec546ff36796d6"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "517c38b4468027ad57d8e806f09ac4ba9a532e6e57e9aee892087e36bbb4a134",
+      "originalFilename": "Сорокин Кирилл Михайлович.pdf",
+      "filename": "Сорокин_Кирилл_Михайлович-517c38b44680.pdf",
+      "path": "files/Сорокин_Кирилл_Михайлович-517c38b44680.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 134077,
+      "sha256": "517c38b4468027ad57d8e806f09ac4ba9a532e6e57e9aee892087e36bbb4a134",
+      "source": {
+        "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-v-organy-mestnogo-samoupravleniya/dopolnitelnye-vybory-deputata-sobraniya-deputatov-pskovskogo-munitsipalnogo-okruga-pervogo-sozyva-po/%D0%A1%D0%BE%D1%80%D0%BE%D0%BA%D0%B8%D0%BD%20%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87.pdf",
+        "requestKey": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-v-organy-mestnogo-samoupravleniya/dopolnitelnye-vybory-deputata-sobraniya-deputatov-pskovskogo-munitsipalnogo-okruga-pervogo-sozyva-po/Сорокин%20Кирилл%20Михайлович.pdf",
+        "retrievedAt": "2026-09-04T03:39:31.513507+00:00",
+        "status": 200,
+        "sha256": "517c38b4468027ad57d8e806f09ac4ba9a532e6e57e9aee892087e36bbb4a134",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Васильев Евгений Геннадьевич",
+      "officialUrl": "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Васильев%20Евгений%20Геннадьевич.pdf",
+      "sourcePages": [
+        {
+          "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "f220dc879badc24c8d1c5e0e9987cdf202db301efd8f17ad8fec546ff36796d6"
+        },
+        {
+          "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "f220dc879badc24c8d1c5e0e9987cdf202db301efd8f17ad8fec546ff36796d6"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "771e939eca6615f47936b442f9a0c6dd639e1bd63a03109873f0c261ef7f1baf",
+      "originalFilename": "Васильев Евгений Геннадьевич.pdf",
+      "filename": "Васильев_Евгений_Геннадьевич-771e939eca66.pdf",
+      "path": "files/Васильев_Евгений_Геннадьевич-771e939eca66.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 135705,
+      "sha256": "771e939eca6615f47936b442f9a0c6dd639e1bd63a03109873f0c261ef7f1baf",
+      "source": {
+        "url": "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%20%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%93%D0%B5%D0%BD%D0%BD%D0%B0%D0%B4%D1%8C%D0%B5%D0%B2%D0%B8%D1%87.pdf",
+        "requestKey": "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Васильев%20Евгений%20Геннадьевич.pdf",
+        "retrievedAt": "2026-09-04T03:39:32.534781+00:00",
+        "status": 200,
+        "sha256": "771e939eca6615f47936b442f9a0c6dd639e1bd63a03109873f0c261ef7f1baf",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Иванов Михаил Александрович",
+      "officialUrl": "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Иванов%20Михаил%20Александрович.pdf",
+      "sourcePages": [
+        {
+          "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "f220dc879badc24c8d1c5e0e9987cdf202db301efd8f17ad8fec546ff36796d6"
+        },
+        {
+          "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "f220dc879badc24c8d1c5e0e9987cdf202db301efd8f17ad8fec546ff36796d6"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "395e3e7c2d92316e3bad6c421c3c257a6b0d8c326118e321c44d772ae322921d",
+      "originalFilename": "Иванов Михаил Александрович.pdf",
+      "filename": "Иванов_Михаил_Александрович-395e3e7c2d92.pdf",
+      "path": "files/Иванов_Михаил_Александрович-395e3e7c2d92.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 137636,
+      "sha256": "395e3e7c2d92316e3bad6c421c3c257a6b0d8c326118e321c44d772ae322921d",
+      "source": {
+        "url": "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87.pdf",
+        "requestKey": "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Иванов%20Михаил%20Александрович.pdf",
+        "retrievedAt": "2026-09-04T03:39:35.674073+00:00",
+        "status": 200,
+        "sha256": "395e3e7c2d92316e3bad6c421c3c257a6b0d8c326118e321c44d772ae322921d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Минаков Антон Александрвич",
+      "officialUrl": "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Минаков%20Антон%20Александрвич.pdf",
+      "sourcePages": [
+        {
+          "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "f220dc879badc24c8d1c5e0e9987cdf202db301efd8f17ad8fec546ff36796d6"
+        },
+        {
+          "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "f220dc879badc24c8d1c5e0e9987cdf202db301efd8f17ad8fec546ff36796d6"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "85d782f308b1d56acbb05b3d6b50621b6fadad00986fc6740678227bfbdc3563",
+      "originalFilename": "Минаков Антон Александрвич.pdf",
+      "filename": "Минаков_Антон_Александрвич-85d782f308b1.pdf",
+      "path": "files/Минаков_Антон_Александрвич-85d782f308b1.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 133220,
+      "sha256": "85d782f308b1d56acbb05b3d6b50621b6fadad00986fc6740678227bfbdc3563",
+      "source": {
+        "url": "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/%D0%9C%D0%B8%D0%BD%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%90%D0%BD%D1%82%D0%BE%D0%BD%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B2%D0%B8%D1%87.pdf",
+        "requestKey": "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Минаков%20Антон%20Александрвич.pdf",
+        "retrievedAt": "2026-09-04T03:39:36.639378+00:00",
+        "status": 200,
+        "sha256": "85d782f308b1d56acbb05b3d6b50621b6fadad00986fc6740678227bfbdc3563",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Михайлов Дмитрий Юрьевич",
+      "officialUrl": "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Михайлов%20Дмитрий%20Юрьевич.pdf",
+      "sourcePages": [
+        {
+          "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "f220dc879badc24c8d1c5e0e9987cdf202db301efd8f17ad8fec546ff36796d6"
+        },
+        {
+          "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "f220dc879badc24c8d1c5e0e9987cdf202db301efd8f17ad8fec546ff36796d6"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "55403c314a2b4977538eab9726a2af51f10baf91665bcafaea9e9feb61c20aa2",
+      "originalFilename": "Михайлов Дмитрий Юрьевич.pdf",
+      "filename": "Михайлов_Дмитрий_Юрьевич-55403c314a2b.pdf",
+      "path": "files/Михайлов_Дмитрий_Юрьевич-55403c314a2b.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 141905,
+      "sha256": "55403c314a2b4977538eab9726a2af51f10baf91665bcafaea9e9feb61c20aa2",
+      "source": {
+        "url": "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%20%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87.pdf",
+        "requestKey": "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Михайлов%20Дмитрий%20Юрьевич.pdf",
+        "retrievedAt": "2026-09-04T03:39:37.713681+00:00",
+        "status": 200,
+        "sha256": "55403c314a2b4977538eab9726a2af51f10baf91665bcafaea9e9feb61c20aa2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Романов Игорь Павлович",
+      "officialUrl": "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Романов%20Игорь%20Павлович.pdf",
+      "sourcePages": [
+        {
+          "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "f220dc879badc24c8d1c5e0e9987cdf202db301efd8f17ad8fec546ff36796d6"
+        },
+        {
+          "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "f220dc879badc24c8d1c5e0e9987cdf202db301efd8f17ad8fec546ff36796d6"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "e321d37790393f826e9db69b60af4bc196aca885cead9cba64b629c44c04bc02",
+      "originalFilename": "Романов Игорь Павлович.pdf",
+      "filename": "Романов_Игорь_Павлович-e321d3779039.pdf",
+      "path": "files/Романов_Игорь_Павлович-e321d3779039.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 132143,
+      "sha256": "e321d37790393f826e9db69b60af4bc196aca885cead9cba64b629c44c04bc02",
+      "source": {
+        "url": "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%98%D0%B3%D0%BE%D1%80%D1%8C%20%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%B8%D1%87.pdf",
+        "requestKey": "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Романов%20Игорь%20Павлович.pdf",
+        "retrievedAt": "2026-09-04T03:39:38.984083+00:00",
+        "status": 200,
+        "sha256": "e321d37790393f826e9db69b60af4bc196aca885cead9cba64b629c44c04bc02",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Тудакова Наталья Викторовна",
+      "officialUrl": "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Тудакова%20Наталья%20Викторовна.pdf",
+      "sourcePages": [
+        {
+          "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "f220dc879badc24c8d1c5e0e9987cdf202db301efd8f17ad8fec546ff36796d6"
+        },
+        {
+          "url": "http://pskov.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026/vybory-deputatov-gosudarstvennoy-dumy/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 2,
+          "sha256": "f220dc879badc24c8d1c5e0e9987cdf202db301efd8f17ad8fec546ff36796d6"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "9c8de302cb84f490db71984bd2d62dcbc3e65fbf814ee0375d334bbec31e1984",
+      "originalFilename": "Тудакова Наталья Викторовна.pdf",
+      "filename": "Тудакова_Наталья_Викторовна-9c8de302cb84.pdf",
+      "path": "files/Тудакова_Наталья_Викторовна-9c8de302cb84.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 134087,
+      "sha256": "9c8de302cb84f490db71984bd2d62dcbc3e65fbf814ee0375d334bbec31e1984",
+      "source": {
+        "url": "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/%D0%A2%D1%83%D0%B4%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%20%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0.pdf",
+        "requestKey": "http://pskov.izbirkom.ru/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-pskovskoy-oblasti/tik02-goroda-velikie-luki/02resheniya/Тудакова%20Наталья%20Викторовна.pdf",
+        "retrievedAt": "2026-09-04T03:39:39.826300+00:00",
+        "status": 200,
+        "sha256": "9c8de302cb84f490db71984bd2d62dcbc3e65fbf814ee0375d334bbec31e1984",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:39.069823+00:00",
+  "region": {
+    "code": "47",
+    "name": "Ленинградская область",
+    "seedUrls": [
+      "http://leningrad-reg.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026-god/20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+      "http://leningrad-reg.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026-god/20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/index.php"
+    ],
+    "allowedHosts": [
+      "leningrad-reg.izbirkom.ru",
+      "www.leningrad-reg.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 2,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://leningrad-reg.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026-god/20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://leningrad-reg.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026-god/20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+        "requestKey": "http://leningrad-reg.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026-god/20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+        "retrievedAt": "2026-09-04T03:42:01.233517+00:00",
+        "status": 200,
+        "sha256": "896a55ea659863d00575cd9af485044a5941f4cdb201ff77bab4420e83e7070e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://leningrad-reg.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026-god/20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://leningrad-reg.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026-god/20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/index.php",
+        "requestKey": "http://leningrad-reg.izbirkom.ru/arkhiv-vyborov-i-referendumov/arkhiv-vyborov-2026-god/20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/index.php",
+        "retrievedAt": "2026-09-04T03:42:02.245164+00:00",
+        "status": 200,
+        "sha256": "896a55ea659863d00575cd9af485044a5941f4cdb201ff77bab4420e83e7070e",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

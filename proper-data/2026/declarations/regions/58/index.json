@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:10.097208+00:00",
+  "region": {
+    "code": "58",
+    "name": "Пензенская область",
+    "seedUrls": [
+      "http://penza.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+      "http://penza.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8"
+    ],
+    "allowedHosts": [
+      "penza.izbirkom.ru",
+      "www.penza.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 2,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 1,
+      "explicitEmptyPageCount": 1,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 1,
+      "explicitEmptyPageCount": 1,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://penza.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+      "title": "Поиск",
+      "depth": 0,
+      "electionContextConfirmed": false,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://penza.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+        "requestKey": "http://penza.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+        "retrievedAt": "2026-09-04T03:38:55.172093+00:00",
+        "status": 200,
+        "sha256": "138947e9d27d744a4ed63837de9bd5ca7014e5ca5e0fe57dfaa12a1ae9fa74a3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://penza.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+      "title": "Поиск",
+      "depth": 0,
+      "electionContextConfirmed": false,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://penza.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+        "requestKey": "http://penza.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+        "retrievedAt": "2026-09-04T03:38:56.127468+00:00",
+        "status": 200,
+        "sha256": "dbbdf767c9a99efe5ec650d921fbcee8e878dccc530b1c7ec9fe912b47aa7d43",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

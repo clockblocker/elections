@@ -1,0 +1,749 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:30.582222+00:00",
+  "region": {
+    "code": "12",
+    "name": "Республика Марий Эл",
+    "seedUrls": [
+      "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/akkreditatsiya-smi.php",
+      "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/gosduma-9.php",
+      "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/kandidaty/kandidaty.php"
+    ],
+    "allowedHosts": [
+      "mari-el.izbirkom.ru",
+      "www.mari-el.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": false,
+  "truncated": false,
+  "pageCount": 34,
+  "documentCount": 1,
+  "documentCounts": {
+    "inaccuracy": 1
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 3,
+      "explicitEmptyPageCount": 3,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 1,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 1
+    }
+  },
+  "failures": {
+    "pages": [
+      {
+        "url": "http://mari-el.izbirkom.ru/block/list.php?SECTION_ID=884",
+        "depth": 2,
+        "status": 404,
+        "error": "HTTP 404"
+      }
+    ],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/akkreditatsiya-smi.php",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/akkreditatsiya-smi.php",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/akkreditatsiya-smi.php",
+        "retrievedAt": "2026-09-04T03:30:19.810043+00:00",
+        "status": 200,
+        "sha256": "44b63bc72ded76e58ed87264126ee443f89a464ad19ea9a284426fb65f7fa36b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/gosduma-9.php",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/gosduma-9.php",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/gosduma-9.php",
+        "retrievedAt": "2026-09-04T03:30:20.305159+00:00",
+        "status": 200,
+        "sha256": "26f424e486f903648f3132c1111ddce1cc71cf9ba2c01e2f7d779da958370744",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/kandidaty/kandidaty.php",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 6
+      },
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [
+        "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/kandidaty/недостоверные%20сведения.docx"
+      ],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/kandidaty/kandidaty.php",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/kandidaty/kandidaty.php",
+        "retrievedAt": "2026-09-04T03:30:20.784703+00:00",
+        "status": 200,
+        "sha256": "86c72e7c95b8097fcd480f92c872ce915e703d984ccbb308264778926faf9bf3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/docs/18161/",
+      "title": "Избирком Марий Эл информирует представителей политических партий, наименования которых внесены в избирательный бюллетень, зарегистрированных кандидатов в депутаты Государственной Думы по Марийскому избирательному округу №27",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/docs/18161/",
+        "requestKey": "http://mari-el.izbirkom.ru/docs/18161/",
+        "retrievedAt": "2026-09-04T03:30:21.354213+00:00",
+        "status": 200,
+        "sha256": "04abd5368e3431faa433bc8f95071507cd6db329f668dd3485b63ad3c64fe817",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/zakonodatelstvo-o-vyborakh/zakonodatelstvo-o-vyborakh.php",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/zakonodatelstvo-o-vyborakh/zakonodatelstvo-o-vyborakh.php",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/zakonodatelstvo-o-vyborakh/zakonodatelstvo-o-vyborakh.php",
+        "retrievedAt": "2026-09-04T03:30:21.835748+00:00",
+        "status": 200,
+        "sha256": "8a51fc76c7e71be13b54a79d446b3351e7ac60af595de443a4469fc82791148c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/mariyskiy-odnomandatnyy-izbiratelnyy-okrug-27.php",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/mariyskiy-odnomandatnyy-izbiratelnyy-okrug-27.php",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/mariyskiy-odnomandatnyy-izbiratelnyy-okrug-27.php",
+        "retrievedAt": "2026-09-04T03:30:22.293231+00:00",
+        "status": 200,
+        "sha256": "0ae95d16ddb79c1971087f56cd062d198a9b3938bf1718a3180323b84c2daf63",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/postanovleniya-mari-el",
+      "title": "Постановления Избирательной комиссии Республики Марий Эл",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/postanovleniya-mari-el/",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/postanovleniya-mari-el",
+        "retrievedAt": "2026-09-04T03:30:23.083141+00:00",
+        "status": 200,
+        "sha256": "9035dab186a9474723f402447bc6da73c737edfe294b8adc7ceaaec337211df3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/sodeystvie-komissiyam/index.php",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/sodeystvie-komissiyam/index.php",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/sodeystvie-komissiyam/index.php",
+        "retrievedAt": "2026-09-04T03:30:23.589352+00:00",
+        "status": 200,
+        "sha256": "4126b2c1e78093a9ad2a5a48d3a0aca1b1426971e68c4c21d4e46f7fee54d0b9",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/informatsionnoe-obespechenie-vyborov/info_vybory.php",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/informatsionnoe-obespechenie-vyborov/info_vybory.php",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/informatsionnoe-obespechenie-vyborov/info_vybory.php",
+        "retrievedAt": "2026-09-04T03:30:24.140927+00:00",
+        "status": 200,
+        "sha256": "0e63d236c736cfd79df061cd311c3306038ba6e5d3918eac3ceb87a6e44ccc67",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/RCOIT/recom_RCOIT.php",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/RCOIT/recom_RCOIT.php",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/RCOIT/recom_RCOIT.php",
+        "retrievedAt": "2026-09-04T03:30:24.664438+00:00",
+        "status": 200,
+        "sha256": "c7db1ae174cf132025b2c1df632a70872327a2195354bc5c032844e2646ea84d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/index.php",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/index.php",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/index.php",
+        "retrievedAt": "2026-09-04T03:30:25.149831+00:00",
+        "status": 200,
+        "sha256": "a2d5e162fe3a38a457d6161213da5bf99d98e6927a8a101b1781d023fc254a76",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/kandidaty/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov/index.php",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/kandidaty/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov/index.php",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/kandidaty/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov/index.php",
+        "retrievedAt": "2026-09-04T03:30:25.610562+00:00",
+        "status": 200,
+        "sha256": "87e3574e9f05e288eee91df3eb6688ed460283ca9db2c417bc1ebeefeda56ac6",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/v-pomoshch-kandidatu/index.php",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/v-pomoshch-kandidatu/index.php",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/v-pomoshch-kandidatu/index.php",
+        "retrievedAt": "2026-09-04T03:30:27.966340+00:00",
+        "status": 200,
+        "sha256": "a7ca0b35f783e07c8aff0f1b568001dda254c28de14f535f4801371238f3a8a4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/izbiratelnye-fondy/izbiratelnye-fondy.php",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/izbiratelnye-fondy/izbiratelnye-fondy.php",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/izbiratelnye-fondy/izbiratelnye-fondy.php",
+        "retrievedAt": "2026-09-04T03:30:28.468573+00:00",
+        "status": 200,
+        "sha256": "a4c036bb32facaf824dadf5ece305ec3e9cad75e079f2366d3e9095afc066d1e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/finansovye-otchety/finansovye-otchety.php",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/finansovye-otchety/finansovye-otchety.php",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/finansovye-otchety/finansovye-otchety.php",
+        "retrievedAt": "2026-09-04T03:30:28.938526+00:00",
+        "status": 200,
+        "sha256": "348418e45b2eb782e0da2d8e4aa7faae8d77e1e37e5e57215070a60aaae636be",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/postanovleniya-mari-el/",
+      "title": "Постановления Избирательной комиссии Республики Марий Эл",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/postanovleniya-mari-el/",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/postanovleniya-mari-el/",
+        "retrievedAt": "2026-09-04T03:30:29.414143+00:00",
+        "status": 200,
+        "sha256": "9035dab186a9474723f402447bc6da73c737edfe294b8adc7ceaaec337211df3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/postanovleniya-mari-el/?PAGEN_1=2",
+      "title": "Постановления Избирательной комиссии Республики Марий Эл",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/postanovleniya-mari-el/?PAGEN_1=2",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/postanovleniya-mari-el/?PAGEN_1=2",
+        "retrievedAt": "2026-09-04T03:30:30.483786+00:00",
+        "status": 200,
+        "sha256": "95023437cc50e5d100a4697ffac2275928d7d613e47a04a72562fd6eaf4d8abd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/postanovleniya-mari-el/?PAGEN_1=3",
+      "title": "Постановления Избирательной комиссии Республики Марий Эл",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/postanovleniya-mari-el/?PAGEN_1=3",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/postanovleniya-mari-el/?PAGEN_1=3",
+        "retrievedAt": "2026-09-04T03:30:31.744673+00:00",
+        "status": 200,
+        "sha256": "50b4df4bed27ee763c550a74685d4021a9e93822b6d069af0d67210509e80c6c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/postanovleniya-mari-el/?PAGEN_1=4",
+      "title": "Постановления Избирательной комиссии Республики Марий Эл",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/postanovleniya-mari-el/?PAGEN_1=4",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/postanovleniya-mari-el/?PAGEN_1=4",
+        "retrievedAt": "2026-09-04T03:30:32.312076+00:00",
+        "status": 200,
+        "sha256": "a55333322acef19f625a1bcefe33657789cf696db0c64abf4e807c12f37859c8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/postanovleniya-mari-el/?SHOWALL_1=1",
+      "title": "Постановления Избирательной комиссии Республики Марий Эл",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/postanovleniya-mari-el/?SHOWALL_1=1",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/postanovleniya-mari-el/?SHOWALL_1=1",
+        "retrievedAt": "2026-09-04T03:30:32.948069+00:00",
+        "status": 200,
+        "sha256": "89804cebc4c3765753a6eae60d8d2c3696bbb3053f236575a765ad7c53ec64fe",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/sodeystvie-komissiyam/",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/sodeystvie-komissiyam/",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/sodeystvie-komissiyam/",
+        "retrievedAt": "2026-09-04T03:30:33.467871+00:00",
+        "status": 200,
+        "sha256": "4126b2c1e78093a9ad2a5a48d3a0aca1b1426971e68c4c21d4e46f7fee54d0b9",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/informatsionnoe-obespechenie-vyborov/obyavlenie-smi-setevye-izdaniya.php",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/informatsionnoe-obespechenie-vyborov/obyavlenie-smi-setevye-izdaniya.php",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/informatsionnoe-obespechenie-vyborov/obyavlenie-smi-setevye-izdaniya.php",
+        "retrievedAt": "2026-09-04T03:30:33.925158+00:00",
+        "status": 200,
+        "sha256": "b3c8e1ab6eb00ed1f5e7cd4509705a3ba6d73719fad57adc34209568e9945ef2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/informatsionnoe-obespechenie-vyborov/zherebevka/zherebevka.php",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/informatsionnoe-obespechenie-vyborov/zherebevka/zherebevka.php",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/informatsionnoe-obespechenie-vyborov/zherebevka/zherebevka.php",
+        "retrievedAt": "2026-09-04T03:30:34.386939+00:00",
+        "status": 200,
+        "sha256": "00d06b8f78913cbe3c1a1c7a92e2d1deff77c42133a47fa771a7493b70932b75",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/",
+        "retrievedAt": "2026-09-04T03:30:35.873680+00:00",
+        "status": 200,
+        "sha256": "a2d5e162fe3a38a457d6161213da5bf99d98e6927a8a101b1781d023fc254a76",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/mobilnyy-izbiratel/index.php",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/mobilnyy-izbiratel/index.php",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/mobilnyy-izbiratel/index.php",
+        "retrievedAt": "2026-09-04T03:30:36.334676+00:00",
+        "status": 200,
+        "sha256": "1edf5a2173f0e93080b908afb3eb706abb5ea581295670ed039094b726fa1e21",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/izbirateley-ne-imeyushchikh-registratsii-po-mestu-zhitelstva.php",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/izbirateley-ne-imeyushchikh-registratsii-po-mestu-zhitelstva.php",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/izbirateley-ne-imeyushchikh-registratsii-po-mestu-zhitelstva.php",
+        "retrievedAt": "2026-09-04T03:30:36.817695+00:00",
+        "status": 200,
+        "sha256": "3984801652204e72c7fc25000ec3df3b9bfff22279ccbcc58cedd8f8087eed80",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/karty-wi-fi.php",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/karty-wi-fi.php",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/karty-wi-fi.php",
+        "retrievedAt": "2026-09-04T03:30:37.309775+00:00",
+        "status": 200,
+        "sha256": "6d7404eb84e7bec729fdc4486387a308bd4f9480f75f50b41a4e1aabaf484a03",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/kandidaty/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov/",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/kandidaty/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov/",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/kandidaty/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov/",
+        "retrievedAt": "2026-09-04T03:30:37.774569+00:00",
+        "status": 200,
+        "sha256": "87e3574e9f05e288eee91df3eb6688ed460283ca9db2c417bc1ebeefeda56ac6",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/v-pomoshch-kandidatu/",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/v-pomoshch-kandidatu/",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/v-pomoshch-kandidatu/",
+        "retrievedAt": "2026-09-04T03:30:38.242932+00:00",
+        "status": 200,
+        "sha256": "a7ca0b35f783e07c8aff0f1b568001dda254c28de14f535f4801371238f3a8a4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/v-pomoshch-kandidatu/spi-pamyatka.php",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/v-pomoshch-kandidatu/spi-pamyatka.php",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/v-pomoshch-kandidatu/spi-pamyatka.php",
+        "retrievedAt": "2026-09-04T03:30:38.713469+00:00",
+        "status": 200,
+        "sha256": "dd04a2668e6cc180e1237cc518f20c1a71ba675de324a50758aa1c6d33f5e8c7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/postanovleniya-mari-el/?SHOWALL_1=0",
+      "title": "Постановления Избирательной комиссии Республики Марий Эл",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/postanovleniya-mari-el/?SHOWALL_1=0",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/postanovleniya-mari-el/?SHOWALL_1=0",
+        "retrievedAt": "2026-09-04T03:30:39.170111+00:00",
+        "status": 200,
+        "sha256": "9035dab186a9474723f402447bc6da73c737edfe294b8adc7ceaaec337211df3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/mobilnyy-izbiratel/",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/mobilnyy-izbiratel/",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/mobilnyy-izbiratel/",
+        "retrievedAt": "2026-09-04T03:30:39.627165+00:00",
+        "status": 200,
+        "sha256": "1edf5a2173f0e93080b908afb3eb706abb5ea581295670ed039094b726fa1e21",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/mobilnyy-izbiratel/grafik.php",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/mobilnyy-izbiratel/grafik.php",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/mobilnyy-izbiratel/grafik.php",
+        "retrievedAt": "2026-09-04T03:30:40.106088+00:00",
+        "status": 200,
+        "sha256": "01baf4a04fcbdb88f1df458489140835fa0bfa17a6e7ccabac4fbb504261c4cf",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/mobilnyy-izbiratel/informatsiya-o-poryadke-golosovaniya.php",
+      "title": "Единый день голосования 20 сентября 2026",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/mobilnyy-izbiratel/informatsiya-o-poryadke-golosovaniya.php",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/izbiratelyam/mobilnyy-izbiratel/informatsiya-o-poryadke-golosovaniya.php",
+        "retrievedAt": "2026-09-04T03:30:40.594713+00:00",
+        "status": 200,
+        "sha256": "d14ca5a641be64a8170a977f084ff39088ce798d6b3d07ead92a86a535858407",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "inaccuracy",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных кандидатами",
+      "officialUrl": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/kandidaty/недостоверные%20сведения.docx",
+      "sourcePages": [
+        {
+          "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/kandidaty/kandidaty.php",
+          "title": "Единый день голосования 20 сентября 2026",
+          "depth": 0,
+          "sha256": "86c72e7c95b8097fcd480f92c872ce915e703d984ccbb308264778926faf9bf3"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "13f9bd6bda204bdcfae702c11da33c6217dfd305545db25fc5e57b368a9e3c17",
+      "originalFilename": "недостоверные сведения.docx",
+      "filename": "Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами-13f9bd6bda20.docx",
+      "path": "files/Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами-13f9bd6bda20.docx",
+      "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "byteLength": 17119,
+      "sha256": "13f9bd6bda204bdcfae702c11da33c6217dfd305545db25fc5e57b368a9e3c17",
+      "source": {
+        "url": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/kandidaty/%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F.docx",
+        "requestKey": "http://mari-el.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG_20-09-2026/gosduma-9-sozyva/mariyskiy-odnomandatnyy-izbiratelnyy-okrug/kandidaty/недостоверные%20сведения.docx",
+        "retrievedAt": "2026-09-04T03:30:41.622726+00:00",
+        "status": 200,
+        "sha256": "13f9bd6bda204bdcfae702c11da33c6217dfd305545db25fc5e57b368a9e3c17",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:29.096747+00:00",
+  "region": {
+    "code": "1",
+    "name": "Республика Адыгея (Адыгея)",
+    "seedUrls": [
+      "http://adygei.izbirkom.ru/vybory-2026/gosduma-2026-/kandidatam.php",
+      "http://adygei.izbirkom.ru/vybory-2026/gosduma-2026-/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-kandidatov-i-raskhodovanii-etikh-sredstv.php",
+      "http://adygei.izbirkom.ru/vybory-2026/gosduma-2026-/.php"
+    ],
+    "allowedHosts": [
+      "adygei.izbirkom.ru",
+      "www.adygei.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 5,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://adygei.izbirkom.ru/vybory-2026/gosduma-2026-/kandidatam.php",
+      "title": "",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://adygei.izbirkom.ru/vybory-2026/gosduma-2026-/kandidatam.php",
+        "requestKey": "http://adygei.izbirkom.ru/vybory-2026/gosduma-2026-/kandidatam.php",
+        "retrievedAt": "2026-09-04T03:28:15.407719+00:00",
+        "status": 200,
+        "sha256": "5a0b5158c6bb5a748ccdc294c2783e52bf97985b0050822df61698c528cf9ae3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://adygei.izbirkom.ru/vybory-2026/gosduma-2026-/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-kandidatov-i-raskhodovanii-etikh-sredstv.php",
+      "title": "",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://adygei.izbirkom.ru/vybory-2026/gosduma-2026-/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-kandidatov-i-raskhodovanii-etikh-sredstv.php",
+        "requestKey": "http://adygei.izbirkom.ru/vybory-2026/gosduma-2026-/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-kandidatov-i-raskhodovanii-etikh-sredstv.php",
+        "retrievedAt": "2026-09-04T03:28:15.961720+00:00",
+        "status": 200,
+        "sha256": "ad3a3af758398db5a49e35cda7712b4d6f56687c7f583cefa9be24902b9b2a4f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://adygei.izbirkom.ru/vybory-2026/gosduma-2026-/.php",
+      "title": "",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://adygei.izbirkom.ru/vybory-2026/gosduma-2026-/.php",
+        "requestKey": "http://adygei.izbirkom.ru/vybory-2026/gosduma-2026-/.php",
+        "retrievedAt": "2026-09-04T03:28:16.506867+00:00",
+        "status": 200,
+        "sha256": "96a24e138b82c795b13c9d817422db6eb3a8bf87c473445e02758319b13296a4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://adygei.izbirkom.ru/vybory-2026/gosduma-2026-/resheniya-tsik-duma.php",
+      "title": "",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://adygei.izbirkom.ru/vybory-2026/gosduma-2026-/resheniya-tsik-duma.php",
+        "requestKey": "http://adygei.izbirkom.ru/vybory-2026/gosduma-2026-/resheniya-tsik-duma.php",
+        "retrievedAt": "2026-09-04T03:28:18.698793+00:00",
+        "status": 200,
+        "sha256": "4dc2d079c7e6f4d3839f682a31d0b72d73be13a1d2d1526b6af227a0ba91a7c6",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://adygei.izbirkom.ru/vybory-2026/gosduma-2026-/informatsiannoe-obespechenie-vybogov-gd.php",
+      "title": "",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://adygei.izbirkom.ru/vybory-2026/gosduma-2026-/informatsiannoe-obespechenie-vybogov-gd.php",
+        "requestKey": "http://adygei.izbirkom.ru/vybory-2026/gosduma-2026-/informatsiannoe-obespechenie-vybogov-gd.php",
+        "retrievedAt": "2026-09-04T03:28:19.207656+00:00",
+        "status": 200,
+        "sha256": "e1eb9ba756390d249866cedb84bb9586620296dd7df4a7ca7de5e012d2d7ea10",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

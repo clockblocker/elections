@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:10.176399+00:00",
+  "region": {
+    "code": "62",
+    "name": "Рязанская область",
+    "seedUrls": [
+      "http://ryazan.izbirkom.ru/edinyy-den-golosovaniya/edg-2026/vybory%20v%20gos%20dymy/index.php",
+      "http://ryazan.izbirkom.ru/edinyy-den-golosovaniya/edg-2026/vybory%20v%20gos%20dymy/"
+    ],
+    "allowedHosts": [
+      "ryazan.izbirkom.ru",
+      "www.ryazan.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 2,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://ryazan.izbirkom.ru/edinyy-den-golosovaniya/edg-2026/vybory%20v%20gos%20dymy/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://ryazan.izbirkom.ru/edinyy-den-golosovaniya/edg-2026/vybory%20v%20gos%20dymy/index.php",
+        "requestKey": "http://ryazan.izbirkom.ru/edinyy-den-golosovaniya/edg-2026/vybory%20v%20gos%20dymy/index.php",
+        "retrievedAt": "2026-09-04T03:39:45.059328+00:00",
+        "status": 200,
+        "sha256": "6f20fe8235b2b8f7911c4b631c488d3dfadb7a524ddaa0bf34f249570a5c186f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://ryazan.izbirkom.ru/edinyy-den-golosovaniya/edg-2026/vybory%20v%20gos%20dymy/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://ryazan.izbirkom.ru/edinyy-den-golosovaniya/edg-2026/vybory%20v%20gos%20dymy/",
+        "requestKey": "http://ryazan.izbirkom.ru/edinyy-den-golosovaniya/edg-2026/vybory%20v%20gos%20dymy/",
+        "retrievedAt": "2026-09-04T03:39:46.123919+00:00",
+        "status": 200,
+        "sha256": "6f20fe8235b2b8f7911c4b631c488d3dfadb7a524ddaa0bf34f249570a5c186f",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

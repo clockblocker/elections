@@ -1,0 +1,929 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:29.849221+00:00",
+  "region": {
+    "code": "11",
+    "name": "Республика Коми",
+    "seedUrls": [
+      "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/index.php",
+      "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsiya-dlya-kandidatov/",
+      "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/"
+    ],
+    "allowedHosts": [
+      "komi.izbirkom.ru",
+      "www.komi.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 39,
+  "documentCount": 3,
+  "documentCounts": {
+    "declaration": 2,
+    "inaccuracy": 1
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 4,
+      "explicitEmptyPageCount": 2,
+      "documentCount": 2
+    },
+    "inaccuracy": {
+      "signalPageCount": 2,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 1
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/index.php",
+        "retrievedAt": "2026-09-04T03:29:56.013642+00:00",
+        "status": 200,
+        "sha256": "c1071cc5fff8fdf92487d164681a19bf96e72c12113a783b21ec64684c6d87c5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsiya-dlya-kandidatov/",
+      "title": "Информация для кандидатов",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsiya-dlya-kandidatov/",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsiya-dlya-kandidatov/",
+        "retrievedAt": "2026-09-04T03:29:56.477618+00:00",
+        "status": 200,
+        "sha256": "680a4adb929be55d9742fcd83c925f8c08c10f167ec28b6fed54f32ac858d924",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/",
+      "title": "Сведения о кандидатах и политических партиях",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [
+        "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/informatsiya-o-vyyavlennykh-faktakh-nedostovernosti-svedeniy-predstavlennykh-kandidatami/приложение%20№3.pdf"
+      ],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/",
+        "retrievedAt": "2026-09-04T03:29:56.955767+00:00",
+        "status": 200,
+        "sha256": "f47cc8254f79d22afccfc40a8d707beba5b217d23e6af35d7aae2619533c2788",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/",
+        "retrievedAt": "2026-09-04T03:29:57.427341+00:00",
+        "status": 200,
+        "sha256": "c1071cc5fff8fdf92487d164681a19bf96e72c12113a783b21ec64684c6d87c5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/index.php",
+      "title": "Сведения о кандидатах и политических партиях",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [
+        "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/informatsiya-o-vyyavlennykh-faktakh-nedostovernosti-svedeniy-predstavlennykh-kandidatami/приложение%20№3.pdf"
+      ],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/index.php",
+        "retrievedAt": "2026-09-04T03:29:57.927157+00:00",
+        "status": 200,
+        "sha256": "f47cc8254f79d22afccfc40a8d707beba5b217d23e6af35d7aae2619533c2788",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/golosovanie-po-mestu-nakhozhdeniya/index.php",
+      "title": "Голосование по месту нахождения",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/golosovanie-po-mestu-nakhozhdeniya/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/golosovanie-po-mestu-nakhozhdeniya/index.php",
+        "retrievedAt": "2026-09-04T03:29:58.403277+00:00",
+        "status": 200,
+        "sha256": "3837cdfe11748a8c2a466ef9ff708e7f74c54eeaa074abebe042b108e647d080",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsiya-dlya-kandidatov/index.php",
+      "title": "Информация для кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsiya-dlya-kandidatov/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsiya-dlya-kandidatov/index.php",
+        "retrievedAt": "2026-09-04T03:29:58.868194+00:00",
+        "status": 200,
+        "sha256": "680a4adb929be55d9742fcd83c925f8c08c10f167ec28b6fed54f32ac858d924",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/postanovleniya-izbiratelnoy-komissii-respubliki-komi/index.php",
+      "title": "Постановления Избирательной комиссии Республики Коми",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/postanovleniya-izbiratelnoy-komissii-respubliki-komi/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/postanovleniya-izbiratelnoy-komissii-respubliki-komi/index.php",
+        "retrievedAt": "2026-09-04T03:29:59.376669+00:00",
+        "status": 200,
+        "sha256": "0ff8ece541e2da729640f4c4eb94f518843875eadb0024c1fe61c3991a9079c3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/index.php",
+      "title": "Информационное обеспечение",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/index.php",
+        "retrievedAt": "2026-09-04T03:29:59.858754+00:00",
+        "status": 200,
+        "sha256": "cc1579cef66b40f922c32f9c1567a612b7a24900abeda5e6a36b5e1158195ae0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov-zaregistrirovannykh-po-odnomandatnomu-izbiratelno/index.php",
+      "title": "Сведения о доходах и об имуществе кандидатов, зарегистрированных по одномандатному избирательному округу",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 2
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov-zaregistrirovannykh-po-odnomandatnomu-izbiratelno/СВЕДЕНИЯ%20о%20расходах%20КулешовСМ.pdf",
+        "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov-zaregistrirovannykh-po-odnomandatnomu-izbiratelno/Сведения%20о%20доходах%20и%20имуществе.pdf"
+      ],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov-zaregistrirovannykh-po-odnomandatnomu-izbiratelno/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov-zaregistrirovannykh-po-odnomandatnomu-izbiratelno/index.php",
+        "retrievedAt": "2026-09-04T03:30:03.550841+00:00",
+        "status": 200,
+        "sha256": "9171e589dd13c40bc856e13b2453e2ae35f9385cde8e077d2d95a77b647631d0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/informatsiya-o-postuplenii-sredstv-kandidatov/index.php",
+      "title": "Информация о поступлении средств на специальные избирательные счета кандидатов и расходовании этих средств",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/informatsiya-o-postuplenii-sredstv-kandidatov/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/informatsiya-o-postuplenii-sredstv-kandidatov/index.php",
+        "retrievedAt": "2026-09-04T03:30:04.043268+00:00",
+        "status": 200,
+        "sha256": "b2880ecee981da91565f009557dd8eff98e463ab89338d64f5710f65539acbd5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/informatsiya-o-postuplenii-sredstv-partii/index.php",
+      "title": "Информация о поступлении средств на специальные избирательные счета региональных отделений политических партий и расходовании этих средств",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/informatsiya-o-postuplenii-sredstv-partii/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/informatsiya-o-postuplenii-sredstv-partii/index.php",
+        "retrievedAt": "2026-09-04T03:30:04.529632+00:00",
+        "status": 200,
+        "sha256": "add59566c7724ed4429548b5d3677526b13b3bf8720d7ee757b8e71edde5a26f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/kopii-itogovykh-finansovykh-otchetov-kandidatov-po-odnomandatnomu-izbiratelnomu-okrugu/index.php",
+      "title": "Сведения о кандидатах и политических партиях",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/kopii-itogovykh-finansovykh-otchetov-kandidatov-po-odnomandatnomu-izbiratelnomu-okrugu/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/kopii-itogovykh-finansovykh-otchetov-kandidatov-po-odnomandatnomu-izbiratelnomu-okrugu/index.php",
+        "retrievedAt": "2026-09-04T03:30:04.999309+00:00",
+        "status": 200,
+        "sha256": "ba96e401ad3a0156663ea78b21e17c0d999c9d78d9e1c2ced5b44edefd75868d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/golosovanie-po-mestu-nakhozhdeniya/",
+      "title": "Голосование по месту нахождения",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/golosovanie-po-mestu-nakhozhdeniya/",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/golosovanie-po-mestu-nakhozhdeniya/",
+        "retrievedAt": "2026-09-04T03:30:05.449252+00:00",
+        "status": 200,
+        "sha256": "3837cdfe11748a8c2a466ef9ff708e7f74c54eeaa074abebe042b108e647d080",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/postanovleniya-izbiratelnoy-komissii-respubliki-komi/",
+      "title": "Постановления Избирательной комиссии Республики Коми",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/postanovleniya-izbiratelnoy-komissii-respubliki-komi/",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/postanovleniya-izbiratelnoy-komissii-respubliki-komi/",
+        "retrievedAt": "2026-09-04T03:30:05.929858+00:00",
+        "status": 200,
+        "sha256": "0ff8ece541e2da729640f4c4eb94f518843875eadb0024c1fe61c3991a9079c3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/",
+      "title": "Информационное обеспечение",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/",
+        "retrievedAt": "2026-09-04T03:30:06.394502+00:00",
+        "status": 200,
+        "sha256": "cc1579cef66b40f922c32f9c1567a612b7a24900abeda5e6a36b5e1158195ae0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/predvybornaya-agitatsiya-v-smi-provedenie-zherebevok/index.php",
+      "title": "Предвыборная агитация в СМИ, проведение жеребьевок",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/predvybornaya-agitatsiya-v-smi-provedenie-zherebevok/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/predvybornaya-agitatsiya-v-smi-provedenie-zherebevok/index.php",
+        "retrievedAt": "2026-09-04T03:30:06.888963+00:00",
+        "status": 200,
+        "sha256": "65e556e22a25a32fc5e097a1c9e4c08847c9165d0db391727eb0b9b6c642e172",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/vypusk-i-rasprostranenie-agitatsionnykh-materialov/index.php",
+      "title": "Выпуск и распространение агитационных материалов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/vypusk-i-rasprostranenie-agitatsionnykh-materialov/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/vypusk-i-rasprostranenie-agitatsionnykh-materialov/index.php",
+        "retrievedAt": "2026-09-04T03:30:07.389728+00:00",
+        "status": 200,
+        "sha256": "b81738dba3f67fd01504748abec32703c4d38ad68188019c4fa17633a6ddcc81",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/agitatsionnye-publichnye-meropriyatiya/index.php",
+      "title": "Агитационные публичные мероприятия",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/agitatsionnye-publichnye-meropriyatiya/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/agitatsionnye-publichnye-meropriyatiya/index.php",
+        "retrievedAt": "2026-09-04T03:30:07.872499+00:00",
+        "status": 200,
+        "sha256": "ad228239cc02cba7506f9aafb7f17ed634fb49b84f08ab9fa4472179ffa21450",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/index.php",
+      "title": "Рабочая группа по информационным спорам и иным вопросам информационного обеспечения выборов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/index.php",
+        "retrievedAt": "2026-09-04T03:30:08.373540+00:00",
+        "status": 200,
+        "sha256": "c93bec48c48318bb1f0e437af789a3613c3e9237278d3753c4a9ababdb4ada4d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/poligraficheskaya-produktsiya/index.php",
+      "title": "Полиграфическая продукция",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/poligraficheskaya-produktsiya/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/poligraficheskaya-produktsiya/index.php",
+        "retrievedAt": "2026-09-04T03:30:08.888636+00:00",
+        "status": 200,
+        "sha256": "12c404be0cec026ab9be27d174cd83d3ff11a79217449a70d1f0cce61df9123a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov-zaregistrirovannykh-po-odnomandatnomu-izbiratelno/",
+      "title": "Сведения о доходах и об имуществе кандидатов, зарегистрированных по одномандатному избирательному округу",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 2
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov-zaregistrirovannykh-po-odnomandatnomu-izbiratelno/СВЕДЕНИЯ%20о%20расходах%20КулешовСМ.pdf",
+        "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov-zaregistrirovannykh-po-odnomandatnomu-izbiratelno/Сведения%20о%20доходах%20и%20имуществе.pdf"
+      ],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov-zaregistrirovannykh-po-odnomandatnomu-izbiratelno/",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov-zaregistrirovannykh-po-odnomandatnomu-izbiratelno/",
+        "retrievedAt": "2026-09-04T03:30:09.381200+00:00",
+        "status": 200,
+        "sha256": "9171e589dd13c40bc856e13b2453e2ae35f9385cde8e077d2d95a77b647631d0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/informatsiya-o-postuplenii-sredstv-kandidatov/",
+      "title": "Информация о поступлении средств на специальные избирательные счета кандидатов и расходовании этих средств",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/informatsiya-o-postuplenii-sredstv-kandidatov/",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/informatsiya-o-postuplenii-sredstv-kandidatov/",
+        "retrievedAt": "2026-09-04T03:30:09.863626+00:00",
+        "status": 200,
+        "sha256": "b2880ecee981da91565f009557dd8eff98e463ab89338d64f5710f65539acbd5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/informatsiya-o-postuplenii-sredstv-partii/",
+      "title": "Информация о поступлении средств на специальные избирательные счета региональных отделений политических партий и расходовании этих средств",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/informatsiya-o-postuplenii-sredstv-partii/",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/informatsiya-o-postuplenii-sredstv-partii/",
+        "retrievedAt": "2026-09-04T03:30:10.335409+00:00",
+        "status": 200,
+        "sha256": "add59566c7724ed4429548b5d3677526b13b3bf8720d7ee757b8e71edde5a26f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/kopii-itogovykh-finansovykh-otchetov-kandidatov-po-odnomandatnomu-izbiratelnomu-okrugu/",
+      "title": "Сведения о кандидатах и политических партиях",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/kopii-itogovykh-finansovykh-otchetov-kandidatov-po-odnomandatnomu-izbiratelnomu-okrugu/",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/kopii-itogovykh-finansovykh-otchetov-kandidatov-po-odnomandatnomu-izbiratelnomu-okrugu/",
+        "retrievedAt": "2026-09-04T03:30:10.815574+00:00",
+        "status": 200,
+        "sha256": "ba96e401ad3a0156663ea78b21e17c0d999c9d78d9e1c2ced5b44edefd75868d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/predvybornaya-agitatsiya-v-smi-provedenie-zherebevok/",
+      "title": "Предвыборная агитация в СМИ, проведение жеребьевок",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/predvybornaya-agitatsiya-v-smi-provedenie-zherebevok/",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/predvybornaya-agitatsiya-v-smi-provedenie-zherebevok/",
+        "retrievedAt": "2026-09-04T03:30:11.313003+00:00",
+        "status": 200,
+        "sha256": "65e556e22a25a32fc5e097a1c9e4c08847c9165d0db391727eb0b9b6c642e172",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/predvybornaya-agitatsiya-v-smi-provedenie-zherebevok/perechen-gosudarstvennykh-regionalnykh-respubliki-komi-i-munitsipalnykh-organizatsiy-teleradioveshch/index.php",
+      "title": "Перечень государственных региональных (Республики Коми) и муниципальных организаций телерадиовещания, государственных региональных (Республики Коми) и муниципальных периодических печатных изданий",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/predvybornaya-agitatsiya-v-smi-provedenie-zherebevok/perechen-gosudarstvennykh-regionalnykh-respubliki-komi-i-munitsipalnykh-organizatsiy-teleradioveshch/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/predvybornaya-agitatsiya-v-smi-provedenie-zherebevok/perechen-gosudarstvennykh-regionalnykh-respubliki-komi-i-munitsipalnykh-organizatsiy-teleradioveshch/index.php",
+        "retrievedAt": "2026-09-04T03:30:11.796171+00:00",
+        "status": 200,
+        "sha256": "9a6494332240c595492aa36ded5c8299eaa3bd06082cb679a99395ed9eaa4e2a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/predvybornaya-agitatsiya-v-smi-provedenie-zherebevok/efirnoe-vremya/index.php",
+      "title": "Эфирное время",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/predvybornaya-agitatsiya-v-smi-provedenie-zherebevok/efirnoe-vremya/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/predvybornaya-agitatsiya-v-smi-provedenie-zherebevok/efirnoe-vremya/index.php",
+        "retrievedAt": "2026-09-04T03:30:12.295989+00:00",
+        "status": 200,
+        "sha256": "36ac0822f60df0ee5173aaa96685f62a95959cfc3f5afadd8adce8842299cd8f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/predvybornaya-agitatsiya-v-smi-provedenie-zherebevok/pechatnaya-ploshchad/index.php",
+      "title": "Печатная площадь",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/predvybornaya-agitatsiya-v-smi-provedenie-zherebevok/pechatnaya-ploshchad/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/predvybornaya-agitatsiya-v-smi-provedenie-zherebevok/pechatnaya-ploshchad/index.php",
+        "retrievedAt": "2026-09-04T03:30:12.792933+00:00",
+        "status": 200,
+        "sha256": "43a78f5382ac75ddbc124729f7bb909767829a48d2f038e6ae17d978a6184ed5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/vypusk-i-rasprostranenie-agitatsionnykh-materialov/",
+      "title": "Выпуск и распространение агитационных материалов",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/vypusk-i-rasprostranenie-agitatsionnykh-materialov/",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/vypusk-i-rasprostranenie-agitatsionnykh-materialov/",
+        "retrievedAt": "2026-09-04T03:30:13.248804+00:00",
+        "status": 200,
+        "sha256": "b81738dba3f67fd01504748abec32703c4d38ad68188019c4fa17633a6ddcc81",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/agitatsionnye-publichnye-meropriyatiya/",
+      "title": "Агитационные публичные мероприятия",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/agitatsionnye-publichnye-meropriyatiya/",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/agitatsionnye-publichnye-meropriyatiya/",
+        "retrievedAt": "2026-09-04T03:30:13.713898+00:00",
+        "status": 200,
+        "sha256": "ad228239cc02cba7506f9aafb7f17ed634fb49b84f08ab9fa4472179ffa21450",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/",
+      "title": "Рабочая группа по информационным спорам и иным вопросам информационного обеспечения выборов",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/",
+        "retrievedAt": "2026-09-04T03:30:14.191198+00:00",
+        "status": 200,
+        "sha256": "c93bec48c48318bb1f0e437af789a3613c3e9237278d3753c4a9ababdb4ada4d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/zasedanie-12-08-2026-g/index.php",
+      "title": "Заседание 12.08.2026 г.",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/zasedanie-12-08-2026-g/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/zasedanie-12-08-2026-g/index.php",
+        "retrievedAt": "2026-09-04T03:30:14.725941+00:00",
+        "status": 200,
+        "sha256": "ab01cf7ba7547ca1cccd9efbaadfaea930049ea9c609dffe4dc855dd7ec954e6",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/zasedanie-17-08-2026-g/index.php",
+      "title": "Рабочая группа по информационным спорам и иным вопросам информационного обеспечения выборов",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/zasedanie-17-08-2026-g/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/zasedanie-17-08-2026-g/index.php",
+        "retrievedAt": "2026-09-04T03:30:15.307167+00:00",
+        "status": 200,
+        "sha256": "4c36e8c7b636ee9c91e5f5edbc2415a3306ff468c529569751b479f64957f76b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/zasedanie-24-08-2026-g/index.php",
+      "title": "Рабочая группа по информационным спорам и иным вопросам информационного обеспечения выборов",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/zasedanie-24-08-2026-g/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/zasedanie-24-08-2026-g/index.php",
+        "retrievedAt": "2026-09-04T03:30:15.813283+00:00",
+        "status": 200,
+        "sha256": "7812313521ffa7ceddc2fcdc25018db1dd36324bd5b320795d4c3ea19c5b227e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/zasedanie-27-08-2026-g/index.php",
+      "title": "Рабочая группа по информационным спорам и иным вопросам информационного обеспечения выборов",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/zasedanie-27-08-2026-g/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/zasedanie-27-08-2026-g/index.php",
+        "retrievedAt": "2026-09-04T03:30:16.273175+00:00",
+        "status": 200,
+        "sha256": "eb856effbd1331da3e5834ef959f782ec8eb2df7347b541fe836a34d3d723d06",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/zasedanie-28-08-2026-g/index.php",
+      "title": "Рабочая группа по информационным спорам и иным вопросам информационного обеспечения выборов",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/zasedanie-28-08-2026-g/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/zasedanie-28-08-2026-g/index.php",
+        "retrievedAt": "2026-09-04T03:30:16.764728+00:00",
+        "status": 200,
+        "sha256": "d47ef8ddb1891c0fd3338b8524489d75e1f2235f6cd6af7c9057d88992c44bd6",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/zasedanie-31-08-2026-g/index.php",
+      "title": "Рабочая группа по информационным спорам и иным вопросам информационного обеспечения выборов",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/zasedanie-31-08-2026-g/index.php",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/rabochaya-gruppa-po-informatsionnym-sporam-i-inym-voprosam-informatsionnogo-obespecheniya-vyborov/zasedanie-31-08-2026-g/index.php",
+        "retrievedAt": "2026-09-04T03:30:17.301247+00:00",
+        "status": 200,
+        "sha256": "884406222541e1e80513cc373c164e7ae41d8534fd1d7ee6da4794400218be1f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/poligraficheskaya-produktsiya/",
+      "title": "Полиграфическая продукция",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/poligraficheskaya-produktsiya/",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/informatsionnoe-obespechenie/poligraficheskaya-produktsiya/",
+        "retrievedAt": "2026-09-04T03:30:17.816595+00:00",
+        "status": 200,
+        "sha256": "12c404be0cec026ab9be27d174cd83d3ff11a79217449a70d1f0cce61df9123a",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "Сведения о расходах кандидата, его супруги (супруга) и несовершеннолетних детей по каждой сделке по приобретению земельного участка, другого объекта недвижимости, транспортного средства, ценных бумаг (долей участия, паев в уставных (складочных) капиталах организаций), цифровых финансовых активов, цифровой валюты и об источниках получения средств, за счет которых совершена сделка, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов, глав муниципальных округов и глав городских округов - Кулешов Семён Михайлович",
+      "officialUrl": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov-zaregistrirovannykh-po-odnomandatnomu-izbiratelno/СВЕДЕНИЯ%20о%20расходах%20КулешовСМ.pdf",
+      "sourcePages": [
+        {
+          "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov-zaregistrirovannykh-po-odnomandatnomu-izbiratelno/index.php",
+          "title": "Сведения о доходах и об имуществе кандидатов, зарегистрированных по одномандатному избирательному округу",
+          "depth": 1,
+          "sha256": "9171e589dd13c40bc856e13b2453e2ae35f9385cde8e077d2d95a77b647631d0"
+        },
+        {
+          "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov-zaregistrirovannykh-po-odnomandatnomu-izbiratelno/",
+          "title": "Сведения о доходах и об имуществе кандидатов, зарегистрированных по одномандатному избирательному округу",
+          "depth": 2,
+          "sha256": "9171e589dd13c40bc856e13b2453e2ae35f9385cde8e077d2d95a77b647631d0"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "472ea092242a096e99451d1a4d390d5af1efd91599963c1d45d6a9bb600dd7f0",
+      "originalFilename": "СВЕДЕНИЯ о расходах КулешовСМ.pdf",
+      "filename": "Сведения_о_расходах_кандидата_его_супруги_супруга_и_несовершеннолетних_детей_по_каждой_сделке_по_при-472ea092242a.pdf",
+      "path": "files/Сведения_о_расходах_кандидата_его_супруги_супруга_и_несовершеннолетних_детей_по_каждой_сделке_по_при-472ea092242a.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 375145,
+      "sha256": "472ea092242a096e99451d1a4d390d5af1efd91599963c1d45d6a9bb600dd7f0",
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov-zaregistrirovannykh-po-odnomandatnomu-izbiratelno/%D0%A1%D0%92%D0%95%D0%94%D0%95%D0%9D%D0%98%D0%AF%20%D0%BE%20%D1%80%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%B0%D1%85%20%D0%9A%D1%83%D0%BB%D0%B5%D1%88%D0%BE%D0%B2%D0%A1%D0%9C.pdf",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov-zaregistrirovannykh-po-odnomandatnomu-izbiratelno/СВЕДЕНИЯ%20о%20расходах%20КулешовСМ.pdf",
+        "retrievedAt": "2026-09-04T03:30:18.888274+00:00",
+        "status": 200,
+        "sha256": "472ea092242a096e99451d1a4d390d5af1efd91599963c1d45d6a9bb600dd7f0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату на праве собственности, о счетах (вкладах) в банках, ценных бамагах",
+      "officialUrl": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov-zaregistrirovannykh-po-odnomandatnomu-izbiratelno/Сведения%20о%20доходах%20и%20имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov-zaregistrirovannykh-po-odnomandatnomu-izbiratelno/index.php",
+          "title": "Сведения о доходах и об имуществе кандидатов, зарегистрированных по одномандатному избирательному округу",
+          "depth": 1,
+          "sha256": "9171e589dd13c40bc856e13b2453e2ae35f9385cde8e077d2d95a77b647631d0"
+        },
+        {
+          "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov-zaregistrirovannykh-po-odnomandatnomu-izbiratelno/",
+          "title": "Сведения о доходах и об имуществе кандидатов, зарегистрированных по одномандатному избирательному округу",
+          "depth": 2,
+          "sha256": "9171e589dd13c40bc856e13b2453e2ae35f9385cde8e077d2d95a77b647631d0"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "fd33dc27a5f39e764a49f92292f1196fc3cdb41e6e5933dc6509214eddd7e689",
+      "originalFilename": "Сведения о доходах и имуществе.pdf",
+      "filename": "Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащем_кандидату_на_праве_собственности-fd33dc27a5f3.pdf",
+      "path": "files/Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащем_кандидату_на_праве_собственности-fd33dc27a5f3.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 83824,
+      "sha256": "fd33dc27a5f39e764a49f92292f1196fc3cdb41e6e5933dc6509214eddd7e689",
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov-zaregistrirovannykh-po-odnomandatnomu-izbiratelno/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85%20%D0%B8%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/svedeniya-o-dokhodakh-i-ob-imushchestve-kandidatov-zaregistrirovannykh-po-odnomandatnomu-izbiratelno/Сведения%20о%20доходах%20и%20имуществе.pdf",
+        "retrievedAt": "2026-09-04T03:30:19.317507+00:00",
+        "status": 200,
+        "sha256": "fd33dc27a5f39e764a49f92292f1196fc3cdb41e6e5933dc6509214eddd7e689",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Информация о выявленных фактах недостоверности сведений, представленных кандидатами",
+      "officialUrl": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/informatsiya-o-vyyavlennykh-faktakh-nedostovernosti-svedeniy-predstavlennykh-kandidatami/приложение%20№3.pdf",
+      "sourcePages": [
+        {
+          "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/",
+          "title": "Сведения о кандидатах и политических партиях",
+          "depth": 0,
+          "sha256": "f47cc8254f79d22afccfc40a8d707beba5b217d23e6af35d7aae2619533c2788"
+        },
+        {
+          "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/index.php",
+          "title": "Сведения о кандидатах и политических партиях",
+          "depth": 1,
+          "sha256": "f47cc8254f79d22afccfc40a8d707beba5b217d23e6af35d7aae2619533c2788"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "7611fa687a4a80bf3fe743e90901cdc46ceee13ad9d4871194df5ad5a39671e9",
+      "originalFilename": "приложение №3.pdf",
+      "filename": "Информация_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами-7611fa687a4a.pdf",
+      "path": "files/Информация_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами-7611fa687a4a.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 393549,
+      "sha256": "7611fa687a4a80bf3fe743e90901cdc46ceee13ad9d4871194df5ad5a39671e9",
+      "source": {
+        "url": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/informatsiya-o-vyyavlennykh-faktakh-nedostovernosti-svedeniy-predstavlennykh-kandidatami/%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%E2%84%963.pdf",
+        "requestKey": "http://komi.izbirkom.ru/vybory-i-referendumy/2026/vybory-deputatov-gosdumy-devyatogo-sozyva/svedeniya-o-kandidatakh-i-politicheskikh-partiyakh/informatsiya-o-vyyavlennykh-faktakh-nedostovernosti-svedeniy-predstavlennykh-kandidatami/приложение%20№3.pdf",
+        "retrievedAt": "2026-09-04T03:30:18.355179+00:00",
+        "status": 200,
+        "sha256": "7611fa687a4a80bf3fe743e90901cdc46ceee13ad9d4871194df5ad5a39671e9",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

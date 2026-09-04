@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:30.919898+00:00",
+  "region": {
+    "code": "19",
+    "name": "Республика Хакасия",
+    "seedUrls": [
+      "http://khakas.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-god/edg-2026/gosduma/khakasskiy-odnomandatnyy-izbiratelnyy-okrug-40.php",
+      "http://khakas.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-god/edg-2026/gosduma/svedeniya-o-kandidatakh.php",
+      "http://khakas.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-god/edg-2026/gosduma/postanovleniya-izbirkoma-khakasii.php"
+    ],
+    "allowedHosts": [
+      "khakas.izbirkom.ru",
+      "www.khakas.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 3,
+  "documentCount": 2,
+  "documentCounts": {
+    "inaccuracy": 2
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 2,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 2
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://khakas.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-god/edg-2026/gosduma/khakasskiy-odnomandatnyy-izbiratelnyy-okrug-40.php",
+      "title": "Хакасский одномандатный избирательный округ №40",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://khakas.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-god/edg-2026/gosduma/khakasskiy-odnomandatnyy-izbiratelnyy-okrug-40.php",
+        "requestKey": "http://khakas.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-god/edg-2026/gosduma/khakasskiy-odnomandatnyy-izbiratelnyy-okrug-40.php",
+        "retrievedAt": "2026-09-04T03:34:51.659157+00:00",
+        "status": 200,
+        "sha256": "83a5f83f97dc55230a26bcfd8a93d43e0840f8607ca0af66751ae0dec1384033",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://khakas.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-god/edg-2026/gosduma/svedeniya-o-kandidatakh.php",
+      "title": "Сведения о кандидатах",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://khakas.izbirkom.ru/resheniya-izbiratelnoy-komissii/2026-god/164_57_8_svedeniya_pril.docx"
+      ],
+      "source": {
+        "url": "http://khakas.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-god/edg-2026/gosduma/svedeniya-o-kandidatakh.php",
+        "requestKey": "http://khakas.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-god/edg-2026/gosduma/svedeniya-o-kandidatakh.php",
+        "retrievedAt": "2026-09-04T03:34:52.332130+00:00",
+        "status": 200,
+        "sha256": "edeb19befb7a87e277430b5bca12c094172414c965fc66082d2548de268e8fbe",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://khakas.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-god/edg-2026/gosduma/postanovleniya-izbirkoma-khakasii.php",
+      "title": "Постановления Избиркома Хакасии",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://khakas.izbirkom.ru/resheniya-izbiratelnoy-komissii/2026-god/164_57_8_svedeniya.docx"
+      ],
+      "source": {
+        "url": "http://khakas.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-god/edg-2026/gosduma/postanovleniya-izbirkoma-khakasii.php",
+        "requestKey": "http://khakas.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-god/edg-2026/gosduma/postanovleniya-izbirkoma-khakasii.php",
+        "retrievedAt": "2026-09-04T03:34:53.111117+00:00",
+        "status": 200,
+        "sha256": "0683b902d41480b595c00dbdc20a60e5e93b06770646083a2bbe22fbb53daa13",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "inaccuracy",
+      "title": "Выписка из протокола заседания",
+      "officialUrl": "http://khakas.izbirkom.ru/resheniya-izbiratelnoy-komissii/2026-god/164_57_8_svedeniya.docx",
+      "sourcePages": [
+        {
+          "url": "http://khakas.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-god/edg-2026/gosduma/postanovleniya-izbirkoma-khakasii.php",
+          "title": "Постановления Избиркома Хакасии",
+          "depth": 0,
+          "sha256": "0683b902d41480b595c00dbdc20a60e5e93b06770646083a2bbe22fbb53daa13"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "0fb30c5bd87d789d8ca31eb2bca9cfc92831c90ffc133f582303fce11e83acd4",
+      "originalFilename": "164_57_8_svedeniya.docx",
+      "filename": "Выписка_из_протокола_заседания-0fb30c5bd87d.docx",
+      "path": "files/Выписка_из_протокола_заседания-0fb30c5bd87d.docx",
+      "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "byteLength": 34420,
+      "sha256": "0fb30c5bd87d789d8ca31eb2bca9cfc92831c90ffc133f582303fce11e83acd4",
+      "source": {
+        "url": "http://khakas.izbirkom.ru/resheniya-izbiratelnoy-komissii/2026-god/164_57_8_svedeniya.docx",
+        "requestKey": "http://khakas.izbirkom.ru/resheniya-izbiratelnoy-komissii/2026-god/164_57_8_svedeniya.docx",
+        "retrievedAt": "2026-09-04T03:45:07.645199+00:00",
+        "status": 200,
+        "sha256": "0fb30c5bd87d789d8ca31eb2bca9cfc92831c90ffc133f582303fce11e83acd4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Информация о выявленных фактах недостоверности сведений, представленных зарегистрированными кандидатами в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва, выдвинутыми по одномандатному избирательному округу Республика Хакасия – Хакасский одномандатный избирательный округ №40.",
+      "officialUrl": "http://khakas.izbirkom.ru/resheniya-izbiratelnoy-komissii/2026-god/164_57_8_svedeniya_pril.docx",
+      "sourcePages": [
+        {
+          "url": "http://khakas.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-god/edg-2026/gosduma/svedeniya-o-kandidatakh.php",
+          "title": "Сведения о кандидатах",
+          "depth": 0,
+          "sha256": "edeb19befb7a87e277430b5bca12c094172414c965fc66082d2548de268e8fbe"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "b78b6360ca268d3d9d547dc1b2371e37c6cfa2f782deadcfc84063c892dac301",
+      "originalFilename": "164_57_8_svedeniya_pril.docx",
+      "filename": "Информация_о_выявленных_фактах_недостоверности_сведений_представленных_зарегистрированными_кандидата-b78b6360ca26.docx",
+      "path": "files/Информация_о_выявленных_фактах_недостоверности_сведений_представленных_зарегистрированными_кандидата-b78b6360ca26.docx",
+      "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "byteLength": 32106,
+      "sha256": "b78b6360ca268d3d9d547dc1b2371e37c6cfa2f782deadcfc84063c892dac301",
+      "source": {
+        "url": "http://khakas.izbirkom.ru/resheniya-izbiratelnoy-komissii/2026-god/164_57_8_svedeniya_pril.docx",
+        "requestKey": "http://khakas.izbirkom.ru/resheniya-izbiratelnoy-komissii/2026-god/164_57_8_svedeniya_pril.docx",
+        "retrievedAt": "2026-09-04T03:34:55.792518+00:00",
+        "status": 200,
+        "sha256": "b78b6360ca268d3d9d547dc1b2371e37c6cfa2f782deadcfc84063c892dac301",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

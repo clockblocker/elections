@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:29.508696+00:00",
+  "region": {
+    "code": "9",
+    "name": "Карачаево-Черкесская Республика",
+    "seedUrls": [
+      "http://karachaev-cherkess.izbirkom.ru/edinyy-den-golosovaniya-20-09-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/"
+    ],
+    "allowedHosts": [
+      "karachaev-cherkess.izbirkom.ru",
+      "www.karachaev-cherkess.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 5,
+  "documentCount": 2,
+  "documentCounts": {
+    "declaration": 2
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 2,
+      "explicitEmptyPageCount": 1,
+      "documentCount": 2
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://karachaev-cherkess.izbirkom.ru/edinyy-den-golosovaniya-20-09-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+      "title": "Выборы депутатов Государственной Думы Федерального собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://karachaev-cherkess.izbirkom.ru/edinyy-den-golosovaniya-20-09-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+        "requestKey": "http://karachaev-cherkess.izbirkom.ru/edinyy-den-golosovaniya-20-09-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+        "retrievedAt": "2026-09-04T03:29:07.286301+00:00",
+        "status": 200,
+        "sha256": "7bcc59e0d098ca505ce785a5cb536385277620afb0329b7add0f92e53cf08354",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://karachaev-cherkess.izbirkom.ru/edinyy-den-golosovaniya-20-09-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/grafik-okruzhnoy-izbiratelnoy-komissii.php",
+      "title": "График окружной избирательной комиссии",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://karachaev-cherkess.izbirkom.ru/edinyy-den-golosovaniya-20-09-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/grafik-okruzhnoy-izbiratelnoy-komissii.php",
+        "requestKey": "http://karachaev-cherkess.izbirkom.ru/edinyy-den-golosovaniya-20-09-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/grafik-okruzhnoy-izbiratelnoy-komissii.php",
+        "retrievedAt": "2026-09-04T03:29:08.695091+00:00",
+        "status": 200,
+        "sha256": "68fa9abb160f6e293624e628b701bff926970179b8ae5caa2e85cab432a36bc5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://karachaev-cherkess.izbirkom.ru/edinyy-den-golosovaniya-20-09-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/normativnye-akty-okruzhnoy-izbiratelnoy-komissii.php",
+      "title": "Нормативные акты окружной избирательной комиссии",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://karachaev-cherkess.izbirkom.ru/edinyy-den-golosovaniya-20-09-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/normativnye-akty-okruzhnoy-izbiratelnoy-komissii.php",
+        "requestKey": "http://karachaev-cherkess.izbirkom.ru/edinyy-den-golosovaniya-20-09-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/normativnye-akty-okruzhnoy-izbiratelnoy-komissii.php",
+        "retrievedAt": "2026-09-04T03:29:10.430416+00:00",
+        "status": 200,
+        "sha256": "42f92dfc9e02a044ae3e070cf7035e4ce0ed847d927709613b40080e97829dc8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://karachaev-cherkess.izbirkom.ru/edinyy-den-golosovaniya-20-09-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/izbiratelnye-fondy-kandidatov.php",
+      "title": "Избирательные фонды кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://karachaev-cherkess.izbirkom.ru/edinyy-den-golosovaniya-20-09-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/izbiratelnye-fondy-kandidatov.php",
+        "requestKey": "http://karachaev-cherkess.izbirkom.ru/edinyy-den-golosovaniya-20-09-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/izbiratelnye-fondy-kandidatov.php",
+        "retrievedAt": "2026-09-04T03:29:12.670611+00:00",
+        "status": 200,
+        "sha256": "3a4ca214b080fcd4a628950060fb5e9f8d9aacfed5174933491bbff37aa06e06",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://karachaev-cherkess.izbirkom.ru/edinyy-den-golosovaniya-20-09-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-dokhodakh-i-raskhodakh-kandidatov.php",
+      "title": "Сведения о доходах и расходах кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 2
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://karachaev-cherkess.izbirkom.ru/upload/iblock/556/zdnkknwdz01nu6xmjc5ga6ahmv3p4gbh/Имущество и доходы.xls",
+        "http://karachaev-cherkess.izbirkom.ru/upload/iblock/d14/wq80dk1m5l18331ws0s5ucqdgcgt1ak8/Расходы.docx"
+      ],
+      "source": {
+        "url": "http://karachaev-cherkess.izbirkom.ru/edinyy-den-golosovaniya-20-09-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-dokhodakh-i-raskhodakh-kandidatov.php",
+        "requestKey": "http://karachaev-cherkess.izbirkom.ru/edinyy-den-golosovaniya-20-09-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-dokhodakh-i-raskhodakh-kandidatov.php",
+        "retrievedAt": "2026-09-04T03:29:13.155108+00:00",
+        "status": 200,
+        "sha256": "c88bcc8fd7845db7ffeef27080276ff2eea45182194de2fe718dc2756bc1fb82",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащим кандидату в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва...",
+      "officialUrl": "http://karachaev-cherkess.izbirkom.ru/upload/iblock/556/zdnkknwdz01nu6xmjc5ga6ahmv3p4gbh/Имущество и доходы.xls",
+      "sourcePages": [
+        {
+          "url": "http://karachaev-cherkess.izbirkom.ru/edinyy-den-golosovaniya-20-09-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-dokhodakh-i-raskhodakh-kandidatov.php",
+          "title": "Сведения о доходах и расходах кандидатов",
+          "depth": 1,
+          "sha256": "c88bcc8fd7845db7ffeef27080276ff2eea45182194de2fe718dc2756bc1fb82"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "8aa7af1992fe0ce6fb60acb70e601ea10095895774f200571ad5fc35a1ee0aa2",
+      "originalFilename": "Имущество и доходы.xls",
+      "filename": "Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащим_кандидату_в_депутаты_Государствен-8aa7af1992fe.xls",
+      "path": "files/Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащим_кандидату_в_депутаты_Государствен-8aa7af1992fe.xls",
+      "mediaType": "application/vnd.ms-excel",
+      "byteLength": 47104,
+      "sha256": "8aa7af1992fe0ce6fb60acb70e601ea10095895774f200571ad5fc35a1ee0aa2",
+      "source": {
+        "url": "http://karachaev-cherkess.izbirkom.ru/upload/iblock/556/zdnkknwdz01nu6xmjc5ga6ahmv3p4gbh/%D0%98%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%20%D0%B8%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D1%8B.xls",
+        "requestKey": "http://karachaev-cherkess.izbirkom.ru/upload/iblock/556/zdnkknwdz01nu6xmjc5ga6ahmv3p4gbh/Имущество и доходы.xls",
+        "retrievedAt": "2026-09-04T03:29:28.314823+00:00",
+        "status": 200,
+        "sha256": "8aa7af1992fe0ce6fb60acb70e601ea10095895774f200571ad5fc35a1ee0aa2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Сведения о расходах кандидата, его супруги (супруга) и несовершеннолетних детей по каждой сделке по приобретению земельного участка, другого объекта недвижимости, транспортного средства...",
+      "officialUrl": "http://karachaev-cherkess.izbirkom.ru/upload/iblock/d14/wq80dk1m5l18331ws0s5ucqdgcgt1ak8/Расходы.docx",
+      "sourcePages": [
+        {
+          "url": "http://karachaev-cherkess.izbirkom.ru/edinyy-den-golosovaniya-20-09-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-dokhodakh-i-raskhodakh-kandidatov.php",
+          "title": "Сведения о доходах и расходах кандидатов",
+          "depth": 1,
+          "sha256": "c88bcc8fd7845db7ffeef27080276ff2eea45182194de2fe718dc2756bc1fb82"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "0b095c8a0816ce709fd3fa271fb6f5885b5971e120f9ad3ba9ca7818f82afcbb",
+      "originalFilename": "Расходы.docx",
+      "filename": "Сведения_о_расходах_кандидата_его_супруги_супруга_и_несовершеннолетних_детей_по_каждой_сделке_по_при-0b095c8a0816.docx",
+      "path": "files/Сведения_о_расходах_кандидата_его_супруги_супруга_и_несовершеннолетних_детей_по_каждой_сделке_по_при-0b095c8a0816.docx",
+      "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "byteLength": 19330,
+      "sha256": "0b095c8a0816ce709fd3fa271fb6f5885b5971e120f9ad3ba9ca7818f82afcbb",
+      "source": {
+        "url": "http://karachaev-cherkess.izbirkom.ru/upload/iblock/d14/wq80dk1m5l18331ws0s5ucqdgcgt1ak8/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D1%8B.docx",
+        "requestKey": "http://karachaev-cherkess.izbirkom.ru/upload/iblock/d14/wq80dk1m5l18331ws0s5ucqdgcgt1ak8/Расходы.docx",
+        "retrievedAt": "2026-09-04T03:29:28.669287+00:00",
+        "status": 200,
+        "sha256": "0b095c8a0816ce709fd3fa271fb6f5885b5971e120f9ad3ba9ca7818f82afcbb",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

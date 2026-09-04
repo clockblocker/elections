@@ -1,0 +1,572 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:29.455475+00:00",
+  "region": {
+    "code": "8",
+    "name": "Республика Калмыкия",
+    "seedUrls": [
+      "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva.php"
+    ],
+    "allowedHosts": [
+      "kalmyk.izbirkom.ru",
+      "www.kalmyk.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 11,
+  "documentCount": 8,
+  "documentCounts": {
+    "declaration": 7,
+    "inaccuracy": 1
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 3,
+      "explicitEmptyPageCount": 1,
+      "documentCount": 7
+    },
+    "inaccuracy": {
+      "signalPageCount": 2,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 1
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva.php",
+        "requestKey": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva.php",
+        "retrievedAt": "2026-09-04T03:28:51.480464+00:00",
+        "status": 200,
+        "sha256": "f0f2a4c0602a5b1e4e65b9b84500a3879e8480e2c012ccf5ebf6e4f86e7472b3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/Выборы%20депутатов%20Государственной%20Думы%20девятого%20созва/Сведения%20о%20зарегистрированных%20кандидатах/svedeniya-o-zaregistrirovannykh-kandidatakh.php",
+      "title": "Сведения о зарегистрированных кандидатах",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%B4%D0%B5%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%B7%D0%B2%D0%B0/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D0%B7%D0%B0%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%D1%85/svedeniya-o-zaregistrirovannykh-kandidatakh.php",
+        "requestKey": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/Выборы%20депутатов%20Государственной%20Думы%20девятого%20созва/Сведения%20о%20зарегистрированных%20кандидатах/svedeniya-o-zaregistrirovannykh-kandidatakh.php",
+        "retrievedAt": "2026-09-04T03:28:53.910679+00:00",
+        "status": 200,
+        "sha256": "309d46c92381618d1a5d6cce4b8e4df5c5ee82f7232c4d3762217142a130c76c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/index.php",
+      "title": "Сведения о доходах и имуществе зарегистрированных кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 7,
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Бембеева%20М.Г.pdf",
+        "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Богатов%20М.А.pdf",
+        "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Васькина%20Г.В.pdf",
+        "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Зинченко%20Н.Н.pdf",
+        "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Соятиев%20Б.В.pdf",
+        "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Топорков%20А.С.pdf",
+        "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Французов%20В.А.pdf",
+        "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/недостоверность%20сведений%20кандидатов.docx"
+      ],
+      "source": {
+        "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/index.php",
+        "requestKey": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/index.php",
+        "retrievedAt": "2026-09-04T03:28:54.300182+00:00",
+        "status": 200,
+        "sha256": "3df4fe55d7efd09a4e93a5772f62a17c9a6838524980735dc3ab77a4d51d8e51",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/Выборы%20депутатов%20Государственной%20Думы%20девятого%20созва/Сведения%20о%20зарегистрированных%20кандидатах/bembeeva-migmir-garyaevna.php",
+      "title": "Бембеева Мигмир Гаряевна",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%B4%D0%B5%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%B7%D0%B2%D0%B0/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D0%B7%D0%B0%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%D1%85/bembeeva-migmir-garyaevna.php",
+        "requestKey": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/Выборы%20депутатов%20Государственной%20Думы%20девятого%20созва/Сведения%20о%20зарегистрированных%20кандидатах/bembeeva-migmir-garyaevna.php",
+        "retrievedAt": "2026-09-04T03:28:57.473248+00:00",
+        "status": 200,
+        "sha256": "8b386b03a1c2a3809d9f9ecc3ef685b52c5b506046e359e2b578e9ee0f8cd2af",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/Выборы%20депутатов%20Государственной%20Думы%20девятого%20созва/Сведения%20о%20зарегистрированных%20кандидатах/bogatov-mikhail-aleksandrovich.php",
+      "title": "Богатов Михаил Александрович",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%B4%D0%B5%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%B7%D0%B2%D0%B0/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D0%B7%D0%B0%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%D1%85/bogatov-mikhail-aleksandrovich.php",
+        "requestKey": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/Выборы%20депутатов%20Государственной%20Думы%20девятого%20созва/Сведения%20о%20зарегистрированных%20кандидатах/bogatov-mikhail-aleksandrovich.php",
+        "retrievedAt": "2026-09-04T03:28:57.933601+00:00",
+        "status": 200,
+        "sha256": "057585834ca8bd1a8bce0f3f93bf03fa2bb09a5a36d3bba01ad20767788a6be1",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/Выборы%20депутатов%20Государственной%20Думы%20девятого%20созва/Сведения%20о%20зарегистрированных%20кандидатах/vaskina-galina-vasilevna.php",
+      "title": "Васькина Галина Васильевна",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%B4%D0%B5%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%B7%D0%B2%D0%B0/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D0%B7%D0%B0%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%D1%85/vaskina-galina-vasilevna.php",
+        "requestKey": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/Выборы%20депутатов%20Государственной%20Думы%20девятого%20созва/Сведения%20о%20зарегистрированных%20кандидатах/vaskina-galina-vasilevna.php",
+        "retrievedAt": "2026-09-04T03:28:58.371700+00:00",
+        "status": 200,
+        "sha256": "74319366ad39050f278ed39f6862608777adb73244b56cb219ad0b3e723ce9e9",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/Выборы%20депутатов%20Государственной%20Думы%20девятого%20созва/Сведения%20о%20зарегистрированных%20кандидатах/zinchenko-natalya-nikolaevna.php",
+      "title": "Зинченко Наталья Николаевна",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%B4%D0%B5%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%B7%D0%B2%D0%B0/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D0%B7%D0%B0%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%D1%85/zinchenko-natalya-nikolaevna.php",
+        "requestKey": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/Выборы%20депутатов%20Государственной%20Думы%20девятого%20созва/Сведения%20о%20зарегистрированных%20кандидатах/zinchenko-natalya-nikolaevna.php",
+        "retrievedAt": "2026-09-04T03:28:58.832976+00:00",
+        "status": 200,
+        "sha256": "5aa8e888ed0ef3c8c3283624b7f6a2f286523608f4ae12d548caf0bdad4df986",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/Выборы%20депутатов%20Государственной%20Думы%20девятого%20созва/Сведения%20о%20зарегистрированных%20кандидатах/soyatiev-badma-vladimirovich.php",
+      "title": "Соятиев Бадма Владимирович",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%B4%D0%B5%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%B7%D0%B2%D0%B0/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D0%B7%D0%B0%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%D1%85/soyatiev-badma-vladimirovich.php",
+        "requestKey": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/Выборы%20депутатов%20Государственной%20Думы%20девятого%20созва/Сведения%20о%20зарегистрированных%20кандидатах/soyatiev-badma-vladimirovich.php",
+        "retrievedAt": "2026-09-04T03:28:59.319697+00:00",
+        "status": 200,
+        "sha256": "fc6f33f14f52b0d9c69f4d51dc95ae072afbac526128a170ce7120ee6be1a5d2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/Выборы%20депутатов%20Государственной%20Думы%20девятого%20созва/Сведения%20о%20зарегистрированных%20кандидатах/toporkov-aleksandr-sergeevich.php",
+      "title": "Топорков Александр Сергеевич",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%B4%D0%B5%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%B7%D0%B2%D0%B0/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D0%B7%D0%B0%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%D1%85/toporkov-aleksandr-sergeevich.php",
+        "requestKey": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/Выборы%20депутатов%20Государственной%20Думы%20девятого%20созва/Сведения%20о%20зарегистрированных%20кандидатах/toporkov-aleksandr-sergeevich.php",
+        "retrievedAt": "2026-09-04T03:28:59.753208+00:00",
+        "status": 200,
+        "sha256": "66317c3b240fbb93b31fc19b1d7a522e139fd1ff0ad3c6773a6b74ff13092ca8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/Выборы%20депутатов%20Государственной%20Думы%20девятого%20созва/Сведения%20о%20зарегистрированных%20кандидатах/frantsuzov-vadim-aleksandrovich.php",
+      "title": "Французов Вадим Александрович",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B%20%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D1%8B%20%D0%B4%D0%B5%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%B7%D0%B2%D0%B0/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D0%B7%D0%B0%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%D1%85/frantsuzov-vadim-aleksandrovich.php",
+        "requestKey": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/Выборы%20депутатов%20Государственной%20Думы%20девятого%20созва/Сведения%20о%20зарегистрированных%20кандидатах/frantsuzov-vadim-aleksandrovich.php",
+        "retrievedAt": "2026-09-04T03:29:00.164654+00:00",
+        "status": 200,
+        "sha256": "5dfd10c70d287eed9bae1df11055f72d4451e2b069193a5d88c02d5517f0e10a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/",
+      "title": "Сведения о доходах и имуществе зарегистрированных кандидатов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 7,
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Бембеева%20М.Г.pdf",
+        "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Богатов%20М.А.pdf",
+        "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Васькина%20Г.В.pdf",
+        "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Зинченко%20Н.Н.pdf",
+        "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Соятиев%20Б.В.pdf",
+        "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Топорков%20А.С.pdf",
+        "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Французов%20В.А.pdf",
+        "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/недостоверность%20сведений%20кандидатов.docx"
+      ],
+      "source": {
+        "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/",
+        "requestKey": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/",
+        "retrievedAt": "2026-09-04T03:29:00.577172+00:00",
+        "status": 200,
+        "sha256": "3df4fe55d7efd09a4e93a5772f62a17c9a6838524980735dc3ab77a4d51d8e51",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "Бембеева М.Г.",
+      "officialUrl": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Бембеева%20М.Г.pdf",
+      "sourcePages": [
+        {
+          "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/index.php",
+          "title": "Сведения о доходах и имуществе зарегистрированных кандидатов",
+          "depth": 1,
+          "sha256": "3df4fe55d7efd09a4e93a5772f62a17c9a6838524980735dc3ab77a4d51d8e51"
+        },
+        {
+          "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/",
+          "title": "Сведения о доходах и имуществе зарегистрированных кандидатов",
+          "depth": 2,
+          "sha256": "3df4fe55d7efd09a4e93a5772f62a17c9a6838524980735dc3ab77a4d51d8e51"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "8e10eeb4adaefce9183e8fe1327f22ff49afca1545b97811c1fad895ac3c606a",
+      "originalFilename": "Бембеева М.Г.pdf",
+      "filename": "Бембеева_М.Г-8e10eeb4adae.pdf",
+      "path": "files/Бембеева_М.Г-8e10eeb4adae.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 303317,
+      "sha256": "8e10eeb4adaefce9183e8fe1327f22ff49afca1545b97811c1fad895ac3c606a",
+      "source": {
+        "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/%D0%91%D0%B5%D0%BC%D0%B1%D0%B5%D0%B5%D0%B2%D0%B0%20%D0%9C.%D0%93.pdf",
+        "requestKey": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Бембеева%20М.Г.pdf",
+        "retrievedAt": "2026-09-04T03:29:03.263836+00:00",
+        "status": 200,
+        "sha256": "8e10eeb4adaefce9183e8fe1327f22ff49afca1545b97811c1fad895ac3c606a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Богатов М.А.",
+      "officialUrl": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Богатов%20М.А.pdf",
+      "sourcePages": [
+        {
+          "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/index.php",
+          "title": "Сведения о доходах и имуществе зарегистрированных кандидатов",
+          "depth": 1,
+          "sha256": "3df4fe55d7efd09a4e93a5772f62a17c9a6838524980735dc3ab77a4d51d8e51"
+        },
+        {
+          "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/",
+          "title": "Сведения о доходах и имуществе зарегистрированных кандидатов",
+          "depth": 2,
+          "sha256": "3df4fe55d7efd09a4e93a5772f62a17c9a6838524980735dc3ab77a4d51d8e51"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "e21a9c5c6522b507dda0c66b8924f2a6da247bdf3735e73cc391f3d6ac1d0409",
+      "originalFilename": "Богатов М.А.pdf",
+      "filename": "Богатов_М.А-e21a9c5c6522.pdf",
+      "path": "files/Богатов_М.А-e21a9c5c6522.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 328690,
+      "sha256": "e21a9c5c6522b507dda0c66b8924f2a6da247bdf3735e73cc391f3d6ac1d0409",
+      "source": {
+        "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/%D0%91%D0%BE%D0%B3%D0%B0%D1%82%D0%BE%D0%B2%20%D0%9C.%D0%90.pdf",
+        "requestKey": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Богатов%20М.А.pdf",
+        "retrievedAt": "2026-09-04T03:29:03.789896+00:00",
+        "status": 200,
+        "sha256": "e21a9c5c6522b507dda0c66b8924f2a6da247bdf3735e73cc391f3d6ac1d0409",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Васькина Г.В.",
+      "officialUrl": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Васькина%20Г.В.pdf",
+      "sourcePages": [
+        {
+          "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/index.php",
+          "title": "Сведения о доходах и имуществе зарегистрированных кандидатов",
+          "depth": 1,
+          "sha256": "3df4fe55d7efd09a4e93a5772f62a17c9a6838524980735dc3ab77a4d51d8e51"
+        },
+        {
+          "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/",
+          "title": "Сведения о доходах и имуществе зарегистрированных кандидатов",
+          "depth": 2,
+          "sha256": "3df4fe55d7efd09a4e93a5772f62a17c9a6838524980735dc3ab77a4d51d8e51"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "937346ca1c7a48b125b6d2c0172a926c320370ecb892c6fd4d88fae481681d30",
+      "originalFilename": "Васькина Г.В.pdf",
+      "filename": "Васькина_Г.В-937346ca1c7a.pdf",
+      "path": "files/Васькина_Г.В-937346ca1c7a.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 304181,
+      "sha256": "937346ca1c7a48b125b6d2c0172a926c320370ecb892c6fd4d88fae481681d30",
+      "source": {
+        "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/%D0%92%D0%B0%D1%81%D1%8C%D0%BA%D0%B8%D0%BD%D0%B0%20%D0%93.%D0%92.pdf",
+        "requestKey": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Васькина%20Г.В.pdf",
+        "retrievedAt": "2026-09-04T03:29:04.291577+00:00",
+        "status": 200,
+        "sha256": "937346ca1c7a48b125b6d2c0172a926c320370ecb892c6fd4d88fae481681d30",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Зинченко Н.Н.",
+      "officialUrl": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Зинченко%20Н.Н.pdf",
+      "sourcePages": [
+        {
+          "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/index.php",
+          "title": "Сведения о доходах и имуществе зарегистрированных кандидатов",
+          "depth": 1,
+          "sha256": "3df4fe55d7efd09a4e93a5772f62a17c9a6838524980735dc3ab77a4d51d8e51"
+        },
+        {
+          "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/",
+          "title": "Сведения о доходах и имуществе зарегистрированных кандидатов",
+          "depth": 2,
+          "sha256": "3df4fe55d7efd09a4e93a5772f62a17c9a6838524980735dc3ab77a4d51d8e51"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "cf1ee6dbc391f84cd0ff8e449f31ee1aa807a705acc6407f218eae9def4e4bf9",
+      "originalFilename": "Зинченко Н.Н.pdf",
+      "filename": "Зинченко_Н.Н-cf1ee6dbc391.pdf",
+      "path": "files/Зинченко_Н.Н-cf1ee6dbc391.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 311239,
+      "sha256": "cf1ee6dbc391f84cd0ff8e449f31ee1aa807a705acc6407f218eae9def4e4bf9",
+      "source": {
+        "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/%D0%97%D0%B8%D0%BD%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%9D.%D0%9D.pdf",
+        "requestKey": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Зинченко%20Н.Н.pdf",
+        "retrievedAt": "2026-09-04T03:29:04.815442+00:00",
+        "status": 200,
+        "sha256": "cf1ee6dbc391f84cd0ff8e449f31ee1aa807a705acc6407f218eae9def4e4bf9",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Соятиев Б.В.",
+      "officialUrl": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Соятиев%20Б.В.pdf",
+      "sourcePages": [
+        {
+          "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/index.php",
+          "title": "Сведения о доходах и имуществе зарегистрированных кандидатов",
+          "depth": 1,
+          "sha256": "3df4fe55d7efd09a4e93a5772f62a17c9a6838524980735dc3ab77a4d51d8e51"
+        },
+        {
+          "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/",
+          "title": "Сведения о доходах и имуществе зарегистрированных кандидатов",
+          "depth": 2,
+          "sha256": "3df4fe55d7efd09a4e93a5772f62a17c9a6838524980735dc3ab77a4d51d8e51"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "0c55fcf54f6f20956d803af2928e70cac299b141426810e61b39d76e56cd1dca",
+      "originalFilename": "Соятиев Б.В.pdf",
+      "filename": "Соятиев_Б.В-0c55fcf54f6f.pdf",
+      "path": "files/Соятиев_Б.В-0c55fcf54f6f.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 310961,
+      "sha256": "0c55fcf54f6f20956d803af2928e70cac299b141426810e61b39d76e56cd1dca",
+      "source": {
+        "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/%D0%A1%D0%BE%D1%8F%D1%82%D0%B8%D0%B5%D0%B2%20%D0%91.%D0%92.pdf",
+        "requestKey": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Соятиев%20Б.В.pdf",
+        "retrievedAt": "2026-09-04T03:29:05.370816+00:00",
+        "status": 200,
+        "sha256": "0c55fcf54f6f20956d803af2928e70cac299b141426810e61b39d76e56cd1dca",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Топорков А.С.",
+      "officialUrl": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Топорков%20А.С.pdf",
+      "sourcePages": [
+        {
+          "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/index.php",
+          "title": "Сведения о доходах и имуществе зарегистрированных кандидатов",
+          "depth": 1,
+          "sha256": "3df4fe55d7efd09a4e93a5772f62a17c9a6838524980735dc3ab77a4d51d8e51"
+        },
+        {
+          "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/",
+          "title": "Сведения о доходах и имуществе зарегистрированных кандидатов",
+          "depth": 2,
+          "sha256": "3df4fe55d7efd09a4e93a5772f62a17c9a6838524980735dc3ab77a4d51d8e51"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "2e976b7e25049311869b78c46f9100568a12808838612ea38cb3a17148b17f37",
+      "originalFilename": "Топорков А.С.pdf",
+      "filename": "Топорков_А.С-2e976b7e2504.pdf",
+      "path": "files/Топорков_А.С-2e976b7e2504.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 281995,
+      "sha256": "2e976b7e25049311869b78c46f9100568a12808838612ea38cb3a17148b17f37",
+      "source": {
+        "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/%D0%A2%D0%BE%D0%BF%D0%BE%D1%80%D0%BA%D0%BE%D0%B2%20%D0%90.%D0%A1.pdf",
+        "requestKey": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Топорков%20А.С.pdf",
+        "retrievedAt": "2026-09-04T03:29:05.871395+00:00",
+        "status": 200,
+        "sha256": "2e976b7e25049311869b78c46f9100568a12808838612ea38cb3a17148b17f37",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Французов В.А.",
+      "officialUrl": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Французов%20В.А.pdf",
+      "sourcePages": [
+        {
+          "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/index.php",
+          "title": "Сведения о доходах и имуществе зарегистрированных кандидатов",
+          "depth": 1,
+          "sha256": "3df4fe55d7efd09a4e93a5772f62a17c9a6838524980735dc3ab77a4d51d8e51"
+        },
+        {
+          "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/",
+          "title": "Сведения о доходах и имуществе зарегистрированных кандидатов",
+          "depth": 2,
+          "sha256": "3df4fe55d7efd09a4e93a5772f62a17c9a6838524980735dc3ab77a4d51d8e51"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "d60c02ace4af14e6636c5f2ca766eddb75597a55cb7b9972cf469c5c3624abb2",
+      "originalFilename": "Французов В.А.pdf",
+      "filename": "Французов_В.А-d60c02ace4af.pdf",
+      "path": "files/Французов_В.А-d60c02ace4af.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 309077,
+      "sha256": "d60c02ace4af14e6636c5f2ca766eddb75597a55cb7b9972cf469c5c3624abb2",
+      "source": {
+        "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D0%BE%D0%B2%20%D0%92.%D0%90.pdf",
+        "requestKey": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/Французов%20В.А.pdf",
+        "retrievedAt": "2026-09-04T03:29:06.404409+00:00",
+        "status": 200,
+        "sha256": "d60c02ace4af14e6636c5f2ca766eddb75597a55cb7b9972cf469c5c3624abb2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных зарегистрированными кандидатами",
+      "officialUrl": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/недостоверность%20сведений%20кандидатов.docx",
+      "sourcePages": [
+        {
+          "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/index.php",
+          "title": "Сведения о доходах и имуществе зарегистрированных кандидатов",
+          "depth": 1,
+          "sha256": "3df4fe55d7efd09a4e93a5772f62a17c9a6838524980735dc3ab77a4d51d8e51"
+        },
+        {
+          "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/",
+          "title": "Сведения о доходах и имуществе зарегистрированных кандидатов",
+          "depth": 2,
+          "sha256": "3df4fe55d7efd09a4e93a5772f62a17c9a6838524980735dc3ab77a4d51d8e51"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "ab56cc2e0ff362c89c734c9ad62ff70cf52d03aacea1710070951231c3bbd1c7",
+      "originalFilename": "недостоверность сведений кандидатов.docx",
+      "filename": "Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_зарегистрированными_кандидатами-ab56cc2e0ff3.docx",
+      "path": "files/Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_зарегистрированными_кандидатами-ab56cc2e0ff3.docx",
+      "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "byteLength": 28571,
+      "sha256": "ab56cc2e0ff362c89c734c9ad62ff70cf52d03aacea1710070951231c3bbd1c7",
+      "source": {
+        "url": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2.docx",
+        "requestKey": "http://kalmyk.izbirkom.ru/vybory-v-edinyy-den-golosovaniya-2026/svedeniya-o-dokhodakh/недостоверность%20сведений%20кандидатов.docx",
+        "retrievedAt": "2026-09-04T03:29:06.739380+00:00",
+        "status": 200,
+        "sha256": "ab56cc2e0ff362c89c734c9ad62ff70cf52d03aacea1710070951231c3bbd1c7",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

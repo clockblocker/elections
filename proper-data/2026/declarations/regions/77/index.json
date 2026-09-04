@@ -1,0 +1,1074 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:26:14.208485+00:00",
+  "region": {
+    "code": "77",
+    "name": "Москва",
+    "seedUrls": [
+      "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/"
+    ],
+    "allowedHosts": [
+      "www.mosgorizbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 40,
+    "maxDepth": 2
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 17,
+  "documentCount": 20,
+  "documentCounts": {
+    "declaration": 16,
+    "inaccuracy": 4
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 16,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 16
+    },
+    "inaccuracy": {
+      "signalPageCount": 16,
+      "explicitEmptyPageCount": 12,
+      "documentCount": 4
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": []
+  },
+  "pages": [
+    {
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/",
+      "title": "Выборы депутатов в Госдуму — Мосгоризбирком",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/",
+        "requestKey": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/",
+        "retrievedAt": "2026-09-04T03:18:41.366202+00:00",
+        "status": 200,
+        "sha256": "3c14fb10b9fed7a831be14b8e27c69d8226c2f55d6e7703200ae4a09964b1c7a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-195/",
+      "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 195",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1
+      },
+      "explicitEmptyCategories": [
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [
+        "https://www.mosgorizbirkom.ru/documents/74809/CustomDocument_14a7f9e3-5c6b-4bc3-8e3b-f865e0a94e9d.pdf"
+      ],
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-195/",
+        "requestKey": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-195/",
+        "retrievedAt": "2026-09-04T03:18:47.112759+00:00",
+        "status": 200,
+        "sha256": "dae7bb9551c13fb3d6311428213a85019e82d49ed398fad26bc6a5b0600962dc",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-196/",
+      "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 196",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1,
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "https://www.mosgorizbirkom.ru/documents/74518/CustomDocument_89d6217f-333e-4b42-992c-766c68499668.pdf",
+        "https://www.mosgorizbirkom.ru/documents/74943/CustomDocument_d56a8171-6906-4099-926e-570f03974b39.pdf"
+      ],
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-196/",
+        "requestKey": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-196/",
+        "retrievedAt": "2026-09-04T03:18:48.830048+00:00",
+        "status": 200,
+        "sha256": "1c1462a44e46dff50d07cccccb70ba2baf11cca66990b971fed81d597e685cd2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-197/",
+      "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 197",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1
+      },
+      "explicitEmptyCategories": [
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [
+        "https://www.mosgorizbirkom.ru/documents/74327/CustomDocument_cfcb1cdb-d0b6-4d1f-a283-b99967ceeaa2.pdf"
+      ],
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-197/",
+        "requestKey": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-197/",
+        "retrievedAt": "2026-09-04T03:18:50.571300+00:00",
+        "status": 200,
+        "sha256": "0af83d4fb48ccda6305e55a7fe96593c35f6c94ded784d9a1b997ee5cced18a7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-198/",
+      "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 198",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1,
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "https://www.mosgorizbirkom.ru/documents/74217/CustomDocument_0fac389c-4919-4725-af77-a54ac5758e16.pdf",
+        "https://www.mosgorizbirkom.ru/documents/75015/CustomDocument_5f5fd0a3-99ac-496b-b1cd-30c68303eeb8.pdf"
+      ],
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-198/",
+        "requestKey": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-198/",
+        "retrievedAt": "2026-09-04T03:18:52.182959+00:00",
+        "status": 200,
+        "sha256": "796df183356df5774e9579564b3126835ffb0d985993c63b14a666fccd2f45ec",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-199/",
+      "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 199",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1
+      },
+      "explicitEmptyCategories": [
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [
+        "https://www.mosgorizbirkom.ru/documents/73782/CustomDocument_24f6041c-73a6-4598-b235-a9c829f76dfd.pdf"
+      ],
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-199/",
+        "requestKey": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-199/",
+        "retrievedAt": "2026-09-04T03:18:53.853624+00:00",
+        "status": 200,
+        "sha256": "4cd73fa1daaef613b0b266949bc9ef3fc04b7207211a41a309b90f778bac5720",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-200/",
+      "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 200",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1
+      },
+      "explicitEmptyCategories": [
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [
+        "https://www.mosgorizbirkom.ru/documents/73942/CustomDocument_8dc15a93-9d06-4fa0-ad53-43333636cea9.pdf"
+      ],
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-200/",
+        "requestKey": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-200/",
+        "retrievedAt": "2026-09-04T03:18:55.890953+00:00",
+        "status": 200,
+        "sha256": "0370d2757f09014cfd6ec32df717d58efd95de0711ad709d0e480fe57c799130",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+      "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 201",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1,
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "https://www.mosgorizbirkom.ru/documents/73807/CustomDocument_5fc97ac6-bde0-4ebd-a708-d6909bb3d1e7.pdf",
+        "https://www.mosgorizbirkom.ru/documents/74684/CustomDocument_72ef6408-ab2a-4878-b3a2-f5c67f26cecd.pdf"
+      ],
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+        "requestKey": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+        "retrievedAt": "2026-09-04T03:18:58.188867+00:00",
+        "status": 200,
+        "sha256": "7ec6fa3991790ce156d935492aeff11f58096e941bd6029775b2e6e3004b0c72",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+      "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 202",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1,
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "https://www.mosgorizbirkom.ru/documents/74136/CustomDocument_50bab0eb-16cc-4d93-9dc7-4a1349cf1093.pdf",
+        "https://www.mosgorizbirkom.ru/documents/75093/CustomDocument_eaf6823c-712b-4f2c-82df-4f9d2b827516.pdf"
+      ],
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+        "requestKey": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+        "retrievedAt": "2026-09-04T03:18:59.912045+00:00",
+        "status": 200,
+        "sha256": "9368453ebff2c5fd6b0410ebda178d0234b624a884c512ef7c0554e2b7d007ad",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-203/",
+      "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 203",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1
+      },
+      "explicitEmptyCategories": [
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [
+        "https://www.mosgorizbirkom.ru/documents/74262/CustomDocument_5dd675a4-046c-4044-9737-231a69a30837.pdf"
+      ],
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-203/",
+        "requestKey": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-203/",
+        "retrievedAt": "2026-09-04T03:19:01.762561+00:00",
+        "status": 200,
+        "sha256": "5408682842d0a12e2acb050cc39f386f120b7ae83955f954a6b1cc1e7ff71436",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-204/",
+      "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 204",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1
+      },
+      "explicitEmptyCategories": [
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [
+        "https://www.mosgorizbirkom.ru/documents/74320/CustomDocument_ad612bbe-92cd-4424-bc84-2835f4ccb8af.pdf"
+      ],
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-204/",
+        "requestKey": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-204/",
+        "retrievedAt": "2026-09-04T03:19:03.550736+00:00",
+        "status": 200,
+        "sha256": "5b489a841bfce485a92c613e4785f4b30f83c105f3ae90663f6d1727638dffde",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-205/",
+      "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 205",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1
+      },
+      "explicitEmptyCategories": [
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [
+        "https://www.mosgorizbirkom.ru/documents/73929/CustomDocument_58da975c-1d0b-4e1a-b53a-273ac2514290.pdf"
+      ],
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-205/",
+        "requestKey": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-205/",
+        "retrievedAt": "2026-09-04T03:19:05.411703+00:00",
+        "status": 200,
+        "sha256": "387d97dde1e386a37bdef601912b3d4583a27ec1f3a865e3ef97146dcd6263ed",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-206/",
+      "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 206",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1
+      },
+      "explicitEmptyCategories": [
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [
+        "https://www.mosgorizbirkom.ru/documents/74184/CustomDocument_38fea72f-eff6-49ed-be43-38f366ca42ce.pdf"
+      ],
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-206/",
+        "requestKey": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-206/",
+        "retrievedAt": "2026-09-04T03:19:07.409019+00:00",
+        "status": 200,
+        "sha256": "05a6b566f2f4c3a11eaa4f8313aba0d118acb9628f1ecc5e0ce981e9a5938d89",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-207/",
+      "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 207",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1
+      },
+      "explicitEmptyCategories": [
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [
+        "https://www.mosgorizbirkom.ru/documents/73773/CustomDocument_4fd24d30-c4bc-4e4b-be2f-3c02f81105b0.pdf"
+      ],
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-207/",
+        "requestKey": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-207/",
+        "retrievedAt": "2026-09-04T03:19:09.131150+00:00",
+        "status": 200,
+        "sha256": "343b932adf43e8e586a42f601724058e1d3321310111842d004d59f8639da8b2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-208/",
+      "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 208",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1
+      },
+      "explicitEmptyCategories": [
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [
+        "https://www.mosgorizbirkom.ru/documents/74537/CustomDocument_9d2dabc2-c789-4404-aa6d-7f3b1e2ccf2a.pdf"
+      ],
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-208/",
+        "requestKey": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-208/",
+        "retrievedAt": "2026-09-04T03:19:10.723062+00:00",
+        "status": 200,
+        "sha256": "295c9fe8d2478ffbf7ce592cbe9b0ebac1b89fe7050fba03b8b525a7053d77ce",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-209/",
+      "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 209",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1
+      },
+      "explicitEmptyCategories": [
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [
+        "https://www.mosgorizbirkom.ru/documents/73918/CustomDocument_3ede66d9-46cb-4408-bd3c-278dc68f174b.pdf"
+      ],
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-209/",
+        "requestKey": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-209/",
+        "retrievedAt": "2026-09-04T03:19:12.480322+00:00",
+        "status": 200,
+        "sha256": "384d43c3aeebd867d009148a023d0c55d08591619422acf9f81b761d782b1579",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-210/",
+      "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 210",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1
+      },
+      "explicitEmptyCategories": [
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [
+        "https://www.mosgorizbirkom.ru/documents/73941/CustomDocument_3b6777c1-4a50-4037-bd98-513c98b2d44b.pdf"
+      ],
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-210/",
+        "requestKey": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-210/",
+        "retrievedAt": "2026-09-04T03:19:14.244348+00:00",
+        "status": 200,
+        "sha256": "aea740a35cb569979e57712e25fa264d0cfc76b3e74d349a488cda8f1112ab20",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "Подлежащие опубликованию сведения о доходах и об имуществе зарегистрированных кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "officialUrl": "https://www.mosgorizbirkom.ru/documents/73773/CustomDocument_4fd24d30-c4bc-4e4b-be2f-3c02f81105b0.pdf",
+      "sourcePages": [
+        {
+          "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-207/",
+          "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 207",
+          "depth": 1,
+          "sha256": "343b932adf43e8e586a42f601724058e1d3321310111842d004d59f8639da8b2"
+        }
+      ],
+      "documentId": "638438757e3286c078cab70e890889e22d42014fad7ae7f3d8ee358cae7dc686",
+      "originalFilename": "CustomDocument_4fd24d30-c4bc-4e4b-be2f-3c02f81105b0.pdf",
+      "filename": "Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-638438757e32.pdf",
+      "path": "files/Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-638438757e32.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 4545785,
+      "sha256": "638438757e3286c078cab70e890889e22d42014fad7ae7f3d8ee358cae7dc686",
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/documents/73773/CustomDocument_4fd24d30-c4bc-4e4b-be2f-3c02f81105b0.pdf",
+        "requestKey": "https://www.mosgorizbirkom.ru/documents/73773/CustomDocument_4fd24d30-c4bc-4e4b-be2f-3c02f81105b0.pdf",
+        "retrievedAt": "2026-09-04T03:20:06.422643+00:00",
+        "status": 200,
+        "sha256": "638438757e3286c078cab70e890889e22d42014fad7ae7f3d8ee358cae7dc686",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Подлежащие опубликованию сведения о доходах и об имуществе зарегистрированных кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "officialUrl": "https://www.mosgorizbirkom.ru/documents/73782/CustomDocument_24f6041c-73a6-4598-b235-a9c829f76dfd.pdf",
+      "sourcePages": [
+        {
+          "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-199/",
+          "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 199",
+          "depth": 1,
+          "sha256": "4cd73fa1daaef613b0b266949bc9ef3fc04b7207211a41a309b90f778bac5720"
+        }
+      ],
+      "documentId": "7b55e89bc69f80196dbc27543644c2ea509bd1225088919feb158f1bcb7417cc",
+      "originalFilename": "CustomDocument_24f6041c-73a6-4598-b235-a9c829f76dfd.pdf",
+      "filename": "Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-7b55e89bc69f.pdf",
+      "path": "files/Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-7b55e89bc69f.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 1187158,
+      "sha256": "7b55e89bc69f80196dbc27543644c2ea509bd1225088919feb158f1bcb7417cc",
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/documents/73782/CustomDocument_24f6041c-73a6-4598-b235-a9c829f76dfd.pdf",
+        "requestKey": "https://www.mosgorizbirkom.ru/documents/73782/CustomDocument_24f6041c-73a6-4598-b235-a9c829f76dfd.pdf",
+        "retrievedAt": "2026-09-04T03:20:10.282668+00:00",
+        "status": 200,
+        "sha256": "7b55e89bc69f80196dbc27543644c2ea509bd1225088919feb158f1bcb7417cc",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Подлежащие опубликованию сведения о доходах и об имуществе зарегистрированных кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "officialUrl": "https://www.mosgorizbirkom.ru/documents/73807/CustomDocument_5fc97ac6-bde0-4ebd-a708-d6909bb3d1e7.pdf",
+      "sourcePages": [
+        {
+          "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+          "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 201",
+          "depth": 1,
+          "sha256": "7ec6fa3991790ce156d935492aeff11f58096e941bd6029775b2e6e3004b0c72"
+        }
+      ],
+      "documentId": "d372078bcde5713253a273186dbe7e9a449ce5b8811dcc8d0e38ce790d3c1e86",
+      "originalFilename": "CustomDocument_5fc97ac6-bde0-4ebd-a708-d6909bb3d1e7.pdf",
+      "filename": "Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-d372078bcde5.pdf",
+      "path": "files/Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-d372078bcde5.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 2298232,
+      "sha256": "d372078bcde5713253a273186dbe7e9a449ce5b8811dcc8d0e38ce790d3c1e86",
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/documents/73807/CustomDocument_5fc97ac6-bde0-4ebd-a708-d6909bb3d1e7.pdf",
+        "requestKey": "https://www.mosgorizbirkom.ru/documents/73807/CustomDocument_5fc97ac6-bde0-4ebd-a708-d6909bb3d1e7.pdf",
+        "retrievedAt": "2026-09-04T03:20:11.233992+00:00",
+        "status": 200,
+        "sha256": "d372078bcde5713253a273186dbe7e9a449ce5b8811dcc8d0e38ce790d3c1e86",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Подлежащие опубликованию сведения о доходах и об имуществе зарегистрированных кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "officialUrl": "https://www.mosgorizbirkom.ru/documents/73918/CustomDocument_3ede66d9-46cb-4408-bd3c-278dc68f174b.pdf",
+      "sourcePages": [
+        {
+          "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-209/",
+          "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 209",
+          "depth": 1,
+          "sha256": "384d43c3aeebd867d009148a023d0c55d08591619422acf9f81b761d782b1579"
+        }
+      ],
+      "documentId": "62da7bcf352b1a15d28e44ff5a0295c46199e5d79f3fbcc5435ff30276133953",
+      "originalFilename": "CustomDocument_3ede66d9-46cb-4408-bd3c-278dc68f174b.pdf",
+      "filename": "Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-62da7bcf352b.pdf",
+      "path": "files/Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-62da7bcf352b.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 445513,
+      "sha256": "62da7bcf352b1a15d28e44ff5a0295c46199e5d79f3fbcc5435ff30276133953",
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/documents/73918/CustomDocument_3ede66d9-46cb-4408-bd3c-278dc68f174b.pdf",
+        "requestKey": "https://www.mosgorizbirkom.ru/documents/73918/CustomDocument_3ede66d9-46cb-4408-bd3c-278dc68f174b.pdf",
+        "retrievedAt": "2026-09-04T03:20:11.950444+00:00",
+        "status": 200,
+        "sha256": "62da7bcf352b1a15d28e44ff5a0295c46199e5d79f3fbcc5435ff30276133953",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Подлежащие опубликованию сведения о доходах и об имуществе зарегистрированных кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "officialUrl": "https://www.mosgorizbirkom.ru/documents/73929/CustomDocument_58da975c-1d0b-4e1a-b53a-273ac2514290.pdf",
+      "sourcePages": [
+        {
+          "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-205/",
+          "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 205",
+          "depth": 1,
+          "sha256": "387d97dde1e386a37bdef601912b3d4583a27ec1f3a865e3ef97146dcd6263ed"
+        }
+      ],
+      "documentId": "18899e87425cdc1c07704967e27ddd8a7af0cc07816a22fb3bfa7bcaf9b935b7",
+      "originalFilename": "CustomDocument_58da975c-1d0b-4e1a-b53a-273ac2514290.pdf",
+      "filename": "Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-18899e87425c.pdf",
+      "path": "files/Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-18899e87425c.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 1396452,
+      "sha256": "18899e87425cdc1c07704967e27ddd8a7af0cc07816a22fb3bfa7bcaf9b935b7",
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/documents/73929/CustomDocument_58da975c-1d0b-4e1a-b53a-273ac2514290.pdf",
+        "requestKey": "https://www.mosgorizbirkom.ru/documents/73929/CustomDocument_58da975c-1d0b-4e1a-b53a-273ac2514290.pdf",
+        "retrievedAt": "2026-09-04T03:20:12.749982+00:00",
+        "status": 200,
+        "sha256": "18899e87425cdc1c07704967e27ddd8a7af0cc07816a22fb3bfa7bcaf9b935b7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Подлежащие опубликованию сведения о доходах и об имуществе зарегистрированных кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "officialUrl": "https://www.mosgorizbirkom.ru/documents/73941/CustomDocument_3b6777c1-4a50-4037-bd98-513c98b2d44b.pdf",
+      "sourcePages": [
+        {
+          "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-210/",
+          "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 210",
+          "depth": 1,
+          "sha256": "aea740a35cb569979e57712e25fa264d0cfc76b3e74d349a488cda8f1112ab20"
+        }
+      ],
+      "documentId": "7d831100f92d87620fdf0f709be852de473d7fb63df888b53bedf6afa9ce2638",
+      "originalFilename": "CustomDocument_3b6777c1-4a50-4037-bd98-513c98b2d44b.pdf",
+      "filename": "Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-7d831100f92d.pdf",
+      "path": "files/Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-7d831100f92d.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 449103,
+      "sha256": "7d831100f92d87620fdf0f709be852de473d7fb63df888b53bedf6afa9ce2638",
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/documents/73941/CustomDocument_3b6777c1-4a50-4037-bd98-513c98b2d44b.pdf",
+        "requestKey": "https://www.mosgorizbirkom.ru/documents/73941/CustomDocument_3b6777c1-4a50-4037-bd98-513c98b2d44b.pdf",
+        "retrievedAt": "2026-09-04T03:20:13.496495+00:00",
+        "status": 200,
+        "sha256": "7d831100f92d87620fdf0f709be852de473d7fb63df888b53bedf6afa9ce2638",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Подлежащие опубликованию сведения о доходах и об имуществе зарегистрированных кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "officialUrl": "https://www.mosgorizbirkom.ru/documents/73942/CustomDocument_8dc15a93-9d06-4fa0-ad53-43333636cea9.pdf",
+      "sourcePages": [
+        {
+          "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-200/",
+          "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 200",
+          "depth": 1,
+          "sha256": "0370d2757f09014cfd6ec32df717d58efd95de0711ad709d0e480fe57c799130"
+        }
+      ],
+      "documentId": "8ed679a798f3d04532ec057934c9ebdab2eee824dcaf6ce77ee769f94a242b08",
+      "originalFilename": "CustomDocument_8dc15a93-9d06-4fa0-ad53-43333636cea9.pdf",
+      "filename": "Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-8ed679a798f3.pdf",
+      "path": "files/Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-8ed679a798f3.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 1364639,
+      "sha256": "8ed679a798f3d04532ec057934c9ebdab2eee824dcaf6ce77ee769f94a242b08",
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/documents/73942/CustomDocument_8dc15a93-9d06-4fa0-ad53-43333636cea9.pdf",
+        "requestKey": "https://www.mosgorizbirkom.ru/documents/73942/CustomDocument_8dc15a93-9d06-4fa0-ad53-43333636cea9.pdf",
+        "retrievedAt": "2026-09-04T03:20:14.300038+00:00",
+        "status": 200,
+        "sha256": "8ed679a798f3d04532ec057934c9ebdab2eee824dcaf6ce77ee769f94a242b08",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Подлежащие опубликованию сведения о доходах и об имуществе зарегистрированных кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "officialUrl": "https://www.mosgorizbirkom.ru/documents/74136/CustomDocument_50bab0eb-16cc-4d93-9dc7-4a1349cf1093.pdf",
+      "sourcePages": [
+        {
+          "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+          "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 202",
+          "depth": 1,
+          "sha256": "9368453ebff2c5fd6b0410ebda178d0234b624a884c512ef7c0554e2b7d007ad"
+        }
+      ],
+      "documentId": "5d18720ebc7a0e0cce6535aff198e8ee4d5d018f103b6139e4572484fca12cbf",
+      "originalFilename": "CustomDocument_50bab0eb-16cc-4d93-9dc7-4a1349cf1093.pdf",
+      "filename": "Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-5d18720ebc7a.pdf",
+      "path": "files/Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-5d18720ebc7a.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 1330581,
+      "sha256": "5d18720ebc7a0e0cce6535aff198e8ee4d5d018f103b6139e4572484fca12cbf",
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/documents/74136/CustomDocument_50bab0eb-16cc-4d93-9dc7-4a1349cf1093.pdf",
+        "requestKey": "https://www.mosgorizbirkom.ru/documents/74136/CustomDocument_50bab0eb-16cc-4d93-9dc7-4a1349cf1093.pdf",
+        "retrievedAt": "2026-09-04T03:20:15.187658+00:00",
+        "status": 200,
+        "sha256": "5d18720ebc7a0e0cce6535aff198e8ee4d5d018f103b6139e4572484fca12cbf",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Подлежащие опубликованию сведения о доходах и об имуществе зарегистрированных кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "officialUrl": "https://www.mosgorizbirkom.ru/documents/74184/CustomDocument_38fea72f-eff6-49ed-be43-38f366ca42ce.pdf",
+      "sourcePages": [
+        {
+          "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-206/",
+          "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 206",
+          "depth": 1,
+          "sha256": "05a6b566f2f4c3a11eaa4f8313aba0d118acb9628f1ecc5e0ce981e9a5938d89"
+        }
+      ],
+      "documentId": "9209db5f8eb1ec31645c64bfebfa2713702cb3ec271de336dd44d40b6ab4a699",
+      "originalFilename": "CustomDocument_38fea72f-eff6-49ed-be43-38f366ca42ce.pdf",
+      "filename": "Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-9209db5f8eb1.pdf",
+      "path": "files/Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-9209db5f8eb1.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 1222162,
+      "sha256": "9209db5f8eb1ec31645c64bfebfa2713702cb3ec271de336dd44d40b6ab4a699",
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/documents/74184/CustomDocument_38fea72f-eff6-49ed-be43-38f366ca42ce.pdf",
+        "requestKey": "https://www.mosgorizbirkom.ru/documents/74184/CustomDocument_38fea72f-eff6-49ed-be43-38f366ca42ce.pdf",
+        "retrievedAt": "2026-09-04T03:20:15.982398+00:00",
+        "status": 200,
+        "sha256": "9209db5f8eb1ec31645c64bfebfa2713702cb3ec271de336dd44d40b6ab4a699",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Подлежащие опубликованию сведения о доходах и об имуществе зарегистрированных кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "officialUrl": "https://www.mosgorizbirkom.ru/documents/74217/CustomDocument_0fac389c-4919-4725-af77-a54ac5758e16.pdf",
+      "sourcePages": [
+        {
+          "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-198/",
+          "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 198",
+          "depth": 1,
+          "sha256": "796df183356df5774e9579564b3126835ffb0d985993c63b14a666fccd2f45ec"
+        }
+      ],
+      "documentId": "e25657eb6be22baeccf1d9c8c9de7521b120d9a36f07b3a44ee30fa909168a5a",
+      "originalFilename": "CustomDocument_0fac389c-4919-4725-af77-a54ac5758e16.pdf",
+      "filename": "Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-e25657eb6be2.pdf",
+      "path": "files/Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-e25657eb6be2.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 1043106,
+      "sha256": "e25657eb6be22baeccf1d9c8c9de7521b120d9a36f07b3a44ee30fa909168a5a",
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/documents/74217/CustomDocument_0fac389c-4919-4725-af77-a54ac5758e16.pdf",
+        "requestKey": "https://www.mosgorizbirkom.ru/documents/74217/CustomDocument_0fac389c-4919-4725-af77-a54ac5758e16.pdf",
+        "retrievedAt": "2026-09-04T03:20:16.861134+00:00",
+        "status": 200,
+        "sha256": "e25657eb6be22baeccf1d9c8c9de7521b120d9a36f07b3a44ee30fa909168a5a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Подлежащие опубликованию сведения о доходах и об имуществе зарегистрированных кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "officialUrl": "https://www.mosgorizbirkom.ru/documents/74262/CustomDocument_5dd675a4-046c-4044-9737-231a69a30837.pdf",
+      "sourcePages": [
+        {
+          "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-203/",
+          "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 203",
+          "depth": 1,
+          "sha256": "5408682842d0a12e2acb050cc39f386f120b7ae83955f954a6b1cc1e7ff71436"
+        }
+      ],
+      "documentId": "a9bcd93b534891ee936cb51cdcf7fdb8ca449123294826706262c45f774e751d",
+      "originalFilename": "CustomDocument_5dd675a4-046c-4044-9737-231a69a30837.pdf",
+      "filename": "Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-a9bcd93b5348.pdf",
+      "path": "files/Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-a9bcd93b5348.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 824881,
+      "sha256": "a9bcd93b534891ee936cb51cdcf7fdb8ca449123294826706262c45f774e751d",
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/documents/74262/CustomDocument_5dd675a4-046c-4044-9737-231a69a30837.pdf",
+        "requestKey": "https://www.mosgorizbirkom.ru/documents/74262/CustomDocument_5dd675a4-046c-4044-9737-231a69a30837.pdf",
+        "retrievedAt": "2026-09-04T03:20:17.706045+00:00",
+        "status": 200,
+        "sha256": "a9bcd93b534891ee936cb51cdcf7fdb8ca449123294826706262c45f774e751d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Подлежащие опубликованию сведения о доходах и об имуществе зарегистрированных кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "officialUrl": "https://www.mosgorizbirkom.ru/documents/74320/CustomDocument_ad612bbe-92cd-4424-bc84-2835f4ccb8af.pdf",
+      "sourcePages": [
+        {
+          "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-204/",
+          "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 204",
+          "depth": 1,
+          "sha256": "5b489a841bfce485a92c613e4785f4b30f83c105f3ae90663f6d1727638dffde"
+        }
+      ],
+      "documentId": "ab41c6c416b0e3fb8af83a46d62576ca53d5d8502428e50216c5742486a715fd",
+      "originalFilename": "CustomDocument_ad612bbe-92cd-4424-bc84-2835f4ccb8af.pdf",
+      "filename": "Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-ab41c6c416b0.pdf",
+      "path": "files/Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-ab41c6c416b0.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 2760081,
+      "sha256": "ab41c6c416b0e3fb8af83a46d62576ca53d5d8502428e50216c5742486a715fd",
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/documents/74320/CustomDocument_ad612bbe-92cd-4424-bc84-2835f4ccb8af.pdf",
+        "requestKey": "https://www.mosgorizbirkom.ru/documents/74320/CustomDocument_ad612bbe-92cd-4424-bc84-2835f4ccb8af.pdf",
+        "retrievedAt": "2026-09-04T03:20:18.526823+00:00",
+        "status": 200,
+        "sha256": "ab41c6c416b0e3fb8af83a46d62576ca53d5d8502428e50216c5742486a715fd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Подлежащие опубликованию сведения о доходах и об имуществе зарегистрированных кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "officialUrl": "https://www.mosgorizbirkom.ru/documents/74327/CustomDocument_cfcb1cdb-d0b6-4d1f-a283-b99967ceeaa2.pdf",
+      "sourcePages": [
+        {
+          "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-197/",
+          "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 197",
+          "depth": 1,
+          "sha256": "0af83d4fb48ccda6305e55a7fe96593c35f6c94ded784d9a1b997ee5cced18a7"
+        }
+      ],
+      "documentId": "13a00193f462c23dc95c85d2b46a7b5906c22883caa896af5800f17236d3e22c",
+      "originalFilename": "CustomDocument_cfcb1cdb-d0b6-4d1f-a283-b99967ceeaa2.pdf",
+      "filename": "Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-13a00193f462.pdf",
+      "path": "files/Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-13a00193f462.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 1047610,
+      "sha256": "13a00193f462c23dc95c85d2b46a7b5906c22883caa896af5800f17236d3e22c",
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/documents/74327/CustomDocument_cfcb1cdb-d0b6-4d1f-a283-b99967ceeaa2.pdf",
+        "requestKey": "https://www.mosgorizbirkom.ru/documents/74327/CustomDocument_cfcb1cdb-d0b6-4d1f-a283-b99967ceeaa2.pdf",
+        "retrievedAt": "2026-09-04T03:20:19.332190+00:00",
+        "status": 200,
+        "sha256": "13a00193f462c23dc95c85d2b46a7b5906c22883caa896af5800f17236d3e22c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Подлежащие опубликованию сведения о доходах и об имуществе зарегистрированных кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "officialUrl": "https://www.mosgorizbirkom.ru/documents/74518/CustomDocument_89d6217f-333e-4b42-992c-766c68499668.pdf",
+      "sourcePages": [
+        {
+          "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-196/",
+          "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 196",
+          "depth": 1,
+          "sha256": "1c1462a44e46dff50d07cccccb70ba2baf11cca66990b971fed81d597e685cd2"
+        }
+      ],
+      "documentId": "ff47a9c105209228bbd93c3cde2181cec8ba71f43c440aeec3d7e98e1960d93a",
+      "originalFilename": "CustomDocument_89d6217f-333e-4b42-992c-766c68499668.pdf",
+      "filename": "Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-ff47a9c10520.pdf",
+      "path": "files/Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-ff47a9c10520.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 1894207,
+      "sha256": "ff47a9c105209228bbd93c3cde2181cec8ba71f43c440aeec3d7e98e1960d93a",
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/documents/74518/CustomDocument_89d6217f-333e-4b42-992c-766c68499668.pdf",
+        "requestKey": "https://www.mosgorizbirkom.ru/documents/74518/CustomDocument_89d6217f-333e-4b42-992c-766c68499668.pdf",
+        "retrievedAt": "2026-09-04T03:20:27.715490+00:00",
+        "status": 200,
+        "sha256": "ff47a9c105209228bbd93c3cde2181cec8ba71f43c440aeec3d7e98e1960d93a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Подлежащие опубликованию сведения о доходах и об имуществе зарегистрированных кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "officialUrl": "https://www.mosgorizbirkom.ru/documents/74537/CustomDocument_9d2dabc2-c789-4404-aa6d-7f3b1e2ccf2a.pdf",
+      "sourcePages": [
+        {
+          "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-208/",
+          "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 208",
+          "depth": 1,
+          "sha256": "295c9fe8d2478ffbf7ce592cbe9b0ebac1b89fe7050fba03b8b525a7053d77ce"
+        }
+      ],
+      "documentId": "8a99b00d5ad707142038bbc63e82c60da4fcbed652ec4706b07403a31d97bf4b",
+      "originalFilename": "CustomDocument_9d2dabc2-c789-4404-aa6d-7f3b1e2ccf2a.pdf",
+      "filename": "Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-8a99b00d5ad7.pdf",
+      "path": "files/Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-8a99b00d5ad7.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 2782930,
+      "sha256": "8a99b00d5ad707142038bbc63e82c60da4fcbed652ec4706b07403a31d97bf4b",
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/documents/74537/CustomDocument_9d2dabc2-c789-4404-aa6d-7f3b1e2ccf2a.pdf",
+        "requestKey": "https://www.mosgorizbirkom.ru/documents/74537/CustomDocument_9d2dabc2-c789-4404-aa6d-7f3b1e2ccf2a.pdf",
+        "retrievedAt": "2026-09-04T03:21:49.213457+00:00",
+        "status": 200,
+        "sha256": "8a99b00d5ad707142038bbc63e82c60da4fcbed652ec4706b07403a31d97bf4b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Подлежащие опубликованию сведения о доходах и об имуществе зарегистрированных кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "officialUrl": "https://www.mosgorizbirkom.ru/documents/74809/CustomDocument_14a7f9e3-5c6b-4bc3-8e3b-f865e0a94e9d.pdf",
+      "sourcePages": [
+        {
+          "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-195/",
+          "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 195",
+          "depth": 1,
+          "sha256": "dae7bb9551c13fb3d6311428213a85019e82d49ed398fad26bc6a5b0600962dc"
+        }
+      ],
+      "documentId": "5e697dd067acf2e276254caed3d38836cf4bc7f0e1729710579c7d6c5249708f",
+      "originalFilename": "CustomDocument_14a7f9e3-5c6b-4bc3-8e3b-f865e0a94e9d.pdf",
+      "filename": "Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-5e697dd067ac.pdf",
+      "path": "files/Подлежащие_опубликованию_сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_в_депутаты-5e697dd067ac.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 498238,
+      "sha256": "5e697dd067acf2e276254caed3d38836cf4bc7f0e1729710579c7d6c5249708f",
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/documents/74809/CustomDocument_14a7f9e3-5c6b-4bc3-8e3b-f865e0a94e9d.pdf",
+        "requestKey": "https://www.mosgorizbirkom.ru/documents/74809/CustomDocument_14a7f9e3-5c6b-4bc3-8e3b-f865e0a94e9d.pdf",
+        "retrievedAt": "2026-09-04T03:21:50.704639+00:00",
+        "status": 200,
+        "sha256": "5e697dd067acf2e276254caed3d38836cf4bc7f0e1729710579c7d6c5249708f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных зарегистрированными кандидатами в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "officialUrl": "https://www.mosgorizbirkom.ru/documents/74684/CustomDocument_72ef6408-ab2a-4878-b3a2-f5c67f26cecd.pdf",
+      "sourcePages": [
+        {
+          "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-201/",
+          "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 201",
+          "depth": 1,
+          "sha256": "7ec6fa3991790ce156d935492aeff11f58096e941bd6029775b2e6e3004b0c72"
+        }
+      ],
+      "documentId": "c7b8d8a2a851b49ba64074e2033a938720f73d4215ab499de7f40cb852d25023",
+      "originalFilename": "CustomDocument_72ef6408-ab2a-4878-b3a2-f5c67f26cecd.pdf",
+      "filename": "Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_зарегистрированными_кандидатами-c7b8d8a2a851.pdf",
+      "path": "files/Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_зарегистрированными_кандидатами-c7b8d8a2a851.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 355904,
+      "sha256": "c7b8d8a2a851b49ba64074e2033a938720f73d4215ab499de7f40cb852d25023",
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/documents/74684/CustomDocument_72ef6408-ab2a-4878-b3a2-f5c67f26cecd.pdf",
+        "requestKey": "https://www.mosgorizbirkom.ru/documents/74684/CustomDocument_72ef6408-ab2a-4878-b3a2-f5c67f26cecd.pdf",
+        "retrievedAt": "2026-09-04T03:21:49.934324+00:00",
+        "status": 200,
+        "sha256": "c7b8d8a2a851b49ba64074e2033a938720f73d4215ab499de7f40cb852d25023",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных зарегистрированными кандидатами в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "officialUrl": "https://www.mosgorizbirkom.ru/documents/74943/CustomDocument_d56a8171-6906-4099-926e-570f03974b39.pdf",
+      "sourcePages": [
+        {
+          "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-196/",
+          "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 196",
+          "depth": 1,
+          "sha256": "1c1462a44e46dff50d07cccccb70ba2baf11cca66990b971fed81d597e685cd2"
+        }
+      ],
+      "documentId": "00fbecd9dbc3e1090024ad9c009b10c373605ee00309229f432573e8e4cf05d0",
+      "originalFilename": "CustomDocument_d56a8171-6906-4099-926e-570f03974b39.pdf",
+      "filename": "Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_зарегистрированными_кандидатами-00fbecd9dbc3.pdf",
+      "path": "files/Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_зарегистрированными_кандидатами-00fbecd9dbc3.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 651248,
+      "sha256": "00fbecd9dbc3e1090024ad9c009b10c373605ee00309229f432573e8e4cf05d0",
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/documents/74943/CustomDocument_d56a8171-6906-4099-926e-570f03974b39.pdf",
+        "requestKey": "https://www.mosgorizbirkom.ru/documents/74943/CustomDocument_d56a8171-6906-4099-926e-570f03974b39.pdf",
+        "retrievedAt": "2026-09-04T03:21:51.468630+00:00",
+        "status": 200,
+        "sha256": "00fbecd9dbc3e1090024ad9c009b10c373605ee00309229f432573e8e4cf05d0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных зарегистрированными кандидатами в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "officialUrl": "https://www.mosgorizbirkom.ru/documents/75015/CustomDocument_5f5fd0a3-99ac-496b-b1cd-30c68303eeb8.pdf",
+      "sourcePages": [
+        {
+          "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-198/",
+          "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 198",
+          "depth": 1,
+          "sha256": "796df183356df5774e9579564b3126835ffb0d985993c63b14a666fccd2f45ec"
+        }
+      ],
+      "documentId": "26ade8b02d1a942f402d212d0339f6c55d5f9b14f62064ccf9b1121565783106",
+      "originalFilename": "CustomDocument_5f5fd0a3-99ac-496b-b1cd-30c68303eeb8.pdf",
+      "filename": "Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_зарегистрированными_кандидатами-26ade8b02d1a.pdf",
+      "path": "files/Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_зарегистрированными_кандидатами-26ade8b02d1a.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 158585,
+      "sha256": "26ade8b02d1a942f402d212d0339f6c55d5f9b14f62064ccf9b1121565783106",
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/documents/75015/CustomDocument_5f5fd0a3-99ac-496b-b1cd-30c68303eeb8.pdf",
+        "requestKey": "https://www.mosgorizbirkom.ru/documents/75015/CustomDocument_5f5fd0a3-99ac-496b-b1cd-30c68303eeb8.pdf",
+        "retrievedAt": "2026-09-04T03:21:52.187210+00:00",
+        "status": 200,
+        "sha256": "26ade8b02d1a942f402d212d0339f6c55d5f9b14f62064ccf9b1121565783106",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных зарегистрированными кандидатами в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "officialUrl": "https://www.mosgorizbirkom.ru/documents/75093/CustomDocument_eaf6823c-712b-4f2c-82df-4f9d2b827516.pdf",
+      "sourcePages": [
+        {
+          "url": "https://www.mosgorizbirkom.ru/vybory/vibori-v-gosdumu/okruzhnaya-izbiratelnaya-komissiya-po-odnomandatnomu-izbiratelnomu-okrugu-202/",
+          "title": "Окружная избирательная комиссия по выборам депутата Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу № 202",
+          "depth": 1,
+          "sha256": "9368453ebff2c5fd6b0410ebda178d0234b624a884c512ef7c0554e2b7d007ad"
+        }
+      ],
+      "documentId": "4d86f70f103cbe694dffcdff7ff59217bd38dd263147057171bf98f1ca1a0510",
+      "originalFilename": "CustomDocument_eaf6823c-712b-4f2c-82df-4f9d2b827516.pdf",
+      "filename": "Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_зарегистрированными_кандидатами-4d86f70f103c.pdf",
+      "path": "files/Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_зарегистрированными_кандидатами-4d86f70f103c.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 737205,
+      "sha256": "4d86f70f103cbe694dffcdff7ff59217bd38dd263147057171bf98f1ca1a0510",
+      "source": {
+        "url": "https://www.mosgorizbirkom.ru/documents/75093/CustomDocument_eaf6823c-712b-4f2c-82df-4f9d2b827516.pdf",
+        "requestKey": "https://www.mosgorizbirkom.ru/documents/75093/CustomDocument_eaf6823c-712b-4f2c-82df-4f9d2b827516.pdf",
+        "retrievedAt": "2026-09-04T03:21:52.954082+00:00",
+        "status": 200,
+        "sha256": "4d86f70f103cbe694dffcdff7ff59217bd38dd263147057171bf98f1ca1a0510",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1632 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T04:03:13.234500+00:00",
+  "region": {
+    "code": "38",
+    "name": "Иркутская область",
+    "seedUrls": [
+      "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95/",
+      "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96/"
+    ],
+    "allowedHosts": [
+      "irkutsk.izbirkom.ru",
+      "www.irkutsk.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": false,
+  "truncated": false,
+  "pageCount": 13,
+  "documentCount": 41,
+  "documentCounts": {
+    "declaration": 38,
+    "inaccuracy": 3
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 12,
+      "explicitEmptyPageCount": 8,
+      "documentCount": 38
+    },
+    "inaccuracy": {
+      "signalPageCount": 6,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 3
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [
+      {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/Кутелев_95_Сведения_о_доходах_и_имуществе.pdf",
+        "category": "declaration",
+        "status": 404,
+        "error": "HTTP 404"
+      }
+    ],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95/",
+      "title": "Иркутский одномандатный избирательный округ № 95",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [
+        "http://irkutsk.izbirkom.ru/etc/2026/95_Выявленные-факты-недостоверных-сведений.pdf"
+      ],
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95/",
+        "requestKey": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95/",
+        "retrievedAt": "2026-09-04T03:44:07.203991+00:00",
+        "status": 200,
+        "sha256": "14e50c8cb6f22003e072dc5ae3e1d709a0150ed404e623f8e7f93f95051d1b34",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96/",
+      "title": "Ангарский одномандатный избирательный округ № 96",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [
+        "http://irkutsk.izbirkom.ru/etc/2026/96_Выявленные-факты-недостоверности-сведений.pdf"
+      ],
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96/",
+        "requestKey": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96/",
+        "retrievedAt": "2026-09-04T03:44:08.036898+00:00",
+        "status": 200,
+        "sha256": "c4596a6bd807046c41421bc6e37530f9418941b12d40e553a7ca9af95f296b14",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/",
+        "requestKey": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/",
+        "retrievedAt": "2026-09-04T03:44:10.478550+00:00",
+        "status": 200,
+        "sha256": "27da7eb1209471e4ecea552b2f7a1fa4a4f317acd4d03ec9411a1ac607ae269b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95/dokhod-imushchestv/",
+      "title": "Сведения о доходах и имуществе кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 11
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://irkutsk.izbirkom.ru/etc/2026/95_Духовников_Сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/95_Торопов_Сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/95_Харитоненко_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Анисимова_95_Сведениях_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Буев_95_Сведения_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Кутелев_95_Сведения_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Макуха_95_Сведения_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Матвеев_95_Сведения_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Матвеев_Павел_Анатольевич_Расходы.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Файзулин_95_Сведения_о_доходах_и_имуществе..pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Якубовский_95_Сведениях_о_доходах_и_имуществе.pdf"
+      ],
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95/dokhod-imushchestv/",
+        "requestKey": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95/dokhod-imushchestv/",
+        "retrievedAt": "2026-09-04T03:44:11.083335+00:00",
+        "status": 200,
+        "sha256": "d41d12358922266dedcf5db57f0c9e308483b312972589df58d1ece94c0b4872",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96/dokhodakh-imushchestv/",
+      "title": "Сведения о доходах и имуществе кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 11
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://irkutsk.izbirkom.ru/etc/2026/96_Журавлев_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/96_Логунов_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Алтынбаев_96_Сведения_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Ахмадулин_96_Сведениях_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Блошенко_96_Сведения_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Жарков_96_Сведения_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Краснов_96_Сведения_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Латынцев_96_Сведения_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Ли_96_Сведения_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Пономаренко_96_Сведения_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Труфанов_96_Сведения_о_доходах_и_имуществе.pdf"
+      ],
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96/dokhodakh-imushchestv/",
+        "requestKey": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96/dokhodakh-imushchestv/",
+        "retrievedAt": "2026-09-04T03:44:11.833218+00:00",
+        "status": 200,
+        "sha256": "c6ac2a41265db47132919c2f0e50903decc56d667fe5135da4c970fd4d14818c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95",
+      "title": "Иркутский одномандатный избирательный округ № 95",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [
+        "http://irkutsk.izbirkom.ru/etc/2026/95_Выявленные-факты-недостоверных-сведений.pdf"
+      ],
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95/",
+        "requestKey": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95",
+        "retrievedAt": "2026-09-04T03:44:15.682423+00:00",
+        "status": 200,
+        "sha256": "14e50c8cb6f22003e072dc5ae3e1d709a0150ed404e623f8e7f93f95051d1b34",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96",
+      "title": "Ангарский одномандатный избирательный округ № 96",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [
+        "http://irkutsk.izbirkom.ru/etc/2026/96_Выявленные-факты-недостоверности-сведений.pdf"
+      ],
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96/",
+        "requestKey": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96",
+        "retrievedAt": "2026-09-04T03:44:16.311140+00:00",
+        "status": 200,
+        "sha256": "c4596a6bd807046c41421bc6e37530f9418941b12d40e553a7ca9af95f296b14",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97",
+      "title": "Шелеховский одномандатный избирательный округ № 97",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [
+        "http://irkutsk.izbirkom.ru/etc/2026/97_Выявленные-факты-недостоверности-сведений.pdf"
+      ],
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97/",
+        "requestKey": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97",
+        "retrievedAt": "2026-09-04T03:44:17.000011+00:00",
+        "status": 200,
+        "sha256": "5f6c5b952309a6a78081688c4fe6cd7d1a6c4f9845336554e84c7afe745efddf",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/98",
+      "title": "Братский одномандатный избирательный округ № 98",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/98/",
+        "requestKey": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/98",
+        "retrievedAt": "2026-09-04T03:44:17.639008+00:00",
+        "status": 200,
+        "sha256": "7300e9608c7e95702d8189a7d99bc89dc1eb1076dbc15f39b4107a903ec4ab71",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97/",
+      "title": "Шелеховский одномандатный избирательный округ № 97",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [
+        "http://irkutsk.izbirkom.ru/etc/2026/97_Выявленные-факты-недостоверности-сведений.pdf"
+      ],
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97/",
+        "requestKey": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97/",
+        "retrievedAt": "2026-09-04T03:44:22.819447+00:00",
+        "status": 200,
+        "sha256": "5f6c5b952309a6a78081688c4fe6cd7d1a6c4f9845336554e84c7afe745efddf",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97/dokhodakh-imushchestv/",
+      "title": "Сведения о доходах и имуществе кандидатов",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 12
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://irkutsk.izbirkom.ru/etc/2026/97_Красовский_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Абатурова_97_Сведения_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Голышев_97_Сведения_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Казачков_97_Сведения_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Комарова_97_Сведения_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Липин_97_Сведениях_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Липин_Сергей_Николаевич_Расходы.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Мехоношин_97_Сведения_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Молчанов_97_Сведения_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Самороков_97_Сведения_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Сумароков_97_Сведения_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Тен_97_Сведения_о_доходах_и_имуществе.pdf"
+      ],
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97/dokhodakh-imushchestv/",
+        "requestKey": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97/dokhodakh-imushchestv/",
+        "retrievedAt": "2026-09-04T04:02:25.061863+00:00",
+        "status": 200,
+        "sha256": "60307710ae81b28c5b24335702e3dba96a9ff1febab1590f4db75ac5bbe89633",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/98/",
+      "title": "Братский одномандатный избирательный округ № 98",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/98/",
+        "requestKey": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/98/",
+        "retrievedAt": "2026-09-04T03:44:23.738912+00:00",
+        "status": 200,
+        "sha256": "7300e9608c7e95702d8189a7d99bc89dc1eb1076dbc15f39b4107a903ec4ab71",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/98/sved-o-dokh-i-imush/",
+      "title": "Сведения о доходах и имуществе кандидатов",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 5
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://irkutsk.izbirkom.ru/etc/2026/98_Антоненков_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/98_Яковлева_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Башкатова_98_Седения_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Зуев_98_Сведения_о_доходах_и_имуществе.pdf",
+        "http://irkutsk.izbirkom.ru/etc/2026/Игнатов_98_Сведения_о_доходах_и_имуществе.pdf"
+      ],
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/98/sved-o-dokh-i-imush/",
+        "requestKey": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/98/sved-o-dokh-i-imush/",
+        "retrievedAt": "2026-09-04T03:44:24.308646+00:00",
+        "status": 200,
+        "sha256": "329333049507d6c39ecbc9efb4cc8b5d3b543bfac6cc71251f1c9a928bb4fd29",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "Духовников Андрей Михайлович",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/95_Духовников_Сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95/dokhod-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "d41d12358922266dedcf5db57f0c9e308483b312972589df58d1ece94c0b4872"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "845c693373dc5c5a7f2bc8b46e874627795fe670bbd89a813d7114aa149dae01",
+      "originalFilename": "95_Духовников_Сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+      "filename": "Духовников_Андрей_Михайлович-845c693373dc.pdf",
+      "path": "files/Духовников_Андрей_Михайлович-845c693373dc.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 136713,
+      "sha256": "845c693373dc5c5a7f2bc8b46e874627795fe670bbd89a813d7114aa149dae01",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/95_%D0%94%D1%83%D1%85%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/95_Духовников_Сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "retrievedAt": "2026-09-04T03:44:26.424479+00:00",
+        "status": 200,
+        "sha256": "845c693373dc5c5a7f2bc8b46e874627795fe670bbd89a813d7114aa149dae01",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Торопов Михаил Михайлович",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/95_Торопов_Сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95/dokhod-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "d41d12358922266dedcf5db57f0c9e308483b312972589df58d1ece94c0b4872"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "e63275d87be3d85c0366b8e767a74c5224ddd5a51a6045fc20ee6c35b5695a90",
+      "originalFilename": "95_Торопов_Сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+      "filename": "Торопов_Михаил_Михайлович-e63275d87be3.pdf",
+      "path": "files/Торопов_Михаил_Михайлович-e63275d87be3.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 129545,
+      "sha256": "e63275d87be3d85c0366b8e767a74c5224ddd5a51a6045fc20ee6c35b5695a90",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/95_%D0%A2%D0%BE%D1%80%D0%BE%D0%BF%D0%BE%D0%B2_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/95_Торопов_Сведениях_о_доходах_и_имуществе_кандидатов.pdf",
+        "retrievedAt": "2026-09-04T03:44:26.900926+00:00",
+        "status": 200,
+        "sha256": "e63275d87be3d85c0366b8e767a74c5224ddd5a51a6045fc20ee6c35b5695a90",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Харитоненко Павел Владимирович",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/95_Харитоненко_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95/dokhod-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "d41d12358922266dedcf5db57f0c9e308483b312972589df58d1ece94c0b4872"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "c40e50488aa0b48c40729733b5a391976cf607df6c5439012c1fffa01b4e8104",
+      "originalFilename": "95_Харитоненко_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+      "filename": "Харитоненко_Павел_Владимирович-c40e50488aa0.pdf",
+      "path": "files/Харитоненко_Павел_Владимирович-c40e50488aa0.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 130518,
+      "sha256": "c40e50488aa0b48c40729733b5a391976cf607df6c5439012c1fffa01b4e8104",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/95_%D0%A5%D0%B0%D1%80%D0%B8%D1%82%D0%BE%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2_.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/95_Харитоненко_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+        "retrievedAt": "2026-09-04T03:44:27.608175+00:00",
+        "status": 200,
+        "sha256": "c40e50488aa0b48c40729733b5a391976cf607df6c5439012c1fffa01b4e8104",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Журавлев Аркадий Владимирович",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/96_Журавлев_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "c6ac2a41265db47132919c2f0e50903decc56d667fe5135da4c970fd4d14818c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "6f2052bd13087f1f229171b92072924f90178a54f7bc70f3aad941755772aa7b",
+      "originalFilename": "96_Журавлев_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+      "filename": "Журавлев_Аркадий_Владимирович-6f2052bd1308.pdf",
+      "path": "files/Журавлев_Аркадий_Владимирович-6f2052bd1308.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 140368,
+      "sha256": "6f2052bd13087f1f229171b92072924f90178a54f7bc70f3aad941755772aa7b",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/96_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%B2_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2_.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/96_Журавлев_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+        "retrievedAt": "2026-09-04T03:44:28.808946+00:00",
+        "status": 200,
+        "sha256": "6f2052bd13087f1f229171b92072924f90178a54f7bc70f3aad941755772aa7b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Логунов Вадим Дмитриевич",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/96_Логунов_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "c6ac2a41265db47132919c2f0e50903decc56d667fe5135da4c970fd4d14818c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "f65bac7d478216bea7afcf09196516a426671af465bc8974b3de429c6f221c4f",
+      "originalFilename": "96_Логунов_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+      "filename": "Логунов_Вадим_Дмитриевич-f65bac7d4782.pdf",
+      "path": "files/Логунов_Вадим_Дмитриевич-f65bac7d4782.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 149366,
+      "sha256": "f65bac7d478216bea7afcf09196516a426671af465bc8974b3de429c6f221c4f",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/96_%D0%9B%D0%BE%D0%B3%D1%83%D0%BD%D0%BE%D0%B2_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2_.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/96_Логунов_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+        "retrievedAt": "2026-09-04T03:44:29.272447+00:00",
+        "status": 200,
+        "sha256": "f65bac7d478216bea7afcf09196516a426671af465bc8974b3de429c6f221c4f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Красовский Григорий Романович",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/97_Красовский_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 3,
+          "sha256": "60307710ae81b28c5b24335702e3dba96a9ff1febab1590f4db75ac5bbe89633"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "69a41c5a71342525a22be47d1ea506026e9e3c44adf22cdd71349721c971f331",
+      "originalFilename": "97_Красовский_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+      "filename": "Красовский_Григорий_Романович-69a41c5a7134.pdf",
+      "path": "files/Красовский_Григорий_Романович-69a41c5a7134.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 135978,
+      "sha256": "69a41c5a71342525a22be47d1ea506026e9e3c44adf22cdd71349721c971f331",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/97_%D0%9A%D1%80%D0%B0%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2_.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/97_Красовский_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+        "retrievedAt": "2026-09-04T04:02:25.536176+00:00",
+        "status": 200,
+        "sha256": "69a41c5a71342525a22be47d1ea506026e9e3c44adf22cdd71349721c971f331",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Антоненков Андрей Валерьевич",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/98_Антоненков_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/98/sved-o-dokh-i-imush/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 3,
+          "sha256": "329333049507d6c39ecbc9efb4cc8b5d3b543bfac6cc71251f1c9a928bb4fd29"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "0b5b6a8342d323913e2e2d3dba25ff6a411ce6d77979b35e6f621252fd570b4d",
+      "originalFilename": "98_Антоненков_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+      "filename": "Антоненков_Андрей_Валерьевич-0b5b6a8342d3.pdf",
+      "path": "files/Антоненков_Андрей_Валерьевич-0b5b6a8342d3.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 143316,
+      "sha256": "0b5b6a8342d323913e2e2d3dba25ff6a411ce6d77979b35e6f621252fd570b4d",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/98_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2_.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/98_Антоненков_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+        "retrievedAt": "2026-09-04T03:44:30.411413+00:00",
+        "status": 200,
+        "sha256": "0b5b6a8342d323913e2e2d3dba25ff6a411ce6d77979b35e6f621252fd570b4d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Яковлева Елена Вячеславовна",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/98_Яковлева_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/98/sved-o-dokh-i-imush/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 3,
+          "sha256": "329333049507d6c39ecbc9efb4cc8b5d3b543bfac6cc71251f1c9a928bb4fd29"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "1e86b4cd908e48b58231061b2fe03ceb674eb7231738bcf1b0e384b11d5e01c1",
+      "originalFilename": "98_Яковлева_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+      "filename": "Яковлева_Елена_Вячеславовна-1e86b4cd908e.pdf",
+      "path": "files/Яковлева_Елена_Вячеславовна-1e86b4cd908e.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 137654,
+      "sha256": "1e86b4cd908e48b58231061b2fe03ceb674eb7231738bcf1b0e384b11d5e01c1",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/98_%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2%D0%B0_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2_.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/98_Яковлева_Сведениях_о_доходах_и_имуществе_кандидатов_.pdf",
+        "retrievedAt": "2026-09-04T03:44:30.857629+00:00",
+        "status": 200,
+        "sha256": "1e86b4cd908e48b58231061b2fe03ceb674eb7231738bcf1b0e384b11d5e01c1",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Абатурова Елена Игоревна",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Абатурова_97_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 3,
+          "sha256": "60307710ae81b28c5b24335702e3dba96a9ff1febab1590f4db75ac5bbe89633"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "a8b12f90e56d275565d6996f29dd63d45c03e17d1c1f7f77d173bba7dd343980",
+      "originalFilename": "Абатурова_97_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Абатурова_Елена_Игоревна-a8b12f90e56d.pdf",
+      "path": "files/Абатурова_Елена_Игоревна-a8b12f90e56d.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 135655,
+      "sha256": "a8b12f90e56d275565d6996f29dd63d45c03e17d1c1f7f77d173bba7dd343980",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%90%D0%B1%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B0_97_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Абатурова_97_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T04:02:25.989283+00:00",
+        "status": 200,
+        "sha256": "a8b12f90e56d275565d6996f29dd63d45c03e17d1c1f7f77d173bba7dd343980",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Алтынбаев Фанис Файзуллаевич",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Алтынбаев_96_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "c6ac2a41265db47132919c2f0e50903decc56d667fe5135da4c970fd4d14818c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "06fd356ba684342a5c6ea6cc4311e5e63e0b41b6db216972717efbaf9cb6f509",
+      "originalFilename": "Алтынбаев_96_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Алтынбаев_Фанис_Файзуллаевич-06fd356ba684.pdf",
+      "path": "files/Алтынбаев_Фанис_Файзуллаевич-06fd356ba684.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 136356,
+      "sha256": "06fd356ba684342a5c6ea6cc4311e5e63e0b41b6db216972717efbaf9cb6f509",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%90%D0%BB%D1%82%D1%8B%D0%BD%D0%B1%D0%B0%D0%B5%D0%B2_96_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Алтынбаев_96_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T03:44:31.554140+00:00",
+        "status": 200,
+        "sha256": "06fd356ba684342a5c6ea6cc4311e5e63e0b41b6db216972717efbaf9cb6f509",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Анисимова Екатерина Александровна",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Анисимова_95_Сведениях_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95/dokhod-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "d41d12358922266dedcf5db57f0c9e308483b312972589df58d1ece94c0b4872"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "7546ac77ab2f36372b8432ab1b2e2aa6feae95c2d87a22d8ce49f4ebb3dfb0e6",
+      "originalFilename": "Анисимова_95_Сведениях_о_доходах_и_имуществе.pdf",
+      "filename": "Анисимова_Екатерина_Александровна-7546ac77ab2f.pdf",
+      "path": "files/Анисимова_Екатерина_Александровна-7546ac77ab2f.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 130499,
+      "sha256": "7546ac77ab2f36372b8432ab1b2e2aa6feae95c2d87a22d8ce49f4ebb3dfb0e6",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%90%D0%BD%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0_95_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Анисимова_95_Сведениях_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T03:44:32.277958+00:00",
+        "status": 200,
+        "sha256": "7546ac77ab2f36372b8432ab1b2e2aa6feae95c2d87a22d8ce49f4ebb3dfb0e6",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Ахмадулин Андрей Фанисович",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Ахмадулин_96_Сведениях_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "c6ac2a41265db47132919c2f0e50903decc56d667fe5135da4c970fd4d14818c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "f3ec7e0565dfbcf985eeec62ebbefddf58807d2a7d70a51b3e0893105ec79992",
+      "originalFilename": "Ахмадулин_96_Сведениях_о_доходах_и_имуществе.pdf",
+      "filename": "Ахмадулин_Андрей_Фанисович-f3ec7e0565df.pdf",
+      "path": "files/Ахмадулин_Андрей_Фанисович-f3ec7e0565df.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 141383,
+      "sha256": "f3ec7e0565dfbcf985eeec62ebbefddf58807d2a7d70a51b3e0893105ec79992",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%90%D1%85%D0%BC%D0%B0%D0%B4%D1%83%D0%BB%D0%B8%D0%BD_96_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Ахмадулин_96_Сведениях_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T03:44:32.887327+00:00",
+        "status": 200,
+        "sha256": "f3ec7e0565dfbcf985eeec62ebbefddf58807d2a7d70a51b3e0893105ec79992",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Башкатова Татьяна Борисовна",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Башкатова_98_Седения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/98/sved-o-dokh-i-imush/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 3,
+          "sha256": "329333049507d6c39ecbc9efb4cc8b5d3b543bfac6cc71251f1c9a928bb4fd29"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "3c64d3d007f9f5f099819fd7bb90a45050dd142b035b1cdadd7caf6fbed7b87d",
+      "originalFilename": "Башкатова_98_Седения_о_доходах_и_имуществе.pdf",
+      "filename": "Башкатова_Татьяна_Борисовна-3c64d3d007f9.pdf",
+      "path": "files/Башкатова_Татьяна_Борисовна-3c64d3d007f9.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 140675,
+      "sha256": "3c64d3d007f9f5f099819fd7bb90a45050dd142b035b1cdadd7caf6fbed7b87d",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%91%D0%B0%D1%88%D0%BA%D0%B0%D1%82%D0%BE%D0%B2%D0%B0_98_%D0%A1%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Башкатова_98_Седения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T03:44:33.492508+00:00",
+        "status": 200,
+        "sha256": "3c64d3d007f9f5f099819fd7bb90a45050dd142b035b1cdadd7caf6fbed7b87d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Блошенко Дмитрий Михайлович",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Блошенко_96_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "c6ac2a41265db47132919c2f0e50903decc56d667fe5135da4c970fd4d14818c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "2e5fbd895b7fd8ff88e3505bde1cb25a61ae6d57703b906160a1e7a38b9fa4a5",
+      "originalFilename": "Блошенко_96_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Блошенко_Дмитрий_Михайлович-2e5fbd895b7f.pdf",
+      "path": "files/Блошенко_Дмитрий_Михайлович-2e5fbd895b7f.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 142262,
+      "sha256": "2e5fbd895b7fd8ff88e3505bde1cb25a61ae6d57703b906160a1e7a38b9fa4a5",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%91%D0%BB%D0%BE%D1%88%D0%B5%D0%BD%D0%BA%D0%BE_96_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Блошенко_96_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T03:44:34.264413+00:00",
+        "status": 200,
+        "sha256": "2e5fbd895b7fd8ff88e3505bde1cb25a61ae6d57703b906160a1e7a38b9fa4a5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Буев Роман Валерьевич",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Буев_95_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95/dokhod-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "d41d12358922266dedcf5db57f0c9e308483b312972589df58d1ece94c0b4872"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "3046c1962f478fd1edda370c57d9320aa7763e81d8e6487c607060ba7a4521ed",
+      "originalFilename": "Буев_95_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Буев_Роман_Валерьевич-3046c1962f47.pdf",
+      "path": "files/Буев_Роман_Валерьевич-3046c1962f47.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 133734,
+      "sha256": "3046c1962f478fd1edda370c57d9320aa7763e81d8e6487c607060ba7a4521ed",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%91%D1%83%D0%B5%D0%B2_95_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Буев_95_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T03:44:34.723491+00:00",
+        "status": 200,
+        "sha256": "3046c1962f478fd1edda370c57d9320aa7763e81d8e6487c607060ba7a4521ed",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Голышев Роман Валентинович",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Голышев_97_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 3,
+          "sha256": "60307710ae81b28c5b24335702e3dba96a9ff1febab1590f4db75ac5bbe89633"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "deededade3c7d848e20bd1a4232a81bb3a08bf622456131a0500730168f07677",
+      "originalFilename": "Голышев_97_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Голышев_Роман_Валентинович-deededade3c7.pdf",
+      "path": "files/Голышев_Роман_Валентинович-deededade3c7.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 148390,
+      "sha256": "deededade3c7d848e20bd1a4232a81bb3a08bf622456131a0500730168f07677",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%93%D0%BE%D0%BB%D1%8B%D1%88%D0%B5%D0%B2_97_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Голышев_97_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T04:02:26.459459+00:00",
+        "status": 200,
+        "sha256": "deededade3c7d848e20bd1a4232a81bb3a08bf622456131a0500730168f07677",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Жарков Артемий Максимович",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Жарков_96_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "c6ac2a41265db47132919c2f0e50903decc56d667fe5135da4c970fd4d14818c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "573b20897691629a4813f78f2c94036cefaa85d65fcf47a09997ffd258f62a1a",
+      "originalFilename": "Жарков_96_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Жарков_Артемий_Максимович-573b20897691.pdf",
+      "path": "files/Жарков_Артемий_Максимович-573b20897691.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 136204,
+      "sha256": "573b20897691629a4813f78f2c94036cefaa85d65fcf47a09997ffd258f62a1a",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%96%D0%B0%D1%80%D0%BA%D0%BE%D0%B2_96_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Жарков_96_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T03:44:35.432997+00:00",
+        "status": 200,
+        "sha256": "573b20897691629a4813f78f2c94036cefaa85d65fcf47a09997ffd258f62a1a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Зуев Игорь Петрович",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Зуев_98_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/98/sved-o-dokh-i-imush/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 3,
+          "sha256": "329333049507d6c39ecbc9efb4cc8b5d3b543bfac6cc71251f1c9a928bb4fd29"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "ae36107376886bf16b2c5ad1c82556a4e07a70ba598e3dc488f10a543cc4ec6b",
+      "originalFilename": "Зуев_98_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Зуев_Игорь_Петрович-ae3610737688.pdf",
+      "path": "files/Зуев_Игорь_Петрович-ae3610737688.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 140969,
+      "sha256": "ae36107376886bf16b2c5ad1c82556a4e07a70ba598e3dc488f10a543cc4ec6b",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%97%D1%83%D0%B5%D0%B2_98_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Зуев_98_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T03:44:35.907031+00:00",
+        "status": 200,
+        "sha256": "ae36107376886bf16b2c5ad1c82556a4e07a70ba598e3dc488f10a543cc4ec6b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Игнатов Максим Анатольевич",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Игнатов_98_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/98/sved-o-dokh-i-imush/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 3,
+          "sha256": "329333049507d6c39ecbc9efb4cc8b5d3b543bfac6cc71251f1c9a928bb4fd29"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "b211fa4164a15e93a2fe59a85bdabb1eed7de3d09897b4503359289f7ad5760e",
+      "originalFilename": "Игнатов_98_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Игнатов_Максим_Анатольевич-b211fa4164a1.pdf",
+      "path": "files/Игнатов_Максим_Анатольевич-b211fa4164a1.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 140261,
+      "sha256": "b211fa4164a15e93a2fe59a85bdabb1eed7de3d09897b4503359289f7ad5760e",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%98%D0%B3%D0%BD%D0%B0%D1%82%D0%BE%D0%B2_98_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Игнатов_98_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T03:44:36.797016+00:00",
+        "status": 200,
+        "sha256": "b211fa4164a15e93a2fe59a85bdabb1eed7de3d09897b4503359289f7ad5760e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Казачков Андрей Васильевич",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Казачков_97_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 3,
+          "sha256": "60307710ae81b28c5b24335702e3dba96a9ff1febab1590f4db75ac5bbe89633"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "81a9ea5961355abe927e78806f83c8954f91a744137e332d46b20fb981b53a25",
+      "originalFilename": "Казачков_97_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Казачков_Андрей_Васильевич-81a9ea596135.pdf",
+      "path": "files/Казачков_Андрей_Васильевич-81a9ea596135.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 140638,
+      "sha256": "81a9ea5961355abe927e78806f83c8954f91a744137e332d46b20fb981b53a25",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%9A%D0%B0%D0%B7%D0%B0%D1%87%D0%BA%D0%BE%D0%B2_97_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Казачков_97_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T04:02:26.954897+00:00",
+        "status": 200,
+        "sha256": "81a9ea5961355abe927e78806f83c8954f91a744137e332d46b20fb981b53a25",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Комарова Марина Викторовна",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Комарова_97_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 3,
+          "sha256": "60307710ae81b28c5b24335702e3dba96a9ff1febab1590f4db75ac5bbe89633"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "9c1707f80590c971b2d2a41cb942bafbae62c4c1ca2860eb72afbc9fd5142daf",
+      "originalFilename": "Комарова_97_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Комарова_Марина_Викторовна-9c1707f80590.pdf",
+      "path": "files/Комарова_Марина_Викторовна-9c1707f80590.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 138770,
+      "sha256": "9c1707f80590c971b2d2a41cb942bafbae62c4c1ca2860eb72afbc9fd5142daf",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%9A%D0%BE%D0%BC%D0%B0%D1%80%D0%BE%D0%B2%D0%B0_97_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Комарова_97_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T04:02:27.428237+00:00",
+        "status": 200,
+        "sha256": "9c1707f80590c971b2d2a41cb942bafbae62c4c1ca2860eb72afbc9fd5142daf",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Краснов Алексей Викторович",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Краснов_96_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "c6ac2a41265db47132919c2f0e50903decc56d667fe5135da4c970fd4d14818c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "c6304d948ebe49ed2dad52194067bd8953457b00cdd6de802c38d00e6178af72",
+      "originalFilename": "Краснов_96_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Краснов_Алексей_Викторович-c6304d948ebe.pdf",
+      "path": "files/Краснов_Алексей_Викторович-c6304d948ebe.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 142208,
+      "sha256": "c6304d948ebe49ed2dad52194067bd8953457b00cdd6de802c38d00e6178af72",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B2_96_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Краснов_96_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T03:44:37.255870+00:00",
+        "status": 200,
+        "sha256": "c6304d948ebe49ed2dad52194067bd8953457b00cdd6de802c38d00e6178af72",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Латынцев Александр Александрович",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Латынцев_96_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "c6ac2a41265db47132919c2f0e50903decc56d667fe5135da4c970fd4d14818c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "c7ed3affa9a52581dac591cbf2d1bd7c99585e9b660166a92e90d826500916de",
+      "originalFilename": "Латынцев_96_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Латынцев_Александр_Александрович-c7ed3affa9a5.pdf",
+      "path": "files/Латынцев_Александр_Александрович-c7ed3affa9a5.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 138784,
+      "sha256": "c7ed3affa9a52581dac591cbf2d1bd7c99585e9b660166a92e90d826500916de",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%9B%D0%B0%D1%82%D1%8B%D0%BD%D1%86%D0%B5%D0%B2_96_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Латынцев_96_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T03:44:38.721980+00:00",
+        "status": 200,
+        "sha256": "c7ed3affa9a52581dac591cbf2d1bd7c99585e9b660166a92e90d826500916de",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Ли Дмитрий Ирсуевич",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Ли_96_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "c6ac2a41265db47132919c2f0e50903decc56d667fe5135da4c970fd4d14818c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "b45a71f7bce0d47db2c76ba84132c37f5364de5438105990577d388fa5b90380",
+      "originalFilename": "Ли_96_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Ли_Дмитрий_Ирсуевич-b45a71f7bce0.pdf",
+      "path": "files/Ли_Дмитрий_Ирсуевич-b45a71f7bce0.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 133959,
+      "sha256": "b45a71f7bce0d47db2c76ba84132c37f5364de5438105990577d388fa5b90380",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%9B%D0%B8_96_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Ли_96_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T03:44:39.152238+00:00",
+        "status": 200,
+        "sha256": "b45a71f7bce0d47db2c76ba84132c37f5364de5438105990577d388fa5b90380",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Липин Сергей Николаевич",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Липин_97_Сведениях_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 3,
+          "sha256": "60307710ae81b28c5b24335702e3dba96a9ff1febab1590f4db75ac5bbe89633"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "f3ce0b045b36bde122ef7f835a903aae9d4c0590a091779619c1525bb3e3aef4",
+      "originalFilename": "Липин_97_Сведениях_о_доходах_и_имуществе.pdf",
+      "filename": "Липин_Сергей_Николаевич-f3ce0b045b36.pdf",
+      "path": "files/Липин_Сергей_Николаевич-f3ce0b045b36.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 140275,
+      "sha256": "f3ce0b045b36bde122ef7f835a903aae9d4c0590a091779619c1525bb3e3aef4",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%9B%D0%B8%D0%BF%D0%B8%D0%BD_97_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Липин_97_Сведениях_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T04:02:28.641450+00:00",
+        "status": 200,
+        "sha256": "f3ce0b045b36bde122ef7f835a903aae9d4c0590a091779619c1525bb3e3aef4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "СВЕДЕНИЯ",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Липин_Сергей_Николаевич_Расходы.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 3,
+          "sha256": "60307710ae81b28c5b24335702e3dba96a9ff1febab1590f4db75ac5bbe89633"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "af224c5bb0db46e5f034d2c04127605614aa07372df021270c436973f8d05916",
+      "originalFilename": "Липин_Сергей_Николаевич_Расходы.pdf",
+      "filename": "СВЕДЕНИЯ-af224c5bb0db.pdf",
+      "path": "files/СВЕДЕНИЯ-af224c5bb0db.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 101229,
+      "sha256": "af224c5bb0db46e5f034d2c04127605614aa07372df021270c436973f8d05916",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%9B%D0%B8%D0%BF%D0%B8%D0%BD_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D1%8B.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Липин_Сергей_Николаевич_Расходы.pdf",
+        "retrievedAt": "2026-09-04T04:02:29.125825+00:00",
+        "status": 200,
+        "sha256": "af224c5bb0db46e5f034d2c04127605614aa07372df021270c436973f8d05916",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Макуха Валерий Николаевич",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Макуха_95_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95/dokhod-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "d41d12358922266dedcf5db57f0c9e308483b312972589df58d1ece94c0b4872"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "4415dbe5a22bf5092484b965d2f9f56c331efcfe0b60b0edea17ab121832f930",
+      "originalFilename": "Макуха_95_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Макуха_Валерий_Николаевич-4415dbe5a22b.pdf",
+      "path": "files/Макуха_Валерий_Николаевич-4415dbe5a22b.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 123971,
+      "sha256": "4415dbe5a22bf5092484b965d2f9f56c331efcfe0b60b0edea17ab121832f930",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%9C%D0%B0%D0%BA%D1%83%D1%85%D0%B0_95_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Макуха_95_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T03:44:39.637854+00:00",
+        "status": 200,
+        "sha256": "4415dbe5a22bf5092484b965d2f9f56c331efcfe0b60b0edea17ab121832f930",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Матвеев Павел Анатольевич",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Матвеев_95_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95/dokhod-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "d41d12358922266dedcf5db57f0c9e308483b312972589df58d1ece94c0b4872"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "32c05ee647713b0f16df2a48d714adb12dbc3a186e3f5d9d9b55428f4a7e80cb",
+      "originalFilename": "Матвеев_95_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Матвеев_Павел_Анатольевич-32c05ee64771.pdf",
+      "path": "files/Матвеев_Павел_Анатольевич-32c05ee64771.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 140664,
+      "sha256": "32c05ee647713b0f16df2a48d714adb12dbc3a186e3f5d9d9b55428f4a7e80cb",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%9C%D0%B0%D1%82%D0%B2%D0%B5%D0%B5%D0%B2_95_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Матвеев_95_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T03:44:40.109374+00:00",
+        "status": 200,
+        "sha256": "32c05ee647713b0f16df2a48d714adb12dbc3a186e3f5d9d9b55428f4a7e80cb",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "СВЕДЕНИЯ",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Матвеев_Павел_Анатольевич_Расходы.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95/dokhod-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "d41d12358922266dedcf5db57f0c9e308483b312972589df58d1ece94c0b4872"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "05fe5dc44ce4301de2005974b2a4b177ce2eb6e3f4570ba85aac8790acb3c97f",
+      "originalFilename": "Матвеев_Павел_Анатольевич_Расходы.pdf",
+      "filename": "СВЕДЕНИЯ-05fe5dc44ce4.pdf",
+      "path": "files/СВЕДЕНИЯ-05fe5dc44ce4.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 95259,
+      "sha256": "05fe5dc44ce4301de2005974b2a4b177ce2eb6e3f4570ba85aac8790acb3c97f",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%9C%D0%B0%D1%82%D0%B2%D0%B5%D0%B5%D0%B2_%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D1%8B.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Матвеев_Павел_Анатольевич_Расходы.pdf",
+        "retrievedAt": "2026-09-04T03:44:40.513113+00:00",
+        "status": 200,
+        "sha256": "05fe5dc44ce4301de2005974b2a4b177ce2eb6e3f4570ba85aac8790acb3c97f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Мехоношин Петр Алексеевич",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Мехоношин_97_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 3,
+          "sha256": "60307710ae81b28c5b24335702e3dba96a9ff1febab1590f4db75ac5bbe89633"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "6250cbb7771758f368927d042825ae1a69bbceec4ef07ae218f02468afbdde07",
+      "originalFilename": "Мехоношин_97_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Мехоношин_Петр_Алексеевич-6250cbb77717.pdf",
+      "path": "files/Мехоношин_Петр_Алексеевич-6250cbb77717.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 124513,
+      "sha256": "6250cbb7771758f368927d042825ae1a69bbceec4ef07ae218f02468afbdde07",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%9C%D0%B5%D1%85%D0%BE%D0%BD%D0%BE%D1%88%D0%B8%D0%BD_97_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Мехоношин_97_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T04:02:29.600801+00:00",
+        "status": 200,
+        "sha256": "6250cbb7771758f368927d042825ae1a69bbceec4ef07ae218f02468afbdde07",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Молчанов Алексей Сергеевич",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Молчанов_97_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 3,
+          "sha256": "60307710ae81b28c5b24335702e3dba96a9ff1febab1590f4db75ac5bbe89633"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "1bfad747f77309b8df069f13fa9d65532402de1af38b0cd7a95c11eba7058c46",
+      "originalFilename": "Молчанов_97_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Молчанов_Алексей_Сергеевич-1bfad747f773.pdf",
+      "path": "files/Молчанов_Алексей_Сергеевич-1bfad747f773.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 126201,
+      "sha256": "1bfad747f77309b8df069f13fa9d65532402de1af38b0cd7a95c11eba7058c46",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%9C%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%BE%D0%B2_97_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Молчанов_97_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T04:02:30.046170+00:00",
+        "status": 200,
+        "sha256": "1bfad747f77309b8df069f13fa9d65532402de1af38b0cd7a95c11eba7058c46",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Пономаренко Дмитрий Николаевич",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Пономаренко_96_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "c6ac2a41265db47132919c2f0e50903decc56d667fe5135da4c970fd4d14818c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "4439cd0c7e84100de2ea6ffd32a1d8dc399ed693f9f9174be79fd6a14c273778",
+      "originalFilename": "Пономаренко_96_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Пономаренко_Дмитрий_Николаевич-4439cd0c7e84.pdf",
+      "path": "files/Пономаренко_Дмитрий_Николаевич-4439cd0c7e84.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 122668,
+      "sha256": "4439cd0c7e84100de2ea6ffd32a1d8dc399ed693f9f9174be79fd6a14c273778",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%9F%D0%BE%D0%BD%D0%BE%D0%BC%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE_96_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Пономаренко_96_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T03:44:41.241503+00:00",
+        "status": 200,
+        "sha256": "4439cd0c7e84100de2ea6ffd32a1d8dc399ed693f9f9174be79fd6a14c273778",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Самороков Алексей Викторович",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Самороков_97_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 3,
+          "sha256": "60307710ae81b28c5b24335702e3dba96a9ff1febab1590f4db75ac5bbe89633"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "372b0d1c75e0d6bb3b22efa480c7b3eadeb906bfeae01be8fabada6e6f57d82e",
+      "originalFilename": "Самороков_97_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Самороков_Алексей_Викторович-372b0d1c75e0.pdf",
+      "path": "files/Самороков_Алексей_Викторович-372b0d1c75e0.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 139670,
+      "sha256": "372b0d1c75e0d6bb3b22efa480c7b3eadeb906bfeae01be8fabada6e6f57d82e",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%A1%D0%B0%D0%BC%D0%BE%D1%80%D0%BE%D0%BA%D0%BE%D0%B2_97_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Самороков_97_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T04:02:30.560201+00:00",
+        "status": 200,
+        "sha256": "372b0d1c75e0d6bb3b22efa480c7b3eadeb906bfeae01be8fabada6e6f57d82e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Сумароков Илья Павлович",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Сумароков_97_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 3,
+          "sha256": "60307710ae81b28c5b24335702e3dba96a9ff1febab1590f4db75ac5bbe89633"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "64190d16c834e85ac224b5da175742a2cab7a978cc1a2a3d32be5ccdadd2b5e3",
+      "originalFilename": "Сумароков_97_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Сумароков_Илья_Павлович-64190d16c834.pdf",
+      "path": "files/Сумароков_Илья_Павлович-64190d16c834.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 156856,
+      "sha256": "64190d16c834e85ac224b5da175742a2cab7a978cc1a2a3d32be5ccdadd2b5e3",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%A1%D1%83%D0%BC%D0%B0%D1%80%D0%BE%D0%BA%D0%BE%D0%B2_97_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Сумароков_97_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T04:02:30.999797+00:00",
+        "status": 200,
+        "sha256": "64190d16c834e85ac224b5da175742a2cab7a978cc1a2a3d32be5ccdadd2b5e3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Тен Сергей Юрьевич",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Тен_97_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 3,
+          "sha256": "60307710ae81b28c5b24335702e3dba96a9ff1febab1590f4db75ac5bbe89633"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "e178f9c98cbef9621cba9719e8a3bde840338a4b447629124c7355c8a9752623",
+      "originalFilename": "Тен_97_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Тен_Сергей_Юрьевич-e178f9c98cbe.pdf",
+      "path": "files/Тен_Сергей_Юрьевич-e178f9c98cbe.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 134471,
+      "sha256": "e178f9c98cbef9621cba9719e8a3bde840338a4b447629124c7355c8a9752623",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%A2%D0%B5%D0%BD_97_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Тен_97_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T04:02:31.444273+00:00",
+        "status": 200,
+        "sha256": "e178f9c98cbef9621cba9719e8a3bde840338a4b447629124c7355c8a9752623",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Труфанов Михаил Викторович",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Труфанов_96_Сведения_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96/dokhodakh-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "c6ac2a41265db47132919c2f0e50903decc56d667fe5135da4c970fd4d14818c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "bdb816c3deb08f310594d1ddfab79b14e7f83707deda085f9931c9f3bfddf641",
+      "originalFilename": "Труфанов_96_Сведения_о_доходах_и_имуществе.pdf",
+      "filename": "Труфанов_Михаил_Викторович-bdb816c3deb0.pdf",
+      "path": "files/Труфанов_Михаил_Викторович-bdb816c3deb0.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 144199,
+      "sha256": "bdb816c3deb08f310594d1ddfab79b14e7f83707deda085f9931c9f3bfddf641",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%A2%D1%80%D1%83%D1%84%D0%B0%D0%BD%D0%BE%D0%B2_96_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Труфанов_96_Сведения_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T03:44:41.715000+00:00",
+        "status": 200,
+        "sha256": "bdb816c3deb08f310594d1ddfab79b14e7f83707deda085f9931c9f3bfddf641",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Файзулин Евгений Ревович",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Файзулин_95_Сведения_о_доходах_и_имуществе..pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95/dokhod-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "d41d12358922266dedcf5db57f0c9e308483b312972589df58d1ece94c0b4872"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "ab77c52e280f1f8fa993a218146b5bec46ff70a2c0e5f1fc102e3649a97e819b",
+      "originalFilename": "Файзулин_95_Сведения_о_доходах_и_имуществе..pdf",
+      "filename": "Файзулин_Евгений_Ревович-ab77c52e280f.pdf",
+      "path": "files/Файзулин_Евгений_Ревович-ab77c52e280f.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 137975,
+      "sha256": "ab77c52e280f1f8fa993a218146b5bec46ff70a2c0e5f1fc102e3649a97e819b",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%A4%D0%B0%D0%B9%D0%B7%D1%83%D0%BB%D0%B8%D0%BD_95_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5..pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Файзулин_95_Сведения_о_доходах_и_имуществе..pdf",
+        "retrievedAt": "2026-09-04T03:44:42.160943+00:00",
+        "status": 200,
+        "sha256": "ab77c52e280f1f8fa993a218146b5bec46ff70a2c0e5f1fc102e3649a97e819b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Якубовский Александр Владимирович",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/Якубовский_95_Сведениях_о_доходах_и_имуществе.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95/dokhod-imushchestv/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "d41d12358922266dedcf5db57f0c9e308483b312972589df58d1ece94c0b4872"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "e1aa0dd8a0832253a7d00a99ed7bdeda3731b6715f335715974bf031bbbc1fb4",
+      "originalFilename": "Якубовский_95_Сведениях_о_доходах_и_имуществе.pdf",
+      "filename": "Якубовский_Александр_Владимирович-e1aa0dd8a083.pdf",
+      "path": "files/Якубовский_Александр_Владимирович-e1aa0dd8a083.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 140406,
+      "sha256": "e1aa0dd8a0832253a7d00a99ed7bdeda3731b6715f335715974bf031bbbc1fb4",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/%D0%AF%D0%BA%D1%83%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_95_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/Якубовский_95_Сведениях_о_доходах_и_имуществе.pdf",
+        "retrievedAt": "2026-09-04T03:44:42.595084+00:00",
+        "status": 200,
+        "sha256": "e1aa0dd8a0832253a7d00a99ed7bdeda3731b6715f335715974bf031bbbc1fb4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "СВЕДЕНИЯ",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/95_Выявленные-факты-недостоверных-сведений.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95/",
+          "title": "Иркутский одномандатный избирательный округ № 95",
+          "depth": 0,
+          "sha256": "14e50c8cb6f22003e072dc5ae3e1d709a0150ed404e623f8e7f93f95051d1b34"
+        },
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/95",
+          "title": "Иркутский одномандатный избирательный округ № 95",
+          "depth": 2,
+          "sha256": "14e50c8cb6f22003e072dc5ae3e1d709a0150ed404e623f8e7f93f95051d1b34"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "5135ad08cf2d009ac644aedc7bfbe70007fd4fd287c86923f0a89322b12dc33a",
+      "originalFilename": "95_Выявленные-факты-недостоверных-сведений.pdf",
+      "filename": "СВЕДЕНИЯ-5135ad08cf2d.pdf",
+      "path": "files/СВЕДЕНИЯ-5135ad08cf2d.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 152200,
+      "sha256": "5135ad08cf2d009ac644aedc7bfbe70007fd4fd287c86923f0a89322b12dc33a",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/95_%D0%92%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D1%84%D0%B0%D0%BA%D1%82%D1%8B-%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D1%85-%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/95_Выявленные-факты-недостоверных-сведений.pdf",
+        "retrievedAt": "2026-09-04T03:44:24.858965+00:00",
+        "status": 200,
+        "sha256": "5135ad08cf2d009ac644aedc7bfbe70007fd4fd287c86923f0a89322b12dc33a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "СВЕДЕНИЯ",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/96_Выявленные-факты-недостоверности-сведений.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96/",
+          "title": "Ангарский одномандатный избирательный округ № 96",
+          "depth": 0,
+          "sha256": "c4596a6bd807046c41421bc6e37530f9418941b12d40e553a7ca9af95f296b14"
+        },
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/96",
+          "title": "Ангарский одномандатный избирательный округ № 96",
+          "depth": 2,
+          "sha256": "c4596a6bd807046c41421bc6e37530f9418941b12d40e553a7ca9af95f296b14"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "4dc9565d0d82e7305eba892b1ac1447b1f9734c7b42b987a1b6ad09c17ad88b8",
+      "originalFilename": "96_Выявленные-факты-недостоверности-сведений.pdf",
+      "filename": "СВЕДЕНИЯ-4dc9565d0d82.pdf",
+      "path": "files/СВЕДЕНИЯ-4dc9565d0d82.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 136349,
+      "sha256": "4dc9565d0d82e7305eba892b1ac1447b1f9734c7b42b987a1b6ad09c17ad88b8",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/96_%D0%92%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D1%84%D0%B0%D0%BA%D1%82%D1%8B-%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/96_Выявленные-факты-недостоверности-сведений.pdf",
+        "retrievedAt": "2026-09-04T03:44:28.055780+00:00",
+        "status": 200,
+        "sha256": "4dc9565d0d82e7305eba892b1ac1447b1f9734c7b42b987a1b6ad09c17ad88b8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "СВЕДЕНИЯ",
+      "officialUrl": "http://irkutsk.izbirkom.ru/etc/2026/97_Выявленные-факты-недостоверности-сведений.pdf",
+      "sourcePages": [
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97",
+          "title": "Шелеховский одномандатный избирательный округ № 97",
+          "depth": 2,
+          "sha256": "5f6c5b952309a6a78081688c4fe6cd7d1a6c4f9845336554e84c7afe745efddf"
+        },
+        {
+          "url": "http://irkutsk.izbirkom.ru/vybory-i-referendumy/vybory-2026/edg/dgd/97/",
+          "title": "Шелеховский одномандатный избирательный округ № 97",
+          "depth": 3,
+          "sha256": "5f6c5b952309a6a78081688c4fe6cd7d1a6c4f9845336554e84c7afe745efddf"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "5d9159c43c0d745aaeb3820d6deee32986e0f0f76083c557487856099bd91e43",
+      "originalFilename": "97_Выявленные-факты-недостоверности-сведений.pdf",
+      "filename": "СВЕДЕНИЯ-5d9159c43c0d.pdf",
+      "path": "files/СВЕДЕНИЯ-5d9159c43c0d.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 167101,
+      "sha256": "5d9159c43c0d745aaeb3820d6deee32986e0f0f76083c557487856099bd91e43",
+      "source": {
+        "url": "http://irkutsk.izbirkom.ru/etc/2026/97_%D0%92%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D1%84%D0%B0%D0%BA%D1%82%D1%8B-%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9.pdf",
+        "requestKey": "http://irkutsk.izbirkom.ru/etc/2026/97_Выявленные-факты-недостоверности-сведений.pdf",
+        "retrievedAt": "2026-09-04T03:44:29.952875+00:00",
+        "status": 200,
+        "sha256": "5d9159c43c0d745aaeb3820d6deee32986e0f0f76083c557487856099bd91e43",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

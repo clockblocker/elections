@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:10.086826+00:00",
+  "region": {
+    "code": "57",
+    "name": "Орловская область",
+    "seedUrls": [
+      "http://orel.izbirkom.ru/post2026/37664/",
+      "http://orel.izbirkom.ru/post2026/37667/"
+    ],
+    "allowedHosts": [
+      "orel.izbirkom.ru",
+      "www.orel.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 2,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://orel.izbirkom.ru/post2026/37664/",
+      "title": "№ 121/758-7 Об утверждении текста избирательного бюллетеня для голосования по одномандатному избирательному округу No 147 Орловская область – Орловский одномандатный избирательный округ на выборах депутатов Государственной Думы Федерального Собрания",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://orel.izbirkom.ru/post2026/37664/",
+        "requestKey": "http://orel.izbirkom.ru/post2026/37664/",
+        "retrievedAt": "2026-09-04T03:36:53.332672+00:00",
+        "status": 200,
+        "sha256": "2b36c0f91081ece400619c9a43c68ca233082acfcfdaaf9918d5a0d4303d9a0a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://orel.izbirkom.ru/post2026/37667/",
+      "title": "№ 121/761-7 Об утверждении графиков распределения эфирного времени, предоставляемого безвозмездно, на каналах региональных государственных организаций телерадиовещания при проведении выборов депутатов Государственной Думы Федерального Собрания Российской Федерации",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://orel.izbirkom.ru/post2026/37667/",
+        "requestKey": "http://orel.izbirkom.ru/post2026/37667/",
+        "retrievedAt": "2026-09-04T03:36:54.856349+00:00",
+        "status": 200,
+        "sha256": "4d183780e13a9548230914dcc3bcb9d4cd4d85ffd95b7630e09b0a73b8986456",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:32.136940+00:00",
+  "region": {
+    "code": "25",
+    "name": "Приморский край",
+    "seedUrls": [
+      "http://primorsk.izbirkom.ru/informatsionnoe-obespechenie/akkreditatsiya-predstaviteley-smi/informatsionnoe-obespechenie-na-vyborakh-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiy/",
+      "http://primorsk.izbirkom.ru/informatsionnoe-obespechenie/akkreditatsiya-predstaviteley-smi/informatsionnoe-obespechenie-na-vyborakh-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiy/index.php"
+    ],
+    "allowedHosts": [
+      "primorsk.izbirkom.ru",
+      "www.primorsk.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 4,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://primorsk.izbirkom.ru/informatsionnoe-obespechenie/akkreditatsiya-predstaviteley-smi/informatsionnoe-obespechenie-na-vyborakh-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiy/",
+      "title": "Информационное обеспечение на выборах депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://primorsk.izbirkom.ru/informatsionnoe-obespechenie/akkreditatsiya-predstaviteley-smi/informatsionnoe-obespechenie-na-vyborakh-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiy/",
+        "requestKey": "http://primorsk.izbirkom.ru/informatsionnoe-obespechenie/akkreditatsiya-predstaviteley-smi/informatsionnoe-obespechenie-na-vyborakh-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiy/",
+        "retrievedAt": "2026-09-04T03:36:21.170642+00:00",
+        "status": 200,
+        "sha256": "34041e1aa3ef869ff1f8a82725a8599bfde7977ae9bae53fdeb9e9dcf14117a8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://primorsk.izbirkom.ru/informatsionnoe-obespechenie/akkreditatsiya-predstaviteley-smi/informatsionnoe-obespechenie-na-vyborakh-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiy/index.php",
+      "title": "Информационное обеспечение на выборах депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://primorsk.izbirkom.ru/informatsionnoe-obespechenie/akkreditatsiya-predstaviteley-smi/informatsionnoe-obespechenie-na-vyborakh-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiy/index.php",
+        "requestKey": "http://primorsk.izbirkom.ru/informatsionnoe-obespechenie/akkreditatsiya-predstaviteley-smi/informatsionnoe-obespechenie-na-vyborakh-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiy/index.php",
+        "retrievedAt": "2026-09-04T03:36:22.184398+00:00",
+        "status": 200,
+        "sha256": "34041e1aa3ef869ff1f8a82725a8599bfde7977ae9bae53fdeb9e9dcf14117a8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://primorsk.izbirkom.ru/news/2524/",
+      "title": "О передаче избирательных бюллетеней для голосования на выборах депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://primorsk.izbirkom.ru/news/2524/",
+        "requestKey": "http://primorsk.izbirkom.ru/news/2524/",
+        "retrievedAt": "2026-09-04T03:36:23.252162+00:00",
+        "status": 200,
+        "sha256": "9e64b9d3985a640395a3482520e9e81e0d036d49b5f2d2e354ffa93261e2f6dc",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://primorsk.izbirkom.ru/news/2519/",
+      "title": "О передаче избирательных бюллетеней для голосования на выборах депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://primorsk.izbirkom.ru/news/2519/",
+        "requestKey": "http://primorsk.izbirkom.ru/news/2519/",
+        "retrievedAt": "2026-09-04T03:36:24.306675+00:00",
+        "status": 200,
+        "sha256": "047fb71a6688a4b27ebe774a40c6bff9ffdfb1efb328a9e54f81aa9b702ecb4b",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

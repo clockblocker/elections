@@ -1,0 +1,1053 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:39.196710+00:00",
+  "region": {
+    "code": "48",
+    "name": "Липецкая область",
+    "seedUrls": [
+      "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/",
+      "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/index.php"
+    ],
+    "allowedHosts": [
+      "lipetsk.izbirkom.ru",
+      "www.lipetsk.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 12,
+  "documentCount": 20,
+  "documentCounts": {
+    "declaration": 20
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 8,
+      "explicitEmptyPageCount": 4,
+      "documentCount": 20
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/",
+        "retrievedAt": "2026-09-04T03:42:03.119463+00:00",
+        "status": 200,
+        "sha256": "7bfeb9a6a4a09d83a3234f76205ccb039081f3df4b8426f1a8c78cc16fb90838",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/index.php",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/index.php",
+        "retrievedAt": "2026-09-04T03:42:04.216555+00:00",
+        "status": 200,
+        "sha256": "7bfeb9a6a4a09d83a3234f76205ccb039081f3df4b8426f1a8c78cc16fb90838",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/izbiratelnye-fondy-kandidatov/index.php",
+      "title": "Избирательные фонды кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/izbiratelnye-fondy-kandidatov/index.php",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/izbiratelnye-fondy-kandidatov/index.php",
+        "retrievedAt": "2026-09-04T03:42:05.309826+00:00",
+        "status": 200,
+        "sha256": "0d5f91daaa0db4855b9a3cc3d6ba747ab569fa9b4495a23cc6f1dfc1a035ce4a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/kandidaty/index.php",
+      "title": "Сведения о выдвинутых и зарегистрированных кандидатах в депутаты по одномандатным избирательным округам",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/kandidaty/index.php",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/kandidaty/index.php",
+        "retrievedAt": "2026-09-04T03:42:06.328321+00:00",
+        "status": 200,
+        "sha256": "1baa18b9c86f26826b1e59738ffc379b6f1f6046d44c876cc99e59b8a67002bd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod",
+      "title": "Сведения о доходах и имуществе кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod",
+        "retrievedAt": "2026-09-04T03:42:07.832273+00:00",
+        "status": 200,
+        "sha256": "f8769aa89f024125b1d28650ff613898493387f98a31f230e38fc4265fd319e8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/izbiratelnye-fondy-kandidatov/",
+      "title": "Избирательные фонды кандидатов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/izbiratelnye-fondy-kandidatov/",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/izbiratelnye-fondy-kandidatov/",
+        "retrievedAt": "2026-09-04T03:42:08.436414+00:00",
+        "status": 200,
+        "sha256": "0d5f91daaa0db4855b9a3cc3d6ba747ab569fa9b4495a23cc6f1dfc1a035ce4a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/kandidaty/",
+      "title": "Сведения о выдвинутых и зарегистрированных кандидатах в депутаты по одномандатным избирательным округам",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/kandidaty/",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/kandidaty/",
+        "retrievedAt": "2026-09-04T03:42:09.454263+00:00",
+        "status": 200,
+        "sha256": "1baa18b9c86f26826b1e59738ffc379b6f1f6046d44c876cc99e59b8a67002bd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/",
+      "title": "Сведения о доходах и имуществе кандидатов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/",
+        "retrievedAt": "2026-09-04T03:42:10.209008+00:00",
+        "status": 200,
+        "sha256": "f8769aa89f024125b1d28650ff613898493387f98a31f230e38fc4265fd319e8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115",
+      "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 20
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/egorov.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/hromovskay.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/isaev.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/khajredinova.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/kubrina.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/kurbatov.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/razdobarin.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/tokarev.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/volobuev.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/znamenshikova.pdf"
+      ],
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115/",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115",
+        "retrievedAt": "2026-09-04T03:42:10.956816+00:00",
+        "status": 200,
+        "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116",
+      "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 20
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/Ioginov.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/bikovskih.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/djakonova.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/grishaev.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ksenofontova.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/naumov.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/shedrina.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/sokolov.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/zachinyaev-m-s.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/zvjagin.pdf"
+      ],
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116/",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116",
+        "retrievedAt": "2026-09-04T03:42:12.002837+00:00",
+        "status": 200,
+        "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115/",
+      "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 20
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/egorov.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/hromovskay.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/isaev.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/khajredinova.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/kubrina.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/kurbatov.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/razdobarin.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/tokarev.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/volobuev.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/znamenshikova.pdf"
+      ],
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115/",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115/",
+        "retrievedAt": "2026-09-04T03:42:12.964564+00:00",
+        "status": 200,
+        "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116/",
+      "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 20
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/Ioginov.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/bikovskih.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/djakonova.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/grishaev.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ksenofontova.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/naumov.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/shedrina.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/sokolov.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/zachinyaev-m-s.pdf",
+        "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/zvjagin.pdf"
+      ],
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116/",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116/",
+        "retrievedAt": "2026-09-04T03:42:14.044022+00:00",
+        "status": 200,
+        "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "Логинов Юрий Вячеславович",
+      "officialUrl": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/Ioginov.pdf",
+      "sourcePages": [
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+          "depth": 2,
+          "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9"
+        },
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116/",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+          "depth": 3,
+          "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "855d332aff541b2d8cd6721c452236ae1b4a9ed8c8f985dae456b39eecb8b7a5",
+      "originalFilename": "Ioginov.pdf",
+      "filename": "Логинов_Юрий_Вячеславович-855d332aff54.pdf",
+      "path": "files/Логинов_Юрий_Вячеславович-855d332aff54.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 132716,
+      "sha256": "855d332aff541b2d8cd6721c452236ae1b4a9ed8c8f985dae456b39eecb8b7a5",
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/Ioginov.pdf",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/Ioginov.pdf",
+        "retrievedAt": "2026-09-04T03:42:15.083225+00:00",
+        "status": 200,
+        "sha256": "855d332aff541b2d8cd6721c452236ae1b4a9ed8c8f985dae456b39eecb8b7a5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Быковских Николай Иванович",
+      "officialUrl": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/bikovskih.pdf",
+      "sourcePages": [
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+          "depth": 2,
+          "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9"
+        },
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116/",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+          "depth": 3,
+          "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "825af8a9f80269223f420f770e9f0ff8393e0aadef94900fb844c99c94bb624b",
+      "originalFilename": "bikovskih.pdf",
+      "filename": "Быковских_Николай_Иванович-825af8a9f802.pdf",
+      "path": "files/Быковских_Николай_Иванович-825af8a9f802.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 137613,
+      "sha256": "825af8a9f80269223f420f770e9f0ff8393e0aadef94900fb844c99c94bb624b",
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/bikovskih.pdf",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/bikovskih.pdf",
+        "retrievedAt": "2026-09-04T03:42:16.110142+00:00",
+        "status": 200,
+        "sha256": "825af8a9f80269223f420f770e9f0ff8393e0aadef94900fb844c99c94bb624b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Дьяконова Татьяна Ивановна",
+      "officialUrl": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/djakonova.pdf",
+      "sourcePages": [
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+          "depth": 2,
+          "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9"
+        },
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116/",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+          "depth": 3,
+          "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "c20472a7742b936741f6035a3cb0fa369a8bae507c5d8adc215b4bb4b9e294e0",
+      "originalFilename": "djakonova.pdf",
+      "filename": "Дьяконова_Татьяна_Ивановна-c20472a7742b.pdf",
+      "path": "files/Дьяконова_Татьяна_Ивановна-c20472a7742b.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 137524,
+      "sha256": "c20472a7742b936741f6035a3cb0fa369a8bae507c5d8adc215b4bb4b9e294e0",
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/djakonova.pdf",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/djakonova.pdf",
+        "retrievedAt": "2026-09-04T03:42:17.141108+00:00",
+        "status": 200,
+        "sha256": "c20472a7742b936741f6035a3cb0fa369a8bae507c5d8adc215b4bb4b9e294e0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Егоров Вадим Алексеевич",
+      "officialUrl": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/egorov.pdf",
+      "sourcePages": [
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+          "depth": 2,
+          "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6"
+        },
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115/",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+          "depth": 3,
+          "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "e169a7696bda47ad40073dd2f46355b92a39bab08bbf00dc32a1cebf97cd778e",
+      "originalFilename": "egorov.pdf",
+      "filename": "Егоров_Вадим_Алексеевич-e169a7696bda.pdf",
+      "path": "files/Егоров_Вадим_Алексеевич-e169a7696bda.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 143882,
+      "sha256": "e169a7696bda47ad40073dd2f46355b92a39bab08bbf00dc32a1cebf97cd778e",
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/egorov.pdf",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/egorov.pdf",
+        "retrievedAt": "2026-09-04T03:42:18.234183+00:00",
+        "status": 200,
+        "sha256": "e169a7696bda47ad40073dd2f46355b92a39bab08bbf00dc32a1cebf97cd778e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Гришаев Денис Алексеевич",
+      "officialUrl": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/grishaev.pdf",
+      "sourcePages": [
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+          "depth": 2,
+          "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9"
+        },
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116/",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+          "depth": 3,
+          "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "454daeb8851a48cfc8320dba64a993448abf2e73385ad31312435d1208067aec",
+      "originalFilename": "grishaev.pdf",
+      "filename": "Гришаев_Денис_Алексеевич-454daeb8851a.pdf",
+      "path": "files/Гришаев_Денис_Алексеевич-454daeb8851a.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 142862,
+      "sha256": "454daeb8851a48cfc8320dba64a993448abf2e73385ad31312435d1208067aec",
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/grishaev.pdf",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/grishaev.pdf",
+        "retrievedAt": "2026-09-04T03:42:19.276497+00:00",
+        "status": 200,
+        "sha256": "454daeb8851a48cfc8320dba64a993448abf2e73385ad31312435d1208067aec",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Хромовская Валентина Евгеньевна",
+      "officialUrl": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/hromovskay.pdf",
+      "sourcePages": [
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+          "depth": 2,
+          "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6"
+        },
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115/",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+          "depth": 3,
+          "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "48d2d6330dc2238c86f33ff9d606c0ce909bee6b7e5376c1088ee2838feec4cb",
+      "originalFilename": "hromovskay.pdf",
+      "filename": "Хромовская_Валентина_Евгеньевна-48d2d6330dc2.pdf",
+      "path": "files/Хромовская_Валентина_Евгеньевна-48d2d6330dc2.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 133718,
+      "sha256": "48d2d6330dc2238c86f33ff9d606c0ce909bee6b7e5376c1088ee2838feec4cb",
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/hromovskay.pdf",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/hromovskay.pdf",
+        "retrievedAt": "2026-09-04T03:42:20.336759+00:00",
+        "status": 200,
+        "sha256": "48d2d6330dc2238c86f33ff9d606c0ce909bee6b7e5376c1088ee2838feec4cb",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Исаев Евгений Николаевич",
+      "officialUrl": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/isaev.pdf",
+      "sourcePages": [
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+          "depth": 2,
+          "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6"
+        },
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115/",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+          "depth": 3,
+          "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "842cd1951ee1b930d530eb5e440b0bbacd628473b64c99f6d9869c0f66b65ee7",
+      "originalFilename": "isaev.pdf",
+      "filename": "Исаев_Евгений_Николаевич-842cd1951ee1.pdf",
+      "path": "files/Исаев_Евгений_Николаевич-842cd1951ee1.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 139978,
+      "sha256": "842cd1951ee1b930d530eb5e440b0bbacd628473b64c99f6d9869c0f66b65ee7",
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/isaev.pdf",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/isaev.pdf",
+        "retrievedAt": "2026-09-04T03:42:21.395136+00:00",
+        "status": 200,
+        "sha256": "842cd1951ee1b930d530eb5e440b0bbacd628473b64c99f6d9869c0f66b65ee7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Хайрединова Жанна Руслановна",
+      "officialUrl": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/khajredinova.pdf",
+      "sourcePages": [
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+          "depth": 2,
+          "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6"
+        },
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115/",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+          "depth": 3,
+          "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "009f97ea981ff167b28a6413cce67072ff110ffba0b4227ce0a4e320f37cd62b",
+      "originalFilename": "khajredinova.pdf",
+      "filename": "Хайрединова_Жанна_Руслановна-009f97ea981f.pdf",
+      "path": "files/Хайрединова_Жанна_Руслановна-009f97ea981f.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 140670,
+      "sha256": "009f97ea981ff167b28a6413cce67072ff110ffba0b4227ce0a4e320f37cd62b",
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/khajredinova.pdf",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/khajredinova.pdf",
+        "retrievedAt": "2026-09-04T03:42:22.467846+00:00",
+        "status": 200,
+        "sha256": "009f97ea981ff167b28a6413cce67072ff110ffba0b4227ce0a4e320f37cd62b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Ксенофонтова Лариса Васильевна",
+      "officialUrl": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ksenofontova.pdf",
+      "sourcePages": [
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+          "depth": 2,
+          "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9"
+        },
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116/",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+          "depth": 3,
+          "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "9929a025f99212cfd147db921e40e409609155263ff92776e49336fe62dd4aca",
+      "originalFilename": "ksenofontova.pdf",
+      "filename": "Ксенофонтова_Лариса_Васильевна-9929a025f992.pdf",
+      "path": "files/Ксенофонтова_Лариса_Васильевна-9929a025f992.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 143548,
+      "sha256": "9929a025f99212cfd147db921e40e409609155263ff92776e49336fe62dd4aca",
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ksenofontova.pdf",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ksenofontova.pdf",
+        "retrievedAt": "2026-09-04T03:42:23.191563+00:00",
+        "status": 200,
+        "sha256": "9929a025f99212cfd147db921e40e409609155263ff92776e49336fe62dd4aca",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Кубрина Анна Борисовна",
+      "officialUrl": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/kubrina.pdf",
+      "sourcePages": [
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+          "depth": 2,
+          "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6"
+        },
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115/",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+          "depth": 3,
+          "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "0f2e211a5667003753d5b900ad40da1c7d0d4cf7f74709fedeac967e82225046",
+      "originalFilename": "kubrina.pdf",
+      "filename": "Кубрина_Анна_Борисовна-0f2e211a5667.pdf",
+      "path": "files/Кубрина_Анна_Борисовна-0f2e211a5667.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 136006,
+      "sha256": "0f2e211a5667003753d5b900ad40da1c7d0d4cf7f74709fedeac967e82225046",
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/kubrina.pdf",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/kubrina.pdf",
+        "retrievedAt": "2026-09-04T03:42:23.862987+00:00",
+        "status": 200,
+        "sha256": "0f2e211a5667003753d5b900ad40da1c7d0d4cf7f74709fedeac967e82225046",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Курбатов Сергей Михайлович",
+      "officialUrl": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/kurbatov.pdf",
+      "sourcePages": [
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+          "depth": 2,
+          "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6"
+        },
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115/",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+          "depth": 3,
+          "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "43d463446ca97597cbfc3ecba7b197774fde6aa38f1f31252e247ec8ada12bfc",
+      "originalFilename": "kurbatov.pdf",
+      "filename": "Курбатов_Сергей_Михайлович-43d463446ca9.pdf",
+      "path": "files/Курбатов_Сергей_Михайлович-43d463446ca9.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 146515,
+      "sha256": "43d463446ca97597cbfc3ecba7b197774fde6aa38f1f31252e247ec8ada12bfc",
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/kurbatov.pdf",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/kurbatov.pdf",
+        "retrievedAt": "2026-09-04T03:42:24.587900+00:00",
+        "status": 200,
+        "sha256": "43d463446ca97597cbfc3ecba7b197774fde6aa38f1f31252e247ec8ada12bfc",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Наумов Александр Владимирович",
+      "officialUrl": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/naumov.pdf",
+      "sourcePages": [
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+          "depth": 2,
+          "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9"
+        },
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116/",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+          "depth": 3,
+          "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "fbb776997cdc4e604783ee1890b472d950c7fbe3a61b8f5d0cbc308408860602",
+      "originalFilename": "naumov.pdf",
+      "filename": "Наумов_Александр_Владимирович-fbb776997cdc.pdf",
+      "path": "files/Наумов_Александр_Владимирович-fbb776997cdc.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 134435,
+      "sha256": "fbb776997cdc4e604783ee1890b472d950c7fbe3a61b8f5d0cbc308408860602",
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/naumov.pdf",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/naumov.pdf",
+        "retrievedAt": "2026-09-04T03:42:25.589304+00:00",
+        "status": 200,
+        "sha256": "fbb776997cdc4e604783ee1890b472d950c7fbe3a61b8f5d0cbc308408860602",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Раздобарина Марина Олеговна",
+      "officialUrl": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/razdobarin.pdf",
+      "sourcePages": [
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+          "depth": 2,
+          "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6"
+        },
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115/",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+          "depth": 3,
+          "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "a866f7c976c3c9357a3a47209315d5dff7b54a08907cb9e9eaa311739783095e",
+      "originalFilename": "razdobarin.pdf",
+      "filename": "Раздобарина_Марина_Олеговна-a866f7c976c3.pdf",
+      "path": "files/Раздобарина_Марина_Олеговна-a866f7c976c3.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 137197,
+      "sha256": "a866f7c976c3c9357a3a47209315d5dff7b54a08907cb9e9eaa311739783095e",
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/razdobarin.pdf",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/razdobarin.pdf",
+        "retrievedAt": "2026-09-04T03:42:26.282889+00:00",
+        "status": 200,
+        "sha256": "a866f7c976c3c9357a3a47209315d5dff7b54a08907cb9e9eaa311739783095e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Щедрина Наталья Борисовна",
+      "officialUrl": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/shedrina.pdf",
+      "sourcePages": [
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+          "depth": 2,
+          "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9"
+        },
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116/",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+          "depth": 3,
+          "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "161a71271a81afef3cd8a7f3c88655646d305664afcafb4f545482a40dacd3f3",
+      "originalFilename": "shedrina.pdf",
+      "filename": "Щедрина_Наталья_Борисовна-161a71271a81.pdf",
+      "path": "files/Щедрина_Наталья_Борисовна-161a71271a81.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 139536,
+      "sha256": "161a71271a81afef3cd8a7f3c88655646d305664afcafb4f545482a40dacd3f3",
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/shedrina.pdf",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/shedrina.pdf",
+        "retrievedAt": "2026-09-04T03:42:27.004569+00:00",
+        "status": 200,
+        "sha256": "161a71271a81afef3cd8a7f3c88655646d305664afcafb4f545482a40dacd3f3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Соколов Сергей Сергеевич",
+      "officialUrl": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/sokolov.pdf",
+      "sourcePages": [
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+          "depth": 2,
+          "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9"
+        },
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116/",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+          "depth": 3,
+          "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "264102a36c5227d97d6a6915df65fa4651abdb1707e6ead6a6c644dd4151057d",
+      "originalFilename": "sokolov.pdf",
+      "filename": "Соколов_Сергей_Сергеевич-264102a36c52.pdf",
+      "path": "files/Соколов_Сергей_Сергеевич-264102a36c52.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 134705,
+      "sha256": "264102a36c5227d97d6a6915df65fa4651abdb1707e6ead6a6c644dd4151057d",
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/sokolov.pdf",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/sokolov.pdf",
+        "retrievedAt": "2026-09-04T03:42:28.002214+00:00",
+        "status": 200,
+        "sha256": "264102a36c5227d97d6a6915df65fa4651abdb1707e6ead6a6c644dd4151057d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Токарев Сергей Владимирович",
+      "officialUrl": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/tokarev.pdf",
+      "sourcePages": [
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+          "depth": 2,
+          "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6"
+        },
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115/",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+          "depth": 3,
+          "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "13f4eca7b92b0e34574f4b039d7da35ed2f1e9573985201d9d9d2ab620254ba9",
+      "originalFilename": "tokarev.pdf",
+      "filename": "Токарев_Сергей_Владимирович-13f4eca7b92b.pdf",
+      "path": "files/Токарев_Сергей_Владимирович-13f4eca7b92b.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 139051,
+      "sha256": "13f4eca7b92b0e34574f4b039d7da35ed2f1e9573985201d9d9d2ab620254ba9",
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/tokarev.pdf",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/tokarev.pdf",
+        "retrievedAt": "2026-09-04T03:42:29.089246+00:00",
+        "status": 200,
+        "sha256": "13f4eca7b92b0e34574f4b039d7da35ed2f1e9573985201d9d9d2ab620254ba9",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Волобуев Сергей Васильевич",
+      "officialUrl": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/volobuev.pdf",
+      "sourcePages": [
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+          "depth": 2,
+          "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6"
+        },
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115/",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+          "depth": 3,
+          "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "f614c8eec3e0412475676b4641756e9b4c63d8430856da272ea2d99210dbba02",
+      "originalFilename": "volobuev.pdf",
+      "filename": "Волобуев_Сергей_Васильевич-f614c8eec3e0.pdf",
+      "path": "files/Волобуев_Сергей_Васильевич-f614c8eec3e0.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 136180,
+      "sha256": "f614c8eec3e0412475676b4641756e9b4c63d8430856da272ea2d99210dbba02",
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/volobuev.pdf",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/volobuev.pdf",
+        "retrievedAt": "2026-09-04T03:42:30.105019+00:00",
+        "status": 200,
+        "sha256": "f614c8eec3e0412475676b4641756e9b4c63d8430856da272ea2d99210dbba02",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Зачиняев Максим Сергеевич",
+      "officialUrl": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/zachinyaev-m-s.pdf",
+      "sourcePages": [
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+          "depth": 2,
+          "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9"
+        },
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116/",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+          "depth": 3,
+          "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "9b279b698de4064d2edfa70f9e252b63152b8db0a80bb0ddb98dfa4a82ed868a",
+      "originalFilename": "zachinyaev-m-s.pdf",
+      "filename": "Зачиняев_Максим_Сергеевич-9b279b698de4.pdf",
+      "path": "files/Зачиняев_Максим_Сергеевич-9b279b698de4.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 150985,
+      "sha256": "9b279b698de4064d2edfa70f9e252b63152b8db0a80bb0ddb98dfa4a82ed868a",
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/zachinyaev-m-s.pdf",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/zachinyaev-m-s.pdf",
+        "retrievedAt": "2026-09-04T03:42:31.159044+00:00",
+        "status": 200,
+        "sha256": "9b279b698de4064d2edfa70f9e252b63152b8db0a80bb0ddb98dfa4a82ed868a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Знаменщикова Полина Олеговна",
+      "officialUrl": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/znamenshikova.pdf",
+      "sourcePages": [
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+          "depth": 2,
+          "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6"
+        },
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok115/",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 115",
+          "depth": 3,
+          "sha256": "747b1b7d13bb4f9e476e6346cfbe9029e3b19bbed677bf96784573f8ad7253d6"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "05c3657beb7723a24235aa449a1584fa51c4d5d0c43284aa66b02da964681cc6",
+      "originalFilename": "znamenshikova.pdf",
+      "filename": "Знаменщикова_Полина_Олеговна-05c3657beb77.pdf",
+      "path": "files/Знаменщикова_Полина_Олеговна-05c3657beb77.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 138546,
+      "sha256": "05c3657beb7723a24235aa449a1584fa51c4d5d0c43284aa66b02da964681cc6",
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/znamenshikova.pdf",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/znamenshikova.pdf",
+        "retrievedAt": "2026-09-04T03:42:32.206947+00:00",
+        "status": 200,
+        "sha256": "05c3657beb7723a24235aa449a1584fa51c4d5d0c43284aa66b02da964681cc6",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Звягин Сергей Владимирович",
+      "officialUrl": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/zvjagin.pdf",
+      "sourcePages": [
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+          "depth": 2,
+          "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9"
+        },
+        {
+          "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/ok116/",
+          "title": "Одномандатный избирательный округ Липецкая область – Левобережный одномандатный избирательный округ № 116",
+          "depth": 3,
+          "sha256": "7e0953058abb6b561b752829ff20c5228618a01cc0e6bbd425a203dd4f9ea7c9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "fa1a28e3fa0e118014474c5caaf264349f1d4227f06c9bc34c8a5878c3458ca8",
+      "originalFilename": "zvjagin.pdf",
+      "filename": "Звягин_Сергей_Владимирович-fa1a28e3fa0e.pdf",
+      "path": "files/Звягин_Сергей_Владимирович-fa1a28e3fa0e.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 143312,
+      "sha256": "fa1a28e3fa0e118014474c5caaf264349f1d4227f06c9bc34c8a5878c3458ca8",
+      "source": {
+        "url": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/zvjagin.pdf",
+        "requestKey": "http://lipetsk.izbirkom.ru/vybory-i-referendumy/vibory/edg-2026/viboryGD/dohod/zvjagin.pdf",
+        "retrievedAt": "2026-09-04T03:42:33.240943+00:00",
+        "status": 200,
+        "sha256": "fa1a28e3fa0e118014474c5caaf264349f1d4227f06c9bc34c8a5878c3458ca8",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

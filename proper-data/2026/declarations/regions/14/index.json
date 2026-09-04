@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:30.663626+00:00",
+  "region": {
+    "code": "14",
+    "name": "Республика Саха (Якутия)",
+    "seedUrls": [
+      "http://yakut.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/20.09.2026/GD/index.php"
+    ],
+    "allowedHosts": [
+      "www.yakut.izbirkom.ru",
+      "yakut.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 5,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://yakut.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/20.09.2026/GD/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва 20 сентября 2026 года",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://yakut.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/20.09.2026/GD/index.php",
+        "requestKey": "http://yakut.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/20.09.2026/GD/index.php",
+        "retrievedAt": "2026-09-04T03:30:46.618721+00:00",
+        "status": 200,
+        "sha256": "8c84525aefa471b4388670ac4c8a82e8a85e96e3d1aab57f75cef2218d222cd5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://yakut.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/20.09.2026/GD/svedeniya-o-zaregistrirovannykh-kandidatakh.php",
+      "title": "Сведения о зарегистрированных кандидатах",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://yakut.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/20.09.2026/GD/svedeniya-o-zaregistrirovannykh-kandidatakh.php",
+        "requestKey": "http://yakut.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/20.09.2026/GD/svedeniya-o-zaregistrirovannykh-kandidatakh.php",
+        "retrievedAt": "2026-09-04T03:30:47.106560+00:00",
+        "status": 200,
+        "sha256": "9647657f70ecc8936adb57085c3b09fe091dde1da0d0fcb24c6e87a35cb0850e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://yakut.izbirkom.ru/news/4368/",
+      "title": "Вниманию политических партий и кандидатов об отдельных положениях порядка распространения агитационных печатных материалов!",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://yakut.izbirkom.ru/news/4368/",
+        "requestKey": "http://yakut.izbirkom.ru/news/4368/",
+        "retrievedAt": "2026-09-04T03:30:49.597042+00:00",
+        "status": 200,
+        "sha256": "adb58979bb478a4c7c9504b682de2935d8eef1e45dadf1680369aa34f23a85d3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://yakut.izbirkom.ru/news/4366/",
+      "title": "Анонс заседания ОИК одномандатного избирательного округа «Республика Саха (Якутия) – Якутский одномандатный избирательный округ № 29», назначенного на 4 сентября 2026 г.",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://yakut.izbirkom.ru/news/4366/",
+        "requestKey": "http://yakut.izbirkom.ru/news/4366/",
+        "retrievedAt": "2026-09-04T03:30:50.682085+00:00",
+        "status": 200,
+        "sha256": "54551b28a61977f5a60be628c7078efc70a1b1e0e382af45f5bca05d10499723",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://yakut.izbirkom.ru/news/4362/",
+      "title": "Анонс заседания ОИК одномандатного избирательного округа «Республика Саха (Якутия) – Якутский одномандатный избирательный округ № 29», назначенного на 25 августа 2026 г.",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://yakut.izbirkom.ru/news/4362/",
+        "requestKey": "http://yakut.izbirkom.ru/news/4362/",
+        "retrievedAt": "2026-09-04T03:30:51.180954+00:00",
+        "status": 200,
+        "sha256": "fac1893535989e7c45d51df83d88945a0ef9ceed06137ee13a9d36e1c840c209",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

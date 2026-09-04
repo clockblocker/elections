@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:29.561129+00:00",
+  "region": {
+    "code": "10",
+    "name": "Республика Карелия",
+    "seedUrls": [
+      "http://karel.izbirkom.ru/vybory-v-karelii/edinyy-den-golosovaniya/2026-09-20/gdrf/",
+      "http://karel.izbirkom.ru/vybory-v-karelii/edinyy-den-golosovaniya/2026-09-20/gdrf/index.php"
+    ],
+    "allowedHosts": [
+      "karel.izbirkom.ru",
+      "www.karel.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 5,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://karel.izbirkom.ru/vybory-v-karelii/edinyy-den-golosovaniya/2026-09-20/gdrf/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва 20 сентября 2026 года",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://karel.izbirkom.ru/vybory-v-karelii/edinyy-den-golosovaniya/2026-09-20/gdrf/",
+        "requestKey": "http://karel.izbirkom.ru/vybory-v-karelii/edinyy-den-golosovaniya/2026-09-20/gdrf/",
+        "retrievedAt": "2026-09-04T03:29:29.840332+00:00",
+        "status": 200,
+        "sha256": "fca9e5cd85d4d33ece5cff181087494ca539b61b095689c809e392ce1189d107",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://karel.izbirkom.ru/vybory-v-karelii/edinyy-den-golosovaniya/2026-09-20/gdrf/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва 20 сентября 2026 года",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://karel.izbirkom.ru/vybory-v-karelii/edinyy-den-golosovaniya/2026-09-20/gdrf/index.php",
+        "requestKey": "http://karel.izbirkom.ru/vybory-v-karelii/edinyy-den-golosovaniya/2026-09-20/gdrf/index.php",
+        "retrievedAt": "2026-09-04T03:29:30.463480+00:00",
+        "status": 200,
+        "sha256": "fca9e5cd85d4d33ece5cff181087494ca539b61b095689c809e392ce1189d107",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://karel.izbirkom.ru/vybory-v-karelii/edinyy-den-golosovaniya/2026-09-20/gdrf/svedeniya/index.php",
+      "title": "Сведения о зарегистрированных кандидатах в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва, выдвинутых по одномандатному избирательному округу Республика Карелия - Карельский одномандатный избирательный округ № 20",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://karel.izbirkom.ru/vybory-v-karelii/edinyy-den-golosovaniya/2026-09-20/gdrf/svedeniya/index.php",
+        "requestKey": "http://karel.izbirkom.ru/vybory-v-karelii/edinyy-den-golosovaniya/2026-09-20/gdrf/svedeniya/index.php",
+        "retrievedAt": "2026-09-04T03:29:31.612068+00:00",
+        "status": 200,
+        "sha256": "da48bb763a4e5bcf2c42f281f2e62023769a5108179ad1430bb62aa8c25a2e04",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://karel.izbirkom.ru/news/6407/",
+      "title": "Утверждены итоги жеребьёвок по распределению эфирного времени и печатной площади для кандидатов и партий",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://karel.izbirkom.ru/news/6407/",
+        "requestKey": "http://karel.izbirkom.ru/news/6407/",
+        "retrievedAt": "2026-09-04T03:29:34.093277+00:00",
+        "status": 200,
+        "sha256": "99096b4de0c595c343f0423a52058af4003a4a895e708ded02fc9be19cc92f26",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://karel.izbirkom.ru/vybory-v-karelii/edinyy-den-golosovaniya/2026-09-20/gdrf/svedeniya/",
+      "title": "Сведения о зарегистрированных кандидатах в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва, выдвинутых по одномандатному избирательному округу Республика Карелия - Карельский одномандатный избирательный округ № 20",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://karel.izbirkom.ru/vybory-v-karelii/edinyy-den-golosovaniya/2026-09-20/gdrf/svedeniya/",
+        "requestKey": "http://karel.izbirkom.ru/vybory-v-karelii/edinyy-den-golosovaniya/2026-09-20/gdrf/svedeniya/",
+        "retrievedAt": "2026-09-04T03:29:37.042296+00:00",
+        "status": 200,
+        "sha256": "da48bb763a4e5bcf2c42f281f2e62023769a5108179ad1430bb62aa8c25a2e04",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

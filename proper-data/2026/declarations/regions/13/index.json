@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:30.625551+00:00",
+  "region": {
+    "code": "13",
+    "name": "Республика Мордовия",
+    "seedUrls": [
+      "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-/",
+      "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-10072026/"
+    ],
+    "allowedHosts": [
+      "mordov.izbirkom.ru",
+      "www.mordov.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 7,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-/",
+      "title": "Выдвижение кандидата в Государственную Думу Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-/",
+        "requestKey": "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-/",
+        "retrievedAt": "2026-09-04T03:30:42.106086+00:00",
+        "status": 200,
+        "sha256": "4f9c37a6588c6e092cc1d406a3d49fcf1b35da93f8406b6f2142556b10b2a936",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-10072026/",
+      "title": "Выдвижение кандидата в Государственную Думу Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-10072026/",
+        "requestKey": "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-10072026/",
+        "retrievedAt": "2026-09-04T03:30:42.566914+00:00",
+        "status": 200,
+        "sha256": "b720ef7d824fe770295976e129fd22bc6d0a9234a0af851e79648908a894b815",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-20072026",
+      "title": "Выдвижение кандидата в Государственную Думу Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-20072026/",
+        "requestKey": "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-20072026",
+        "retrievedAt": "2026-09-04T03:30:43.688045+00:00",
+        "status": 200,
+        "sha256": "2160385a4678724d50158af0fc1a31128f6418ffc09225f326cc4262a42f6954",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-14072026-2",
+      "title": "Выдвижение кандидата в Государственную Думу Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-14072026-2/",
+        "requestKey": "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-14072026-2",
+        "retrievedAt": "2026-09-04T03:30:44.317223+00:00",
+        "status": 200,
+        "sha256": "f719a1d5dd59c17a44f96719f8b7509412fa3e97e7ac4eafccf7662d4a4ca7c8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-14072026-3",
+      "title": "Выдвижение кандидата в Государственную Думу Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-14072026-3/",
+        "requestKey": "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-14072026-3",
+        "retrievedAt": "2026-09-04T03:30:44.897787+00:00",
+        "status": 200,
+        "sha256": "622c30339bb98dcabbcfdd2a0fbe3e32fc19c2b2a64bc4566f6212bae3b2bfca",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-14072026",
+      "title": "Выдвижение кандидата в Государственную Думу Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-14072026/",
+        "requestKey": "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-14072026",
+        "retrievedAt": "2026-09-04T03:30:45.513203+00:00",
+        "status": 200,
+        "sha256": "97c97f22959af7c1e6b132f3d00918bd148d00af851457073b1d91a23b4858ac",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-10072026",
+      "title": "Выдвижение кандидата в Государственную Думу Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-10072026/",
+        "requestKey": "http://mordov.izbirkom.ru/docs/vydvizhenie-kandidata-v-gosudarstvennuyu-dumu-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-10072026",
+        "retrievedAt": "2026-09-04T03:30:46.155149+00:00",
+        "status": 200,
+        "sha256": "b720ef7d824fe770295976e129fd22bc6d0a9234a0af851e79648908a894b815",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

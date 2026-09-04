@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:12.680111+00:00",
+  "region": {
+    "code": "98",
+    "name": "Херсонская область",
+    "seedUrls": [
+      "http://kherson.izbirkom.ru/GosDuma2026/title.php",
+      "http://kherson.izbirkom.ru/GosDuma2026/OIK/OIK.php"
+    ],
+    "allowedHosts": [
+      "kherson.izbirkom.ru",
+      "www.kherson.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 11,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://kherson.izbirkom.ru/GosDuma2026/title.php",
+      "title": "Все о выборах в единый день голосования 20 сентября 2026 года",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kherson.izbirkom.ru/GosDuma2026/title.php",
+        "requestKey": "http://kherson.izbirkom.ru/GosDuma2026/title.php",
+        "retrievedAt": "2026-09-04T03:51:06.004346+00:00",
+        "status": 200,
+        "sha256": "c61b6fa963287076192fcbd0a8db658a6d5dc75bab101b2574f0dedf66d6d546",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kherson.izbirkom.ru/GosDuma2026/OIK/OIK.php",
+      "title": "",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kherson.izbirkom.ru/GosDuma2026/OIK/OIK.php",
+        "requestKey": "http://kherson.izbirkom.ru/GosDuma2026/OIK/OIK.php",
+        "retrievedAt": "2026-09-04T03:51:06.538997+00:00",
+        "status": 200,
+        "sha256": "72554880100662044b52a76fd40bb1d42f936cd96209e68a2c8d82da65d82675",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kherson.izbirkom.ru/GosDuma2026/dlya-kandidatov/title.php",
+      "title": "",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kherson.izbirkom.ru/GosDuma2026/dlya-kandidatov/title.php",
+        "requestKey": "http://kherson.izbirkom.ru/GosDuma2026/dlya-kandidatov/title.php",
+        "retrievedAt": "2026-09-04T03:51:07.081911+00:00",
+        "status": 200,
+        "sha256": "ea29a9af21466aee33f55acaa2e7b4dc15092e8e93588705d2c1692d2a79e18b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kherson.izbirkom.ru/GosDuma2026/dlya-izbirateley/title.php",
+      "title": "",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kherson.izbirkom.ru/GosDuma2026/dlya-izbirateley/title.php",
+        "requestKey": "http://kherson.izbirkom.ru/GosDuma2026/dlya-izbirateley/title.php",
+        "retrievedAt": "2026-09-04T03:51:07.610426+00:00",
+        "status": 200,
+        "sha256": "1de76e2e887cf958f28f9b8c7793b7b7538062ab26903b240e85aeff6674141a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kherson.izbirkom.ru/GosDuma2026/inform-obespechenie/title.php",
+      "title": "Информационное обеспечение выборов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kherson.izbirkom.ru/GosDuma2026/inform-obespechenie/title.php",
+        "requestKey": "http://kherson.izbirkom.ru/GosDuma2026/inform-obespechenie/title.php",
+        "retrievedAt": "2026-09-04T03:51:08.142807+00:00",
+        "status": 200,
+        "sha256": "c5a7d9f7302395caa40d203065f7b895966dd7d9d19bf0c552faee69eae06047",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kherson.izbirkom.ru/GosDuma2026/finance/title.php",
+      "title": "",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kherson.izbirkom.ru/GosDuma2026/finance/title.php",
+        "requestKey": "http://kherson.izbirkom.ru/GosDuma2026/finance/title.php",
+        "retrievedAt": "2026-09-04T03:51:08.663906+00:00",
+        "status": 200,
+        "sha256": "3654d5136208f4954753c1c0e268d2616f6e88fed2b04665b184318d97f42951",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kherson.izbirkom.ru/GosDuma2026/akkreditaciya/title.php",
+      "title": "",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kherson.izbirkom.ru/GosDuma2026/akkreditaciya/title.php",
+        "requestKey": "http://kherson.izbirkom.ru/GosDuma2026/akkreditaciya/title.php",
+        "retrievedAt": "2026-09-04T03:51:09.207450+00:00",
+        "status": 200,
+        "sha256": "ee8186764db0693304d07a1cad34cb6bf9937492bfc0a1464714b78dbb99d0dc",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kherson.izbirkom.ru/GosDuma2026/svedeniya-ob-postuplenii-i-rashodovanii/title.php",
+      "title": "Сведения о поступлении средств в избирательные фонды кандидатов, региональных отделений политических партий и расходовании этих средств",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kherson.izbirkom.ru/GosDuma2026/svedeniya-ob-postuplenii-i-rashodovanii/title.php",
+        "requestKey": "http://kherson.izbirkom.ru/GosDuma2026/svedeniya-ob-postuplenii-i-rashodovanii/title.php",
+        "retrievedAt": "2026-09-04T03:51:09.704961+00:00",
+        "status": 200,
+        "sha256": "19007f80aa7e00e6511e5bc60c9a8ad023020c3890e238a7e257d82072c99621",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kherson.izbirkom.ru/GosDuma2026/dlya-kandidatov/spi.php",
+      "title": "СПИ Наблюдатели / руководство пользователя",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kherson.izbirkom.ru/GosDuma2026/dlya-kandidatov/spi.php",
+        "requestKey": "http://kherson.izbirkom.ru/GosDuma2026/dlya-kandidatov/spi.php",
+        "retrievedAt": "2026-09-04T03:51:10.202883+00:00",
+        "status": 200,
+        "sha256": "5a5bb8a0db0a953f5361c1f3a1ae5e4dd9bf6b45c29bd6600522e679b363ba17",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kherson.izbirkom.ru/news/24582/",
+      "title": "С момента открытия специального избирательного счета кандидаты и политические партии получают право вести агитацию. Какие требования предъявляются к агитационным материалам и как распознать незаконную агитацию? Смотрите карточки ☝️",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kherson.izbirkom.ru/news/24582/",
+        "requestKey": "http://kherson.izbirkom.ru/news/24582/",
+        "retrievedAt": "2026-09-04T03:51:10.724922+00:00",
+        "status": 200,
+        "sha256": "a5b436230a02491b464f1cffe51585cfd2edbb41c628714ee06062f48b3d03b7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kherson.izbirkom.ru/GosDuma2026/inform-obespechenie/graph/graphic.php",
+      "title": "",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kherson.izbirkom.ru/GosDuma2026/inform-obespechenie/graph/graphic.php",
+        "requestKey": "http://kherson.izbirkom.ru/GosDuma2026/inform-obespechenie/graph/graphic.php",
+        "retrievedAt": "2026-09-04T03:51:11.746049+00:00",
+        "status": 200,
+        "sha256": "73cdabeaa93e166e21fd45c37c33d66586f036adbd48820940c102739d8eb467",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

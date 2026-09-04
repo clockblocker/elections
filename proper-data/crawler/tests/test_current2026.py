@@ -1,16 +1,21 @@
 from __future__ import annotations
 
+import io
 import sys
+import tempfile
 import unittest
+import zipfile
 from pathlib import Path
 
-CRAWLER = Path(__file__).parents[1]
-sys.path.insert(0, str(CRAWLER))
+CURRENT_2026 = Path(__file__).parents[2] / "2026"
+sys.path.insert(0, str(CURRENT_2026))
 
 from current2026 import (
     _campaign_scope,
     _candidate,
     _contest_sets,
+    _extract_declaration_archive,
+    _fetch_declaration_listing,
     _ingest_classifier,
     _path_for_node,
 )
@@ -141,9 +146,76 @@ class CurrentClassifierTests(unittest.TestCase):
         _ingest_classifier(tree, record, nodes, pending)
         by_id = {node["id"]: node for node in nodes.values()}
         path = _path_for_node(nodes["uik"], by_id)
-        self.assertEqual([node["externalId"] for node in path], ["root", "district", "uik"])
+        self.assertEqual(
+            [node["externalId"] for node in path], ["root", "district", "uik"]
+        )
         self.assertEqual(path[-2]["number"], 7)
         self.assertEqual(nodes["uik"]["sources"][0]["sha256"], "b" * 64)
+
+
+class CurrentDeclarationTests(unittest.TestCase):
+    @staticmethod
+    def declaration_row(identifier: str, file_name: str) -> dict:
+        return {
+            "id": f"report-{identifier}",
+            "reportType": "77",
+            "body": {"id": identifier, "fileName": file_name},
+        }
+
+    def test_listing_paginates_and_checks_the_official_total(self):
+        rows = [
+            self.declaration_row("file-1", "Иванов 01.01.2026.PDF"),
+            self.declaration_row("file-2", "Петров 01.01.2026.XLSX"),
+        ]
+
+        class FakeApi:
+            def request_json(self, _method, _path, *, body, refresh):
+                page = body["page"]
+                return {
+                    "content": [rows[page - 1]],
+                    "totalPages": 2,
+                    "totalSize": 2,
+                }, {
+                    "status": 200,
+                    "official_url": f"http://official.test/page/{page}",
+                    "requested_url": f"http://official.test/page/{page}",
+                    "sha256": str(page) * 64,
+                }
+
+        actual, sources = _fetch_declaration_listing(
+            FakeApi(), "election-id", page_size=1, refresh=False
+        )
+        self.assertEqual(actual, rows)
+        self.assertEqual(len(sources), 2)
+
+    def test_archive_is_validated_and_extracted_atomically(self):
+        payload = io.BytesIO()
+        with zipfile.ZipFile(payload, "w") as archive:
+            archive.writestr("Иванов 01.01.2026.PDF", b"%PDF-test")
+        with tempfile.TemporaryDirectory() as directory:
+            destination = Path(directory) / "file-id" / "Иванов 01.01.2026.PDF"
+            result = _extract_declaration_archive(
+                payload.getvalue(),
+                expected_file_name=destination.name,
+                destination=destination,
+            )
+            self.assertEqual(destination.read_bytes(), b"%PDF-test")
+            self.assertEqual(result["byteLength"], 9)
+            self.assertEqual(len(result["sha256"]), 64)
+
+    def test_archive_member_must_match_the_official_listing(self):
+        payload = io.BytesIO()
+        with zipfile.ZipFile(payload, "w") as archive:
+            archive.writestr("unexpected.pdf", b"%PDF-test")
+        with (
+            tempfile.TemporaryDirectory() as directory,
+            self.assertRaisesRegex(RuntimeError, "differs from its listing"),
+        ):
+            _extract_declaration_archive(
+                payload.getvalue(),
+                expected_file_name="expected.pdf",
+                destination=Path(directory) / "expected.pdf",
+            )
 
 
 if __name__ == "__main__":

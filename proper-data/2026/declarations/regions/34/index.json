@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:32.449665+00:00",
+  "region": {
+    "code": "34",
+    "name": "Волгоградская область",
+    "seedUrls": [
+      "http://volgograd.izbirkom.ru/vybory-tik/04/20-09-2026/GD/",
+      "http://volgograd.izbirkom.ru/vybory-tik/04/20-09-2026/GD/index.php"
+    ],
+    "allowedHosts": [
+      "volgograd.izbirkom.ru",
+      "www.volgograd.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 2,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://volgograd.izbirkom.ru/vybory-tik/04/20-09-2026/GD/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://volgograd.izbirkom.ru/vybory-tik/04/20-09-2026/GD/",
+        "requestKey": "http://volgograd.izbirkom.ru/vybory-tik/04/20-09-2026/GD/",
+        "retrievedAt": "2026-09-04T03:43:38.278788+00:00",
+        "status": 200,
+        "sha256": "8c6d58ac0180a4723c069f90ebca1ce264621d8ba5477d2c6772f9f216c2185b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://volgograd.izbirkom.ru/vybory-tik/04/20-09-2026/GD/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://volgograd.izbirkom.ru/vybory-tik/04/20-09-2026/GD/index.php",
+        "requestKey": "http://volgograd.izbirkom.ru/vybory-tik/04/20-09-2026/GD/index.php",
+        "retrievedAt": "2026-09-04T03:43:38.877145+00:00",
+        "status": 200,
+        "sha256": "8c6d58ac0180a4723c069f90ebca1ce264621d8ba5477d2c6772f9f216c2185b",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

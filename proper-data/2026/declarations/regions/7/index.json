@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:29.357098+00:00",
+  "region": {
+    "code": "7",
+    "name": "Кабардино-Балкарская Республика",
+    "seedUrls": [
+      "http://kabardin-balkar.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+      "http://kabardin-balkar.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8"
+    ],
+    "allowedHosts": [
+      "kabardin-balkar.izbirkom.ru",
+      "www.kabardin-balkar.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 2,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 1,
+      "explicitEmptyPageCount": 1,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 1,
+      "explicitEmptyPageCount": 1,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://kabardin-balkar.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+      "title": "Поиск",
+      "depth": 0,
+      "electionContextConfirmed": false,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kabardin-balkar.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+        "requestKey": "http://kabardin-balkar.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+        "retrievedAt": "2026-09-04T03:28:49.883846+00:00",
+        "status": 200,
+        "sha256": "6d4dd4c42ea3e743cd9d8904b6a21f1a5612f9efcb745b6797c56f5b4941e53e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://kabardin-balkar.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+      "title": "Поиск",
+      "depth": 0,
+      "electionContextConfirmed": false,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kabardin-balkar.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+        "requestKey": "http://kabardin-balkar.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+        "retrievedAt": "2026-09-04T03:28:50.372803+00:00",
+        "status": 200,
+        "sha256": "d15dd2861acd1a7c3aa085d07d83a12299847f20cdefa1c78937fb6eb1eefc6d",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

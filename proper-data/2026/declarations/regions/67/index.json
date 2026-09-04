@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:10.560237+00:00",
+  "region": {
+    "code": "67",
+    "name": "Смоленская область",
+    "seedUrls": [
+      "http://smolensk.izbirkom.ru/vybory/2026_edg/",
+      "http://smolensk.izbirkom.ru/vybory/2026_edg/index.php"
+    ],
+    "allowedHosts": [
+      "smolensk.izbirkom.ru",
+      "www.smolensk.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 6,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 2,
+      "explicitEmptyPageCount": 2,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://smolensk.izbirkom.ru/vybory/2026_edg/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://smolensk.izbirkom.ru/vybory/2026_edg/",
+        "requestKey": "http://smolensk.izbirkom.ru/vybory/2026_edg/",
+        "retrievedAt": "2026-09-04T03:42:40.211933+00:00",
+        "status": 200,
+        "sha256": "7e9f50dc1e8d935a5c204e22d87561734f03df8ea89a77b361764cbf6ddc21d2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://smolensk.izbirkom.ru/vybory/2026_edg/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://smolensk.izbirkom.ru/vybory/2026_edg/index.php",
+        "requestKey": "http://smolensk.izbirkom.ru/vybory/2026_edg/index.php",
+        "retrievedAt": "2026-09-04T03:42:41.076841+00:00",
+        "status": 200,
+        "sha256": "7e9f50dc1e8d935a5c204e22d87561734f03df8ea89a77b361764cbf6ddc21d2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://smolensk.izbirkom.ru/vybory/2026_edg/kandidatam/index.php",
+      "title": "Кандидатам, избирательным объединениям, избирателям",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://smolensk.izbirkom.ru/vybory/2026_edg/kandidatam/index.php",
+        "requestKey": "http://smolensk.izbirkom.ru/vybory/2026_edg/kandidatam/index.php",
+        "retrievedAt": "2026-09-04T03:42:42.250322+00:00",
+        "status": 200,
+        "sha256": "9b32575eb55178869d0becc9b99f20488f97232a52cb070870f310e6f4be01d1",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://smolensk.izbirkom.ru/vybory/2026_edg/svedeniya-o-kandidatakh/index.php",
+      "title": "Сведения о кандидатах",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://smolensk.izbirkom.ru/vybory/2026_edg/svedeniya-o-kandidatakh/index.php",
+        "requestKey": "http://smolensk.izbirkom.ru/vybory/2026_edg/svedeniya-o-kandidatakh/index.php",
+        "retrievedAt": "2026-09-04T03:42:43.242492+00:00",
+        "status": 200,
+        "sha256": "915dc31f17993139cc88316f7075107f424d2bc046f390f7e7db16f840d9526b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://smolensk.izbirkom.ru/vybory/2026_edg/kandidatam/",
+      "title": "Кандидатам, избирательным объединениям, избирателям",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://smolensk.izbirkom.ru/vybory/2026_edg/kandidatam/",
+        "requestKey": "http://smolensk.izbirkom.ru/vybory/2026_edg/kandidatam/",
+        "retrievedAt": "2026-09-04T03:42:52.560451+00:00",
+        "status": 200,
+        "sha256": "9b32575eb55178869d0becc9b99f20488f97232a52cb070870f310e6f4be01d1",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://smolensk.izbirkom.ru/vybory/2026_edg/svedeniya-o-kandidatakh/",
+      "title": "Сведения о кандидатах",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://smolensk.izbirkom.ru/vybory/2026_edg/svedeniya-o-kandidatakh/",
+        "requestKey": "http://smolensk.izbirkom.ru/vybory/2026_edg/svedeniya-o-kandidatakh/",
+        "retrievedAt": "2026-09-04T03:42:53.589123+00:00",
+        "status": 200,
+        "sha256": "915dc31f17993139cc88316f7075107f424d2bc046f390f7e7db16f840d9526b",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

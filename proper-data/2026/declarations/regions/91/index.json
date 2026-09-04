@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:12.179301+00:00",
+  "region": {
+    "code": "91",
+    "name": "Камчатский край",
+    "seedUrls": [
+      "http://kamchatka-krai.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/20-sentyabrya/vybory/gd.php"
+    ],
+    "allowedHosts": [
+      "kamchatka-krai.izbirkom.ru",
+      "www.kamchatka-krai.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": false,
+  "truncated": false,
+  "pageCount": 1,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [
+      {
+        "url": "http://kamchatka-krai.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/20-sentyabrya/normativnye-akty-oik.php",
+        "depth": 1,
+        "status": 404,
+        "error": "HTTP 404"
+      }
+    ],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://kamchatka-krai.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/20-sentyabrya/vybory/gd.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://kamchatka-krai.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/20-sentyabrya/vybory/gd.php",
+        "requestKey": "http://kamchatka-krai.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/20-sentyabrya/vybory/gd.php",
+        "retrievedAt": "2026-09-04T03:48:45.034805+00:00",
+        "status": 200,
+        "sha256": "b20e7cafc4fa8ef25e62b007f8bc6668e2de0cbbb29aee89b41f52522fb1d794",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

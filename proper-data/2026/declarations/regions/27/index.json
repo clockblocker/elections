@@ -1,0 +1,271 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:32.196969+00:00",
+  "region": {
+    "code": "27",
+    "name": "Хабаровский край",
+    "seedUrls": [
+      "http://khabarovsk.izbirkom.ru/news/26680/",
+      "http://khabarovsk.izbirkom.ru/news/26291/",
+      "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/"
+    ],
+    "allowedHosts": [
+      "khabarovsk.izbirkom.ru",
+      "www.khabarovsk.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 8,
+  "documentCount": 2,
+  "documentCounts": {
+    "inaccuracy": 2
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 2,
+      "explicitEmptyPageCount": 1,
+      "documentCount": 2
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://khabarovsk.izbirkom.ru/news/26680/",
+      "title": "Установлено количество подписей избирателей в поддержку выдвижения кандидата, выдвинутого по одномандатным избирательным округам №№ 73, 74 при проведении выборов депутатов Государственной Думы ФС РФ девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://khabarovsk.izbirkom.ru/news/26680/",
+        "requestKey": "http://khabarovsk.izbirkom.ru/news/26680/",
+        "retrievedAt": "2026-09-04T03:36:27.408318+00:00",
+        "status": 200,
+        "sha256": "ce19608fcccd3586c2bfc6677d7240ec85fd3d40bcee2cc1ee77a7aa5c7cf0f2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://khabarovsk.izbirkom.ru/news/26291/",
+      "title": "В 2026 году пройдут выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://khabarovsk.izbirkom.ru/news/26291/",
+        "requestKey": "http://khabarovsk.izbirkom.ru/news/26291/",
+        "retrievedAt": "2026-09-04T03:36:28.422145+00:00",
+        "status": 200,
+        "sha256": "415f136f5b569c56d1cc646749ef6d6ca2f5c4af87acb502820367962d0286af",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/",
+        "requestKey": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/",
+        "retrievedAt": "2026-09-04T03:36:29.434242+00:00",
+        "status": 200,
+        "sha256": "f9f080132212319143af934eda2bd3bf924d6b96d4cfe43b0bd523a448549f35",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/k-svedeniyu-kandidatov.php",
+      "title": "К сведению кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/k-svedeniyu-kandidatov.php",
+        "requestKey": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/k-svedeniyu-kandidatov.php",
+        "retrievedAt": "2026-09-04T03:36:30.498462+00:00",
+        "status": 200,
+        "sha256": "ba81736a3b991446a8e5f11ae878686333bf6ac959ec34812b050705ace8a99c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/Зарегистрованные кандидаты/svedeniya-o-zaregistrirovannykh-kandidatakh.php",
+      "title": "Сведения о зарегистрированных кандидатах",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/%D0%97%D0%B0%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B/svedeniya-o-zaregistrirovannykh-kandidatakh.php",
+        "requestKey": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/Зарегистрованные кандидаты/svedeniya-o-zaregistrirovannykh-kandidatakh.php",
+        "retrievedAt": "2026-09-04T03:36:31.540881+00:00",
+        "status": 200,
+        "sha256": "a12525325b9e04c42202b9958fc91bb37750df454446afe00eb65a32ba9004be",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/Недостоверные сведения/index.php",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных о себе кандидатами",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 4
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/Недостоверные сведения/27_Nedostatki_140826_73.pdf",
+        "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/Недостоверные сведения/27_Nedostatki_140826_74.pdf"
+      ],
+      "source": {
+        "url": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/%D0%9D%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F/index.php",
+        "requestKey": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/Недостоверные сведения/index.php",
+        "retrievedAt": "2026-09-04T03:36:32.618314+00:00",
+        "status": 200,
+        "sha256": "c3c48a98ee3e1aa8838f452f1a7935094095c2d0e5581701d2ff3a0ad56460a7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/Зарегистрованные кандидаты/zaregistrirovannye-kandidaty-po-khabarovskomu-odnomandatnomu-izbiratelnomu-okrugu-73.php",
+      "title": "Сведения о зарегистрированных кандидатах по Хабаровскому одномандатному избирательному округу № 73",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/%D0%97%D0%B0%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B/zaregistrirovannye-kandidaty-po-khabarovskomu-odnomandatnomu-izbiratelnomu-okrugu-73.php",
+        "requestKey": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/Зарегистрованные кандидаты/zaregistrirovannye-kandidaty-po-khabarovskomu-odnomandatnomu-izbiratelnomu-okrugu-73.php",
+        "retrievedAt": "2026-09-04T03:36:33.650541+00:00",
+        "status": 200,
+        "sha256": "ba0ef1ea7eafb79666ebd5f65d313e44744df24b1d8d58a00b45e2ffbb5a9aa6",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/Зарегистрованные кандидаты/zaregistrirovannye-kandidaty-po-komsomolskomu-odnomandatnomu-izbiratelnomu-okrugu-74.php",
+      "title": "Сведения о зарегистрированных кандидатах по Комсомольскому одномандатному избирательному округу № 74",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/%D0%97%D0%B0%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B/zaregistrirovannye-kandidaty-po-komsomolskomu-odnomandatnomu-izbiratelnomu-okrugu-74.php",
+        "requestKey": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/Зарегистрованные кандидаты/zaregistrirovannye-kandidaty-po-komsomolskomu-odnomandatnomu-izbiratelnomu-okrugu-74.php",
+        "retrievedAt": "2026-09-04T03:36:34.726325+00:00",
+        "status": 200,
+        "sha256": "7e50ddbde8fe03c47df652510e10c2f9b25dad325c485d487c6fd4a6d1653e87",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "inaccuracy",
+      "title": "Хабаровский край - Хабаровский одномандатный избирательный округ № 73",
+      "officialUrl": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/Недостоверные сведения/27_Nedostatki_140826_73.pdf",
+      "sourcePages": [
+        {
+          "url": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/Недостоверные сведения/index.php",
+          "title": "Сведения о выявленных фактах недостоверности сведений, представленных о себе кандидатами",
+          "depth": 1,
+          "sha256": "c3c48a98ee3e1aa8838f452f1a7935094095c2d0e5581701d2ff3a0ad56460a7"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "931f62111c3bd922d4bd95f1f6417b4d85a1c477800760d0404d73b77b4be75d",
+      "originalFilename": "27_Nedostatki_140826_73.pdf",
+      "filename": "Хабаровский_край_-_Хабаровский_одномандатный_избирательный_округ_73-931f62111c3b.pdf",
+      "path": "files/Хабаровский_край_-_Хабаровский_одномандатный_избирательный_округ_73-931f62111c3b.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 272506,
+      "sha256": "931f62111c3bd922d4bd95f1f6417b4d85a1c477800760d0404d73b77b4be75d",
+      "source": {
+        "url": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/%D0%9D%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F/27_Nedostatki_140826_73.pdf",
+        "requestKey": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/Недостоверные сведения/27_Nedostatki_140826_73.pdf",
+        "retrievedAt": "2026-09-04T03:36:35.754391+00:00",
+        "status": 200,
+        "sha256": "931f62111c3bd922d4bd95f1f6417b4d85a1c477800760d0404d73b77b4be75d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Хабаровский край - Комсомольский одномандатный избирательный округ № 74",
+      "officialUrl": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/Недостоверные сведения/27_Nedostatki_140826_74.pdf",
+      "sourcePages": [
+        {
+          "url": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/Недостоверные сведения/index.php",
+          "title": "Сведения о выявленных фактах недостоверности сведений, представленных о себе кандидатами",
+          "depth": 1,
+          "sha256": "c3c48a98ee3e1aa8838f452f1a7935094095c2d0e5581701d2ff3a0ad56460a7"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "8643a621f613965927eca6e6db2fd249a87aeff34d6587f6ea905f14d012d6a1",
+      "originalFilename": "27_Nedostatki_140826_74.pdf",
+      "filename": "Хабаровский_край_-_Комсомольский_одномандатный_избирательный_округ_74-8643a621f613.pdf",
+      "path": "files/Хабаровский_край_-_Комсомольский_одномандатный_избирательный_округ_74-8643a621f613.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 261848,
+      "sha256": "8643a621f613965927eca6e6db2fd249a87aeff34d6587f6ea905f14d012d6a1",
+      "source": {
+        "url": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/%D0%9D%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F/27_Nedostatki_140826_74.pdf",
+        "requestKey": "http://khabarovsk.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/gd-fs-rf/Недостоверные сведения/27_Nedostatki_140826_74.pdf",
+        "retrievedAt": "2026-09-04T03:36:36.851870+00:00",
+        "status": 200,
+        "sha256": "8643a621f613965927eca6e6db2fd249a87aeff34d6587f6ea905f14d012d6a1",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

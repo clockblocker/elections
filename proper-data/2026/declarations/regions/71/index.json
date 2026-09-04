@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:10.878610+00:00",
+  "region": {
+    "code": "71",
+    "name": "Тульская область",
+    "seedUrls": [
+      "http://tula.izbirkom.ru/news/detail.php?id=10900",
+      "http://tula.izbirkom.ru/informatsionnoe-obespechenie/edinyy-den-golosovaniya-20-sentyabrya-2026-goda-/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/"
+    ],
+    "allowedHosts": [
+      "tula.izbirkom.ru",
+      "www.tula.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 7,
+  "documentCount": 1,
+  "documentCounts": {
+    "declaration": 1
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 2,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 1
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://tula.izbirkom.ru/news/detail.php?id=10900",
+      "title": "Информационное сообщение для кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tula.izbirkom.ru/news/detail.php?id=10900",
+        "requestKey": "http://tula.izbirkom.ru/news/detail.php?id=10900",
+        "retrievedAt": "2026-09-04T03:46:40.866534+00:00",
+        "status": 200,
+        "sha256": "59e16f584070af0f1581d3c5a3b9148973085d0a451acdb996449200aec66347",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tula.izbirkom.ru/informatsionnoe-obespechenie/edinyy-den-golosovaniya-20-sentyabrya-2026-goda-/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tula.izbirkom.ru/informatsionnoe-obespechenie/edinyy-den-golosovaniya-20-sentyabrya-2026-goda-/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+        "requestKey": "http://tula.izbirkom.ru/informatsionnoe-obespechenie/edinyy-den-golosovaniya-20-sentyabrya-2026-goda-/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+        "retrievedAt": "2026-09-04T03:46:41.502365+00:00",
+        "status": 200,
+        "sha256": "c8b1772c70e874304b22ce3eb691d643b119c5d34651ee9e7d8f6369dedcbd44",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tula.izbirkom.ru/informatsionnoe-obespechenie/edinyy-den-golosovaniya-20-sentyabrya-2026-goda-/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-o-kandidatakh",
+      "title": "Информация о кандидатах",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://tula.izbirkom.ru/etc/docs/2026/Доходы%20и_имущество_.xls"
+      ],
+      "source": {
+        "url": "http://tula.izbirkom.ru/informatsionnoe-obespechenie/edinyy-den-golosovaniya-20-sentyabrya-2026-goda-/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-o-kandidatakh/",
+        "requestKey": "http://tula.izbirkom.ru/informatsionnoe-obespechenie/edinyy-den-golosovaniya-20-sentyabrya-2026-goda-/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-o-kandidatakh",
+        "retrievedAt": "2026-09-04T03:46:44.403477+00:00",
+        "status": 200,
+        "sha256": "0c1272e5bae6ded5b14ceb4b8320a44274ba4ce6b09873eea3dd635522a67b84",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tula.izbirkom.ru/informatsionnoe-obespechenie/edinyy-den-golosovaniya-20-sentyabrya-2026-goda-/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-o-kandidatakh/",
+      "title": "Информация о кандидатах",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://tula.izbirkom.ru/etc/docs/2026/Доходы%20и_имущество_.xls"
+      ],
+      "source": {
+        "url": "http://tula.izbirkom.ru/informatsionnoe-obespechenie/edinyy-den-golosovaniya-20-sentyabrya-2026-goda-/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-o-kandidatakh/",
+        "requestKey": "http://tula.izbirkom.ru/informatsionnoe-obespechenie/edinyy-den-golosovaniya-20-sentyabrya-2026-goda-/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-o-kandidatakh/",
+        "retrievedAt": "2026-09-04T03:46:51.184231+00:00",
+        "status": 200,
+        "sha256": "0c1272e5bae6ded5b14ceb4b8320a44274ba4ce6b09873eea3dd635522a67b84",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tula.izbirkom.ru/informatsionnoe-obespechenie/edinyy-den-golosovaniya-20-sentyabrya-2026-goda-/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-o-kandidatakh/informatsiya-o-vydannykh-razresheniyakh-na-otkrytie-spetsialnykh-izbiratelnykh-schetov-regionalnykh-",
+      "title": "Информация о выданных разрешениях на открытие специальных избирательных счетов региональных отделений политических партий, кандидатов, регистрации уполномоченных представителей по финансовым вопросам",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tula.izbirkom.ru/informatsionnoe-obespechenie/edinyy-den-golosovaniya-20-sentyabrya-2026-goda-/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-o-kandidatakh/informatsiya-o-vydannykh-razresheniyakh-na-otkrytie-spetsialnykh-izbiratelnykh-schetov-regionalnykh-/",
+        "requestKey": "http://tula.izbirkom.ru/informatsionnoe-obespechenie/edinyy-den-golosovaniya-20-sentyabrya-2026-goda-/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-o-kandidatakh/informatsiya-o-vydannykh-razresheniyakh-na-otkrytie-spetsialnykh-izbiratelnykh-schetov-regionalnykh-",
+        "retrievedAt": "2026-09-04T03:46:51.963724+00:00",
+        "status": 200,
+        "sha256": "8580b26ab17312a832fb1be0f85a50a1fe851b44eedb3c2a5ce9e3856e6ac58a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tula.izbirkom.ru/informatsionnoe-obespechenie/edinyy-den-golosovaniya-20-sentyabrya-2026-goda-/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-o-kandidatakh/informatsiya-o-vydannykh-razresheniyakh-na-otkrytie-spetsialnykh-izbiratelnykh-schetov-regionalnykh-/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-regionalnykh-otdeleniy-politicheskikh-partiy-i-",
+      "title": "Сведения о поступлении средств на специальные избирательные счета региональных отделений политических партий, кандидатов и расходовании этих средств",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tula.izbirkom.ru/informatsionnoe-obespechenie/edinyy-den-golosovaniya-20-sentyabrya-2026-goda-/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-o-kandidatakh/informatsiya-o-vydannykh-razresheniyakh-na-otkrytie-spetsialnykh-izbiratelnykh-schetov-regionalnykh-/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-regionalnykh-otdeleniy-politicheskikh-partiy-i-/",
+        "requestKey": "http://tula.izbirkom.ru/informatsionnoe-obespechenie/edinyy-den-golosovaniya-20-sentyabrya-2026-goda-/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-o-kandidatakh/informatsiya-o-vydannykh-razresheniyakh-na-otkrytie-spetsialnykh-izbiratelnykh-schetov-regionalnykh-/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-regionalnykh-otdeleniy-politicheskikh-partiy-i-",
+        "retrievedAt": "2026-09-04T03:46:52.690362+00:00",
+        "status": 200,
+        "sha256": "d2123702e88d7c28d5f5cd64a66ffc18161214a1e31ddfd70558df0559ac6d3c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tula.izbirkom.ru/informatsionnoe-obespechenie/edinyy-den-golosovaniya-20-sentyabrya-2026-goda-/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-o-kandidatakh/informatsiya-o-vydannykh-razresheniyakh-na-otkrytie-spetsialnykh-izbiratelnykh-schetov-regionalnykh-/",
+      "title": "Информация о выданных разрешениях на открытие специальных избирательных счетов региональных отделений политических партий, кандидатов, регистрации уполномоченных представителей по финансовым вопросам",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tula.izbirkom.ru/informatsionnoe-obespechenie/edinyy-den-golosovaniya-20-sentyabrya-2026-goda-/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-o-kandidatakh/informatsiya-o-vydannykh-razresheniyakh-na-otkrytie-spetsialnykh-izbiratelnykh-schetov-regionalnykh-/",
+        "requestKey": "http://tula.izbirkom.ru/informatsionnoe-obespechenie/edinyy-den-golosovaniya-20-sentyabrya-2026-goda-/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-o-kandidatakh/informatsiya-o-vydannykh-razresheniyakh-na-otkrytie-spetsialnykh-izbiratelnykh-schetov-regionalnykh-/",
+        "retrievedAt": "2026-09-04T03:47:03.823572+00:00",
+        "status": 200,
+        "sha256": "8580b26ab17312a832fb1be0f85a50a1fe851b44eedb3c2a5ce9e3856e6ac58a",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "Сведения о доходах и имуществе кандидатов",
+      "officialUrl": "http://tula.izbirkom.ru/etc/docs/2026/Доходы%20и_имущество_.xls",
+      "sourcePages": [
+        {
+          "url": "http://tula.izbirkom.ru/informatsionnoe-obespechenie/edinyy-den-golosovaniya-20-sentyabrya-2026-goda-/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-o-kandidatakh",
+          "title": "Информация о кандидатах",
+          "depth": 1,
+          "sha256": "0c1272e5bae6ded5b14ceb4b8320a44274ba4ce6b09873eea3dd635522a67b84"
+        },
+        {
+          "url": "http://tula.izbirkom.ru/informatsionnoe-obespechenie/edinyy-den-golosovaniya-20-sentyabrya-2026-goda-/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-o-kandidatakh/",
+          "title": "Информация о кандидатах",
+          "depth": 2,
+          "sha256": "0c1272e5bae6ded5b14ceb4b8320a44274ba4ce6b09873eea3dd635522a67b84"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "a94aab8831949fc8d5886793501e32a6d91834131aad0f8b3c5a9ae955ce1bda",
+      "originalFilename": "Доходы и_имущество_.xls",
+      "filename": "Сведения_о_доходах_и_имуществе_кандидатов-a94aab883194.xls",
+      "path": "files/Сведения_о_доходах_и_имуществе_кандидатов-a94aab883194.xls",
+      "mediaType": "application/vnd.ms-excel",
+      "byteLength": 70144,
+      "sha256": "a94aab8831949fc8d5886793501e32a6d91834131aad0f8b3c5a9ae955ce1bda",
+      "source": {
+        "url": "http://tula.izbirkom.ru/etc/docs/2026/%D0%94%D0%BE%D1%85%D0%BE%D0%B4%D1%8B%20%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE_.xls",
+        "requestKey": "http://tula.izbirkom.ru/etc/docs/2026/Доходы%20и_имущество_.xls",
+        "retrievedAt": "2026-09-04T03:47:05.241761+00:00",
+        "status": 200,
+        "sha256": "a94aab8831949fc8d5886793501e32a6d91834131aad0f8b3c5a9ae955ce1bda",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

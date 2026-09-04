@@ -1,0 +1,540 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:12.587325+00:00",
+  "region": {
+    "code": "96",
+    "name": "Луганская Народная Республика",
+    "seedUrls": [
+      "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/",
+      "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/index.php"
+    ],
+    "allowedHosts": [
+      "lnr.izbirkom.ru",
+      "www.lnr.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 26,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва 20 сентября 2026 года",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/",
+        "retrievedAt": "2026-09-04T03:50:23.619518+00:00",
+        "status": 200,
+        "sha256": "6f6dbe334e916b7a27ec1365cc7f1c008d76379af2baa5c72e349668d65d7659",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва 20 сентября 2026 года",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/index.php",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/index.php",
+        "retrievedAt": "2026-09-04T03:50:24.280941+00:00",
+        "status": 200,
+        "sha256": "6f6dbe334e916b7a27ec1365cc7f1c008d76379af2baa5c72e349668d65d7659",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/index.php",
+      "title": "Окружная избирательная комиссия одномандатного избирательного округа «Луганская Народная Республика – Луганский одномандатный избирательный округ № 25",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/index.php",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/index.php",
+        "retrievedAt": "2026-09-04T03:50:27.932769+00:00",
+        "status": 200,
+        "sha256": "c1d4507b0cdf5cffef3f6fcc7a0c9452a2d1facb791ba725e22641aa469c13b7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/index.php",
+      "title": "Окружная избирательная комиссия одномандатного избирательного округа «Луганская Народная Республика – Алчевский одномандатный избирательный округ № 26",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/index.php",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/index.php",
+        "retrievedAt": "2026-09-04T03:50:28.466009+00:00",
+        "status": 200,
+        "sha256": "accec5b3c94d7c9dbc61dcaed5cc8bcfaf169ad000fdb806ec2fae23830e6058",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/dlya-politicheskikh-partiy-i-kandidatov/index.php",
+      "title": "Для политических партий и кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/dlya-politicheskikh-partiy-i-kandidatov/index.php",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/dlya-politicheskikh-partiy-i-kandidatov/index.php",
+        "retrievedAt": "2026-09-04T03:50:28.984766+00:00",
+        "status": 200,
+        "sha256": "8f45f1a9adca08e7e63ac15ebd87e76a1d984fc331307231be70002271581255",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/goryachaya-liniya-izbiratelnoy-komissii-luganskoy-narodnoy-respubliki-po-voprosam-vyborov-deputatov-/index.php",
+      "title": "",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/goryachaya-liniya-izbiratelnoy-komissii-luganskoy-narodnoy-respubliki-po-voprosam-vyborov-deputatov-/index.php",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/goryachaya-liniya-izbiratelnoy-komissii-luganskoy-narodnoy-respubliki-po-voprosam-vyborov-deputatov-/index.php",
+        "retrievedAt": "2026-09-04T03:50:29.510424+00:00",
+        "status": 200,
+        "sha256": "fa66493b89d7f2ad0b6ef64016a1c5507218ee94e26c6d924e4303ae4ec598ca",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/svedeniya-o-razmere-i-ob-istochnikakh-dokhodov-imushchestve-prinadlezhashchem-kandidatam-na-prave-so/index.php",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидатам на праве собственности, о счетах (вкладах) в банках, ценных бумагах",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/svedeniya-o-razmere-i-ob-istochnikakh-dokhodov-imushchestve-prinadlezhashchem-kandidatam-na-prave-so/index.php",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/svedeniya-o-razmere-i-ob-istochnikakh-dokhodov-imushchestve-prinadlezhashchem-kandidatam-na-prave-so/index.php",
+        "retrievedAt": "2026-09-04T03:50:30.014638+00:00",
+        "status": 200,
+        "sha256": "2dd791503e3d83c5a0f4e37f57071316054a89db61f3e76361999bf9899d5c33",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/",
+      "title": "Окружная избирательная комиссия одномандатного избирательного округа «Луганская Народная Республика – Луганский одномандатный избирательный округ № 25",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/",
+        "retrievedAt": "2026-09-04T03:50:36.999885+00:00",
+        "status": 200,
+        "sha256": "c1d4507b0cdf5cffef3f6fcc7a0c9452a2d1facb791ba725e22641aa469c13b7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/rezhim-raboty-25/index.php",
+      "title": "Режим работы Окружной избирательной комиссии Луганского одномандатного округа №25",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/rezhim-raboty-25/index.php",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/rezhim-raboty-25/index.php",
+        "retrievedAt": "2026-09-04T03:50:37.544264+00:00",
+        "status": 200,
+        "sha256": "e9efd950993ab7d67e7fd7ee1a2e8005ab3d1e7c5dcf66c7f9b04b290d29eaa8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/svedeniya-o-zaregistrirovannykh-kandidatakh-v-deputaty-po-odnomandatnomu-izbiratelnomu-okrugu-25/index.php",
+      "title": "Сведения о зарегистрированных кандидатах в депутаты по одномандатному избирательному округу № 25",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/svedeniya-o-zaregistrirovannykh-kandidatakh-v-deputaty-po-odnomandatnomu-izbiratelnomu-okrugu-25/index.php",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/svedeniya-o-zaregistrirovannykh-kandidatakh-v-deputaty-po-odnomandatnomu-izbiratelnomu-okrugu-25/index.php",
+        "retrievedAt": "2026-09-04T03:50:38.572364+00:00",
+        "status": 200,
+        "sha256": "f889527bb6b20c86524d1386fd382c09005722aeeba3f677d2665578ca1267ac",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-kandidatov-i-raskhodovanii-etikh-sredstv/index.php",
+      "title": "Сведения о поступлении средств в избирательные фонды кандидатов и расходовании этих средств",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-kandidatov-i-raskhodovanii-etikh-sredstv/index.php",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-kandidatov-i-raskhodovanii-etikh-sredstv/index.php",
+        "retrievedAt": "2026-09-04T03:50:39.100798+00:00",
+        "status": 200,
+        "sha256": "df114780b3b21b67dde0c1800758cb7359cda4618e189eee10f18c8d7661cc08",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/",
+      "title": "Окружная избирательная комиссия одномандатного избирательного округа «Луганская Народная Республика – Алчевский одномандатный избирательный округ № 26",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/",
+        "retrievedAt": "2026-09-04T03:50:39.625379+00:00",
+        "status": 200,
+        "sha256": "accec5b3c94d7c9dbc61dcaed5cc8bcfaf169ad000fdb806ec2fae23830e6058",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/rezhim-raboty-26/index.php",
+      "title": "Режим работы Окружной избирательной комиссии Алчевского одномандатного округа №26",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/rezhim-raboty-26/index.php",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/rezhim-raboty-26/index.php",
+        "retrievedAt": "2026-09-04T03:50:40.159195+00:00",
+        "status": 200,
+        "sha256": "7bcc8e11465988b747207cd1e4c797058987befd5a76d5f9812c9d7a7c7cd499",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/svedeniya-o-zaregistrirovannykh-kandidatakh-v-deputaty-po-odnomandatnomu-izbiratelnomu-okrugu-26/index.php",
+      "title": "Сведения о зарегистрированных кандидатах в депутаты по одномандатному избирательному округу № 26",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/svedeniya-o-zaregistrirovannykh-kandidatakh-v-deputaty-po-odnomandatnomu-izbiratelnomu-okrugu-26/index.php",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/svedeniya-o-zaregistrirovannykh-kandidatakh-v-deputaty-po-odnomandatnomu-izbiratelnomu-okrugu-26/index.php",
+        "retrievedAt": "2026-09-04T03:50:41.240022+00:00",
+        "status": 200,
+        "sha256": "1589baa69a72f9fa0ec0c49d57a73453043a8960aa72be939e4c96b4fd8fec81",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-kandidatov-i-raskhodovanii-etikh-sredstv/index.php",
+      "title": "Сведения о поступлении средств в избирательные фонды кандидатов и расходовании этих средств",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-kandidatov-i-raskhodovanii-etikh-sredstv/index.php",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-kandidatov-i-raskhodovanii-etikh-sredstv/index.php",
+        "retrievedAt": "2026-09-04T03:50:41.780098+00:00",
+        "status": 200,
+        "sha256": "70e6571acd547779e23f495afdce9dbbaf5f76f35f72b43fa84b44425da6920e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/dlya-politicheskikh-partiy-i-kandidatov/",
+      "title": "Для политических партий и кандидатов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/dlya-politicheskikh-partiy-i-kandidatov/",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/dlya-politicheskikh-partiy-i-kandidatov/",
+        "retrievedAt": "2026-09-04T03:50:42.358196+00:00",
+        "status": 200,
+        "sha256": "8f45f1a9adca08e7e63ac15ebd87e76a1d984fc331307231be70002271581255",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/dlya-politicheskikh-partiy-i-kandidatov/informatsiya-o-kreditnoy-organizatsii-dlya-otkrytiya-spetsialnykh-izbiratelnykh-schetov-partiyami-i-/index.php",
+      "title": "Информация о кредитной организации для открытия специальных избирательных счетов партиями и кандидатами",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/dlya-politicheskikh-partiy-i-kandidatov/informatsiya-o-kreditnoy-organizatsii-dlya-otkrytiya-spetsialnykh-izbiratelnykh-schetov-partiyami-i-/index.php",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/dlya-politicheskikh-partiy-i-kandidatov/informatsiya-o-kreditnoy-organizatsii-dlya-otkrytiya-spetsialnykh-izbiratelnykh-schetov-partiyami-i-/index.php",
+        "retrievedAt": "2026-09-04T03:50:43.476512+00:00",
+        "status": 200,
+        "sha256": "2b2e6c343352902c3475aa1b33b93843a0ecffc7fb883c8a6358a856800d90cf",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/goryachaya-liniya-izbiratelnoy-komissii-luganskoy-narodnoy-respubliki-po-voprosam-vyborov-deputatov-/",
+      "title": "",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/goryachaya-liniya-izbiratelnoy-komissii-luganskoy-narodnoy-respubliki-po-voprosam-vyborov-deputatov-/",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/goryachaya-liniya-izbiratelnoy-komissii-luganskoy-narodnoy-respubliki-po-voprosam-vyborov-deputatov-/",
+        "retrievedAt": "2026-09-04T03:50:43.991385+00:00",
+        "status": 200,
+        "sha256": "fa66493b89d7f2ad0b6ef64016a1c5507218ee94e26c6d924e4303ae4ec598ca",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/svedeniya-o-razmere-i-ob-istochnikakh-dokhodov-imushchestve-prinadlezhashchem-kandidatam-na-prave-so/",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидатам на праве собственности, о счетах (вкладах) в банках, ценных бумагах",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/svedeniya-o-razmere-i-ob-istochnikakh-dokhodov-imushchestve-prinadlezhashchem-kandidatam-na-prave-so/",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/svedeniya-o-razmere-i-ob-istochnikakh-dokhodov-imushchestve-prinadlezhashchem-kandidatam-na-prave-so/",
+        "retrievedAt": "2026-09-04T03:50:44.530937+00:00",
+        "status": 200,
+        "sha256": "2dd791503e3d83c5a0f4e37f57071316054a89db61f3e76361999bf9899d5c33",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/rezhim-raboty-25/",
+      "title": "Режим работы Окружной избирательной комиссии Луганского одномандатного округа №25",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/rezhim-raboty-25/",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/rezhim-raboty-25/",
+        "retrievedAt": "2026-09-04T03:50:47.654821+00:00",
+        "status": 200,
+        "sha256": "e9efd950993ab7d67e7fd7ee1a2e8005ab3d1e7c5dcf66c7f9b04b290d29eaa8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/svedeniya-o-zaregistrirovannykh-kandidatakh-v-deputaty-po-odnomandatnomu-izbiratelnomu-okrugu-25/",
+      "title": "Сведения о зарегистрированных кандидатах в депутаты по одномандатному избирательному округу № 25",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/svedeniya-o-zaregistrirovannykh-kandidatakh-v-deputaty-po-odnomandatnomu-izbiratelnomu-okrugu-25/",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/svedeniya-o-zaregistrirovannykh-kandidatakh-v-deputaty-po-odnomandatnomu-izbiratelnomu-okrugu-25/",
+        "retrievedAt": "2026-09-04T03:50:48.179377+00:00",
+        "status": 200,
+        "sha256": "f889527bb6b20c86524d1386fd382c09005722aeeba3f677d2665578ca1267ac",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-kandidatov-i-raskhodovanii-etikh-sredstv/",
+      "title": "Сведения о поступлении средств в избирательные фонды кандидатов и расходовании этих средств",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-kandidatov-i-raskhodovanii-etikh-sredstv/",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-25/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-kandidatov-i-raskhodovanii-etikh-sredstv/",
+        "retrievedAt": "2026-09-04T03:50:48.681504+00:00",
+        "status": 200,
+        "sha256": "df114780b3b21b67dde0c1800758cb7359cda4618e189eee10f18c8d7661cc08",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/rezhim-raboty-26/",
+      "title": "Режим работы Окружной избирательной комиссии Алчевского одномандатного округа №26",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/rezhim-raboty-26/",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/rezhim-raboty-26/",
+        "retrievedAt": "2026-09-04T03:50:49.185227+00:00",
+        "status": 200,
+        "sha256": "7bcc8e11465988b747207cd1e4c797058987befd5a76d5f9812c9d7a7c7cd499",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/svedeniya-o-zaregistrirovannykh-kandidatakh-v-deputaty-po-odnomandatnomu-izbiratelnomu-okrugu-26/",
+      "title": "Сведения о зарегистрированных кандидатах в депутаты по одномандатному избирательному округу № 26",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/svedeniya-o-zaregistrirovannykh-kandidatakh-v-deputaty-po-odnomandatnomu-izbiratelnomu-okrugu-26/",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/svedeniya-o-zaregistrirovannykh-kandidatakh-v-deputaty-po-odnomandatnomu-izbiratelnomu-okrugu-26/",
+        "retrievedAt": "2026-09-04T03:50:49.710147+00:00",
+        "status": 200,
+        "sha256": "1589baa69a72f9fa0ec0c49d57a73453043a8960aa72be939e4c96b4fd8fec81",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-kandidatov-i-raskhodovanii-etikh-sredstv/",
+      "title": "Сведения о поступлении средств в избирательные фонды кандидатов и расходовании этих средств",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-kandidatov-i-raskhodovanii-etikh-sredstv/",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/oik-26/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-kandidatov-i-raskhodovanii-etikh-sredstv/",
+        "retrievedAt": "2026-09-04T03:50:50.255317+00:00",
+        "status": 200,
+        "sha256": "70e6571acd547779e23f495afdce9dbbaf5f76f35f72b43fa84b44425da6920e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/dlya-politicheskikh-partiy-i-kandidatov/informatsiya-o-kreditnoy-organizatsii-dlya-otkrytiya-spetsialnykh-izbiratelnykh-schetov-partiyami-i-/",
+      "title": "Информация о кредитной организации для открытия специальных избирательных счетов партиями и кандидатами",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/dlya-politicheskikh-partiy-i-kandidatov/informatsiya-o-kreditnoy-organizatsii-dlya-otkrytiya-spetsialnykh-izbiratelnykh-schetov-partiyami-i-/",
+        "requestKey": "http://lnr.izbirkom.ru/edg-2026/vybory-deputatov-gdfsrf-devyatogo-sozyva/dlya-politicheskikh-partiy-i-kandidatov/informatsiya-o-kreditnoy-organizatsii-dlya-otkrytiya-spetsialnykh-izbiratelnykh-schetov-partiyami-i-/",
+        "retrievedAt": "2026-09-04T03:50:51.334903+00:00",
+        "status": 200,
+        "sha256": "2b2e6c343352902c3475aa1b33b93843a0ecffc7fb883c8a6358a856800d90cf",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

@@ -1,0 +1,1505 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:32.100480+00:00",
+  "region": {
+    "code": "24",
+    "name": "Красноярский край",
+    "seedUrls": [
+      "http://krasnoyarsk.izbirkom.ru/arkhiv-dokumentov/resheniya.php/53135/",
+      "http://krasnoyarsk.izbirkom.ru/arkhiv-dokumentov/resheniya.php/53137/",
+      "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/"
+    ],
+    "allowedHosts": [
+      "krasnoyarsk.izbirkom.ru",
+      "www.krasnoyarsk.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 18,
+  "documentCount": 36,
+  "documentCounts": {
+    "declaration": 35,
+    "inaccuracy": 1
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 6,
+      "explicitEmptyPageCount": 2,
+      "documentCount": 35
+    },
+    "inaccuracy": {
+      "signalPageCount": 1,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 1
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://krasnoyarsk.izbirkom.ru/arkhiv-dokumentov/resheniya.php/53135/",
+      "title": "234/1965-8 О месте и времени передачи изготовленных избирательных бюллетеней для голосования на выборах депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва от полиграфической организации Индивидуальный предприниматель",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/arkhiv-dokumentov/resheniya.php/53135/",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/arkhiv-dokumentov/resheniya.php/53135/",
+        "retrievedAt": "2026-09-04T03:35:35.339859+00:00",
+        "status": 200,
+        "sha256": "aed6be5baf75419d8882d65373ca4e04fe106d076a45da597b35adc3c680c341",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://krasnoyarsk.izbirkom.ru/arkhiv-dokumentov/resheniya.php/53137/",
+      "title": "234/1967-8 Об увеличении количества избирательных бюллетеней для голосования на выборах депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва и депутатов Законодательного Собрания Красноярского края пятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/arkhiv-dokumentov/resheniya.php/53137/",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/arkhiv-dokumentov/resheniya.php/53137/",
+        "retrievedAt": "2026-09-04T03:35:36.355522+00:00",
+        "status": 200,
+        "sha256": "0bc3a9e72941758232628a6b98ee58796d73ecf1fcd0b2169e4d6b7c718ad843",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Nedostover_sved_20082026.pdf"
+      ],
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/",
+        "retrievedAt": "2026-09-04T03:35:36.986955+00:00",
+        "status": 200,
+        "sha256": "17e49094677625df1cc70555fbec09800f8730dc31bb669458f9ee24c884c9e5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://krasnoyarsk.izbirkom.ru/arkhiv-dokumentov/novosti-arkhiv.php/53190/",
+      "title": "Избирательная комиссия края получила из типографии бюллетени для голосования на выборах депутатов Государственной Думы и Законодательного Собрания края",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/arkhiv-dokumentov/novosti-arkhiv.php/53190/",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/arkhiv-dokumentov/novosti-arkhiv.php/53190/",
+        "retrievedAt": "2026-09-04T03:35:37.832451+00:00",
+        "status": 200,
+        "sha256": "c0e203f4b718ad9dd4142d451bd2196dc361f1adef50f6db68e0c07ff35ddba1",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/resheniya-okruzhnykh-izbiratelnykh-komissiy.php",
+      "title": "Решения окружных избирательных комиссий",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/resheniya-okruzhnykh-izbiratelnykh-komissiy.php",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/resheniya-okruzhnykh-izbiratelnykh-komissiy.php",
+        "retrievedAt": "2026-09-04T03:54:54.380111+00:00",
+        "status": 200,
+        "sha256": "46c29c58222755c8ba04a0d930ddcd189d2baa47d5a3715b9becc1f495a805f2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+      "title": "Сведения о доходах и имуществе кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+        "retrievedAt": "2026-09-04T03:35:38.400832+00:00",
+        "status": 200,
+        "sha256": "fbf6e5d5a2a7ffeea66b1fcaff55aec86914609bfdda4ae5fa61fba3cfc350d0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-i-raskhodovanii-etikh-sredstv/",
+      "title": "Сведения о поступлении средств в избирательные фонды и расходовании этих средств",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-i-raskhodovanii-etikh-sredstv/",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-i-raskhodovanii-etikh-sredstv/",
+        "retrievedAt": "2026-09-04T03:54:54.923718+00:00",
+        "status": 200,
+        "sha256": "1288817680d4be9b5b3ca58d5f1cb4f4af805d372f1d2278e404e16ba0901e83",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/itogovye-finansovye-otchety/",
+      "title": "Итоговые финансовые отчеты",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/itogovye-finansovye-otchety/",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/itogovye-finansovye-otchety/",
+        "retrievedAt": "2026-09-04T03:54:55.451688+00:00",
+        "status": 200,
+        "sha256": "b28b3442ae3c7c62bba1350ea084ef41fc91f0681feb1a3bf0d8f40e499fd371",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK58.php",
+      "title": "Одномандатный избирательный округ Красноярский край – Красноярский одномандатный избирательный округ № 58",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 8
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Алейников.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Базарный.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Горковенко.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Золотухин.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Крайник.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Ликонцев.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Петров.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Шатилов.pdf"
+      ],
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK58.php",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK58.php",
+        "retrievedAt": "2026-09-04T03:35:39.135669+00:00",
+        "status": 200,
+        "sha256": "d92e24d4a0a4d62284f84d85e51ddae8ff607a90ae3805c36f80a2f2fd5f21ee",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK59.php",
+      "title": "Одномандатный избирательный округ Красноярский край – Центральный одномандатный избирательный округ № 59",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 9
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Дроздов.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/ИсаевЮ.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Караев.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Кириенко.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Мартынюк.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Озереденко.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Саттаров.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Сендерский.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Телин.pdf"
+      ],
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK59.php",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK59.php",
+        "retrievedAt": "2026-09-04T03:35:40.179810+00:00",
+        "status": 200,
+        "sha256": "d7bec8067bc1430bddd40ba5a1475246a523b2c665eecddc0bf7a4865e09c3ec",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK60.php",
+      "title": "Одномандатный избирательный округ Красноярский край – Дивногорский одномандатный избирательный округ № 60",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 9
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Бразаускас.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Гаврилов.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Дюков.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Еремин.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Исаев.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Костецкая.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Маркерт.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Орда.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Попов.pdf"
+      ],
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK60.php",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK60.php",
+        "retrievedAt": "2026-09-04T03:35:40.897134+00:00",
+        "status": 200,
+        "sha256": "599593f1d71a9bcd9a518752210f008eeeeccbcd00aaff0c5a6ffe4a018ebcb4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK61.php",
+      "title": "Одномандатный избирательный округ Красноярский край – Енисейский одномандатный избирательный округ № 61",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 9
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Бухарев.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Гопоненко.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Гордеев.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Грачев.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Дубров.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Коновалов.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Родикова.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Семизоров.pdf",
+        "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Шульженко.pdf"
+      ],
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK61.php",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK61.php",
+        "retrievedAt": "2026-09-04T03:35:41.593310+00:00",
+        "status": 200,
+        "sha256": "363fdf5abcb92b06d8c6b53346c877db4aa267012e9ad21cd5e8e6fc2c34a829",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/itogovye-finansovye-otchety/itogovye-finansovye-otchety-regionalnykh-otdeleniy-politicheskikh-partiy-na-vyborakh-deputatov-gosud/",
+      "title": "Итоговые финансовые отчеты региональных отделений политических партий на выборах депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/itogovye-finansovye-otchety/itogovye-finansovye-otchety-regionalnykh-otdeleniy-politicheskikh-partiy-na-vyborakh-deputatov-gosud/",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/itogovye-finansovye-otchety/itogovye-finansovye-otchety-regionalnykh-otdeleniy-politicheskikh-partiy-na-vyborakh-deputatov-gosud/",
+        "retrievedAt": "2026-09-04T03:54:56.000192+00:00",
+        "status": 200,
+        "sha256": "c29dcde5eae5b019fa2582d2d947c7aebfa508a098869f2e130e2401ad3fb1ed",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/itogovye-finansovye-otchety/itogovye-finansovye-otchety-kandidatov-vydvinutykh-po-odnomandatnym-izbiratelnym-okrugam-na-vyborakh/",
+      "title": "Итоговые финансовые отчеты кандидатов, выдвинутых по одномандатным избирательным округам, на выборах депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/itogovye-finansovye-otchety/itogovye-finansovye-otchety-kandidatov-vydvinutykh-po-odnomandatnym-izbiratelnym-okrugam-na-vyborakh/",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/itogovye-finansovye-otchety/itogovye-finansovye-otchety-kandidatov-vydvinutykh-po-odnomandatnym-izbiratelnym-okrugam-na-vyborakh/",
+        "retrievedAt": "2026-09-04T03:54:56.636904+00:00",
+        "status": 200,
+        "sha256": "f19d041fbadc43cb8980d16c4530f2fe967035c7a1a4f07f4c22b4b0dfefd2fa",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/itogovye-finansovye-otchety/itogovye-finansovye-otchety-kandidatov-vydvinutykh-po-odnomandatnym-izbiratelnym-okrugam-na-vyborakh/okrug-58.php",
+      "title": "Одномандатный избирательный округ Красноярский край – Красноярский одномандатный избирательный округ № 58",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/itogovye-finansovye-otchety/itogovye-finansovye-otchety-kandidatov-vydvinutykh-po-odnomandatnym-izbiratelnym-okrugam-na-vyborakh/okrug-58.php",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/itogovye-finansovye-otchety/itogovye-finansovye-otchety-kandidatov-vydvinutykh-po-odnomandatnym-izbiratelnym-okrugam-na-vyborakh/okrug-58.php",
+        "retrievedAt": "2026-09-04T03:54:57.125582+00:00",
+        "status": 200,
+        "sha256": "0d52c7d33f82ccbee4085e54539a7aeec3e8cde7573071f6753706a0278d4200",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/itogovye-finansovye-otchety/itogovye-finansovye-otchety-kandidatov-vydvinutykh-po-odnomandatnym-izbiratelnym-okrugam-na-vyborakh/okrug-59.php",
+      "title": "Одномандатный избирательный округ Красноярский край – Центральный одномандатный избирательный округ № 59",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/itogovye-finansovye-otchety/itogovye-finansovye-otchety-kandidatov-vydvinutykh-po-odnomandatnym-izbiratelnym-okrugam-na-vyborakh/okrug-59.php",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/itogovye-finansovye-otchety/itogovye-finansovye-otchety-kandidatov-vydvinutykh-po-odnomandatnym-izbiratelnym-okrugam-na-vyborakh/okrug-59.php",
+        "retrievedAt": "2026-09-04T03:54:57.640312+00:00",
+        "status": 200,
+        "sha256": "6b68edec48e736a9ef05440a83fbe5f803d27ba28fa8c195c39a0b042673db76",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/itogovye-finansovye-otchety/itogovye-finansovye-otchety-kandidatov-vydvinutykh-po-odnomandatnym-izbiratelnym-okrugam-na-vyborakh/okrug-60.php",
+      "title": "Одномандатный избирательный округ Красноярский край – Дивногорский одномандатный избирательный округ № 60",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/itogovye-finansovye-otchety/itogovye-finansovye-otchety-kandidatov-vydvinutykh-po-odnomandatnym-izbiratelnym-okrugam-na-vyborakh/okrug-60.php",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/itogovye-finansovye-otchety/itogovye-finansovye-otchety-kandidatov-vydvinutykh-po-odnomandatnym-izbiratelnym-okrugam-na-vyborakh/okrug-60.php",
+        "retrievedAt": "2026-09-04T03:54:58.147381+00:00",
+        "status": 200,
+        "sha256": "c878b6bf6482b405f962d8643a65525c7211c4fb0259b12529d75bc5bfce9649",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/itogovye-finansovye-otchety/itogovye-finansovye-otchety-kandidatov-vydvinutykh-po-odnomandatnym-izbiratelnym-okrugam-na-vyborakh/okrug-61.php",
+      "title": "Одномандатный избирательный округ Красноярский край – Енисейский одномандатный избирательный округ № 61",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/itogovye-finansovye-otchety/itogovye-finansovye-otchety-kandidatov-vydvinutykh-po-odnomandatnym-izbiratelnym-okrugam-na-vyborakh/okrug-61.php",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/itogovye-finansovye-otchety/itogovye-finansovye-otchety-kandidatov-vydvinutykh-po-odnomandatnym-izbiratelnym-okrugam-na-vyborakh/okrug-61.php",
+        "retrievedAt": "2026-09-04T03:54:58.654995+00:00",
+        "status": 200,
+        "sha256": "6ae3b59e14522ebbb0d9187d98270324b3ea82866b0119db560007fbeba4bf08",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "Алейников Владислав Евгеньевич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Алейников.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK58.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Красноярский одномандатный избирательный округ № 58",
+          "depth": 2,
+          "sha256": "d92e24d4a0a4d62284f84d85e51ddae8ff607a90ae3805c36f80a2f2fd5f21ee"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "c5b9e702a39331c7b5073a3114e2ed82e7e731a7884ac8752f2456d4f3db90a3",
+      "originalFilename": "Алейников.pdf",
+      "filename": "Алейников_Владислав_Евгеньевич-c5b9e702a393.pdf",
+      "path": "files/Алейников_Владислав_Евгеньевич-c5b9e702a393.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 225007,
+      "sha256": "c5b9e702a39331c7b5073a3114e2ed82e7e731a7884ac8752f2456d4f3db90a3",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%90%D0%BB%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Алейников.pdf",
+        "retrievedAt": "2026-09-04T03:35:43.035406+00:00",
+        "status": 200,
+        "sha256": "c5b9e702a39331c7b5073a3114e2ed82e7e731a7884ac8752f2456d4f3db90a3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Базарный Константин Николаевич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Базарный.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK58.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Красноярский одномандатный избирательный округ № 58",
+          "depth": 2,
+          "sha256": "d92e24d4a0a4d62284f84d85e51ddae8ff607a90ae3805c36f80a2f2fd5f21ee"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "3791a770a406db6253ecb8bb641690bfc56af183a8fe1101c5c6e1e491649dfa",
+      "originalFilename": "Базарный.pdf",
+      "filename": "Базарный_Константин_Николаевич-3791a770a406.pdf",
+      "path": "files/Базарный_Константин_Николаевич-3791a770a406.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 295708,
+      "sha256": "3791a770a406db6253ecb8bb641690bfc56af183a8fe1101c5c6e1e491649dfa",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%91%D0%B0%D0%B7%D0%B0%D1%80%D0%BD%D1%8B%D0%B9.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Базарный.pdf",
+        "retrievedAt": "2026-09-04T03:35:44.086067+00:00",
+        "status": 200,
+        "sha256": "3791a770a406db6253ecb8bb641690bfc56af183a8fe1101c5c6e1e491649dfa",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Бразаускас Денис Владимирович",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Бразаускас.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK60.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Дивногорский одномандатный избирательный округ № 60",
+          "depth": 2,
+          "sha256": "599593f1d71a9bcd9a518752210f008eeeeccbcd00aaff0c5a6ffe4a018ebcb4"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "27e53803c44c12e3a6227bbbb14c79acccba74b98c7280f99ff43005d1955aac",
+      "originalFilename": "Бразаускас.pdf",
+      "filename": "Бразаускас_Денис_Владимирович-27e53803c44c.pdf",
+      "path": "files/Бразаускас_Денис_Владимирович-27e53803c44c.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 229789,
+      "sha256": "27e53803c44c12e3a6227bbbb14c79acccba74b98c7280f99ff43005d1955aac",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%91%D1%80%D0%B0%D0%B7%D0%B0%D1%83%D1%81%D0%BA%D0%B0%D1%81.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Бразаускас.pdf",
+        "retrievedAt": "2026-09-04T03:35:44.768171+00:00",
+        "status": 200,
+        "sha256": "27e53803c44c12e3a6227bbbb14c79acccba74b98c7280f99ff43005d1955aac",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Бухарев Николай Семенович",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Бухарев.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK61.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Енисейский одномандатный избирательный округ № 61",
+          "depth": 2,
+          "sha256": "363fdf5abcb92b06d8c6b53346c877db4aa267012e9ad21cd5e8e6fc2c34a829"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "8cb93ce25b24e3e53fe03192a2505cbb9ff31866891701b342f7361672c25879",
+      "originalFilename": "Бухарев.pdf",
+      "filename": "Бухарев_Николай_Семенович-8cb93ce25b24.pdf",
+      "path": "files/Бухарев_Николай_Семенович-8cb93ce25b24.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 222378,
+      "sha256": "8cb93ce25b24e3e53fe03192a2505cbb9ff31866891701b342f7361672c25879",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%91%D1%83%D1%85%D0%B0%D1%80%D0%B5%D0%B2.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Бухарев.pdf",
+        "retrievedAt": "2026-09-04T03:35:45.860882+00:00",
+        "status": 200,
+        "sha256": "8cb93ce25b24e3e53fe03192a2505cbb9ff31866891701b342f7361672c25879",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Гаврилов Григорий Сергеевич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Гаврилов.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK60.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Дивногорский одномандатный избирательный округ № 60",
+          "depth": 2,
+          "sha256": "599593f1d71a9bcd9a518752210f008eeeeccbcd00aaff0c5a6ffe4a018ebcb4"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "3632d2f6070c890b23892e0c7212e641208171ba8fe532dcb74804d451f595a1",
+      "originalFilename": "Гаврилов.pdf",
+      "filename": "Гаврилов_Григорий_Сергеевич-3632d2f6070c.pdf",
+      "path": "files/Гаврилов_Григорий_Сергеевич-3632d2f6070c.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 225771,
+      "sha256": "3632d2f6070c890b23892e0c7212e641208171ba8fe532dcb74804d451f595a1",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%93%D0%B0%D0%B2%D1%80%D0%B8%D0%BB%D0%BE%D0%B2.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Гаврилов.pdf",
+        "retrievedAt": "2026-09-04T03:35:46.874816+00:00",
+        "status": 200,
+        "sha256": "3632d2f6070c890b23892e0c7212e641208171ba8fe532dcb74804d451f595a1",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Гопоненко Павел Анатольевич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Гопоненко.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK61.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Енисейский одномандатный избирательный округ № 61",
+          "depth": 2,
+          "sha256": "363fdf5abcb92b06d8c6b53346c877db4aa267012e9ad21cd5e8e6fc2c34a829"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "6aaf8f9b836d4fb600131672c5c9e346f5d53376ec3e210617f0fe77a64bfa50",
+      "originalFilename": "Гопоненко.pdf",
+      "filename": "Гопоненко_Павел_Анатольевич-6aaf8f9b836d.pdf",
+      "path": "files/Гопоненко_Павел_Анатольевич-6aaf8f9b836d.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 299530,
+      "sha256": "6aaf8f9b836d4fb600131672c5c9e346f5d53376ec3e210617f0fe77a64bfa50",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%93%D0%BE%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Гопоненко.pdf",
+        "retrievedAt": "2026-09-04T03:35:47.603847+00:00",
+        "status": 200,
+        "sha256": "6aaf8f9b836d4fb600131672c5c9e346f5d53376ec3e210617f0fe77a64bfa50",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Гордеев Вячеслав Игоревич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Гордеев.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK61.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Енисейский одномандатный избирательный округ № 61",
+          "depth": 2,
+          "sha256": "363fdf5abcb92b06d8c6b53346c877db4aa267012e9ad21cd5e8e6fc2c34a829"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "e1e4e12a16bf74b18434e59ec95f11da4dfc231f51522dcdbb84574d7d861400",
+      "originalFilename": "Гордеев.pdf",
+      "filename": "Гордеев_Вячеслав_Игоревич-e1e4e12a16bf.pdf",
+      "path": "files/Гордеев_Вячеслав_Игоревич-e1e4e12a16bf.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 223662,
+      "sha256": "e1e4e12a16bf74b18434e59ec95f11da4dfc231f51522dcdbb84574d7d861400",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%93%D0%BE%D1%80%D0%B4%D0%B5%D0%B5%D0%B2.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Гордеев.pdf",
+        "retrievedAt": "2026-09-04T03:35:48.633088+00:00",
+        "status": 200,
+        "sha256": "e1e4e12a16bf74b18434e59ec95f11da4dfc231f51522dcdbb84574d7d861400",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Горковенко Николай Иннокентьевич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Горковенко.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK58.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Красноярский одномандатный избирательный округ № 58",
+          "depth": 2,
+          "sha256": "d92e24d4a0a4d62284f84d85e51ddae8ff607a90ae3805c36f80a2f2fd5f21ee"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "7ae3a2472b1baa6387d33a8efd1c41e0b02f869f452fc16ab5e19fc0a0a43fee",
+      "originalFilename": "Горковенко.pdf",
+      "filename": "Горковенко_Николай_Иннокентьевич-7ae3a2472b1b.pdf",
+      "path": "files/Горковенко_Николай_Иннокентьевич-7ae3a2472b1b.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 294359,
+      "sha256": "7ae3a2472b1baa6387d33a8efd1c41e0b02f869f452fc16ab5e19fc0a0a43fee",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%93%D0%BE%D1%80%D0%BA%D0%BE%D0%B2%D0%B5%D0%BD%D0%BA%D0%BE.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Горковенко.pdf",
+        "retrievedAt": "2026-09-04T03:35:49.706546+00:00",
+        "status": 200,
+        "sha256": "7ae3a2472b1baa6387d33a8efd1c41e0b02f869f452fc16ab5e19fc0a0a43fee",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Грачёв Андрей Михайлович",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Грачев.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK61.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Енисейский одномандатный избирательный округ № 61",
+          "depth": 2,
+          "sha256": "363fdf5abcb92b06d8c6b53346c877db4aa267012e9ad21cd5e8e6fc2c34a829"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "915438c985c58437ba19cf26ae070bfc9684ceb6865e8808f7998a0205651a81",
+      "originalFilename": "Грачев.pdf",
+      "filename": "Грачёв_Андрей_Михайлович-915438c985c5.pdf",
+      "path": "files/Грачёв_Андрей_Михайлович-915438c985c5.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 297084,
+      "sha256": "915438c985c58437ba19cf26ae070bfc9684ceb6865e8808f7998a0205651a81",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%93%D1%80%D0%B0%D1%87%D0%B5%D0%B2.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Грачев.pdf",
+        "retrievedAt": "2026-09-04T03:35:52.285882+00:00",
+        "status": 200,
+        "sha256": "915438c985c58437ba19cf26ae070bfc9684ceb6865e8808f7998a0205651a81",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Дроздов Александр Сергеевич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Дроздов.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK59.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Центральный одномандатный избирательный округ № 59",
+          "depth": 2,
+          "sha256": "d7bec8067bc1430bddd40ba5a1475246a523b2c665eecddc0bf7a4865e09c3ec"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "fe859b55b46155e06d3c440f8ef52f76856cd76121583526aa4f4954f02ced31",
+      "originalFilename": "Дроздов.pdf",
+      "filename": "Дроздов_Александр_Сергеевич-fe859b55b461.pdf",
+      "path": "files/Дроздов_Александр_Сергеевич-fe859b55b461.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 223925,
+      "sha256": "fe859b55b46155e06d3c440f8ef52f76856cd76121583526aa4f4954f02ced31",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%94%D1%80%D0%BE%D0%B7%D0%B4%D0%BE%D0%B2.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Дроздов.pdf",
+        "retrievedAt": "2026-09-04T03:35:53.193533+00:00",
+        "status": 200,
+        "sha256": "fe859b55b46155e06d3c440f8ef52f76856cd76121583526aa4f4954f02ced31",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Дубров Владимир Владимирович",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Дубров.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK61.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Енисейский одномандатный избирательный округ № 61",
+          "depth": 2,
+          "sha256": "363fdf5abcb92b06d8c6b53346c877db4aa267012e9ad21cd5e8e6fc2c34a829"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "9754a537de29a7559530b18f808ee3032199dad95cbc59d212c528a90a794b40",
+      "originalFilename": "Дубров.pdf",
+      "filename": "Дубров_Владимир_Владимирович-9754a537de29.pdf",
+      "path": "files/Дубров_Владимир_Владимирович-9754a537de29.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 243577,
+      "sha256": "9754a537de29a7559530b18f808ee3032199dad95cbc59d212c528a90a794b40",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%94%D1%83%D0%B1%D1%80%D0%BE%D0%B2.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Дубров.pdf",
+        "retrievedAt": "2026-09-04T03:35:54.260844+00:00",
+        "status": 200,
+        "sha256": "9754a537de29a7559530b18f808ee3032199dad95cbc59d212c528a90a794b40",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Дюков Вячеслав Игоревич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Дюков.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK60.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Дивногорский одномандатный избирательный округ № 60",
+          "depth": 2,
+          "sha256": "599593f1d71a9bcd9a518752210f008eeeeccbcd00aaff0c5a6ffe4a018ebcb4"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "1fae02915512b045fac8190935352969570ac1f485cb069ff1bd8c5cbc6b4f6e",
+      "originalFilename": "Дюков.pdf",
+      "filename": "Дюков_Вячеслав_Игоревич-1fae02915512.pdf",
+      "path": "files/Дюков_Вячеслав_Игоревич-1fae02915512.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 227141,
+      "sha256": "1fae02915512b045fac8190935352969570ac1f485cb069ff1bd8c5cbc6b4f6e",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%94%D1%8E%D0%BA%D0%BE%D0%B2.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Дюков.pdf",
+        "retrievedAt": "2026-09-04T03:35:55.432066+00:00",
+        "status": 200,
+        "sha256": "1fae02915512b045fac8190935352969570ac1f485cb069ff1bd8c5cbc6b4f6e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Еремин Сергей Васильевич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Еремин.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK60.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Дивногорский одномандатный избирательный округ № 60",
+          "depth": 2,
+          "sha256": "599593f1d71a9bcd9a518752210f008eeeeccbcd00aaff0c5a6ffe4a018ebcb4"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "979b52059eff0a11eba6f3f6762da23e2eacfa969640ed9e2da98aa91a9db43b",
+      "originalFilename": "Еремин.pdf",
+      "filename": "Еремин_Сергей_Васильевич-979b52059eff.pdf",
+      "path": "files/Еремин_Сергей_Васильевич-979b52059eff.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 301725,
+      "sha256": "979b52059eff0a11eba6f3f6762da23e2eacfa969640ed9e2da98aa91a9db43b",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%95%D1%80%D0%B5%D0%BC%D0%B8%D0%BD.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Еремин.pdf",
+        "retrievedAt": "2026-09-04T03:35:56.384832+00:00",
+        "status": 200,
+        "sha256": "979b52059eff0a11eba6f3f6762da23e2eacfa969640ed9e2da98aa91a9db43b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Золотухин Максим Анатольевич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Золотухин.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK58.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Красноярский одномандатный избирательный округ № 58",
+          "depth": 2,
+          "sha256": "d92e24d4a0a4d62284f84d85e51ddae8ff607a90ae3805c36f80a2f2fd5f21ee"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "cca77c00a003f333a7b0f48bb19bb49d84e800c16b9baacb42eebf15af159192",
+      "originalFilename": "Золотухин.pdf",
+      "filename": "Золотухин_Максим_Анатольевич-cca77c00a003.pdf",
+      "path": "files/Золотухин_Максим_Анатольевич-cca77c00a003.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 312907,
+      "sha256": "cca77c00a003f333a7b0f48bb19bb49d84e800c16b9baacb42eebf15af159192",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D1%83%D1%85%D0%B8%D0%BD.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Золотухин.pdf",
+        "retrievedAt": "2026-09-04T03:35:57.411634+00:00",
+        "status": 200,
+        "sha256": "cca77c00a003f333a7b0f48bb19bb49d84e800c16b9baacb42eebf15af159192",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Исаев Валерий Андреевич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Исаев.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK60.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Дивногорский одномандатный избирательный округ № 60",
+          "depth": 2,
+          "sha256": "599593f1d71a9bcd9a518752210f008eeeeccbcd00aaff0c5a6ffe4a018ebcb4"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "699bf3809b3a4a3d48860ac87aad215b0b1e8e04498d0ea238dfbca610bdf167",
+      "originalFilename": "Исаев.pdf",
+      "filename": "Исаев_Валерий_Андреевич-699bf3809b3a.pdf",
+      "path": "files/Исаев_Валерий_Андреевич-699bf3809b3a.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 225099,
+      "sha256": "699bf3809b3a4a3d48860ac87aad215b0b1e8e04498d0ea238dfbca610bdf167",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%98%D1%81%D0%B0%D0%B5%D0%B2.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Исаев.pdf",
+        "retrievedAt": "2026-09-04T03:35:58.619606+00:00",
+        "status": 200,
+        "sha256": "699bf3809b3a4a3d48860ac87aad215b0b1e8e04498d0ea238dfbca610bdf167",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Исаев Юрий Андреевич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/ИсаевЮ.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK59.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Центральный одномандатный избирательный округ № 59",
+          "depth": 2,
+          "sha256": "d7bec8067bc1430bddd40ba5a1475246a523b2c665eecddc0bf7a4865e09c3ec"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "fa52f6b2d582e8432df8a9c3483cb49bd1e01ad68e1c039ec9e5ca47f5e8fa67",
+      "originalFilename": "ИсаевЮ.pdf",
+      "filename": "Исаев_Юрий_Андреевич-fa52f6b2d582.pdf",
+      "path": "files/Исаев_Юрий_Андреевич-fa52f6b2d582.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 302498,
+      "sha256": "fa52f6b2d582e8432df8a9c3483cb49bd1e01ad68e1c039ec9e5ca47f5e8fa67",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%98%D1%81%D0%B0%D0%B5%D0%B2%D0%AE.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/ИсаевЮ.pdf",
+        "retrievedAt": "2026-09-04T03:36:00.363990+00:00",
+        "status": 200,
+        "sha256": "fa52f6b2d582e8432df8a9c3483cb49bd1e01ad68e1c039ec9e5ca47f5e8fa67",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Караев Семён Васильевич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Караев.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK59.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Центральный одномандатный избирательный округ № 59",
+          "depth": 2,
+          "sha256": "d7bec8067bc1430bddd40ba5a1475246a523b2c665eecddc0bf7a4865e09c3ec"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "ee3d3e0ef508c09499a8d42bff7ecc3789a6f099222b69e163e3569b5b14b482",
+      "originalFilename": "Караев.pdf",
+      "filename": "Караев_Семён_Васильевич-ee3d3e0ef508.pdf",
+      "path": "files/Караев_Семён_Васильевич-ee3d3e0ef508.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 305251,
+      "sha256": "ee3d3e0ef508c09499a8d42bff7ecc3789a6f099222b69e163e3569b5b14b482",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%9A%D0%B0%D1%80%D0%B0%D0%B5%D0%B2.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Караев.pdf",
+        "retrievedAt": "2026-09-04T03:36:01.560264+00:00",
+        "status": 200,
+        "sha256": "ee3d3e0ef508c09499a8d42bff7ecc3789a6f099222b69e163e3569b5b14b482",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Кириенко Евгений Андреевич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Кириенко.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK59.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Центральный одномандатный избирательный округ № 59",
+          "depth": 2,
+          "sha256": "d7bec8067bc1430bddd40ba5a1475246a523b2c665eecddc0bf7a4865e09c3ec"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "a8d638aa1f7a3b452a689ab1de0c8b7b6cab014467e9129bdfd536b7f40a9903",
+      "originalFilename": "Кириенко.pdf",
+      "filename": "Кириенко_Евгений_Андреевич-a8d638aa1f7a.pdf",
+      "path": "files/Кириенко_Евгений_Андреевич-a8d638aa1f7a.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 328951,
+      "sha256": "a8d638aa1f7a3b452a689ab1de0c8b7b6cab014467e9129bdfd536b7f40a9903",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%9A%D0%B8%D1%80%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Кириенко.pdf",
+        "retrievedAt": "2026-09-04T03:36:02.271049+00:00",
+        "status": 200,
+        "sha256": "a8d638aa1f7a3b452a689ab1de0c8b7b6cab014467e9129bdfd536b7f40a9903",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Коновалов Владислав Евгеньевич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Коновалов.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK61.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Енисейский одномандатный избирательный округ № 61",
+          "depth": 2,
+          "sha256": "363fdf5abcb92b06d8c6b53346c877db4aa267012e9ad21cd5e8e6fc2c34a829"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "890c3a16520f3b7b7c36f61fab78cc3b31a50f58da13056808e23f3d3d418f87",
+      "originalFilename": "Коновалов.pdf",
+      "filename": "Коновалов_Владислав_Евгеньевич-890c3a16520f.pdf",
+      "path": "files/Коновалов_Владислав_Евгеньевич-890c3a16520f.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 306457,
+      "sha256": "890c3a16520f3b7b7c36f61fab78cc3b31a50f58da13056808e23f3d3d418f87",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%9A%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE%D0%B2.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Коновалов.pdf",
+        "retrievedAt": "2026-09-04T03:36:03.315062+00:00",
+        "status": 200,
+        "sha256": "890c3a16520f3b7b7c36f61fab78cc3b31a50f58da13056808e23f3d3d418f87",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Костецкая Илона Игоревна",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Костецкая.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK60.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Дивногорский одномандатный избирательный округ № 60",
+          "depth": 2,
+          "sha256": "599593f1d71a9bcd9a518752210f008eeeeccbcd00aaff0c5a6ffe4a018ebcb4"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "3facdd7ebf32653602c280c82ce089db251c453fef77007d966a811addbc980f",
+      "originalFilename": "Костецкая.pdf",
+      "filename": "Костецкая_Илона_Игоревна-3facdd7ebf32.pdf",
+      "path": "files/Костецкая_Илона_Игоревна-3facdd7ebf32.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 243296,
+      "sha256": "3facdd7ebf32653602c280c82ce089db251c453fef77007d966a811addbc980f",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%9A%D0%BE%D1%81%D1%82%D0%B5%D1%86%D0%BA%D0%B0%D1%8F.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Костецкая.pdf",
+        "retrievedAt": "2026-09-04T03:36:04.428806+00:00",
+        "status": 200,
+        "sha256": "3facdd7ebf32653602c280c82ce089db251c453fef77007d966a811addbc980f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Крайник Ирина Альбертовна",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Крайник.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK58.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Красноярский одномандатный избирательный округ № 58",
+          "depth": 2,
+          "sha256": "d92e24d4a0a4d62284f84d85e51ddae8ff607a90ae3805c36f80a2f2fd5f21ee"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "a3c4a17d8015d8ea33102527de553d41fbbb540ae7a80fa88427ce200699bec4",
+      "originalFilename": "Крайник.pdf",
+      "filename": "Крайник_Ирина_Альбертовна-a3c4a17d8015.pdf",
+      "path": "files/Крайник_Ирина_Альбертовна-a3c4a17d8015.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 306468,
+      "sha256": "a3c4a17d8015d8ea33102527de553d41fbbb540ae7a80fa88427ce200699bec4",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%B8%D0%BA.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Крайник.pdf",
+        "retrievedAt": "2026-09-04T03:36:05.454957+00:00",
+        "status": 200,
+        "sha256": "a3c4a17d8015d8ea33102527de553d41fbbb540ae7a80fa88427ce200699bec4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Ликонцев Олег Валерьевич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Ликонцев.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK58.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Красноярский одномандатный избирательный округ № 58",
+          "depth": 2,
+          "sha256": "d92e24d4a0a4d62284f84d85e51ddae8ff607a90ae3805c36f80a2f2fd5f21ee"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "b0757a33276f326431e680f8b7258b7a5f50a1ac1484513e152da844e26cf2b5",
+      "originalFilename": "Ликонцев.pdf",
+      "filename": "Ликонцев_Олег_Валерьевич-b0757a33276f.pdf",
+      "path": "files/Ликонцев_Олег_Валерьевич-b0757a33276f.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 299277,
+      "sha256": "b0757a33276f326431e680f8b7258b7a5f50a1ac1484513e152da844e26cf2b5",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%9B%D0%B8%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%B2.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Ликонцев.pdf",
+        "retrievedAt": "2026-09-04T03:36:06.533789+00:00",
+        "status": 200,
+        "sha256": "b0757a33276f326431e680f8b7258b7a5f50a1ac1484513e152da844e26cf2b5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Маркерт Максим Андреевич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Маркерт.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK60.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Дивногорский одномандатный избирательный округ № 60",
+          "depth": 2,
+          "sha256": "599593f1d71a9bcd9a518752210f008eeeeccbcd00aaff0c5a6ffe4a018ebcb4"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "62541c5a81d418103e9a0b965dada011551f6f2f63a513ac75a72b8fc656339b",
+      "originalFilename": "Маркерт.pdf",
+      "filename": "Маркерт_Максим_Андреевич-62541c5a81d4.pdf",
+      "path": "files/Маркерт_Максим_Андреевич-62541c5a81d4.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 305673,
+      "sha256": "62541c5a81d418103e9a0b965dada011551f6f2f63a513ac75a72b8fc656339b",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%80%D1%82.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Маркерт.pdf",
+        "retrievedAt": "2026-09-04T03:36:07.560477+00:00",
+        "status": 200,
+        "sha256": "62541c5a81d418103e9a0b965dada011551f6f2f63a513ac75a72b8fc656339b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Мартынюк Михаил Викторович",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Мартынюк.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK59.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Центральный одномандатный избирательный округ № 59",
+          "depth": 2,
+          "sha256": "d7bec8067bc1430bddd40ba5a1475246a523b2c665eecddc0bf7a4865e09c3ec"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "67941e5323ac9a850bb3fe1da36b2d98b0eafd846a77dfb86918d3feedb3ef71",
+      "originalFilename": "Мартынюк.pdf",
+      "filename": "Мартынюк_Михаил_Викторович-67941e5323ac.pdf",
+      "path": "files/Мартынюк_Михаил_Викторович-67941e5323ac.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 228771,
+      "sha256": "67941e5323ac9a850bb3fe1da36b2d98b0eafd846a77dfb86918d3feedb3ef71",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%9C%D0%B0%D1%80%D1%82%D1%8B%D0%BD%D1%8E%D0%BA.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Мартынюк.pdf",
+        "retrievedAt": "2026-09-04T03:36:08.572260+00:00",
+        "status": 200,
+        "sha256": "67941e5323ac9a850bb3fe1da36b2d98b0eafd846a77dfb86918d3feedb3ef71",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Озереденко Владимир Николаевич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Озереденко.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK59.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Центральный одномандатный избирательный округ № 59",
+          "depth": 2,
+          "sha256": "d7bec8067bc1430bddd40ba5a1475246a523b2c665eecddc0bf7a4865e09c3ec"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "890b2cbd192d94e90110b70baed76552d0f318c86c334bd7af8e8dc01500c571",
+      "originalFilename": "Озереденко.pdf",
+      "filename": "Озереденко_Владимир_Николаевич-890b2cbd192d.pdf",
+      "path": "files/Озереденко_Владимир_Николаевич-890b2cbd192d.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 306796,
+      "sha256": "890b2cbd192d94e90110b70baed76552d0f318c86c334bd7af8e8dc01500c571",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%9E%D0%B7%D0%B5%D1%80%D0%B5%D0%B4%D0%B5%D0%BD%D0%BA%D0%BE.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Озереденко.pdf",
+        "retrievedAt": "2026-09-04T03:36:09.619829+00:00",
+        "status": 200,
+        "sha256": "890b2cbd192d94e90110b70baed76552d0f318c86c334bd7af8e8dc01500c571",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Орда Михаил Сергеевич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Орда.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK60.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Дивногорский одномандатный избирательный округ № 60",
+          "depth": 2,
+          "sha256": "599593f1d71a9bcd9a518752210f008eeeeccbcd00aaff0c5a6ffe4a018ebcb4"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "952100f56c4e07227dbe14bc55041b4becb4ffe9a28d13faacddd145e0dc9aa5",
+      "originalFilename": "Орда.pdf",
+      "filename": "Орда_Михаил_Сергеевич-952100f56c4e.pdf",
+      "path": "files/Орда_Михаил_Сергеевич-952100f56c4e.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 258693,
+      "sha256": "952100f56c4e07227dbe14bc55041b4becb4ffe9a28d13faacddd145e0dc9aa5",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%9E%D1%80%D0%B4%D0%B0.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Орда.pdf",
+        "retrievedAt": "2026-09-04T03:36:10.690669+00:00",
+        "status": 200,
+        "sha256": "952100f56c4e07227dbe14bc55041b4becb4ffe9a28d13faacddd145e0dc9aa5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Петров Иван Алексеевич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Петров.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK58.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Красноярский одномандатный избирательный округ № 58",
+          "depth": 2,
+          "sha256": "d92e24d4a0a4d62284f84d85e51ddae8ff607a90ae3805c36f80a2f2fd5f21ee"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "619c4fb7045c86d7b76223c9fd9c0886aff607051dee3a583395bbc86dac5d61",
+      "originalFilename": "Петров.pdf",
+      "filename": "Петров_Иван_Алексеевич-619c4fb7045c.pdf",
+      "path": "files/Петров_Иван_Алексеевич-619c4fb7045c.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 304363,
+      "sha256": "619c4fb7045c86d7b76223c9fd9c0886aff607051dee3a583395bbc86dac5d61",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Петров.pdf",
+        "retrievedAt": "2026-09-04T03:36:11.762346+00:00",
+        "status": 200,
+        "sha256": "619c4fb7045c86d7b76223c9fd9c0886aff607051dee3a583395bbc86dac5d61",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Попов Дмитрий Сергеевич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Попов.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK60.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Дивногорский одномандатный избирательный округ № 60",
+          "depth": 2,
+          "sha256": "599593f1d71a9bcd9a518752210f008eeeeccbcd00aaff0c5a6ffe4a018ebcb4"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "4dcfc764bced8b93d4c4d31588bd94ce9af08eb976fd11e34ac31462e1673268",
+      "originalFilename": "Попов.pdf",
+      "filename": "Попов_Дмитрий_Сергеевич-4dcfc764bced.pdf",
+      "path": "files/Попов_Дмитрий_Сергеевич-4dcfc764bced.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 230914,
+      "sha256": "4dcfc764bced8b93d4c4d31588bd94ce9af08eb976fd11e34ac31462e1673268",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Попов.pdf",
+        "retrievedAt": "2026-09-04T03:36:12.825438+00:00",
+        "status": 200,
+        "sha256": "4dcfc764bced8b93d4c4d31588bd94ce9af08eb976fd11e34ac31462e1673268",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Родикова Елена Сергеевна",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Родикова.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK61.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Енисейский одномандатный избирательный округ № 61",
+          "depth": 2,
+          "sha256": "363fdf5abcb92b06d8c6b53346c877db4aa267012e9ad21cd5e8e6fc2c34a829"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "52057b3c0f03d602faa18d653bfdf2b51c1f247b1309ac5b0779d6116328c206",
+      "originalFilename": "Родикова.pdf",
+      "filename": "Родикова_Елена_Сергеевна-52057b3c0f03.pdf",
+      "path": "files/Родикова_Елена_Сергеевна-52057b3c0f03.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 221888,
+      "sha256": "52057b3c0f03d602faa18d653bfdf2b51c1f247b1309ac5b0779d6116328c206",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%A0%D0%BE%D0%B4%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Родикова.pdf",
+        "retrievedAt": "2026-09-04T03:36:13.844603+00:00",
+        "status": 200,
+        "sha256": "52057b3c0f03d602faa18d653bfdf2b51c1f247b1309ac5b0779d6116328c206",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Саттаров Николай Степанович",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Саттаров.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK59.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Центральный одномандатный избирательный округ № 59",
+          "depth": 2,
+          "sha256": "d7bec8067bc1430bddd40ba5a1475246a523b2c665eecddc0bf7a4865e09c3ec"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "1e13d5a993fde06710daba9d910a77cbd4c75b69e2a4a7c087f3e341f4d1568f",
+      "originalFilename": "Саттаров.pdf",
+      "filename": "Саттаров_Николай_Степанович-1e13d5a993fd.pdf",
+      "path": "files/Саттаров_Николай_Степанович-1e13d5a993fd.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 300988,
+      "sha256": "1e13d5a993fde06710daba9d910a77cbd4c75b69e2a4a7c087f3e341f4d1568f",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%A1%D0%B0%D1%82%D1%82%D0%B0%D1%80%D0%BE%D0%B2.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Саттаров.pdf",
+        "retrievedAt": "2026-09-04T03:36:14.902424+00:00",
+        "status": 200,
+        "sha256": "1e13d5a993fde06710daba9d910a77cbd4c75b69e2a4a7c087f3e341f4d1568f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Семизоров Павел Дмитриевич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Семизоров.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK61.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Енисейский одномандатный избирательный округ № 61",
+          "depth": 2,
+          "sha256": "363fdf5abcb92b06d8c6b53346c877db4aa267012e9ad21cd5e8e6fc2c34a829"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "311e292c242fcd854ed2a0a04991234e867cf1881ccaacc616949cd2483f887a",
+      "originalFilename": "Семизоров.pdf",
+      "filename": "Семизоров_Павел_Дмитриевич-311e292c242f.pdf",
+      "path": "files/Семизоров_Павел_Дмитриевич-311e292c242f.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 229397,
+      "sha256": "311e292c242fcd854ed2a0a04991234e867cf1881ccaacc616949cd2483f887a",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%A1%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D1%80%D0%BE%D0%B2.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Семизоров.pdf",
+        "retrievedAt": "2026-09-04T03:36:15.931674+00:00",
+        "status": 200,
+        "sha256": "311e292c242fcd854ed2a0a04991234e867cf1881ccaacc616949cd2483f887a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Сендерский Семен Борисович",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Сендерский.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK59.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Центральный одномандатный избирательный округ № 59",
+          "depth": 2,
+          "sha256": "d7bec8067bc1430bddd40ba5a1475246a523b2c665eecddc0bf7a4865e09c3ec"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "4c0bf59f0cc28c19af481ddac1434dd6b5fae276743becdb1b3dbbd10d9c683c",
+      "originalFilename": "Сендерский.pdf",
+      "filename": "Сендерский_Семен_Борисович-4c0bf59f0cc2.pdf",
+      "path": "files/Сендерский_Семен_Борисович-4c0bf59f0cc2.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 298406,
+      "sha256": "4c0bf59f0cc28c19af481ddac1434dd6b5fae276743becdb1b3dbbd10d9c683c",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%A1%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Сендерский.pdf",
+        "retrievedAt": "2026-09-04T03:36:17.002509+00:00",
+        "status": 200,
+        "sha256": "4c0bf59f0cc28c19af481ddac1434dd6b5fae276743becdb1b3dbbd10d9c683c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Телин Виталий Геннадьевич",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Телин.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK59.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Центральный одномандатный избирательный округ № 59",
+          "depth": 2,
+          "sha256": "d7bec8067bc1430bddd40ba5a1475246a523b2c665eecddc0bf7a4865e09c3ec"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "5ad92daf2f1526e4de8cb2427100c7996cf61e7c41223a2f63f961c0c5022e58",
+      "originalFilename": "Телин.pdf",
+      "filename": "Телин_Виталий_Геннадьевич-5ad92daf2f15.pdf",
+      "path": "files/Телин_Виталий_Геннадьевич-5ad92daf2f15.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 230289,
+      "sha256": "5ad92daf2f1526e4de8cb2427100c7996cf61e7c41223a2f63f961c0c5022e58",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%A2%D0%B5%D0%BB%D0%B8%D0%BD.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Телин.pdf",
+        "retrievedAt": "2026-09-04T03:36:18.069383+00:00",
+        "status": 200,
+        "sha256": "5ad92daf2f1526e4de8cb2427100c7996cf61e7c41223a2f63f961c0c5022e58",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Шатилов Александр Владимирович",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Шатилов.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK58.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Красноярский одномандатный избирательный округ № 58",
+          "depth": 2,
+          "sha256": "d92e24d4a0a4d62284f84d85e51ddae8ff607a90ae3805c36f80a2f2fd5f21ee"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "b2b9f8e7feb760fcb8ed51c0892299fec0162127f37adab6135f5cc271d175f3",
+      "originalFilename": "Шатилов.pdf",
+      "filename": "Шатилов_Александр_Владимирович-b2b9f8e7feb7.pdf",
+      "path": "files/Шатилов_Александр_Владимирович-b2b9f8e7feb7.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 233324,
+      "sha256": "b2b9f8e7feb760fcb8ed51c0892299fec0162127f37adab6135f5cc271d175f3",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%A8%D0%B0%D1%82%D0%B8%D0%BB%D0%BE%D0%B2.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Шатилов.pdf",
+        "retrievedAt": "2026-09-04T03:36:19.096255+00:00",
+        "status": 200,
+        "sha256": "b2b9f8e7feb760fcb8ed51c0892299fec0162127f37adab6135f5cc271d175f3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Шульженко Ирина Алексеевна",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Шульженко.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/OIK61.php",
+          "title": "Одномандатный избирательный округ Красноярский край – Енисейский одномандатный избирательный округ № 61",
+          "depth": 2,
+          "sha256": "363fdf5abcb92b06d8c6b53346c877db4aa267012e9ad21cd5e8e6fc2c34a829"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "3a11f3ca27e2b316f4c26b4ac2407466d60136f7d7de6294f1d279ac097c58c3",
+      "originalFilename": "Шульженко.pdf",
+      "filename": "Шульженко_Ирина_Алексеевна-3a11f3ca27e2.pdf",
+      "path": "files/Шульженко_Ирина_Алексеевна-3a11f3ca27e2.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 222594,
+      "sha256": "3a11f3ca27e2b316f4c26b4ac2407466d60136f7d7de6294f1d279ac097c58c3",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/%D0%A8%D1%83%D0%BB%D1%8C%D0%B6%D0%B5%D0%BD%D0%BA%D0%BE.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Шульженко.pdf",
+        "retrievedAt": "2026-09-04T03:36:20.146117+00:00",
+        "status": 200,
+        "sha256": "3a11f3ca27e2b316f4c26b4ac2407466d60136f7d7de6294f1d279ac097c58c3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных кандидатами в депутаты Государственной Думы Федерального собрания Российской Федерации девятого созыва (по состоянию на 20.08.2026 год)",
+      "officialUrl": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Nedostover_sved_20082026.pdf",
+      "sourcePages": [
+        {
+          "url": "http://krasnoyarsk.izbirkom.ru/edinyy-den-golosovaniya/2026/gd2026/",
+          "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 0,
+          "sha256": "17e49094677625df1cc70555fbec09800f8730dc31bb669458f9ee24c884c9e5"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "2894e2788036922ac6ab5264b4430a7a1473fd3769e9ab06e563675f824c6b10",
+      "originalFilename": "Nedostover_sved_20082026.pdf",
+      "filename": "Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-2894e2788036.pdf",
+      "path": "files/Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-2894e2788036.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 76179,
+      "sha256": "2894e2788036922ac6ab5264b4430a7a1473fd3769e9ab06e563675f824c6b10",
+      "source": {
+        "url": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Nedostover_sved_20082026.pdf",
+        "requestKey": "http://krasnoyarsk.izbirkom.ru/Documents/Single_day_of_voting_in_2026/gd/sved-doxod/Nedostover_sved_20082026.pdf",
+        "retrievedAt": "2026-09-04T03:35:42.333497+00:00",
+        "status": 200,
+        "sha256": "2894e2788036922ac6ab5264b4430a7a1473fd3769e9ab06e563675f824c6b10",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

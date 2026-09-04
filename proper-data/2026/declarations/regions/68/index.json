@@ -1,0 +1,324 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:10.690909+00:00",
+  "region": {
+    "code": "68",
+    "name": "Тамбовская область",
+    "seedUrls": [
+      "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/%D0%93%D0%BE%D1%81%D0%94%D1%83%D0%BC%D0%B0/",
+      "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/%D0%93%D0%BE%D1%81%D0%94%D1%83%D0%BC%D0%B0/index.php"
+    ],
+    "allowedHosts": [
+      "tambov.izbirkom.ru",
+      "www.tambov.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 14,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 3,
+      "explicitEmptyPageCount": 3,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/%D0%93%D0%BE%D1%81%D0%94%D1%83%D0%BC%D0%B0/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/%D0%93%D0%BE%D1%81%D0%94%D1%83%D0%BC%D0%B0/",
+        "requestKey": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/%D0%93%D0%BE%D1%81%D0%94%D1%83%D0%BC%D0%B0/",
+        "retrievedAt": "2026-09-04T03:43:10.109474+00:00",
+        "status": 200,
+        "sha256": "252cabdae7ac769316c653d3569f262509addae0a832c4bdb9562ce2995a81d0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/%D0%93%D0%BE%D1%81%D0%94%D1%83%D0%BC%D0%B0/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/%D0%93%D0%BE%D1%81%D0%94%D1%83%D0%BC%D0%B0/index.php",
+        "requestKey": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/%D0%93%D0%BE%D1%81%D0%94%D1%83%D0%BC%D0%B0/index.php",
+        "retrievedAt": "2026-09-04T03:43:10.805249+00:00",
+        "status": 200,
+        "sha256": "252cabdae7ac769316c653d3569f262509addae0a832c4bdb9562ce2995a81d0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/%D0%93%D0%BE%D1%81%D0%94%D1%83%D0%BC%D0%B0/",
+        "requestKey": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/",
+        "retrievedAt": "2026-09-04T03:43:12.890107+00:00",
+        "status": 200,
+        "sha256": "252cabdae7ac769316c653d3569f262509addae0a832c4bdb9562ce2995a81d0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/okrug-177/index.php",
+      "title": "Одномандатный избирательный округ № 177",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/%D0%93%D0%BE%D1%81%D0%94%D1%83%D0%BC%D0%B0/okrug-177/index.php",
+        "requestKey": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/okrug-177/index.php",
+        "retrievedAt": "2026-09-04T03:43:13.568273+00:00",
+        "status": 200,
+        "sha256": "2a17957d439031e78b999b30bc64f2defd576fcfbe6cec329855311f1f67df98",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/informatsionnoe-obespechenie/index.php",
+      "title": "Информационное обеспечение",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/%D0%93%D0%BE%D1%81%D0%94%D1%83%D0%BC%D0%B0/informatsionnoe-obespechenie/index.php",
+        "requestKey": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/informatsionnoe-obespechenie/index.php",
+        "retrievedAt": "2026-09-04T03:43:14.269956+00:00",
+        "status": 200,
+        "sha256": "8171e01b3ffb3a22cc1e8e13fed0ea5d01d18c02bb735cb708a84542fabaa05b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/finansirovanie/index.php",
+      "title": "Финансирование избирательной кампании",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/%D0%93%D0%BE%D1%81%D0%94%D1%83%D0%BC%D0%B0/finansirovanie/index.php",
+        "requestKey": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/finansirovanie/index.php",
+        "retrievedAt": "2026-09-04T03:43:15.111342+00:00",
+        "status": 200,
+        "sha256": "c278291fc58a96a6aec6877313d0397aa76105fe007497da72988ca85289be26",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/okrug-177/",
+      "title": "Одномандатный избирательный округ № 177",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/%D0%93%D0%BE%D1%81%D0%94%D1%83%D0%BC%D0%B0/okrug-177/",
+        "requestKey": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/okrug-177/",
+        "retrievedAt": "2026-09-04T03:43:21.760766+00:00",
+        "status": 200,
+        "sha256": "2a17957d439031e78b999b30bc64f2defd576fcfbe6cec329855311f1f67df98",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/okrug-177/postanovleniya-oik/index.php",
+      "title": "Постановления окружной избирательной комиссии",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/%D0%93%D0%BE%D1%81%D0%94%D1%83%D0%BC%D0%B0/okrug-177/postanovleniya-oik/index.php",
+        "requestKey": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/okrug-177/postanovleniya-oik/index.php",
+        "retrievedAt": "2026-09-04T03:43:22.460573+00:00",
+        "status": 200,
+        "sha256": "fecdeedd0d6525bfc530d75654752d7c21a1d93f36f2f3c7d348f9b1a012a64d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/okrug-177/dokhody.php",
+      "title": "Сведения о доходах и имуществе кандидатов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/%D0%93%D0%BE%D1%81%D0%94%D1%83%D0%BC%D0%B0/okrug-177/dokhody.php",
+        "requestKey": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/okrug-177/dokhody.php",
+        "retrievedAt": "2026-09-04T03:43:22.929285+00:00",
+        "status": 200,
+        "sha256": "c7fe2cb642622f27577ea112a39b31fdae0a56134fdfd0796e2eacd2f4a22ca2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/informatsionnoe-obespechenie/",
+      "title": "Информационное обеспечение",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/%D0%93%D0%BE%D1%81%D0%94%D1%83%D0%BC%D0%B0/informatsionnoe-obespechenie/",
+        "requestKey": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/informatsionnoe-obespechenie/",
+        "retrievedAt": "2026-09-04T03:43:23.424136+00:00",
+        "status": 200,
+        "sha256": "8171e01b3ffb3a22cc1e8e13fed0ea5d01d18c02bb735cb708a84542fabaa05b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/finansirovanie/",
+      "title": "Финансирование избирательной кампании",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/%D0%93%D0%BE%D1%81%D0%94%D1%83%D0%BC%D0%B0/finansirovanie/",
+        "requestKey": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/finansirovanie/",
+        "retrievedAt": "2026-09-04T03:43:24.115621+00:00",
+        "status": 200,
+        "sha256": "c278291fc58a96a6aec6877313d0397aa76105fe007497da72988ca85289be26",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/finansirovanie/raskhody/index.php",
+      "title": "Сведения о поступлении и расходовании средств",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/%D0%93%D0%BE%D1%81%D0%94%D1%83%D0%BC%D0%B0/finansirovanie/raskhody/index.php",
+        "requestKey": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/finansirovanie/raskhody/index.php",
+        "retrievedAt": "2026-09-04T03:43:24.794157+00:00",
+        "status": 200,
+        "sha256": "eef76e7c0aa3df2020841706641ec9e11133b525dcf3be5f2f81b30017a8acf7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/okrug-177/postanovleniya-oik/",
+      "title": "Постановления окружной избирательной комиссии",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/%D0%93%D0%BE%D1%81%D0%94%D1%83%D0%BC%D0%B0/okrug-177/postanovleniya-oik/",
+        "requestKey": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/okrug-177/postanovleniya-oik/",
+        "retrievedAt": "2026-09-04T03:43:33.939168+00:00",
+        "status": 200,
+        "sha256": "fecdeedd0d6525bfc530d75654752d7c21a1d93f36f2f3c7d348f9b1a012a64d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/finansirovanie/raskhody/",
+      "title": "Сведения о поступлении и расходовании средств",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/%D0%93%D0%BE%D1%81%D0%94%D1%83%D0%BC%D0%B0/finansirovanie/raskhody/",
+        "requestKey": "http://tambov.izbirkom.ru/vybory-i-referendumy/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/ГосДума/finansirovanie/raskhody/",
+        "retrievedAt": "2026-09-04T03:43:34.638507+00:00",
+        "status": 200,
+        "sha256": "eef76e7c0aa3df2020841706641ec9e11133b525dcf3be5f2f81b30017a8acf7",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

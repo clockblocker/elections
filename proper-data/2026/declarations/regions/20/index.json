@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:30.933682+00:00",
+  "region": {
+    "code": "20",
+    "name": "Чеченская Республика",
+    "seedUrls": [
+      "http://chechen.izbirkom.ru/edg2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+      "http://chechen.izbirkom.ru/edg2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva.php"
+    ],
+    "allowedHosts": [
+      "chechen.izbirkom.ru",
+      "www.chechen.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 2,
+  "documentCount": 1,
+  "documentCounts": {
+    "declaration": 1
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 1,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 1
+    },
+    "inaccuracy": {
+      "signalPageCount": 1,
+      "explicitEmptyPageCount": 1,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://chechen.izbirkom.ru/edg2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://chechen.izbirkom.ru/edg2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+        "requestKey": "http://chechen.izbirkom.ru/edg2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+        "retrievedAt": "2026-09-04T03:34:56.614704+00:00",
+        "status": 200,
+        "sha256": "85e6ae86db52f1c5851eab0a7914fa648cf191bbbe86e6765dc56b0e6d5050c7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://chechen.izbirkom.ru/edg2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 2
+      },
+      "explicitEmptyCategories": [
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [
+        "http://chechen.izbirkom.ru/edg2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/Госдума.pdf"
+      ],
+      "source": {
+        "url": "http://chechen.izbirkom.ru/edg2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva.php",
+        "requestKey": "http://chechen.izbirkom.ru/edg2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva.php",
+        "retrievedAt": "2026-09-04T03:34:57.329361+00:00",
+        "status": 200,
+        "sha256": "3d6ff251c2b39c32dcf44b2f844156bfe2389210ac877a221f1b94cd187b0220",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "Сведения о доходах кандидатов в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу «Чеченская Республика – Чеченский одномандатный избирательный округ №41»",
+      "officialUrl": "http://chechen.izbirkom.ru/edg2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/Госдума.pdf",
+      "sourcePages": [
+        {
+          "url": "http://chechen.izbirkom.ru/edg2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva.php",
+          "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+          "depth": 0,
+          "sha256": "3d6ff251c2b39c32dcf44b2f844156bfe2389210ac877a221f1b94cd187b0220"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "cd52123c004651c75096ccfa63a5b4f43886475e91f1001ecd618ef238d088be",
+      "originalFilename": "Госдума.pdf",
+      "filename": "Сведения_о_доходах_кандидатов_в_депутаты_Государственной_Думы_Федерального_Собрания_Российской_Федер-cd52123c0046.pdf",
+      "path": "files/Сведения_о_доходах_кандидатов_в_депутаты_Государственной_Думы_Федерального_Собрания_Российской_Федер-cd52123c0046.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 137026,
+      "sha256": "cd52123c004651c75096ccfa63a5b4f43886475e91f1001ecd618ef238d088be",
+      "source": {
+        "url": "http://chechen.izbirkom.ru/edg2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/%D0%93%D0%BE%D1%81%D0%B4%D1%83%D0%BC%D0%B0.pdf",
+        "requestKey": "http://chechen.izbirkom.ru/edg2026/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/Госдума.pdf",
+        "retrievedAt": "2026-09-04T03:35:07.160214+00:00",
+        "status": 200,
+        "sha256": "cd52123c004651c75096ccfa63a5b4f43886475e91f1001ecd618ef238d088be",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

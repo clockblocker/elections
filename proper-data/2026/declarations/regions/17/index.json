@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:30.820665+00:00",
+  "region": {
+    "code": "17",
+    "name": "Республика Тыва",
+    "seedUrls": [
+      "http://tyva.izbirkom.ru/edg/2026/gosduma/",
+      "http://tyva.izbirkom.ru/edg/2026/gosduma/index.php",
+      "http://tyva.izbirkom.ru/edg/2026/gosduma/kandidaty/index.php"
+    ],
+    "allowedHosts": [
+      "tyva.izbirkom.ru",
+      "www.tyva.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 7,
+  "documentCount": 1,
+  "documentCounts": {
+    "declaration": 1
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 1,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 1
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://tyva.izbirkom.ru/edg/2026/gosduma/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tyva.izbirkom.ru/edg/2026/gosduma/",
+        "requestKey": "http://tyva.izbirkom.ru/edg/2026/gosduma/",
+        "retrievedAt": "2026-09-04T03:33:34.087457+00:00",
+        "status": 200,
+        "sha256": "7ba9a02b854387e07876eed6410ac26ae5cdbb26c0210eb70d9a71bd5dd9bd13",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tyva.izbirkom.ru/edg/2026/gosduma/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tyva.izbirkom.ru/edg/2026/gosduma/index.php",
+        "requestKey": "http://tyva.izbirkom.ru/edg/2026/gosduma/index.php",
+        "retrievedAt": "2026-09-04T03:33:34.511893+00:00",
+        "status": 200,
+        "sha256": "7ba9a02b854387e07876eed6410ac26ae5cdbb26c0210eb70d9a71bd5dd9bd13",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tyva.izbirkom.ru/edg/2026/gosduma/kandidaty/index.php",
+      "title": "Сведения о кандидатах",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://tyva.izbirkom.ru/edg/2026/gosduma/dohod/Отчет_о_доходах_и_имуществе_кандидатов_29-07-2026.pdf"
+      ],
+      "source": {
+        "url": "http://tyva.izbirkom.ru/edg/2026/gosduma/kandidaty/index.php",
+        "requestKey": "http://tyva.izbirkom.ru/edg/2026/gosduma/kandidaty/index.php",
+        "retrievedAt": "2026-09-04T03:33:34.955925+00:00",
+        "status": 200,
+        "sha256": "8adcb3a205c45c47bb69451daf392e4e2cc7b8a9569cb26c8c44f7b15b4ebcb3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tyva.izbirkom.ru/edg/2026/gosduma/kif/index.php",
+      "title": "Избирательные фонды",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tyva.izbirkom.ru/edg/2026/gosduma/kif/index.php",
+        "requestKey": "http://tyva.izbirkom.ru/edg/2026/gosduma/kif/index.php",
+        "retrievedAt": "2026-09-04T03:33:36.842481+00:00",
+        "status": 200,
+        "sha256": "37e95e7c34bb11927fff57853bb74f15a538d6646597e603228888df7ff05e42",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tyva.izbirkom.ru/edg/2026/gosduma/kif/",
+      "title": "Избирательные фонды",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tyva.izbirkom.ru/edg/2026/gosduma/kif/",
+        "requestKey": "http://tyva.izbirkom.ru/edg/2026/gosduma/kif/",
+        "retrievedAt": "2026-09-04T03:35:02.028674+00:00",
+        "status": 200,
+        "sha256": "37e95e7c34bb11927fff57853bb74f15a538d6646597e603228888df7ff05e42",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tyva.izbirkom.ru/edg/2026/gosduma/kif/npa/index.php",
+      "title": "Нормативные правовые акты",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tyva.izbirkom.ru/edg/2026/gosduma/kif/npa/index.php",
+        "requestKey": "http://tyva.izbirkom.ru/edg/2026/gosduma/kif/npa/index.php",
+        "retrievedAt": "2026-09-04T03:35:03.069452+00:00",
+        "status": 200,
+        "sha256": "0c6c6649e4cc94729a76308f93e78079e67151825db14d58fdbc734a1884d6f8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tyva.izbirkom.ru/edg/2026/gosduma/kif/npa/",
+      "title": "Нормативные правовые акты",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tyva.izbirkom.ru/edg/2026/gosduma/kif/npa/",
+        "requestKey": "http://tyva.izbirkom.ru/edg/2026/gosduma/kif/npa/",
+        "retrievedAt": "2026-09-04T03:35:04.102835+00:00",
+        "status": 200,
+        "sha256": "0c6c6649e4cc94729a76308f93e78079e67151825db14d58fdbc734a1884d6f8",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "Cведения о доходах и имуществе кандидатов",
+      "officialUrl": "http://tyva.izbirkom.ru/edg/2026/gosduma/dohod/Отчет_о_доходах_и_имуществе_кандидатов_29-07-2026.pdf",
+      "sourcePages": [
+        {
+          "url": "http://tyva.izbirkom.ru/edg/2026/gosduma/kandidaty/index.php",
+          "title": "Сведения о кандидатах",
+          "depth": 0,
+          "sha256": "8adcb3a205c45c47bb69451daf392e4e2cc7b8a9569cb26c8c44f7b15b4ebcb3"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "f4d546c127a0fb89ee7ae3b0d546882b3a24f5d4788552980185d1e0399b9446",
+      "originalFilename": "Отчет_о_доходах_и_имуществе_кандидатов_29-07-2026.pdf",
+      "filename": "Cведения_о_доходах_и_имуществе_кандидатов-f4d546c127a0.pdf",
+      "path": "files/Cведения_о_доходах_и_имуществе_кандидатов-f4d546c127a0.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 197060,
+      "sha256": "f4d546c127a0fb89ee7ae3b0d546882b3a24f5d4788552980185d1e0399b9446",
+      "source": {
+        "url": "http://tyva.izbirkom.ru/edg/2026/gosduma/dohod/%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%BE_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85_%D0%B8_%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%BE%D0%B2_29-07-2026.pdf",
+        "requestKey": "http://tyva.izbirkom.ru/edg/2026/gosduma/dohod/Отчет_о_доходах_и_имуществе_кандидатов_29-07-2026.pdf",
+        "retrievedAt": "2026-09-04T03:34:19.805085+00:00",
+        "status": 200,
+        "sha256": "f4d546c127a0fb89ee7ae3b0d546882b3a24f5d4788552980185d1e0399b9446",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

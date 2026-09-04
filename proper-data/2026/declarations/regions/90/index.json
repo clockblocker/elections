@@ -1,0 +1,359 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:11.300511+00:00",
+  "region": {
+    "code": "90",
+    "name": "Пермский край",
+    "seedUrls": [
+      "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/index.php",
+      "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/golosovanie-po-mestu-nakhozhdeniya.php",
+      "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/Kandidaty/svedeniya-o-razmere-i-ob-istochnikakh-dokhodov-imushchestve-kandidata-i-svedeniya-o-raskhodakh-kandi.php"
+    ],
+    "allowedHosts": [
+      "permkrai.izbirkom.ru",
+      "www.permkrai.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 16,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 2,
+      "explicitEmptyPageCount": 2,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва 20 сентября 2026 года",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/index.php",
+        "requestKey": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/index.php",
+        "retrievedAt": "2026-09-04T03:48:33.018896+00:00",
+        "status": 200,
+        "sha256": "0ee3fdd8a3ced83b7b42d704d41494c10acf7625259ebd16e27ad36b773dd413",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/golosovanie-po-mestu-nakhozhdeniya.php",
+      "title": "Голосование по месту нахождения",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/golosovanie-po-mestu-nakhozhdeniya.php",
+        "requestKey": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/golosovanie-po-mestu-nakhozhdeniya.php",
+        "retrievedAt": "2026-09-04T03:48:33.532060+00:00",
+        "status": 200,
+        "sha256": "a0e8d01bf9c4fee6bcad170d5188ecfe7187368665e6bb2636159f16ab8657e3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/Kandidaty/svedeniya-o-razmere-i-ob-istochnikakh-dokhodov-imushchestve-kandidata-i-svedeniya-o-raskhodakh-kandi.php",
+      "title": "Сведения о размере и об источниках доходов, имуществе кандидатов и сведения о расходах кандидатов",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/Kandidaty/svedeniya-o-razmere-i-ob-istochnikakh-dokhodov-imushchestve-kandidata-i-svedeniya-o-raskhodakh-kandi.php",
+        "requestKey": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/Kandidaty/svedeniya-o-razmere-i-ob-istochnikakh-dokhodov-imushchestve-kandidata-i-svedeniya-o-raskhodakh-kandi.php",
+        "retrievedAt": "2026-09-04T03:48:34.503301+00:00",
+        "status": 200,
+        "sha256": "04352c738c171360f5e49459d9d89269fba4fd04700371521668f7e4b2702efd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/postanovleniya/index.php",
+      "title": "Постановления",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/postanovleniya/index.php",
+        "requestKey": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/postanovleniya/index.php",
+        "retrievedAt": "2026-09-04T03:48:35.971626+00:00",
+        "status": 200,
+        "sha256": "e1fe4f0108343d6c11d8c9fdae1dda2e1f8b1b91356b3327a0135ec700d4c67e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/Inf_obesp/index.php",
+      "title": "Информационное обеспечение",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/Inf_obesp/index.php",
+        "requestKey": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/Inf_obesp/index.php",
+        "retrievedAt": "2026-09-04T03:48:36.575892+00:00",
+        "status": 200,
+        "sha256": "a26af4a3cd4e4690e7ade1076f2cf4d8cbed44ed6abd008618f17a234b1f6111",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/informaciya_for_uchastnikov/index.php",
+      "title": "Информация для участников избирательного процесса",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/informaciya_for_uchastnikov/index.php",
+        "requestKey": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/informaciya_for_uchastnikov/index.php",
+        "retrievedAt": "2026-09-04T03:48:37.172728+00:00",
+        "status": 200,
+        "sha256": "a899042329bd1f83fc16a2648066d372fc78dcabbb1f3f6a4693be7db61afee0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/AkredSmi/index.php",
+      "title": "Аккредитация СМИ",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/AkredSmi/index.php",
+        "requestKey": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/AkredSmi/index.php",
+        "retrievedAt": "2026-09-04T03:48:37.966725+00:00",
+        "status": 200,
+        "sha256": "4cacab9c78bc8492c78abf5fe5cdeb2883010b8e5586685a4d9c65b1a3f93f46",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/finasirovanie_vib/index.php",
+      "title": "Финансирование выборов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/finasirovanie_vib/index.php",
+        "requestKey": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/finasirovanie_vib/index.php",
+        "retrievedAt": "2026-09-04T03:48:38.603365+00:00",
+        "status": 200,
+        "sha256": "4e24f1b02127c996732fa0f370b592a52f5c9161ef48e3551f875dc8d45e8dcf",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/Kandidaty/index.php",
+      "title": "Сведения о кандидатах",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/Kandidaty/index.php",
+        "requestKey": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/Kandidaty/index.php",
+        "retrievedAt": "2026-09-04T03:48:39.342021+00:00",
+        "status": 200,
+        "sha256": "11bfcc0439e8dab2aa21b41059a254089e7bb6ca2228636ec974fd1d3d03091d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/postanovleniya/index.php?PAGEN_1=2",
+      "title": "Постановления",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/postanovleniya/index.php?PAGEN_1=2",
+        "requestKey": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/postanovleniya/index.php?PAGEN_1=2",
+        "retrievedAt": "2026-09-04T03:48:40.053210+00:00",
+        "status": 200,
+        "sha256": "24b39b7e4322bfe792c81baaee07604a22ea112d5595b994c0fe608bacb9c717",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/postanovleniya/index.php?PAGEN_1=3",
+      "title": "Постановления",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/postanovleniya/index.php?PAGEN_1=3",
+        "requestKey": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/postanovleniya/index.php?PAGEN_1=3",
+        "retrievedAt": "2026-09-04T03:48:40.727536+00:00",
+        "status": 200,
+        "sha256": "e488ceaf611b2f5abf2808cc84bf86cef3941373a834aeec836331a13711d8f2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/postanovleniya/index.php?PAGEN_1=4",
+      "title": "Постановления",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/postanovleniya/index.php?PAGEN_1=4",
+        "requestKey": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/postanovleniya/index.php?PAGEN_1=4",
+        "retrievedAt": "2026-09-04T03:48:41.473017+00:00",
+        "status": 200,
+        "sha256": "f09476c498ca0baf2bb3de531e4b24e8510db63beb401140562105f7a3369a3f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/postanovleniya/index.php?SHOWALL_1=1",
+      "title": "Постановления",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/postanovleniya/index.php?SHOWALL_1=1",
+        "requestKey": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/postanovleniya/index.php?SHOWALL_1=1",
+        "retrievedAt": "2026-09-04T03:48:42.175345+00:00",
+        "status": 200,
+        "sha256": "a71e72ad3e11e37ea9517a44b75ac7b8c421767c0d26f8766510a3dfb18cf9d0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/Inf_obesp/uvedomlenie-dlya-organizatsiy-osushchestvlyayushchikh-vypusk-sredstv-massovoy-informatsii-i-redaktsi.php",
+      "title": "Уведомление для организаций, осуществляющих выпуск средств массовой информации и редакций сетевых изданий",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/Inf_obesp/uvedomlenie-dlya-organizatsiy-osushchestvlyayushchikh-vypusk-sredstv-massovoy-informatsii-i-redaktsi.php",
+        "requestKey": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/Inf_obesp/uvedomlenie-dlya-organizatsiy-osushchestvlyayushchikh-vypusk-sredstv-massovoy-informatsii-i-redaktsi.php",
+        "retrievedAt": "2026-09-04T03:48:42.824137+00:00",
+        "status": 200,
+        "sha256": "d28272edf274208087aa9c7aa6daeae91ecf040a926414e5597808b88a3820bf",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/finasirovanie_vib/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-izbiratelnykh-obedineniy-kandidatov-i-raskhodov.php",
+      "title": "Сведения о поступлении средств в избирательные фонды избирательных объединений/кандидатов и расходовании этих средств",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/finasirovanie_vib/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-izbiratelnykh-obedineniy-kandidatov-i-raskhodov.php",
+        "requestKey": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/finasirovanie_vib/svedeniya-o-postuplenii-sredstv-v-izbiratelnye-fondy-izbiratelnykh-obedineniy-kandidatov-i-raskhodov.php",
+        "retrievedAt": "2026-09-04T03:48:43.528509+00:00",
+        "status": 200,
+        "sha256": "efa8bc1dd65bcad6cc0455ece291121ce1c6da0fb612809738fc9abf074a80fe",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/postanovleniya/index.php?SHOWALL_1=0",
+      "title": "Постановления",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/postanovleniya/index.php?SHOWALL_1=0",
+        "requestKey": "http://permkrai.izbirkom.ru/vybory-i-referendumy/federalnye/GosDuma_20092026/postanovleniya/index.php?SHOWALL_1=0",
+        "retrievedAt": "2026-09-04T03:48:44.422139+00:00",
+        "status": 200,
+        "sha256": "e1fe4f0108343d6c11d8c9fdae1dda2e1f8b1b91356b3327a0135ec700d4c67e",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

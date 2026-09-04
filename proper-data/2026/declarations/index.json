@@ -1,0 +1,1616 @@
+{
+  "schemaVersion": 1,
+  "reportType": 77,
+  "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+  "retrievedAt": "2026-09-04T02:36:44.628743+00:00",
+  "listingSources": [
+    {
+      "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/search",
+      "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/search#request-sha256=b2859ae7d988937e3791328dd0bfd79748118458326c3070a5d40c06092a010d",
+      "retrievedAt": "2026-09-04T02:36:11.657471+00:00",
+      "sha256": "163c054ebd445e2bd2d55d3098578e6401fbf9c374038ff178bcaf77c5bd6e46",
+      "status": 200,
+      "provenance": "live-official"
+    }
+  ],
+  "officialCount": 59,
+  "downloadedCount": 59,
+  "failedCount": 0,
+  "complete": true,
+  "failures": [],
+  "declarations": [
+    {
+      "reportId": "00a5f766-98c6-4490-b5d1-14c819b3c778",
+      "financialReportId": "a191411d-07b4-4ec3-a448-15c40722b921",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Грибач Константин Витальевич 12.08.2026.PDF",
+      "uploadTime": "2026-08-14T11:12:39+03:00",
+      "createdAt": "2026-08-14T08:12:43.248096Z",
+      "archive": {
+        "byteLength": 81282,
+        "sha256": "4b504f496b40d1938a02890af512fa480f2a9a062eb2304d1e9120efa5a4771d",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=a191411d-07b4-4ec3-a448-15c40722b921",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=a191411d-07b4-4ec3-a448-15c40722b921",
+          "retrievedAt": "2026-09-04T02:36:18.535231+00:00",
+          "sha256": "4b504f496b40d1938a02890af512fa480f2a9a062eb2304d1e9120efa5a4771d",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/a191411d-07b4-4ec3-a448-15c40722b921/Грибач Константин Витальевич 12.08.2026.PDF",
+        "byteLength": 85240,
+        "sha256": "39778ead26b042efc4b9e53139d053a877139573c70634233c501be65c43060d"
+      }
+    },
+    {
+      "reportId": "d030024c-f063-4f7f-bfea-531525aceed3",
+      "financialReportId": "94cdf982-db04-4934-9937-7a89e7cf826f",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Лисовский Сергей Анатольевич 12.08.2026.PDF",
+      "uploadTime": "2026-08-14T11:11:56+03:00",
+      "createdAt": "2026-08-14T08:11:59.250847Z",
+      "archive": {
+        "byteLength": 86278,
+        "sha256": "521f0d42f1a84bc9b3e5d0062fbe005042cd05847f26d5cf34fd92fb07a0478f",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=94cdf982-db04-4934-9937-7a89e7cf826f",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=94cdf982-db04-4934-9937-7a89e7cf826f",
+          "retrievedAt": "2026-09-04T02:36:18.036781+00:00",
+          "sha256": "521f0d42f1a84bc9b3e5d0062fbe005042cd05847f26d5cf34fd92fb07a0478f",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/94cdf982-db04-4934-9937-7a89e7cf826f/Лисовский Сергей Анатольевич 12.08.2026.PDF",
+        "byteLength": 90259,
+        "sha256": "39857e4d60bca00838208b15f5c82dbd024b8217750dc003eb7be999416bc7fe"
+      }
+    },
+    {
+      "reportId": "36a8bfe9-bf3d-47a6-87c9-fd84d7d9bc15",
+      "financialReportId": "adba6a13-acf2-4d8f-bdbc-77c202d0a7a5",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Подольская Наталья Геннадьевна 12.08.2026.PDF",
+      "uploadTime": "2026-08-14T11:11:23+03:00",
+      "createdAt": "2026-08-14T08:11:26.628049Z",
+      "archive": {
+        "byteLength": 90813,
+        "sha256": "b9f5c231899683e768a106614e8785107c6ae21ad7fe5ae640fd8b8c2dbb70bb",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=adba6a13-acf2-4d8f-bdbc-77c202d0a7a5",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=adba6a13-acf2-4d8f-bdbc-77c202d0a7a5",
+          "retrievedAt": "2026-09-04T02:36:18.119114+00:00",
+          "sha256": "b9f5c231899683e768a106614e8785107c6ae21ad7fe5ae640fd8b8c2dbb70bb",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/adba6a13-acf2-4d8f-bdbc-77c202d0a7a5/Подольская Наталья Геннадьевна 12.08.2026.PDF",
+        "byteLength": 94768,
+        "sha256": "b7bc6a1ab274861edb2d0777be76208ff9b673463d363ca83773488d473b3428"
+      }
+    },
+    {
+      "reportId": "2a1b6739-3e8a-4da3-b4a2-e9ce5afb5ed1",
+      "financialReportId": "d5b7ffc8-57e4-4853-ac6a-304b146c4cda",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Разина Виктория Юрьевна 12.08.2026.PDF",
+      "uploadTime": "2026-08-14T11:10:38+03:00",
+      "createdAt": "2026-08-14T08:10:42.885806Z",
+      "archive": {
+        "byteLength": 82695,
+        "sha256": "0f5e0a2dcdec3b94a9f0b50a45baf8c9314f4a6e5c5c2460de26da37360e0bb3",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=d5b7ffc8-57e4-4853-ac6a-304b146c4cda",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=d5b7ffc8-57e4-4853-ac6a-304b146c4cda",
+          "retrievedAt": "2026-09-04T02:36:18.220927+00:00",
+          "sha256": "0f5e0a2dcdec3b94a9f0b50a45baf8c9314f4a6e5c5c2460de26da37360e0bb3",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/d5b7ffc8-57e4-4853-ac6a-304b146c4cda/Разина Виктория Юрьевна 12.08.2026.PDF",
+        "byteLength": 86666,
+        "sha256": "7d937054ae50354fcf68bead75f640f1f233e7f9d177d385d6208ecb1ea6fc12"
+      }
+    },
+    {
+      "reportId": "5b871887-d20e-4a20-a17d-87a935f7a8c2",
+      "financialReportId": "73fdeaff-4da2-4388-92f9-75297a0f3595",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Сахаров Александр Викторович 12.08.2026.PDF",
+      "uploadTime": "2026-08-14T11:10:09+03:00",
+      "createdAt": "2026-08-14T08:10:12.769798Z",
+      "archive": {
+        "byteLength": 80410,
+        "sha256": "e1efb5ff3e042be5e68d1e2945e24ce189c5976a9d5dee8bab2badd95c422939",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=73fdeaff-4da2-4388-92f9-75297a0f3595",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=73fdeaff-4da2-4388-92f9-75297a0f3595",
+          "retrievedAt": "2026-09-04T02:36:18.739227+00:00",
+          "sha256": "e1efb5ff3e042be5e68d1e2945e24ce189c5976a9d5dee8bab2badd95c422939",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/73fdeaff-4da2-4388-92f9-75297a0f3595/Сахаров Александр Викторович 12.08.2026.PDF",
+        "byteLength": 84431,
+        "sha256": "7f14ae4af18208a59b62c93954f8551b4cf27c4af3346ced98ce4f463fe33591"
+      }
+    },
+    {
+      "reportId": "6f0dbe83-9a01-45ab-b492-b40731a023c7",
+      "financialReportId": "be2df8ef-18b7-4420-934d-4b76b2a32f03",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "00",
+      "fileName": "Королев Павел Владимирович 26.07.2026.XLSX",
+      "uploadTime": "2026-08-09T12:41:10+03:00",
+      "createdAt": "2026-08-09T09:41:13.898066Z",
+      "archive": {
+        "byteLength": 10606,
+        "sha256": "95e99ed2cb4cb7fc342c895f4606a68c8806889cd045c2b591f41eaffc856a9f",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=be2df8ef-18b7-4420-934d-4b76b2a32f03",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=be2df8ef-18b7-4420-934d-4b76b2a32f03",
+          "retrievedAt": "2026-09-04T02:36:18.242887+00:00",
+          "sha256": "95e99ed2cb4cb7fc342c895f4606a68c8806889cd045c2b591f41eaffc856a9f",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/be2df8ef-18b7-4420-934d-4b76b2a32f03/Королев Павел Владимирович 26.07.2026.XLSX",
+        "byteLength": 12102,
+        "sha256": "82eea4d7ee69c008d0c47c71a220f85354623e9abbcaf20957740a07ce4584d7"
+      }
+    },
+    {
+      "reportId": "5328500b-0681-4bc6-88e2-4e98bcd56da8",
+      "financialReportId": "36cf7f87-e544-4d84-8105-04b1438829d4",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "29",
+      "fileName": "Каракин Андрей Евгеньевич 07.08.2026.PDF",
+      "uploadTime": "2026-08-08T11:52:05+03:00",
+      "createdAt": "2026-08-08T08:52:14.205139Z",
+      "archive": {
+        "byteLength": 83926,
+        "sha256": "9109939ba181b821aaf2d869c3c19fb30af27350f3e95b42efe42538db6c5205",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=36cf7f87-e544-4d84-8105-04b1438829d4",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=36cf7f87-e544-4d84-8105-04b1438829d4",
+          "retrievedAt": "2026-09-04T02:36:18.651788+00:00",
+          "sha256": "9109939ba181b821aaf2d869c3c19fb30af27350f3e95b42efe42538db6c5205",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/36cf7f87-e544-4d84-8105-04b1438829d4/Каракин Андрей Евгеньевич 07.08.2026.PDF",
+        "byteLength": 89354,
+        "sha256": "889b67c47e85267da37632c03137edbefac4175aa4e07b261d861be605620073"
+      }
+    },
+    {
+      "reportId": "a9ffd9a8-a5a8-4c91-b854-cfda9424936a",
+      "financialReportId": "01371852-0fea-48e1-bba3-226a825a321e",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "29",
+      "fileName": "Кислов Владимир Александрович 07.08.2026.PDF",
+      "uploadTime": "2026-08-08T11:51:45+03:00",
+      "createdAt": "2026-08-08T08:51:54.186797Z",
+      "archive": {
+        "byteLength": 84997,
+        "sha256": "eebf4f2b3ca93034cdce696fd08767f32f319f58bd8a5da1379d52796c5daa91",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=01371852-0fea-48e1-bba3-226a825a321e",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=01371852-0fea-48e1-bba3-226a825a321e",
+          "retrievedAt": "2026-09-04T02:36:18.431006+00:00",
+          "sha256": "eebf4f2b3ca93034cdce696fd08767f32f319f58bd8a5da1379d52796c5daa91",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/01371852-0fea-48e1-bba3-226a825a321e/Кислов Владимир Александрович 07.08.2026.PDF",
+        "byteLength": 90445,
+        "sha256": "14b614eef4a969ccae32a6780d3e928b9308bd1af8f9a44021238a5e456d25e0"
+      }
+    },
+    {
+      "reportId": "8466cbff-1131-4067-abce-5ab17a2e6558",
+      "financialReportId": "7ac0634c-8239-444a-b149-f9d127086523",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "29",
+      "fileName": "Лаптев Вадим Геннадьевич 07.08.2026.PDF",
+      "uploadTime": "2026-08-08T11:51:21+03:00",
+      "createdAt": "2026-08-08T08:51:24.1555Z",
+      "archive": {
+        "byteLength": 74218,
+        "sha256": "9ae742b168289e8f6a5183bfd9ad69045c640189a02acbb5d276ce44c5c363d8",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=7ac0634c-8239-444a-b149-f9d127086523",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=7ac0634c-8239-444a-b149-f9d127086523",
+          "retrievedAt": "2026-09-04T02:36:18.868344+00:00",
+          "sha256": "9ae742b168289e8f6a5183bfd9ad69045c640189a02acbb5d276ce44c5c363d8",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/7ac0634c-8239-444a-b149-f9d127086523/Лаптев Вадим Геннадьевич 07.08.2026.PDF",
+        "byteLength": 78595,
+        "sha256": "bb52dd861d0d42f24ccd30db0a5d858afe69501b340e9d5642752479a2c64f2f"
+      }
+    },
+    {
+      "reportId": "87fe9bf1-d735-42d4-b7c9-de73b1bc62db",
+      "financialReportId": "280d446b-1f22-4012-87ad-4bee6f417faf",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "29",
+      "fileName": "Тихонов Виктор Николаевич 07.08.2026.PDF",
+      "uploadTime": "2026-08-08T11:50:40+03:00",
+      "createdAt": "2026-08-08T08:50:44.092319Z",
+      "archive": {
+        "byteLength": 76124,
+        "sha256": "a91a40a2c641d2423db3d9f15daaddf64dcc1f4ab24270f40f7bd289cd6f1277",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=280d446b-1f22-4012-87ad-4bee6f417faf",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=280d446b-1f22-4012-87ad-4bee6f417faf",
+          "retrievedAt": "2026-09-04T02:36:18.938143+00:00",
+          "sha256": "a91a40a2c641d2423db3d9f15daaddf64dcc1f4ab24270f40f7bd289cd6f1277",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/280d446b-1f22-4012-87ad-4bee6f417faf/Тихонов Виктор Николаевич 07.08.2026.PDF",
+        "byteLength": 80435,
+        "sha256": "951105a206015041ae87985e54a2f138a41b90a42365ee97651108258cf7e82c"
+      }
+    },
+    {
+      "reportId": "de735e11-3e68-4c21-8a94-7c8df157afcb",
+      "financialReportId": "16898e4f-94c6-4073-ad36-cec7189c9e95",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "00",
+      "fileName": "Гончаров Артем Сергеевич 07.08.2026.XLSX",
+      "uploadTime": "2026-08-07T15:42:08+03:00",
+      "createdAt": "2026-08-07T12:42:17.928214Z",
+      "archive": {
+        "byteLength": 11344,
+        "sha256": "a7e0f37aaadbbed592699b2dca2c6c20979b03f773281ba1ca829b793f64cd64",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=16898e4f-94c6-4073-ad36-cec7189c9e95",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=16898e4f-94c6-4073-ad36-cec7189c9e95",
+          "retrievedAt": "2026-09-04T02:36:18.955298+00:00",
+          "sha256": "a7e0f37aaadbbed592699b2dca2c6c20979b03f773281ba1ca829b793f64cd64",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/16898e4f-94c6-4073-ad36-cec7189c9e95/Гончаров Артем Сергеевич 07.08.2026.XLSX",
+        "byteLength": 12882,
+        "sha256": "03ee54b57678b8e44c48d67944c7d9db11202ce657e6fd44bf87ce0481345466"
+      }
+    },
+    {
+      "reportId": "1367cea9-2a42-4fdb-9462-639002e00514",
+      "financialReportId": "aafe7eae-c7e2-4e15-97cd-be0d889f8f07",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "29",
+      "fileName": "Пискунов Максим Владимирович 05.08.2026.PDF",
+      "uploadTime": "2026-08-06T12:31:36+03:00",
+      "createdAt": "2026-08-06T09:31:42.1106Z",
+      "archive": {
+        "byteLength": 66750,
+        "sha256": "03ddf6f00312f0d25831aee9168c1853f199f3c41398bb7237dabf3246873008",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=aafe7eae-c7e2-4e15-97cd-be0d889f8f07",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=aafe7eae-c7e2-4e15-97cd-be0d889f8f07",
+          "retrievedAt": "2026-09-04T02:36:19.191151+00:00",
+          "sha256": "03ddf6f00312f0d25831aee9168c1853f199f3c41398bb7237dabf3246873008",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/aafe7eae-c7e2-4e15-97cd-be0d889f8f07/Пискунов Максим Владимирович 05.08.2026.PDF",
+        "byteLength": 71188,
+        "sha256": "a4c91689cf6495e045a6bff6368c8925b513bfcf045e449e48a01f2696c49c7c"
+      }
+    },
+    {
+      "reportId": "5533d949-61e3-4c6b-8071-9df5c36c5277",
+      "financialReportId": "34d5832e-c34c-4ffd-8cf2-b1d6713bb84b",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "70",
+      "fileName": "Чолахян Владимир Тамазович 26.07.2026.PDF",
+      "uploadTime": "2026-08-06T08:32:26+03:00",
+      "createdAt": "2026-08-06T05:32:28.780884Z",
+      "archive": {
+        "byteLength": 38870,
+        "sha256": "16f7d4c73ff4050175ab194bbe3f9bc3b38a5a0c4d5c9358a0aed1b7c9ac66a8",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=34d5832e-c34c-4ffd-8cf2-b1d6713bb84b",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=34d5832e-c34c-4ffd-8cf2-b1d6713bb84b",
+          "retrievedAt": "2026-09-04T02:36:19.203933+00:00",
+          "sha256": "16f7d4c73ff4050175ab194bbe3f9bc3b38a5a0c4d5c9358a0aed1b7c9ac66a8",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/34d5832e-c34c-4ffd-8cf2-b1d6713bb84b/Чолахян Владимир Тамазович 26.07.2026.PDF",
+        "byteLength": 45331,
+        "sha256": "f6978d2a66f001e74242798a71c36627df723505d85dfd63897df7fd503b74e7"
+      }
+    },
+    {
+      "reportId": "dbf5a491-5c02-42c4-9f95-094b312a753b",
+      "financialReportId": "343a7384-dbcf-4e83-87c5-1968e6efe659",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "70",
+      "fileName": "Терехов Леонид Леонидович 26.07.2026.PDF",
+      "uploadTime": "2026-08-06T08:32:02+03:00",
+      "createdAt": "2026-08-06T05:32:07.452995Z",
+      "archive": {
+        "byteLength": 38761,
+        "sha256": "fe811f90f86c2740d59dac6600f8a263eecafb671dd1859d89b899835229b5db",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=343a7384-dbcf-4e83-87c5-1968e6efe659",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=343a7384-dbcf-4e83-87c5-1968e6efe659",
+          "retrievedAt": "2026-09-04T02:36:19.306042+00:00",
+          "sha256": "fe811f90f86c2740d59dac6600f8a263eecafb671dd1859d89b899835229b5db",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/343a7384-dbcf-4e83-87c5-1968e6efe659/Терехов Леонид Леонидович 26.07.2026.PDF",
+        "byteLength": 45255,
+        "sha256": "8983551a71a3269e8b27fdcf182e3dc33b63e11c47c393d09f7c914e48f4bd41"
+      }
+    },
+    {
+      "reportId": "c1fa612e-be6a-441d-ae0f-37cd23901c82",
+      "financialReportId": "67f3d950-470f-4fe1-a2ff-357e0b36fe9d",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "70",
+      "fileName": "Немцева Галина Григорьевна 26.07.2026.PDF",
+      "uploadTime": "2026-08-06T08:31:42+03:00",
+      "createdAt": "2026-08-06T05:31:47.415708Z",
+      "archive": {
+        "byteLength": 38525,
+        "sha256": "79fbf20510f6ea6e72cc191a68c34cf8e5445cebead8e7819f110e988b1df88a",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=67f3d950-470f-4fe1-a2ff-357e0b36fe9d",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=67f3d950-470f-4fe1-a2ff-357e0b36fe9d",
+          "retrievedAt": "2026-09-04T02:36:19.446845+00:00",
+          "sha256": "79fbf20510f6ea6e72cc191a68c34cf8e5445cebead8e7819f110e988b1df88a",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/67f3d950-470f-4fe1-a2ff-357e0b36fe9d/Немцева Галина Григорьевна 26.07.2026.PDF",
+        "byteLength": 45000,
+        "sha256": "350b12fb64415bc779610af57384ed76308b59d096cc206c7e0db12af7ac36d3"
+      }
+    },
+    {
+      "reportId": "8ae13ed2-1dab-45c5-89e1-1f9549995898",
+      "financialReportId": "7778d48b-570d-49e6-9006-6e571d8477cd",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "70",
+      "fileName": "Леонтьев Илья Алексеевич 26.07.2026.PDF",
+      "uploadTime": "2026-08-06T08:31:24+03:00",
+      "createdAt": "2026-08-06T05:31:27.350158Z",
+      "archive": {
+        "byteLength": 40904,
+        "sha256": "d586209c915102848b1a6bb96220ddd733e74506ad5e61c84afb792d5200f3c7",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=7778d48b-570d-49e6-9006-6e571d8477cd",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=7778d48b-570d-49e6-9006-6e571d8477cd",
+          "retrievedAt": "2026-09-04T02:36:19.522126+00:00",
+          "sha256": "d586209c915102848b1a6bb96220ddd733e74506ad5e61c84afb792d5200f3c7",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/7778d48b-570d-49e6-9006-6e571d8477cd/Леонтьев Илья Алексеевич 26.07.2026.PDF",
+        "byteLength": 47418,
+        "sha256": "7c145b7f2d9ac760424aad8e70d4aa57675c5a6fe136ec1aedf77b4d3a44a257"
+      }
+    },
+    {
+      "reportId": "b3c3cf4e-ecac-4115-bee4-9c0143a64572",
+      "financialReportId": "df63e270-b0d1-42d6-af86-9f9e799ee191",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "70",
+      "fileName": "Кухальский Сергей Борисович 26.07.2026.PDF",
+      "uploadTime": "2026-08-06T08:30:57+03:00",
+      "createdAt": "2026-08-06T05:31:06.92767Z",
+      "archive": {
+        "byteLength": 40163,
+        "sha256": "0021c9fd0437285d9bfc9f788442d481cbb8173a5123f437615e6abeff4c6109",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=df63e270-b0d1-42d6-af86-9f9e799ee191",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=df63e270-b0d1-42d6-af86-9f9e799ee191",
+          "retrievedAt": "2026-09-04T02:36:19.629256+00:00",
+          "sha256": "0021c9fd0437285d9bfc9f788442d481cbb8173a5123f437615e6abeff4c6109",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/df63e270-b0d1-42d6-af86-9f9e799ee191/Кухальский Сергей Борисович 26.07.2026.PDF",
+        "byteLength": 46644,
+        "sha256": "ca7c1534c044a44847f85424c1d7624e00e5b0e1d05fcd49a4ff7b8f46c6adf1"
+      }
+    },
+    {
+      "reportId": "4427094e-a204-4c21-9ebb-2be499e31c03",
+      "financialReportId": "7891e652-eedc-49a6-9343-f478f35e21d8",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "70",
+      "fileName": "Ерёмин Василий Васильевич 26.07.2026.PDF",
+      "uploadTime": "2026-08-06T08:30:38+03:00",
+      "createdAt": "2026-08-06T05:30:45.309098Z",
+      "archive": {
+        "byteLength": 40038,
+        "sha256": "8b97ef208340ac58e7b2e610ee792a2072629327b733dc52e6d67364b14ac4a0",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=7891e652-eedc-49a6-9343-f478f35e21d8",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=7891e652-eedc-49a6-9343-f478f35e21d8",
+          "retrievedAt": "2026-09-04T02:36:19.746636+00:00",
+          "sha256": "8b97ef208340ac58e7b2e610ee792a2072629327b733dc52e6d67364b14ac4a0",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/7891e652-eedc-49a6-9343-f478f35e21d8/Ерёмин Василий Васильевич 26.07.2026.PDF",
+        "byteLength": 46551,
+        "sha256": "bbafadcdff0749295e1b8b6e3cf7fb5833cb8ab046e1f011350a31f498aa7881"
+      }
+    },
+    {
+      "reportId": "94158dff-5d65-4220-b1e7-847ecdf1e877",
+      "financialReportId": "2cf89083-a331-4047-9b38-d165379f5191",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "00",
+      "fileName": "Васильев Владимир Абдуалиевич 05.08.2026.XLSX",
+      "uploadTime": "2026-08-05T17:32:17+03:00",
+      "createdAt": "2026-08-05T14:32:22.734484Z",
+      "archive": {
+        "byteLength": 11415,
+        "sha256": "b85ef82fca58203eead8f8dc7e4931cf9ef129dd9ee82cdf13ffbbbd519180da",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=2cf89083-a331-4047-9b38-d165379f5191",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=2cf89083-a331-4047-9b38-d165379f5191",
+          "retrievedAt": "2026-09-04T02:36:19.781210+00:00",
+          "sha256": "b85ef82fca58203eead8f8dc7e4931cf9ef129dd9ee82cdf13ffbbbd519180da",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/2cf89083-a331-4047-9b38-d165379f5191/Васильев Владимир Абдуалиевич 05.08.2026.XLSX",
+        "byteLength": 12971,
+        "sha256": "0e89d791b2b4d1230c34cfeb68ee287f09efb99e55389613412558b18dbc15fd"
+      }
+    },
+    {
+      "reportId": "d4f7285c-0fef-41ee-815e-e2fe4ea13f19",
+      "financialReportId": "94aa885f-15de-4c98-b80e-de64790ca5ba",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "29",
+      "fileName": "Виривский Владислав Дмитриевич 31.07.2026.PDF",
+      "uploadTime": "2026-07-31T18:19:14+03:00",
+      "createdAt": "2026-07-31T15:19:20.306048Z",
+      "archive": {
+        "byteLength": 64537,
+        "sha256": "4ae07edf3376465ca0dcf093375cf93badbe4051060b7f59f7c6cb14a7ac9dd9",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=94aa885f-15de-4c98-b80e-de64790ca5ba",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=94aa885f-15de-4c98-b80e-de64790ca5ba",
+          "retrievedAt": "2026-09-04T02:36:19.994231+00:00",
+          "sha256": "4ae07edf3376465ca0dcf093375cf93badbe4051060b7f59f7c6cb14a7ac9dd9",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/94aa885f-15de-4c98-b80e-de64790ca5ba/Виривский Владислав Дмитриевич 31.07.2026.PDF",
+        "byteLength": 67489,
+        "sha256": "1f316294f1555d8a6bd131bf74ec9767487b4776d5f6edb43c0f868f13bc5f3e"
+      }
+    },
+    {
+      "reportId": "07eec62b-e454-4a6e-bb0e-a230982a4194",
+      "financialReportId": "3ecce80b-cf72-44f2-93cf-93b171b8b9ae",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "29",
+      "fileName": "Арсентьев Игорь Валентинович 31.07.2026.PDF",
+      "uploadTime": "2026-07-31T18:18:54+03:00",
+      "createdAt": "2026-07-31T15:19:00.220905Z",
+      "archive": {
+        "byteLength": 66236,
+        "sha256": "82ee7b1c5db633e9752e3253e7c6566e665e646b292c6619718ed24601a309c6",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=3ecce80b-cf72-44f2-93cf-93b171b8b9ae",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=3ecce80b-cf72-44f2-93cf-93b171b8b9ae",
+          "retrievedAt": "2026-09-04T02:36:20.097063+00:00",
+          "sha256": "82ee7b1c5db633e9752e3253e7c6566e665e646b292c6619718ed24601a309c6",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/3ecce80b-cf72-44f2-93cf-93b171b8b9ae/Арсентьев Игорь Валентинович 31.07.2026.PDF",
+        "byteLength": 69200,
+        "sha256": "dd3b4011dc37b6dfbc9fd3cb91fbe03c0466554a99f46e1db421d271b966a7ae"
+      }
+    },
+    {
+      "reportId": "cef9ee44-6b56-4de8-a0d3-d21fb3a87249",
+      "financialReportId": "ed01f65a-79d7-4fda-870e-32e2880950ed",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "29",
+      "fileName": "Пронин Павел Борисович 31.07.2026.PDF",
+      "uploadTime": "2026-07-31T18:18:16+03:00",
+      "createdAt": "2026-07-31T15:18:20.085014Z",
+      "archive": {
+        "byteLength": 65100,
+        "sha256": "151a587069c303427248774cf2390a3926dc5b5b48d6f9a46399ea3fa3cc6a38",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=ed01f65a-79d7-4fda-870e-32e2880950ed",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=ed01f65a-79d7-4fda-870e-32e2880950ed",
+          "retrievedAt": "2026-09-04T02:36:20.222482+00:00",
+          "sha256": "151a587069c303427248774cf2390a3926dc5b5b48d6f9a46399ea3fa3cc6a38",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/ed01f65a-79d7-4fda-870e-32e2880950ed/Пронин Павел Борисович 31.07.2026.PDF",
+        "byteLength": 68339,
+        "sha256": "b6ed32c74c94e55513415c7fc785fcd4554516ef553325178948ea4451a8d468"
+      }
+    },
+    {
+      "reportId": "6dce21cd-14ea-4dba-a41a-70923e0d4978",
+      "financialReportId": "b992c689-7a6b-4c26-b63a-41a8c0537592",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Мироненков Владислав Борисович 30.07.2026.PDF",
+      "uploadTime": "2026-07-31T15:21:37+03:00",
+      "createdAt": "2026-07-31T12:21:43.023912Z",
+      "archive": {
+        "byteLength": 92192,
+        "sha256": "cb49857aa6a270f6c0b60f838161a0ef07aa007264ce44134ffe38a53a55c336",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=b992c689-7a6b-4c26-b63a-41a8c0537592",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=b992c689-7a6b-4c26-b63a-41a8c0537592",
+          "retrievedAt": "2026-09-04T02:36:20.411631+00:00",
+          "sha256": "cb49857aa6a270f6c0b60f838161a0ef07aa007264ce44134ffe38a53a55c336",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/b992c689-7a6b-4c26-b63a-41a8c0537592/Мироненков Владислав Борисович 30.07.2026.PDF",
+        "byteLength": 96129,
+        "sha256": "a4ada00ade93ff6fc03eeefa379a84a5a4fb91e0ca79ff473f8bfc095e98ca97"
+      }
+    },
+    {
+      "reportId": "44b0fc31-9e64-48c4-9d43-ecb65ee14384",
+      "financialReportId": "20dcb7cc-cf64-4790-bacc-ad30dc72dddc",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Мачитидзе Тимур Амиранович 30.07.2026.PDF",
+      "uploadTime": "2026-07-31T15:21:08+03:00",
+      "createdAt": "2026-07-31T12:21:12.729087Z",
+      "archive": {
+        "byteLength": 81963,
+        "sha256": "8c7256a75ebe6e2276f2dd12cc8ab7526411000ac6d87d96ac21a49cf14d7599",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=20dcb7cc-cf64-4790-bacc-ad30dc72dddc",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=20dcb7cc-cf64-4790-bacc-ad30dc72dddc",
+          "retrievedAt": "2026-09-04T02:36:20.416392+00:00",
+          "sha256": "8c7256a75ebe6e2276f2dd12cc8ab7526411000ac6d87d96ac21a49cf14d7599",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/20dcb7cc-cf64-4790-bacc-ad30dc72dddc/Мачитидзе Тимур Амиранович 30.07.2026.PDF",
+        "byteLength": 85944,
+        "sha256": "34d7c52bbf029bafb4215533b9c176f6bead989328e3f265f7f42527d35e169a"
+      }
+    },
+    {
+      "reportId": "0c99e38f-01e5-4508-b26f-6ee7e35839fd",
+      "financialReportId": "c57626e2-515b-4601-82e7-c9dd885e1fa0",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Костик Антон Владимирович 30.07.2026.PDF",
+      "uploadTime": "2026-07-31T15:20:34+03:00",
+      "createdAt": "2026-07-31T12:20:41.127149Z",
+      "archive": {
+        "byteLength": 90887,
+        "sha256": "9ce49162bed1aed6f585074acbc6ae117601e97797cf12240eaf0de62b678a9f",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=c57626e2-515b-4601-82e7-c9dd885e1fa0",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=c57626e2-515b-4601-82e7-c9dd885e1fa0",
+          "retrievedAt": "2026-09-04T02:36:20.539387+00:00",
+          "sha256": "9ce49162bed1aed6f585074acbc6ae117601e97797cf12240eaf0de62b678a9f",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/c57626e2-515b-4601-82e7-c9dd885e1fa0/Костик Антон Владимирович 30.07.2026.PDF",
+        "byteLength": 94871,
+        "sha256": "04a6575edca1e451bdfde02e17ffbfbe9c1947fa6d1bd5bbde89906e862825dc"
+      }
+    },
+    {
+      "reportId": "08d97507-7ac6-4916-b1de-f92b107d11db",
+      "financialReportId": "c78f7aca-6737-46f9-8ec1-5d7402756b21",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Коваленко Валерия Анатольевна 30.07.2026.PDF",
+      "uploadTime": "2026-07-31T15:20:04+03:00",
+      "createdAt": "2026-07-31T12:20:11.03415Z",
+      "archive": {
+        "byteLength": 86702,
+        "sha256": "dc9944ade4d6e912e3aa699e0c5da45837639f0c1ae238f7d07dbe67416c7202",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=c78f7aca-6737-46f9-8ec1-5d7402756b21",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=c78f7aca-6737-46f9-8ec1-5d7402756b21",
+          "retrievedAt": "2026-09-04T02:36:20.618633+00:00",
+          "sha256": "dc9944ade4d6e912e3aa699e0c5da45837639f0c1ae238f7d07dbe67416c7202",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/c78f7aca-6737-46f9-8ec1-5d7402756b21/Коваленко Валерия Анатольевна 30.07.2026.PDF",
+        "byteLength": 90667,
+        "sha256": "813ca2ce63a93e189eed88ea92e5b2b309cbfea07378e6b4186b30591f5063be"
+      }
+    },
+    {
+      "reportId": "6b152792-a63b-4a46-a24f-7bbfc15afe2c",
+      "financialReportId": "7931f8e8-440a-4086-9605-f8408450eda3",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Каторгина Вероника Сергеевна 30.07.2026.PDF",
+      "uploadTime": "2026-07-31T15:19:33+03:00",
+      "createdAt": "2026-07-31T12:19:40.535075Z",
+      "archive": {
+        "byteLength": 84642,
+        "sha256": "448a5bf3ac12a35214a5ffc922e24ffae6a68c45bee854bf1175c91f46626fea",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=7931f8e8-440a-4086-9605-f8408450eda3",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=7931f8e8-440a-4086-9605-f8408450eda3",
+          "retrievedAt": "2026-09-04T02:36:20.729942+00:00",
+          "sha256": "448a5bf3ac12a35214a5ffc922e24ffae6a68c45bee854bf1175c91f46626fea",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/7931f8e8-440a-4086-9605-f8408450eda3/Каторгина Вероника Сергеевна 30.07.2026.PDF",
+        "byteLength": 88651,
+        "sha256": "f6c040ad6ace0235ae79cc9cc202b5bd2dd6b1b93019392fbc6676ced6f8d978"
+      }
+    },
+    {
+      "reportId": "4038f4ac-3bd6-4f1b-8e78-39cf9a025635",
+      "financialReportId": "a6c85078-04ba-4ac8-a131-212837bbc6ac",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Жданов Евгений Владимирович 30.07.2026.PDF",
+      "uploadTime": "2026-07-31T15:19:05+03:00",
+      "createdAt": "2026-07-31T12:19:10.350317Z",
+      "archive": {
+        "byteLength": 85894,
+        "sha256": "62c9c41952b4d65ab678b8c4ecbccc26e22c38d57e680252ca9ee8883c0a2ac3",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=a6c85078-04ba-4ac8-a131-212837bbc6ac",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=a6c85078-04ba-4ac8-a131-212837bbc6ac",
+          "retrievedAt": "2026-09-04T02:36:20.840347+00:00",
+          "sha256": "62c9c41952b4d65ab678b8c4ecbccc26e22c38d57e680252ca9ee8883c0a2ac3",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/a6c85078-04ba-4ac8-a131-212837bbc6ac/Жданов Евгений Владимирович 30.07.2026.PDF",
+        "byteLength": 89867,
+        "sha256": "cc06d700939c27d7ce76b5c4d823c158132de59b4d816b49c704d13b2c93cb46"
+      }
+    },
+    {
+      "reportId": "a84d071d-a866-4a90-9b70-e9f6cee87033",
+      "financialReportId": "726a9bb0-7cee-4de5-9c31-028921505622",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Гумеров Вячеслав Гарифович 30.07.2026.PDF",
+      "uploadTime": "2026-07-31T15:18:31+03:00",
+      "createdAt": "2026-07-31T12:18:40.084014Z",
+      "archive": {
+        "byteLength": 92856,
+        "sha256": "73f3886fffd6a7c33c274cae4e4c2aec9971825b6829b5a8e13cae9de6e88884",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=726a9bb0-7cee-4de5-9c31-028921505622",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=726a9bb0-7cee-4de5-9c31-028921505622",
+          "retrievedAt": "2026-09-04T02:36:20.941671+00:00",
+          "sha256": "73f3886fffd6a7c33c274cae4e4c2aec9971825b6829b5a8e13cae9de6e88884",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/726a9bb0-7cee-4de5-9c31-028921505622/Гумеров Вячеслав Гарифович 30.07.2026.PDF",
+        "byteLength": 96821,
+        "sha256": "a9a5f569dad99bf62ce5d233aa4f05649f70ba03bb2d1ac3c8ca24660fed93b9"
+      }
+    },
+    {
+      "reportId": "6c065357-4978-46e5-841e-c12661d643d1",
+      "financialReportId": "52107dc5-a801-475d-bbba-3386984462b7",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Яхнюк Сергей Васильевич 22.07.2026.PDF",
+      "uploadTime": "2026-07-30T13:30:29+03:00",
+      "createdAt": "2026-07-30T10:30:35.824447Z",
+      "archive": {
+        "byteLength": 92457,
+        "sha256": "f83bd3efc1592ceaf1fbbf9d6d01b6c4b28f7284c6abdc6c8d5476c16fa1b772",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=52107dc5-a801-475d-bbba-3386984462b7",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=52107dc5-a801-475d-bbba-3386984462b7",
+          "retrievedAt": "2026-09-04T02:36:21.051866+00:00",
+          "sha256": "f83bd3efc1592ceaf1fbbf9d6d01b6c4b28f7284c6abdc6c8d5476c16fa1b772",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/52107dc5-a801-475d-bbba-3386984462b7/Яхнюк Сергей Васильевич 22.07.2026.PDF",
+        "byteLength": 96450,
+        "sha256": "1e1bad270cd34814dfde4cfa3395e9b00c5553155c069cc1e7487a3068414375"
+      }
+    },
+    {
+      "reportId": "40ce3d19-7502-454d-bb6c-f8f6e441502f",
+      "financialReportId": "53cdad1c-61b7-4ebf-9cbd-a620f1c7a2ff",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Тирон Евгений Владимирович 22.07.2026.PDF",
+      "uploadTime": "2026-07-30T13:29:57+03:00",
+      "createdAt": "2026-07-30T10:30:05.776721Z",
+      "archive": {
+        "byteLength": 98312,
+        "sha256": "53dc49433d9f525e887ec2866b09aaa7234e2c7a8e235d79d71d12a77296fb28",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=53cdad1c-61b7-4ebf-9cbd-a620f1c7a2ff",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=53cdad1c-61b7-4ebf-9cbd-a620f1c7a2ff",
+          "retrievedAt": "2026-09-04T02:36:21.165153+00:00",
+          "sha256": "53dc49433d9f525e887ec2866b09aaa7234e2c7a8e235d79d71d12a77296fb28",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/53cdad1c-61b7-4ebf-9cbd-a620f1c7a2ff/Тирон Евгений Владимирович 22.07.2026.PDF",
+        "byteLength": 102276,
+        "sha256": "659b778fa2caec3ef464b660489dc4af3cbfd1f9dc449b17dd8a77d3825e8c44"
+      }
+    },
+    {
+      "reportId": "37e198a3-0f89-419e-b845-1e871643687c",
+      "financialReportId": "f5bd4de7-c0f5-4485-923c-939294755b03",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Садриев Семен Викторович 22.07.2026.PDF",
+      "uploadTime": "2026-07-30T13:29:28+03:00",
+      "createdAt": "2026-07-30T10:29:35.723462Z",
+      "archive": {
+        "byteLength": 85332,
+        "sha256": "ad38b180125d8809f31bea0fc66f52e33fd1f264ec6a673a20983d5e9aed5fe7",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=f5bd4de7-c0f5-4485-923c-939294755b03",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=f5bd4de7-c0f5-4485-923c-939294755b03",
+          "retrievedAt": "2026-09-04T02:36:21.262042+00:00",
+          "sha256": "ad38b180125d8809f31bea0fc66f52e33fd1f264ec6a673a20983d5e9aed5fe7",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/f5bd4de7-c0f5-4485-923c-939294755b03/Садриев Семен Викторович 22.07.2026.PDF",
+        "byteLength": 89362,
+        "sha256": "8b88086bbd8707afa92d2edfeef03465e04631db8e0f54edb74c665837db0bd1"
+      }
+    },
+    {
+      "reportId": "a066a71c-f402-4bc0-9639-257daf34370e",
+      "financialReportId": "e5fe4126-a5ba-466b-91ec-94ec7e1a8b56",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Рихтиков Игорь Николаевич 22.07.2026.PDF",
+      "uploadTime": "2026-07-30T13:29:01+03:00",
+      "createdAt": "2026-07-30T10:29:05.635428Z",
+      "archive": {
+        "byteLength": 92785,
+        "sha256": "0647e915bb1c729ec9c73c35f8b3acaf6ce79c29aded47c35d35c129e247741b",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=e5fe4126-a5ba-466b-91ec-94ec7e1a8b56",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=e5fe4126-a5ba-466b-91ec-94ec7e1a8b56",
+          "retrievedAt": "2026-09-04T02:36:21.359396+00:00",
+          "sha256": "0647e915bb1c729ec9c73c35f8b3acaf6ce79c29aded47c35d35c129e247741b",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/e5fe4126-a5ba-466b-91ec-94ec7e1a8b56/Рихтиков Игорь Николаевич 22.07.2026.PDF",
+        "byteLength": 96757,
+        "sha256": "38eb318b9f7e3689a6b93c720d8c726c064cfc962a27d62e142396a5d7a97769"
+      }
+    },
+    {
+      "reportId": "f3ec8044-6ce4-4524-8a00-7956aa143d11",
+      "financialReportId": "4ed27860-6e66-4e47-9a34-0406822936a2",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Мухина Лариса Валентиновна 22.07.2026.PDF",
+      "uploadTime": "2026-07-30T13:28:25+03:00",
+      "createdAt": "2026-07-30T10:28:35.552228Z",
+      "archive": {
+        "byteLength": 86121,
+        "sha256": "bfb5c148e86607777751ace34e0247ec10fbc496827ab732047aba95189b3aaa",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=4ed27860-6e66-4e47-9a34-0406822936a2",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=4ed27860-6e66-4e47-9a34-0406822936a2",
+          "retrievedAt": "2026-09-04T02:36:21.489280+00:00",
+          "sha256": "bfb5c148e86607777751ace34e0247ec10fbc496827ab732047aba95189b3aaa",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/4ed27860-6e66-4e47-9a34-0406822936a2/Мухина Лариса Валентиновна 22.07.2026.PDF",
+        "byteLength": 90113,
+        "sha256": "51c32fd112e7b8509c41729103cdde5ee34451b0a1af85a6228010c012d79922"
+      }
+    },
+    {
+      "reportId": "f1e85a81-0ab8-4a0f-9e03-89325d01654a",
+      "financialReportId": "ac7720dc-393c-44bd-9a68-8046199eedc4",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Малинкович Сергей Александрович 22.07.2026.PDF",
+      "uploadTime": "2026-07-30T13:27:52+03:00",
+      "createdAt": "2026-07-30T10:27:55.497841Z",
+      "archive": {
+        "byteLength": 80132,
+        "sha256": "0ae3911582616d0ff3246132c24ae33f0e2eaf9f91de63bf2555d3d3cfe3c33d",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=ac7720dc-393c-44bd-9a68-8046199eedc4",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=ac7720dc-393c-44bd-9a68-8046199eedc4",
+          "retrievedAt": "2026-09-04T02:36:21.582485+00:00",
+          "sha256": "0ae3911582616d0ff3246132c24ae33f0e2eaf9f91de63bf2555d3d3cfe3c33d",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/ac7720dc-393c-44bd-9a68-8046199eedc4/Малинкович Сергей Александрович 22.07.2026.PDF",
+        "byteLength": 84148,
+        "sha256": "cad7127df088730dd58b8a75f9c1dfa65bbe9790ddd1a9e3429e4b56cbc9b747"
+      }
+    },
+    {
+      "reportId": "1ca14585-7e66-4ddc-acfb-2606be115bfc",
+      "financialReportId": "f75743cb-8787-431a-a272-63d99d1f89be",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Лебедев Андрей Ярославович 22.07.2026.PDF",
+      "uploadTime": "2026-07-30T13:27:22+03:00",
+      "createdAt": "2026-07-30T10:27:25.4198Z",
+      "archive": {
+        "byteLength": 84179,
+        "sha256": "bb990b94b9e91123120eb13564a55740060ebbc0c441af45e788901d2e2d0786",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=f75743cb-8787-431a-a272-63d99d1f89be",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=f75743cb-8787-431a-a272-63d99d1f89be",
+          "retrievedAt": "2026-09-04T02:36:21.704458+00:00",
+          "sha256": "bb990b94b9e91123120eb13564a55740060ebbc0c441af45e788901d2e2d0786",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/f75743cb-8787-431a-a272-63d99d1f89be/Лебедев Андрей Ярославович 22.07.2026.PDF",
+        "byteLength": 88214,
+        "sha256": "4200405569e053307f7501b602bd6dae2e536bff4e78a7b79b77793bb4bd944f"
+      }
+    },
+    {
+      "reportId": "557a9534-7d63-4355-932e-0b76594153d1",
+      "financialReportId": "0b9fbdf8-b652-40b6-895a-e718ca74d384",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Киселёв Илья Юрьевич 22.07.2026.PDF",
+      "uploadTime": "2026-07-30T13:26:51+03:00",
+      "createdAt": "2026-07-30T10:26:55.363682Z",
+      "archive": {
+        "byteLength": 87041,
+        "sha256": "9b3ff462f3b6259dc24a4886c59206b9a12da372a5780039e02559e2c3d5cf29",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=0b9fbdf8-b652-40b6-895a-e718ca74d384",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=0b9fbdf8-b652-40b6-895a-e718ca74d384",
+          "retrievedAt": "2026-09-04T02:36:21.808236+00:00",
+          "sha256": "9b3ff462f3b6259dc24a4886c59206b9a12da372a5780039e02559e2c3d5cf29",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/0b9fbdf8-b652-40b6-895a-e718ca74d384/Киселёв Илья Юрьевич 22.07.2026.PDF",
+        "byteLength": 91059,
+        "sha256": "f21972e28887c310b343f8b5546864b681a2b99fe09f899efc339425cc2b2261"
+      }
+    },
+    {
+      "reportId": "25c9ec27-75ed-45f9-b68b-ff7230d8788c",
+      "financialReportId": "c753b856-2be7-4f56-ad01-ed23436b0c1d",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Журова Светлана Сергеевна 22.07.2026.PDF",
+      "uploadTime": "2026-07-30T13:25:58+03:00",
+      "createdAt": "2026-07-30T10:26:05.090489Z",
+      "archive": {
+        "byteLength": 89201,
+        "sha256": "0d258a0fe6ba8f3426450438b1875259a868c80e98c825d8960956d3fb79ebbd",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=c753b856-2be7-4f56-ad01-ed23436b0c1d",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=c753b856-2be7-4f56-ad01-ed23436b0c1d",
+          "retrievedAt": "2026-09-04T02:36:21.907254+00:00",
+          "sha256": "0d258a0fe6ba8f3426450438b1875259a868c80e98c825d8960956d3fb79ebbd",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/c753b856-2be7-4f56-ad01-ed23436b0c1d/Журова Светлана Сергеевна 22.07.2026.PDF",
+        "byteLength": 93149,
+        "sha256": "b68424d5bb6c539af67d2f0bb7b8bb2bec35694c2462f90c85e657a5b5d83e6e"
+      }
+    },
+    {
+      "reportId": "f39c542f-1e23-4ed4-a2e8-fb3fd3a37e12",
+      "financialReportId": "df4df669-42b3-4990-8ec2-bbb121451c94",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Белоусов Никита Олегович 22.07.2026.PDF",
+      "uploadTime": "2026-07-30T13:25:15+03:00",
+      "createdAt": "2026-07-30T10:25:25.00666Z",
+      "archive": {
+        "byteLength": 82269,
+        "sha256": "928ab9b6ed8460234ae11ecd95bfdc75964f676a7875760787b49935ee8773d2",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=df4df669-42b3-4990-8ec2-bbb121451c94",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=df4df669-42b3-4990-8ec2-bbb121451c94",
+          "retrievedAt": "2026-09-04T02:36:21.998832+00:00",
+          "sha256": "928ab9b6ed8460234ae11ecd95bfdc75964f676a7875760787b49935ee8773d2",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/df4df669-42b3-4990-8ec2-bbb121451c94/Белоусов Никита Олегович 22.07.2026.PDF",
+        "byteLength": 86230,
+        "sha256": "28f526d33cd82527c14ed69b74a7cd86e11570c0494b51b1e12d09b15922c1db"
+      }
+    },
+    {
+      "reportId": "d8ffa198-c359-4a82-a2e4-02cc4b61aea7",
+      "financialReportId": "d5712fc5-098e-4d76-af57-0d9a067c456c",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "47",
+      "fileName": "Петров Сергей Валериевич 22.07.2026.PDF",
+      "uploadTime": "2026-07-30T13:14:45+03:00",
+      "createdAt": "2026-07-30T10:14:52.151702Z",
+      "archive": {
+        "byteLength": 109347,
+        "sha256": "ba9a76c0a144e4ad60bbe36ab1f2bd8694326f30c919049743a1812e33c503a6",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=d5712fc5-098e-4d76-af57-0d9a067c456c",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=d5712fc5-098e-4d76-af57-0d9a067c456c",
+          "retrievedAt": "2026-09-04T02:36:22.173108+00:00",
+          "sha256": "ba9a76c0a144e4ad60bbe36ab1f2bd8694326f30c919049743a1812e33c503a6",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/d5712fc5-098e-4d76-af57-0d9a067c456c/Петров Сергей Валериевич 22.07.2026.PDF",
+        "byteLength": 113269,
+        "sha256": "65f5e5978a5515d3b96e82ed6c5b29129160d93c7ca1f8fafebc11321ef979cf"
+      }
+    },
+    {
+      "reportId": "0402da0d-6eef-4f2c-a7e8-a024ad5fc540",
+      "financialReportId": "8016c31a-b2b1-42eb-aa45-f4042ed56c29",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "29",
+      "fileName": "Жданова Юлия Сергеевна 28.07.2026.PDF",
+      "uploadTime": "2026-07-30T10:10:39+03:00",
+      "createdAt": "2026-07-30T07:10:42.101765Z",
+      "archive": {
+        "byteLength": 39853,
+        "sha256": "4c74af19e348b8207129254c53ee47953009564edacd9f97c8f2b2a94a882d58",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=8016c31a-b2b1-42eb-aa45-f4042ed56c29",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=8016c31a-b2b1-42eb-aa45-f4042ed56c29",
+          "retrievedAt": "2026-09-04T02:36:22.157624+00:00",
+          "sha256": "4c74af19e348b8207129254c53ee47953009564edacd9f97c8f2b2a94a882d58",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/8016c31a-b2b1-42eb-aa45-f4042ed56c29/Жданова Юлия Сергеевна 28.07.2026.PDF",
+        "byteLength": 42729,
+        "sha256": "9c521f2a6d711eaaa360f4d82c9f7324c7a1774cc7904f665516ce8fa9e4b498"
+      }
+    },
+    {
+      "reportId": "0239a0ae-02dc-4638-92cc-20047227cbe9",
+      "financialReportId": "ab9878ad-0169-434b-975a-28094caa0484",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "29",
+      "fileName": "Яценко Инга Александровна 28.07.2026.PDF",
+      "uploadTime": "2026-07-30T10:10:17+03:00",
+      "createdAt": "2026-07-30T07:10:22.071617Z",
+      "archive": {
+        "byteLength": 41082,
+        "sha256": "ad231fa2bff359d32fab0e1c882a3316f91d4e9994fea57115066c1bd737d76f",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=ab9878ad-0169-434b-975a-28094caa0484",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=ab9878ad-0169-434b-975a-28094caa0484",
+          "retrievedAt": "2026-09-04T02:36:22.293302+00:00",
+          "sha256": "ad231fa2bff359d32fab0e1c882a3316f91d4e9994fea57115066c1bd737d76f",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/ab9878ad-0169-434b-975a-28094caa0484/Яценко Инга Александровна 28.07.2026.PDF",
+        "byteLength": 43953,
+        "sha256": "62b5511a54363460bb88656be027a3cbaeea2c84f799189ceca9e520ea7fd739"
+      }
+    },
+    {
+      "reportId": "700da686-c660-43fd-8cbb-020ee7a833f5",
+      "financialReportId": "f3f1c646-8542-403b-a987-7f237eee9f9f",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "29",
+      "fileName": "Соловьев Степан Геннадьевич 28.07.2026.PDF",
+      "uploadTime": "2026-07-30T10:09:51+03:00",
+      "createdAt": "2026-07-30T07:09:59.595649Z",
+      "archive": {
+        "byteLength": 40076,
+        "sha256": "936ec99e62190234c64b1f5e1ef74e2e3d5eeb4f0c9b8f778cfc5d4c14804e0d",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=f3f1c646-8542-403b-a987-7f237eee9f9f",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=f3f1c646-8542-403b-a987-7f237eee9f9f",
+          "retrievedAt": "2026-09-04T02:36:22.387287+00:00",
+          "sha256": "936ec99e62190234c64b1f5e1ef74e2e3d5eeb4f0c9b8f778cfc5d4c14804e0d",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/f3f1c646-8542-403b-a987-7f237eee9f9f/Соловьев Степан Геннадьевич 28.07.2026.PDF",
+        "byteLength": 42935,
+        "sha256": "c627b440def472c5bd29bc004516889e3b49640ea94e86c29631c9dd72adb086"
+      }
+    },
+    {
+      "reportId": "d50fc17c-b422-4db7-9b93-b0014124aabd",
+      "financialReportId": "1e9d8c22-3059-4bfc-887c-b482d63e0613",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "29",
+      "fileName": "Ивашина Наталья Вячеславовна 28.07.2026.PDF",
+      "uploadTime": "2026-07-30T10:09:06+03:00",
+      "createdAt": "2026-07-30T07:09:09.23805Z",
+      "archive": {
+        "byteLength": 31407,
+        "sha256": "2e841a1f4281b37d155278b1a93e528174993147dac33130ad5ee6dc409bf60a",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=1e9d8c22-3059-4bfc-887c-b482d63e0613",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=1e9d8c22-3059-4bfc-887c-b482d63e0613",
+          "retrievedAt": "2026-09-04T02:36:22.496444+00:00",
+          "sha256": "2e841a1f4281b37d155278b1a93e528174993147dac33130ad5ee6dc409bf60a",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/1e9d8c22-3059-4bfc-887c-b482d63e0613/Ивашина Наталья Вячеславовна 28.07.2026.PDF",
+        "byteLength": 33732,
+        "sha256": "b6095cdd4ddbcaa18f17db7522e0500e7d4cb9b02490dcfadb62085d12862d39"
+      }
+    },
+    {
+      "reportId": "a8c4cd3d-e4d5-4682-b078-bac2c28b07b1",
+      "financialReportId": "3f33142e-b849-4773-8eb5-8ab89ba19a6c",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "29",
+      "fileName": "Кудзагова Александра Андреевна 28.07.2026.PDF",
+      "uploadTime": "2026-07-30T10:07:44+03:00",
+      "createdAt": "2026-07-30T07:07:48.591721Z",
+      "archive": {
+        "byteLength": 30371,
+        "sha256": "6ad597f91cab09ea0bf2637327e4ab56f32fa8a14a99144a88bd10697fd6a823",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=3f33142e-b849-4773-8eb5-8ab89ba19a6c",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=3f33142e-b849-4773-8eb5-8ab89ba19a6c",
+          "retrievedAt": "2026-09-04T02:36:22.577866+00:00",
+          "sha256": "6ad597f91cab09ea0bf2637327e4ab56f32fa8a14a99144a88bd10697fd6a823",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/3f33142e-b849-4773-8eb5-8ab89ba19a6c/Кудзагова Александра Андреевна 28.07.2026.PDF",
+        "byteLength": 32667,
+        "sha256": "d9a4c8fdd62e8f73548f81944957d2167661e64603807e792464a038b764f2be"
+      }
+    },
+    {
+      "reportId": "4adfa94b-0a54-478d-b8d7-ed9bd1468b8d",
+      "financialReportId": "179b4508-a4aa-4f7c-bc26-705ae67e5e77",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "29",
+      "fileName": "Черненко Олег Витальевич 28.07.2026.PDF",
+      "uploadTime": "2026-07-30T10:07:18+03:00",
+      "createdAt": "2026-07-30T07:07:20.461582Z",
+      "archive": {
+        "byteLength": 31974,
+        "sha256": "bf6dfed97b51b9485a2c65850cc0b28d1d3ef768626b30aa856d643be5e0a2ef",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=179b4508-a4aa-4f7c-bc26-705ae67e5e77",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=179b4508-a4aa-4f7c-bc26-705ae67e5e77",
+          "retrievedAt": "2026-09-04T02:36:22.688666+00:00",
+          "sha256": "bf6dfed97b51b9485a2c65850cc0b28d1d3ef768626b30aa856d643be5e0a2ef",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/179b4508-a4aa-4f7c-bc26-705ae67e5e77/Черненко Олег Витальевич 28.07.2026.PDF",
+        "byteLength": 34335,
+        "sha256": "f138d1c36be9b45af2e0afc3b346603c86faeb4cf17aa91e3a333a2d28bd5c79"
+      }
+    },
+    {
+      "reportId": "6021637e-1484-4f3d-89af-5394caedb8b7",
+      "financialReportId": "db532cc2-9c25-425e-a99b-2ea00d3c74d8",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "29",
+      "fileName": "Гревцов Александр Викторович 20.07.2026.PDF",
+      "uploadTime": "2026-07-30T09:30:22+03:00",
+      "createdAt": "2026-07-30T06:30:27.155334Z",
+      "archive": {
+        "byteLength": 57601,
+        "sha256": "0df57bb21d4a003c7f5c9f457c16c494702c540f328504435778c498fdd08e7c",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=db532cc2-9c25-425e-a99b-2ea00d3c74d8",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=db532cc2-9c25-425e-a99b-2ea00d3c74d8",
+          "retrievedAt": "2026-09-04T02:36:22.831465+00:00",
+          "sha256": "0df57bb21d4a003c7f5c9f457c16c494702c540f328504435778c498fdd08e7c",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/db532cc2-9c25-425e-a99b-2ea00d3c74d8/Гревцов Александр Викторович 20.07.2026.PDF",
+        "byteLength": 60771,
+        "sha256": "3867e5fae6861fca1257ed9c41cb6d9a9cfb2e9debbf8a0c58dae8e2f3f9cdf6"
+      }
+    },
+    {
+      "reportId": "e3cd4262-b398-4847-8adb-749cafb9ce74",
+      "financialReportId": "a51351bc-70a9-4616-bad0-971953f5e424",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "29",
+      "fileName": "Харченко Мария Борисовна 20.07.2026.PDF",
+      "uploadTime": "2026-07-30T09:29:54+03:00",
+      "createdAt": "2026-07-30T06:29:59.936471Z",
+      "archive": {
+        "byteLength": 55432,
+        "sha256": "e4cb98b66b3196dde76aad828edee18f657f36eeaeed4e4c3ad0e5981df4ed20",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=a51351bc-70a9-4616-bad0-971953f5e424",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=a51351bc-70a9-4616-bad0-971953f5e424",
+          "retrievedAt": "2026-09-04T02:36:22.950321+00:00",
+          "sha256": "e4cb98b66b3196dde76aad828edee18f657f36eeaeed4e4c3ad0e5981df4ed20",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/a51351bc-70a9-4616-bad0-971953f5e424/Харченко Мария Борисовна 20.07.2026.PDF",
+        "byteLength": 58665,
+        "sha256": "1bd1d19f579a20ff30d363b02565f37d32ea5f6a2a310dace142817cefb69de1"
+      }
+    },
+    {
+      "reportId": "aa5b93b0-b091-4299-b640-e11c3dc080ec",
+      "financialReportId": "1db7fe86-c298-468e-8a64-c72b9f7ab0e5",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "29",
+      "fileName": "Алескеров Кирилл Гамидович 22.07.2026.XLSX",
+      "uploadTime": "2026-07-30T09:28:10+03:00",
+      "createdAt": "2026-07-30T06:28:13.936378Z",
+      "archive": {
+        "byteLength": 8320,
+        "sha256": "8278ab25df8aa08a1ccff76cd7113e1e16fd5b42d9b1e3f82955a3287c894f65",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=1db7fe86-c298-468e-8a64-c72b9f7ab0e5",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=1db7fe86-c298-468e-8a64-c72b9f7ab0e5",
+          "retrievedAt": "2026-09-04T02:36:22.945666+00:00",
+          "sha256": "8278ab25df8aa08a1ccff76cd7113e1e16fd5b42d9b1e3f82955a3287c894f65",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/1db7fe86-c298-468e-8a64-c72b9f7ab0e5/Алескеров Кирилл Гамидович 22.07.2026.XLSX",
+        "byteLength": 10460,
+        "sha256": "ac4448e5924a41bb9690e240458a6f333e7594ca900dcfafbd8f336d8886345f"
+      }
+    },
+    {
+      "reportId": "c71a1dbc-5335-45d8-aedf-907bde50c5c7",
+      "financialReportId": "95be2909-a6c6-41ec-85b5-7d0cf0a1a75f",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "00",
+      "fileName": "Тарасов Владимир Алексеевич 27.07.2026.XLSX",
+      "uploadTime": "2026-07-28T14:03:59+03:00",
+      "createdAt": "2026-07-28T11:04:19.106419Z",
+      "archive": {
+        "byteLength": 8874,
+        "sha256": "f4f0b34519adedd333e28e708de7f0d347182d3b6ba77437f89c440339ea891e",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=95be2909-a6c6-41ec-85b5-7d0cf0a1a75f",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=95be2909-a6c6-41ec-85b5-7d0cf0a1a75f",
+          "retrievedAt": "2026-09-04T02:36:23.069045+00:00",
+          "sha256": "f4f0b34519adedd333e28e708de7f0d347182d3b6ba77437f89c440339ea891e",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/95be2909-a6c6-41ec-85b5-7d0cf0a1a75f/Тарасов Владимир Алексеевич 27.07.2026.XLSX",
+        "byteLength": 32768,
+        "sha256": "b06d205e9f645fbce0ccf52b98165a7d2c0700021cab87c83b704449b4f1da9d"
+      }
+    },
+    {
+      "reportId": "dc809112-f8bc-45b3-afa6-fc2f9a02e9cb",
+      "financialReportId": "eea9355d-1ffb-42fa-8ab7-d43d4e9a9a96",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "00",
+      "fileName": "Кузнецов Виктор Эдуардович 27.07.2026.XLSX",
+      "uploadTime": "2026-07-28T14:03:36+03:00",
+      "createdAt": "2026-07-28T11:03:38.674647Z",
+      "archive": {
+        "byteLength": 8986,
+        "sha256": "50c288da170ad8192f983fef28a558fafb2521bc547b17ab14f06c8a65284087",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=eea9355d-1ffb-42fa-8ab7-d43d4e9a9a96",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=eea9355d-1ffb-42fa-8ab7-d43d4e9a9a96",
+          "retrievedAt": "2026-09-04T02:36:23.174007+00:00",
+          "sha256": "50c288da170ad8192f983fef28a558fafb2521bc547b17ab14f06c8a65284087",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/eea9355d-1ffb-42fa-8ab7-d43d4e9a9a96/Кузнецов Виктор Эдуардович 27.07.2026.XLSX",
+        "byteLength": 32768,
+        "sha256": "310e0ba708a7c6174ec0f5badc85730d66ba3086277cb01066ecdac4058470a6"
+      }
+    },
+    {
+      "reportId": "a0a3d03b-fddd-4b34-8928-bd6da2b10a1c",
+      "financialReportId": "8bbfedc7-5ff1-4221-8acc-7251e104ecc5",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "00",
+      "fileName": "Долгушин Александр Борисович 27.07.2026.XLSX",
+      "uploadTime": "2026-07-28T14:03:01+03:00",
+      "createdAt": "2026-07-28T11:03:08.239315Z",
+      "archive": {
+        "byteLength": 8968,
+        "sha256": "865968043381f895779647665f7c10d2cffdd8d46a6a2dee30c4c48c9184def7",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=8bbfedc7-5ff1-4221-8acc-7251e104ecc5",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=8bbfedc7-5ff1-4221-8acc-7251e104ecc5",
+          "retrievedAt": "2026-09-04T02:36:23.270645+00:00",
+          "sha256": "865968043381f895779647665f7c10d2cffdd8d46a6a2dee30c4c48c9184def7",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/8bbfedc7-5ff1-4221-8acc-7251e104ecc5/Долгушин Александр Борисович 27.07.2026.XLSX",
+        "byteLength": 32768,
+        "sha256": "f37287bf3ad8434064c38b3be45fc4a2b0d93982fdd50d5c1a9305d261eb0f32"
+      }
+    },
+    {
+      "reportId": "50898db6-ee40-4e7e-858b-60fc6064eb98",
+      "financialReportId": "db0f34b8-155f-4f12-baf5-497c052fd888",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "69",
+      "fileName": "Карпов Дмитрий Викентьевич 24.07.2026.XLSX",
+      "uploadTime": "2026-07-27T10:36:15+03:00",
+      "createdAt": "2026-07-27T07:36:20.202442Z",
+      "archive": {
+        "byteLength": 8660,
+        "sha256": "7cfaa3be1f219a8a6259e1f7e1b2bcec9add19dd3c7ea53e04148b774538d0d0",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=db0f34b8-155f-4f12-baf5-497c052fd888",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=db0f34b8-155f-4f12-baf5-497c052fd888",
+          "retrievedAt": "2026-09-04T02:36:23.386740+00:00",
+          "sha256": "7cfaa3be1f219a8a6259e1f7e1b2bcec9add19dd3c7ea53e04148b774538d0d0",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/db0f34b8-155f-4f12-baf5-497c052fd888/Карпов Дмитрий Викентьевич 24.07.2026.XLSX",
+        "byteLength": 35328,
+        "sha256": "4bc89bd99fa03e9356cc44d8a0295e2ea61291d5bd331296adb957a9a9bdde42"
+      }
+    },
+    {
+      "reportId": "3a1a1c41-8237-414e-980c-fb6308fd4af9",
+      "financialReportId": "67895c93-d4c7-4830-9d9d-be83ec19b6ba",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "69",
+      "fileName": "Лебедев Олег Александрович 24.07.2026.XLSX",
+      "uploadTime": "2026-07-27T10:35:31+03:00",
+      "createdAt": "2026-07-27T07:35:40.04446Z",
+      "archive": {
+        "byteLength": 8651,
+        "sha256": "2d8e9ea2b83820c4a5559d34449e3af51cd6169658a88cfdd51019e80a080916",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=67895c93-d4c7-4830-9d9d-be83ec19b6ba",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=67895c93-d4c7-4830-9d9d-be83ec19b6ba",
+          "retrievedAt": "2026-09-04T02:36:23.478408+00:00",
+          "sha256": "2d8e9ea2b83820c4a5559d34449e3af51cd6169658a88cfdd51019e80a080916",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/67895c93-d4c7-4830-9d9d-be83ec19b6ba/Лебедев Олег Александрович 24.07.2026.XLSX",
+        "byteLength": 35328,
+        "sha256": "9009aaba861f5432c8bc5f9b971a8a8f67af9b8254cc4623e10b19dc046777ff"
+      }
+    },
+    {
+      "reportId": "4702e24c-1436-45b0-ba2d-744879af8675",
+      "financialReportId": "8d09a086-25ad-4181-b75b-265abd05e2c7",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "69",
+      "fileName": "Аршинова Алёна Игоревна 26.07.2026.XLSX",
+      "uploadTime": "2026-07-27T10:34:43+03:00",
+      "createdAt": "2026-07-27T07:34:49.372021Z",
+      "archive": {
+        "byteLength": 8795,
+        "sha256": "2c5ff3a239540dc1fb62088a41163d872d157188d3eacac807972a223ab62a74",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=8d09a086-25ad-4181-b75b-265abd05e2c7",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=8d09a086-25ad-4181-b75b-265abd05e2c7",
+          "retrievedAt": "2026-09-04T02:36:23.580957+00:00",
+          "sha256": "2c5ff3a239540dc1fb62088a41163d872d157188d3eacac807972a223ab62a74",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/8d09a086-25ad-4181-b75b-265abd05e2c7/Аршинова Алёна Игоревна 26.07.2026.XLSX",
+        "byteLength": 35840,
+        "sha256": "162a6b6897949c83f70787ed4d83cc8fd72f89dc45d0c23553b15ddf39060282"
+      }
+    },
+    {
+      "reportId": "1ccb7854-83a3-4c87-b941-281d29d7ccd2",
+      "financialReportId": "9ed1b8fc-a116-40bf-addb-32003c7dd463",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "69",
+      "fileName": "Левшуков Дмитрий Николаевич 26.07.2026.XLSX",
+      "uploadTime": "2026-07-27T10:34:12+03:00",
+      "createdAt": "2026-07-27T07:34:19.232688Z",
+      "archive": {
+        "byteLength": 8762,
+        "sha256": "ac0b99249ad74d3f08da00cc6ebc51f3b35bd5568839c04718091cf3a908d523",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=9ed1b8fc-a116-40bf-addb-32003c7dd463",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=9ed1b8fc-a116-40bf-addb-32003c7dd463",
+          "retrievedAt": "2026-09-04T02:36:23.692207+00:00",
+          "sha256": "ac0b99249ad74d3f08da00cc6ebc51f3b35bd5568839c04718091cf3a908d523",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/9ed1b8fc-a116-40bf-addb-32003c7dd463/Левшуков Дмитрий Николаевич 26.07.2026.XLSX",
+        "byteLength": 35840,
+        "sha256": "5d648168aa240262e8851224f8016738521c4cee7da616496f93ca47ccf7649d"
+      }
+    },
+    {
+      "reportId": "4000379a-9af6-492a-8067-971c6f7c3c17",
+      "financialReportId": "fb26f863-7dc4-411e-8c5e-fdd26af76fbe",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "69",
+      "fileName": "Мишустин Николай Николаевич 24.07.2026.XLSX",
+      "uploadTime": "2026-07-27T10:33:44+03:00",
+      "createdAt": "2026-07-27T07:33:49.078619Z",
+      "archive": {
+        "byteLength": 8799,
+        "sha256": "a67f74f2d5e985d659cbb082352620e4684d83e3f39e4379dc0ff77aac1adff1",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=fb26f863-7dc4-411e-8c5e-fdd26af76fbe",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=fb26f863-7dc4-411e-8c5e-fdd26af76fbe",
+          "retrievedAt": "2026-09-04T02:36:23.794225+00:00",
+          "sha256": "a67f74f2d5e985d659cbb082352620e4684d83e3f39e4379dc0ff77aac1adff1",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/fb26f863-7dc4-411e-8c5e-fdd26af76fbe/Мишустин Николай Николаевич 24.07.2026.XLSX",
+        "byteLength": 35840,
+        "sha256": "a0009b82a0f8c32699f47b379115c95367f7dd1847264557824df2fbde6ea93f"
+      }
+    },
+    {
+      "reportId": "1d1b3871-eb36-41d2-9b5d-4fbd0f2131b2",
+      "financialReportId": "162879b4-aa9d-429b-ac8a-179a4614e6f1",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "69",
+      "fileName": "Глушкова Екатерина Николаевна 26.07.2026.XLSX",
+      "uploadTime": "2026-07-27T10:33:05+03:00",
+      "createdAt": "2026-07-27T07:33:08.794782Z",
+      "archive": {
+        "byteLength": 8862,
+        "sha256": "9e55484cc0097ab94026327f46eaeb3922a737570744a96aa782a56833fd7e24",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=162879b4-aa9d-429b-ac8a-179a4614e6f1",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=162879b4-aa9d-429b-ac8a-179a4614e6f1",
+          "retrievedAt": "2026-09-04T02:36:23.902875+00:00",
+          "sha256": "9e55484cc0097ab94026327f46eaeb3922a737570744a96aa782a56833fd7e24",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/162879b4-aa9d-429b-ac8a-179a4614e6f1/Глушкова Екатерина Николаевна 26.07.2026.XLSX",
+        "byteLength": 35840,
+        "sha256": "f9baa1c24ba02698271646923ec86f1f5e8abb4ff663c3fda02a4c57669ec4b3"
+      }
+    },
+    {
+      "reportId": "6bf545f0-8186-4e4f-a119-710feeb94863",
+      "financialReportId": "a2d856c2-fdf7-476b-820a-0af4af97ac10",
+      "reportType": "77",
+      "electionId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+      "subjectRf": "69",
+      "fileName": "Стерлигов Арсений Германович 26.07.2026.XLSX",
+      "uploadTime": "2026-07-27T10:30:39+03:00",
+      "createdAt": "2026-07-27T07:30:47.88352Z",
+      "archive": {
+        "byteLength": 8660,
+        "sha256": "c3b0d36d1257ea030491092a8923d6e1820da643aebf7cc03f1b439866e8db44",
+        "source": {
+          "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=a2d856c2-fdf7-476b-820a-0af4af97ac10",
+          "requestKey": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/77/files?financialReportId=a2d856c2-fdf7-476b-820a-0af4af97ac10",
+          "retrievedAt": "2026-09-04T02:36:24.011593+00:00",
+          "sha256": "c3b0d36d1257ea030491092a8923d6e1820da643aebf7cc03f1b439866e8db44",
+          "status": 200,
+          "provenance": "live-official"
+        }
+      },
+      "document": {
+        "path": "files/a2d856c2-fdf7-476b-820a-0af4af97ac10/Стерлигов Арсений Германович 26.07.2026.XLSX",
+        "byteLength": 35328,
+        "sha256": "0d471e903d6c9d97cf33898c0c118ea1315475c9afda06d62ceb75d40445148d"
+      }
+    }
+  ]
+}

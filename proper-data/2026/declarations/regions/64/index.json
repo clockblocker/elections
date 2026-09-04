@@ -1,0 +1,704 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:10.436315+00:00",
+  "region": {
+    "code": "64",
+    "name": "Саратовская область",
+    "seedUrls": [
+      "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/",
+      "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/164-saratovskiy/",
+      "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/dokhod-imushchestvo/"
+    ],
+    "allowedHosts": [
+      "saratov.izbirkom.ru",
+      "www.saratov.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 30,
+  "documentCount": 2,
+  "documentCounts": {
+    "inaccuracy": 2
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 2,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 2
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва 20 сентября 2026 года",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/",
+        "retrievedAt": "2026-09-04T03:40:35.942296+00:00",
+        "status": 200,
+        "sha256": "a150053fc33cfc86a77f00c2ad2046dffad59b3652f36b25472deaf3e198bf83",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/164-saratovskiy/",
+      "title": "Саратовский одномандатный избирательный округ №164",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/164-saratovskiy/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/164-saratovskiy/",
+        "retrievedAt": "2026-09-04T03:40:36.991703+00:00",
+        "status": 200,
+        "sha256": "7f535d8351ffad844a437dae85da468607d151c7ca6a81737a870690a19eb299",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/dokhod-imushchestvo/",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату на праве собственности, о счетах (вкладах) в банках, ценных бумагах",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 2
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/dokhod-imushchestvo/165n.pdf",
+        "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/dokhod-imushchestvo/165n2.pdf"
+      ],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/dokhod-imushchestvo/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/dokhod-imushchestvo/",
+        "retrievedAt": "2026-09-04T03:40:38.010925+00:00",
+        "status": 200,
+        "sha256": "7538b131aa314351a8911ddb9313565e8f0230e8736e0fa31155d4351eed4491",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/pamyatka-o-poryadke-golosovaniya",
+      "title": "ПАМЯТКА О ПОРЯДКЕ ГОЛОСОВАНИЯ ИЗБИРАТЕЛЕЙ, ЯВЛЯЮЩИХСЯ ИНВАЛИДАМИ",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/pamyatka-o-poryadke-golosovaniya/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/pamyatka-o-poryadke-golosovaniya",
+        "retrievedAt": "2026-09-04T03:40:39.162144+00:00",
+        "status": 200,
+        "sha256": "b3f0755c16b8d48de4027644890b0f32baaa2ab74a7d61cd654d4abd9dd1929f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/informatsionnoe-obespechenie",
+      "title": "Информационное обеспечение * Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва 20 сентября 2026 года",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/informatsionnoe-obespechenie/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/informatsionnoe-obespechenie",
+        "retrievedAt": "2026-09-04T03:40:40.238199+00:00",
+        "status": 200,
+        "sha256": "b1f9362cb63df78cb68592a1e34f8ead87d6fc6b92dfacbe27b921486b46ab60",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/norm-dok",
+      "title": "Нормативные документы ИКСО * Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва 20 сентября 2026 года",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/norm-dok/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/norm-dok",
+        "retrievedAt": "2026-09-04T03:40:41.258608+00:00",
+        "status": 200,
+        "sha256": "646a7996d38f0e6c798ea506c9e2c2c651f50585350fdcb99392b0d98e9b3158",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/164-saratovskiy",
+      "title": "Саратовский одномандатный избирательный округ №164",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/164-saratovskiy/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/164-saratovskiy",
+        "retrievedAt": "2026-09-04T03:40:42.286758+00:00",
+        "status": 200,
+        "sha256": "7f535d8351ffad844a437dae85da468607d151c7ca6a81737a870690a19eb299",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/165-balakovskiy",
+      "title": "Балаковский одномандатный избирательный округ №165",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/165-balakovskiy/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/165-balakovskiy",
+        "retrievedAt": "2026-09-04T03:40:43.347565+00:00",
+        "status": 200,
+        "sha256": "3d50963a75b9f0c7bcc6ebc4eff954a53538b97a0b008a6974e695335ba810cd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/166-balashovskiy",
+      "title": "Балашовский одномандатный избирательный округ №166",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/166-balashovskiy/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/166-balashovskiy",
+        "retrievedAt": "2026-09-04T03:40:44.368640+00:00",
+        "status": 200,
+        "sha256": "334636c12d4e63384bb4f90744997053e95c7f9a3f108959484ced07efab7043",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/167-engelsskiy",
+      "title": "Энгельсский одномандатный избирательный округ №167",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/167-engelsskiy/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/167-engelsskiy",
+        "retrievedAt": "2026-09-04T03:40:45.448682+00:00",
+        "status": 200,
+        "sha256": "0389045e71763270d49a3451c08c2e31b8e97521157341b017fbc09a2506eb4c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/izbirkom_pages/?votingDateFrom=2026-09-20&votingDateTo=2026-09-20",
+      "title": "Календарь выборов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/izbirkom_pages/?votingDateFrom=2026-09-20&votingDateTo=2026-09-20",
+        "requestKey": "http://saratov.izbirkom.ru/izbirkom_pages/?votingDateFrom=2026-09-20&votingDateTo=2026-09-20",
+        "retrievedAt": "2026-09-04T03:40:46.421573+00:00",
+        "status": 200,
+        "sha256": "732f872fcc5576c751e29556b4b4dd96f40a22a8a8b1dee32ec185fd6bb7ceeb",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie",
+      "title": "Финансирование * Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва 20 сентября 2026 года",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie",
+        "retrievedAt": "2026-09-04T03:40:47.605619+00:00",
+        "status": 200,
+        "sha256": "9c520a3ab74eab2e7cca3b7b70af43483b8690e1ac096fb38f2ee014085997f0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/",
+      "title": "Финансирование * Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва 20 сентября 2026 года",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/",
+        "retrievedAt": "2026-09-04T03:40:49.581308+00:00",
+        "status": 200,
+        "sha256": "9c520a3ab74eab2e7cca3b7b70af43483b8690e1ac096fb38f2ee014085997f0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/pamyatka-o-poryadke-golosovaniya/",
+      "title": "ПАМЯТКА О ПОРЯДКЕ ГОЛОСОВАНИЯ ИЗБИРАТЕЛЕЙ, ЯВЛЯЮЩИХСЯ ИНВАЛИДАМИ",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/pamyatka-o-poryadke-golosovaniya/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/pamyatka-o-poryadke-golosovaniya/",
+        "retrievedAt": "2026-09-04T03:40:50.612369+00:00",
+        "status": 200,
+        "sha256": "b3f0755c16b8d48de4027644890b0f32baaa2ab74a7d61cd654d4abd9dd1929f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/informatsionnoe-obespechenie/",
+      "title": "Информационное обеспечение * Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва 20 сентября 2026 года",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/informatsionnoe-obespechenie/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/informatsionnoe-obespechenie/",
+        "retrievedAt": "2026-09-04T03:40:51.708016+00:00",
+        "status": 200,
+        "sha256": "b1f9362cb63df78cb68592a1e34f8ead87d6fc6b92dfacbe27b921486b46ab60",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/informatsionnoe-obespechenie/zherebevka-GosDuma2026",
+      "title": "Жеребьевка по распределению эфирного времени и печатной площади на выборах депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/informatsionnoe-obespechenie/zherebevka-GosDuma2026/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/informatsionnoe-obespechenie/zherebevka-GosDuma2026",
+        "retrievedAt": "2026-09-04T03:40:52.856884+00:00",
+        "status": 200,
+        "sha256": "cbf677252446448d6ce015571cbdbe22c6cb401351bf935a2bf7392b0abb3c4e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/informatsionnoe-obespechenie/pomeshcheniya/",
+      "title": "Уведомления о фактах предоставления помещений в соответствии с пунктом 4 статьи 67 Федерального закона «О выборах депутатов Государственной Думы Федерального Собрания Российской Федерации»",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/informatsionnoe-obespechenie/pomeshcheniya/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/informatsionnoe-obespechenie/pomeshcheniya/",
+        "retrievedAt": "2026-09-04T03:40:53.805216+00:00",
+        "status": 200,
+        "sha256": "e1136312edb75543796c5c931a337c2b13e826e6011f75c11405d4da8aa7f904",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/informatsionnoe-obespechenie/otchet-o-predostavlenii-pechatnoy-ploshchadi",
+      "title": "Отчет о предоставлении организациями печатной площади, услуг по размещению предвыборных агитационных материалов в сетевых изданиях зарегистрированным кандидатам, политическим партиям",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/informatsionnoe-obespechenie/otchet-o-predostavlenii-pechatnoy-ploshchadi/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/informatsionnoe-obespechenie/otchet-o-predostavlenii-pechatnoy-ploshchadi",
+        "retrievedAt": "2026-09-04T03:40:55.010543+00:00",
+        "status": 200,
+        "sha256": "b26ab14dd21c3782a84fe033afbdf9efbdf704586729f84e4b1516c446c8d92a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/norm-dok/",
+      "title": "Нормативные документы ИКСО * Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва 20 сентября 2026 года",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/norm-dok/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/norm-dok/",
+        "retrievedAt": "2026-09-04T03:40:55.940900+00:00",
+        "status": 200,
+        "sha256": "646a7996d38f0e6c798ea506c9e2c2c651f50585350fdcb99392b0d98e9b3158",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/165-balakovskiy/",
+      "title": "Балаковский одномандатный избирательный округ №165",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/165-balakovskiy/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/165-balakovskiy/",
+        "retrievedAt": "2026-09-04T03:40:56.956286+00:00",
+        "status": 200,
+        "sha256": "3d50963a75b9f0c7bcc6ebc4eff954a53538b97a0b008a6974e695335ba810cd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/166-balashovskiy/",
+      "title": "Балашовский одномандатный избирательный округ №166",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/166-balashovskiy/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/166-balashovskiy/",
+        "retrievedAt": "2026-09-04T03:40:59.107054+00:00",
+        "status": 200,
+        "sha256": "334636c12d4e63384bb4f90744997053e95c7f9a3f108959484ced07efab7043",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/167-engelsskiy/",
+      "title": "Энгельсский одномандатный избирательный округ №167",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/167-engelsskiy/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/167-engelsskiy/",
+        "retrievedAt": "2026-09-04T03:41:01.171837+00:00",
+        "status": 200,
+        "sha256": "0389045e71763270d49a3451c08c2e31b8e97521157341b017fbc09a2506eb4c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/dokhod-imushchestvo",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату на праве собственности, о счетах (вкладах) в банках, ценных бумагах",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 2
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/dokhod-imushchestvo/165n.pdf",
+        "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/dokhod-imushchestvo/165n2.pdf"
+      ],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/dokhod-imushchestvo/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/dokhod-imushchestvo",
+        "retrievedAt": "2026-09-04T03:41:03.323529+00:00",
+        "status": 200,
+        "sha256": "7538b131aa314351a8911ddb9313565e8f0230e8736e0fa31155d4351eed4491",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/izbiratelnye-fondy-kandidatov",
+      "title": "Сведения о поступлении средств в избирательные фонды кандидатов, выдвинутых по одномандатным избирательным округам и расходовании этих средств",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/izbiratelnye-fondy-kandidatov/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/izbiratelnye-fondy-kandidatov",
+        "retrievedAt": "2026-09-04T03:41:04.389843+00:00",
+        "status": 200,
+        "sha256": "2984f61d736a3eba463471f7bee0b0c77cfe51a4e8d52d3a24f0c402e6b46cbd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/svedeniya-o-postuplenii-sredstv",
+      "title": "Сведения о поступлении средств в избирательные фонды избирательных объединений и расходовании этих средств",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/svedeniya-o-postuplenii-sredstv/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/svedeniya-o-postuplenii-sredstv",
+        "retrievedAt": "2026-09-04T03:41:05.494936+00:00",
+        "status": 200,
+        "sha256": "c883829e50f5ae27e8e3b104d3ec9eb30096b3e5df708f1addaef0659a1fa0af",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/informatsionnoe-obespechenie/zherebevka-GosDuma2026/",
+      "title": "Жеребьевка по распределению эфирного времени и печатной площади на выборах депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/informatsionnoe-obespechenie/zherebevka-GosDuma2026/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/informatsionnoe-obespechenie/zherebevka-GosDuma2026/",
+        "retrievedAt": "2026-09-04T03:41:06.444381+00:00",
+        "status": 200,
+        "sha256": "cbf677252446448d6ce015571cbdbe22c6cb401351bf935a2bf7392b0abb3c4e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/docs/10541/",
+      "title": "Избирательная комиссия Саратовской области информирует о проведении жеребьевки эфирного времени и печатной площади между зарегистрированными кандидатами на выборах в Государственную Думу Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/docs/10541/",
+        "requestKey": "http://saratov.izbirkom.ru/docs/10541/",
+        "retrievedAt": "2026-09-04T03:41:07.527063+00:00",
+        "status": 200,
+        "sha256": "11b4041b0ce3fd8a3dca48b381f2939a533135500010f826f970576beaac652e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/informatsionnoe-obespechenie/otchet-o-predostavlenii-pechatnoy-ploshchadi/",
+      "title": "Отчет о предоставлении организациями печатной площади, услуг по размещению предвыборных агитационных материалов в сетевых изданиях зарегистрированным кандидатам, политическим партиям",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/informatsionnoe-obespechenie/otchet-o-predostavlenii-pechatnoy-ploshchadi/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/informatsionnoe-obespechenie/otchet-o-predostavlenii-pechatnoy-ploshchadi/",
+        "retrievedAt": "2026-09-04T03:41:08.543990+00:00",
+        "status": 200,
+        "sha256": "b26ab14dd21c3782a84fe033afbdf9efbdf704586729f84e4b1516c446c8d92a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/izbiratelnye-fondy-kandidatov/",
+      "title": "Сведения о поступлении средств в избирательные фонды кандидатов, выдвинутых по одномандатным избирательным округам и расходовании этих средств",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/izbiratelnye-fondy-kandidatov/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/izbiratelnye-fondy-kandidatov/",
+        "retrievedAt": "2026-09-04T03:41:09.606385+00:00",
+        "status": 200,
+        "sha256": "2984f61d736a3eba463471f7bee0b0c77cfe51a4e8d52d3a24f0c402e6b46cbd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/svedeniya-o-postuplenii-sredstv/",
+      "title": "Сведения о поступлении средств в избирательные фонды избирательных объединений и расходовании этих средств",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/svedeniya-o-postuplenii-sredstv/",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/svedeniya-o-postuplenii-sredstv/",
+        "retrievedAt": "2026-09-04T03:41:10.667385+00:00",
+        "status": 200,
+        "sha256": "c883829e50f5ae27e8e3b104d3ec9eb30096b3e5df708f1addaef0659a1fa0af",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "inaccuracy",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных кандидатами в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва по Балаковскому одномандатному избирательному округу №165 Саратовской области",
+      "officialUrl": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/dokhod-imushchestvo/165n.pdf",
+      "sourcePages": [
+        {
+          "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/dokhod-imushchestvo/",
+          "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату на праве собственности, о счетах (вкладах) в банках, ценных бумагах",
+          "depth": 0,
+          "sha256": "7538b131aa314351a8911ddb9313565e8f0230e8736e0fa31155d4351eed4491"
+        },
+        {
+          "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/dokhod-imushchestvo",
+          "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату на праве собственности, о счетах (вкладах) в банках, ценных бумагах",
+          "depth": 2,
+          "sha256": "7538b131aa314351a8911ddb9313565e8f0230e8736e0fa31155d4351eed4491"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "c919f5b9f83bc4caa390b23454af922afee428c91f188a89b6aff8b8d889e4fe",
+      "originalFilename": "165n.pdf",
+      "filename": "Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-c919f5b9f83b.pdf",
+      "path": "files/Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-c919f5b9f83b.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 102994,
+      "sha256": "c919f5b9f83bc4caa390b23454af922afee428c91f188a89b6aff8b8d889e4fe",
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/dokhod-imushchestvo/165n.pdf",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/dokhod-imushchestvo/165n.pdf",
+        "retrievedAt": "2026-09-04T03:41:11.656089+00:00",
+        "status": 200,
+        "sha256": "c919f5b9f83bc4caa390b23454af922afee428c91f188a89b6aff8b8d889e4fe",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных кандидатами в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва по Балаковскому одномандатному избирательному округу №165 Саратовской области",
+      "officialUrl": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/dokhod-imushchestvo/165n2.pdf",
+      "sourcePages": [
+        {
+          "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/dokhod-imushchestvo/",
+          "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату на праве собственности, о счетах (вкладах) в банках, ценных бумагах",
+          "depth": 0,
+          "sha256": "7538b131aa314351a8911ddb9313565e8f0230e8736e0fa31155d4351eed4491"
+        },
+        {
+          "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/dokhod-imushchestvo",
+          "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату на праве собственности, о счетах (вкладах) в банках, ценных бумагах",
+          "depth": 2,
+          "sha256": "7538b131aa314351a8911ddb9313565e8f0230e8736e0fa31155d4351eed4491"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "3e2daa2b2c5b4fe98e33a5a44b4c954cb5a19f6506c6e89262326aedc775554f",
+      "originalFilename": "165n2.pdf",
+      "filename": "Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-3e2daa2b2c5b.pdf",
+      "path": "files/Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-3e2daa2b2c5b.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 70002,
+      "sha256": "3e2daa2b2c5b4fe98e33a5a44b4c954cb5a19f6506c6e89262326aedc775554f",
+      "source": {
+        "url": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/dokhod-imushchestvo/165n2.pdf",
+        "requestKey": "http://saratov.izbirkom.ru/arkhiv-vyborov-i-referendumov/2026-GosDuma/finansirovanie/dokhod-imushchestvo/165n2.pdf",
+        "retrievedAt": "2026-09-04T03:41:12.650838+00:00",
+        "status": 200,
+        "sha256": "3e2daa2b2c5b4fe98e33a5a44b4c954cb5a19f6506c6e89262326aedc775554f",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

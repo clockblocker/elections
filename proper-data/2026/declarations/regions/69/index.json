@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:10.800767+00:00",
+  "region": {
+    "code": "69",
+    "name": "Тверская область",
+    "seedUrls": [
+      "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+      "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/index.php"
+    ],
+    "allowedHosts": [
+      "tver.izbirkom.ru",
+      "www.tver.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 11,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+        "requestKey": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+        "retrievedAt": "2026-09-04T03:43:37.154635+00:00",
+        "status": 200,
+        "sha256": "42352ff7ba2a2f7199b067f5a7cf0db564e0d7d702d970ad27e22bb189244f20",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/index.php",
+        "requestKey": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/index.php",
+        "retrievedAt": "2026-09-04T03:43:38.442815+00:00",
+        "status": 200,
+        "sha256": "42352ff7ba2a2f7199b067f5a7cf0db564e0d7d702d970ad27e22bb189244f20",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/kandidatam-izbiratelnym-obedineniyam-izbiratelyam/",
+      "title": "Кандидатам, избирательным объединениям, избирателям",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/kandidatam-izbiratelnym-obedineniyam-izbiratelyam/",
+        "requestKey": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/kandidatam-izbiratelnym-obedineniyam-izbiratelyam/",
+        "retrievedAt": "2026-09-04T03:43:42.757080+00:00",
+        "status": 200,
+        "sha256": "f999b528f2953302f8324541c30b453db533a26d38b046990490b0a6d9cc89e4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/?clear_cache=Y",
+      "title": "Сведения о выдвижении и регистрации кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/?clear_cache=Y",
+        "requestKey": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/?clear_cache=Y",
+        "retrievedAt": "2026-09-04T03:43:47.048231+00:00",
+        "status": 200,
+        "sha256": "2704dda1786fe3d7b708c892440fa98a4cfc5db340126d3655cdaf25dab44632",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakhGDFSRF",
+      "title": "Сведения о кандидатах",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakhGDFSRF/",
+        "requestKey": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakhGDFSRF",
+        "retrievedAt": "2026-09-04T03:43:49.001016+00:00",
+        "status": 200,
+        "sha256": "a82733f126db86c45d779092cafc7410db3a4a14252f20f8b7cf75b22dfbfdb1",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/izbiratelnye-okruga/?clear_cache=Y",
+      "title": "Избирательные округа",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/izbiratelnye-okruga/?clear_cache=Y",
+        "requestKey": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/izbiratelnye-okruga/?clear_cache=Y",
+        "retrievedAt": "2026-09-04T03:43:50.620042+00:00",
+        "status": 200,
+        "sha256": "e52fdf720df1fe10a4f8c1c69f564b811fad6129fe6e7e9733f6198228c7a7ce",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tver.izbirkom.ru/content/27727/",
+      "title": "Постановление № 190/2318-7 от 22.04.2026",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tver.izbirkom.ru/content/27727/",
+        "requestKey": "http://tver.izbirkom.ru/content/27727/",
+        "retrievedAt": "2026-09-04T03:44:28.023055+00:00",
+        "status": 200,
+        "sha256": "971bdeeb2e702f63a295426e4360563ed9089d2fd09e33dcaff2cbf040560493",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tver.izbirkom.ru/content/27728/",
+      "title": "Постановление № 190/2319-7 от 22.04.2026",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tver.izbirkom.ru/content/27728/",
+        "requestKey": "http://tver.izbirkom.ru/content/27728/",
+        "retrievedAt": "2026-09-04T03:44:29.090670+00:00",
+        "status": 200,
+        "sha256": "4bcc4cc2258636201b1413cb3f0b79611a86dc4aeb6fc79f7a4636a8c3089eac",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/",
+      "title": "Сведения о выдвижении и регистрации кандидатов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/",
+        "requestKey": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakh/",
+        "retrievedAt": "2026-09-04T03:44:31.959375+00:00",
+        "status": 200,
+        "sha256": "2704dda1786fe3d7b708c892440fa98a4cfc5db340126d3655cdaf25dab44632",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakhGDFSRF/",
+      "title": "Сведения о кандидатах",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakhGDFSRF/",
+        "requestKey": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-kandidatakhGDFSRF/",
+        "retrievedAt": "2026-09-04T03:44:33.479259+00:00",
+        "status": 200,
+        "sha256": "a82733f126db86c45d779092cafc7410db3a4a14252f20f8b7cf75b22dfbfdb1",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/izbiratelnye-okruga/",
+      "title": "Избирательные округа",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/izbiratelnye-okruga/",
+        "requestKey": "http://tver.izbirkom.ru/vybory-v-2026-godu/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/izbiratelnye-okruga/",
+        "retrievedAt": "2026-09-04T03:44:34.505571+00:00",
+        "status": 200,
+        "sha256": "e52fdf720df1fe10a4f8c1c69f564b811fad6129fe6e7e9733f6198228c7a7ce",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

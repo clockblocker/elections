@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:12.198999+00:00",
+  "region": {
+    "code": "92",
+    "name": "Забайкальский край",
+    "seedUrls": [
+      "http://zabkray.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+      "http://zabkray.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8"
+    ],
+    "allowedHosts": [
+      "www.zabkray.izbirkom.ru",
+      "zabkray.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 2,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 2,
+      "explicitEmptyPageCount": 2,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 1,
+      "explicitEmptyPageCount": 1,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://zabkray.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+      "title": "Поиск",
+      "depth": 0,
+      "electionContextConfirmed": false,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://zabkray.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+        "requestKey": "http://zabkray.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+        "retrievedAt": "2026-09-04T03:49:13.638708+00:00",
+        "status": 200,
+        "sha256": "fabc727eff6abf72737d942b155172fe45eec6c1978ee836b38407182260bdf8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://zabkray.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+      "title": "Поиск",
+      "depth": 0,
+      "electionContextConfirmed": false,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://zabkray.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+        "requestKey": "http://zabkray.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+        "retrievedAt": "2026-09-04T03:49:14.299673+00:00",
+        "status": 200,
+        "sha256": "54cb56fee0655e50abde6d28d7072b5a0f864f74797986c1b00d326dc69ea76a",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:12.214857+00:00",
+  "region": {
+    "code": "93",
+    "name": "Республика Крым",
+    "seedUrls": [
+      "http://crimea.izbirkom.ru/o-zherebevkakh-po-raspredeleniyu-efirnogo-vremeni-i-pechatnoy-ploshchadi-predostavlyaemykh-bezvozmez.php",
+      "http://crimea.izbirkom.ru/svedeniya-o-vozlozhenii-polnomochiy-okruzhnykh-izbiratelnykh-komissiy-po-vyboram-deputatov-gosudarst.php"
+    ],
+    "allowedHosts": [
+      "crimea.izbirkom.ru",
+      "www.crimea.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 2,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://crimea.izbirkom.ru/o-zherebevkakh-po-raspredeleniyu-efirnogo-vremeni-i-pechatnoy-ploshchadi-predostavlyaemykh-bezvozmez.php",
+      "title": "О жеребьевках по распределению эфирного времени и печатной площади, предоставляемых безвозмездно, в региональных государственных средствах массовой информации при проведении выборов депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://crimea.izbirkom.ru/o-zherebevkakh-po-raspredeleniyu-efirnogo-vremeni-i-pechatnoy-ploshchadi-predostavlyaemykh-bezvozmez.php",
+        "requestKey": "http://crimea.izbirkom.ru/o-zherebevkakh-po-raspredeleniyu-efirnogo-vremeni-i-pechatnoy-ploshchadi-predostavlyaemykh-bezvozmez.php",
+        "retrievedAt": "2026-09-04T03:49:14.861339+00:00",
+        "status": 200,
+        "sha256": "bf23dd9336d0daad59d36950128f5ab55106409197aedfe1bc9a32101d902275",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://crimea.izbirkom.ru/svedeniya-o-vozlozhenii-polnomochiy-okruzhnykh-izbiratelnykh-komissiy-po-vyboram-deputatov-gosudarst.php",
+      "title": "Сведения о возложении полномочий окружных избирательных комиссий по выборам депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва (Республика Крым)",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://crimea.izbirkom.ru/svedeniya-o-vozlozhenii-polnomochiy-okruzhnykh-izbiratelnykh-komissiy-po-vyboram-deputatov-gosudarst.php",
+        "requestKey": "http://crimea.izbirkom.ru/svedeniya-o-vozlozhenii-polnomochiy-okruzhnykh-izbiratelnykh-komissiy-po-vyboram-deputatov-gosudarst.php",
+        "retrievedAt": "2026-09-04T03:49:15.532239+00:00",
+        "status": 200,
+        "sha256": "0036afd643d2e5bddf28026001ea38fa886f29cc0f975f5ea2d0fdd18b8e54bd",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

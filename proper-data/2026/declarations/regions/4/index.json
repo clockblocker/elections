@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:29.324270+00:00",
+  "region": {
+    "code": "4",
+    "name": "Республика Бурятия",
+    "seedUrls": [
+      "http://buriat.izbirkom.ru/postanovleniya-izbiratelnoy-komissii-respubliki-buryatiya-po-vyboram-deputatov-gosudarstvennoy-dumy-.php",
+      "http://buriat.izbirkom.ru/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva.php"
+    ],
+    "allowedHosts": [
+      "buriat.izbirkom.ru",
+      "www.buriat.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 7,
+  "documentCount": 2,
+  "documentCounts": {
+    "declaration": 2
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 2,
+      "explicitEmptyPageCount": 1,
+      "documentCount": 2
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://buriat.izbirkom.ru/postanovleniya-izbiratelnoy-komissii-respubliki-buryatiya-po-vyboram-deputatov-gosudarstvennoy-dumy-.php",
+      "title": "﻿Постановления Избирательной комиссии Республики Бурятия по выборам депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://buriat.izbirkom.ru/postanovleniya-izbiratelnoy-komissii-respubliki-buryatiya-po-vyboram-deputatov-gosudarstvennoy-dumy-.php",
+        "requestKey": "http://buriat.izbirkom.ru/postanovleniya-izbiratelnoy-komissii-respubliki-buryatiya-po-vyboram-deputatov-gosudarstvennoy-dumy-.php",
+        "retrievedAt": "2026-09-04T03:28:38.489075+00:00",
+        "status": 200,
+        "sha256": "810942419091620b9e061e25a2692fc37fd4265beeb4d5437f78c5b67c52a4c7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://buriat.izbirkom.ru/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://buriat.izbirkom.ru/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva.php",
+        "requestKey": "http://buriat.izbirkom.ru/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva.php",
+        "retrievedAt": "2026-09-04T03:28:38.983311+00:00",
+        "status": 200,
+        "sha256": "b1d8c30d597b66c4348d9a25cf277b1fac3514d0c8b2a121c2889888fbc7b81a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://buriat.izbirkom.ru/news/1795/",
+      "title": "Жители и гости столицы Бурятии могут наблюдать на улицах трамваи с логотипом выборов депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://buriat.izbirkom.ru/news/1795/",
+        "requestKey": "http://buriat.izbirkom.ru/news/1795/",
+        "retrievedAt": "2026-09-04T03:28:39.471471+00:00",
+        "status": 200,
+        "sha256": "d71ebfae595a90027fe4fb420ad4d09a49f57d4ec61b53de68098aaa2ad3f7e7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://buriat.izbirkom.ru/news/1792/",
+      "title": "На заседании Окружной избирательной комиссии одномандатного избирательного округа «Республика Бурятия – Бурятский одномандатный избирательный округ № 9» 28 августа 2026 г.",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://buriat.izbirkom.ru/news/1792/",
+        "requestKey": "http://buriat.izbirkom.ru/news/1792/",
+        "retrievedAt": "2026-09-04T03:28:39.994173+00:00",
+        "status": 200,
+        "sha256": "0d7fffcb2db932c5ce234eefc7b8dc4be6f57ee3031968b5771146a356c5a21b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://buriat.izbirkom.ru/news/1790/",
+      "title": "28 августа 2026 г. состоится заседание Окружной избирательной комиссии одномандатного избирательного округа «Республика Бурятия – Бурятский одномандатный избирательный округ № 9»",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://buriat.izbirkom.ru/news/1790/",
+        "requestKey": "http://buriat.izbirkom.ru/news/1790/",
+        "retrievedAt": "2026-09-04T03:28:41.526683+00:00",
+        "status": 200,
+        "sha256": "5391c7b8ebc3ac978fc0510e817956a98e496952a3552d0394aa35f27e37f07f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://buriat.izbirkom.ru/postanovleniya-oik-odnomandatnogo-izbiratelnogo-okruga-9-respublika-buryatiya-buryatskiy-odnomandatn.php",
+      "title": "Постановления ОИК одномандатного избирательного округа №9 \"Республика Бурятия-Бурятский одномандатный избирательный округ\"",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://buriat.izbirkom.ru/postanovleniya-oik-odnomandatnogo-izbiratelnogo-okruga-9-respublika-buryatiya-buryatskiy-odnomandatn.php",
+        "requestKey": "http://buriat.izbirkom.ru/postanovleniya-oik-odnomandatnogo-izbiratelnogo-okruga-9-respublika-buryatiya-buryatskiy-odnomandatn.php",
+        "retrievedAt": "2026-09-04T03:28:41.976464+00:00",
+        "status": 200,
+        "sha256": "ee6a5158cc29347c91d5305bd13b795a245d6b518e8daefccf376cc05cfc91a2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://buriat.izbirkom.ru/svedeniya-o-dokhodakh-i-imushchestve-kandidatov.php",
+      "title": "Сведения о доходах и имуществе кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 2
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://buriat.izbirkom.ru/dokumenty-izbiratelnoy-komissii/20260731_101216.pdf",
+        "http://buriat.izbirkom.ru/informatsiya-o-vyborakh-i-referendumakh/20260724_062436.pdf"
+      ],
+      "source": {
+        "url": "http://buriat.izbirkom.ru/svedeniya-o-dokhodakh-i-imushchestve-kandidatov.php",
+        "requestKey": "http://buriat.izbirkom.ru/svedeniya-o-dokhodakh-i-imushchestve-kandidatov.php",
+        "retrievedAt": "2026-09-04T03:28:43.388822+00:00",
+        "status": 200,
+        "sha256": "dc55a5e61b821fcb2247fe8c43c8b53d3d17d4589c1fe1a97301e400297b7a7d",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "Сведения о размере и об источниках доходов, имуществе, принадлежащем кандидату на праве собственности, о счетах (вкладах) в банках, ценных бумагах",
+      "officialUrl": "http://buriat.izbirkom.ru/dokumenty-izbiratelnoy-komissii/20260731_101216.pdf",
+      "sourcePages": [
+        {
+          "url": "http://buriat.izbirkom.ru/svedeniya-o-dokhodakh-i-imushchestve-kandidatov.php",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "dc55a5e61b821fcb2247fe8c43c8b53d3d17d4589c1fe1a97301e400297b7a7d"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "350ecb562df857d23993e4279ad1c1ce007a37eb565fdd57da797ea766a1eab4",
+      "originalFilename": "20260731_101216.pdf",
+      "filename": "Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащем_кандидату_на_праве_собственности-350ecb562df8.pdf",
+      "path": "files/Сведения_о_размере_и_об_источниках_доходов_имуществе_принадлежащем_кандидату_на_праве_собственности-350ecb562df8.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 2582784,
+      "sha256": "350ecb562df857d23993e4279ad1c1ce007a37eb565fdd57da797ea766a1eab4",
+      "source": {
+        "url": "http://buriat.izbirkom.ru/dokumenty-izbiratelnoy-komissii/20260731_101216.pdf",
+        "requestKey": "http://buriat.izbirkom.ru/dokumenty-izbiratelnoy-komissii/20260731_101216.pdf",
+        "retrievedAt": "2026-09-04T03:28:45.400876+00:00",
+        "status": 200,
+        "sha256": "350ecb562df857d23993e4279ad1c1ce007a37eb565fdd57da797ea766a1eab4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Сведения о расходах кандидата, его супруги (супруга) и несовешеннолетних детей по каждой сделке по приобретению земельного участка, другого объекта недвижимости, транспортного средства, ценных бумаг (долей участия, паев в уставных (складочных) капиталах организаций), цифровых финансовых активов, цифровой валюты и об источниках получения средств, за счет которых совершенна сделка, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов, глав муниципальных округов и глав городских округов.",
+      "officialUrl": "http://buriat.izbirkom.ru/informatsiya-o-vyborakh-i-referendumakh/20260724_062436.pdf",
+      "sourcePages": [
+        {
+          "url": "http://buriat.izbirkom.ru/svedeniya-o-dokhodakh-i-imushchestve-kandidatov.php",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 1,
+          "sha256": "dc55a5e61b821fcb2247fe8c43c8b53d3d17d4589c1fe1a97301e400297b7a7d"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "25df22b64181688638692a47423b9c6ee34a4b3b92565a1c0416244d208a3a29",
+      "originalFilename": "20260724_062436.pdf",
+      "filename": "Сведения_о_расходах_кандидата_его_супруги_супруга_и_несовешеннолетних_детей_по_каждой_сделке_по_прио-25df22b64181.pdf",
+      "path": "files/Сведения_о_расходах_кандидата_его_супруги_супруга_и_несовешеннолетних_детей_по_каждой_сделке_по_прио-25df22b64181.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 1320843,
+      "sha256": "25df22b64181688638692a47423b9c6ee34a4b3b92565a1c0416244d208a3a29",
+      "source": {
+        "url": "http://buriat.izbirkom.ru/informatsiya-o-vyborakh-i-referendumakh/20260724_062436.pdf",
+        "requestKey": "http://buriat.izbirkom.ru/informatsiya-o-vyborakh-i-referendumakh/20260724_062436.pdf",
+        "retrievedAt": "2026-09-04T03:28:45.993346+00:00",
+        "status": 200,
+        "sha256": "25df22b64181688638692a47423b9c6ee34a4b3b92565a1c0416244d208a3a29",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

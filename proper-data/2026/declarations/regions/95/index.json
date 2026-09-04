@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:12.337655+00:00",
+  "region": {
+    "code": "95",
+    "name": "Донецкая Народная Республика",
+    "seedUrls": [
+      "http://dnr.izbirkom.ru/kalendar-vyborov/edg2026/"
+    ],
+    "allowedHosts": [
+      "dnr.izbirkom.ru",
+      "www.dnr.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 6,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://dnr.izbirkom.ru/kalendar-vyborov/edg2026/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://dnr.izbirkom.ru/kalendar-vyborov/edg2026/",
+        "requestKey": "http://dnr.izbirkom.ru/kalendar-vyborov/edg2026/",
+        "retrievedAt": "2026-09-04T03:50:12.314146+00:00",
+        "status": 200,
+        "sha256": "73ffaeb201b57b827bfa08b0a267d117216940c0a976e8400bea05812d43f4ec",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://dnr.izbirkom.ru/kalendar-vyborov/edg2026",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://dnr.izbirkom.ru/kalendar-vyborov/edg2026/",
+        "requestKey": "http://dnr.izbirkom.ru/kalendar-vyborov/edg2026",
+        "retrievedAt": "2026-09-04T03:50:12.951792+00:00",
+        "status": 200,
+        "sha256": "73ffaeb201b57b827bfa08b0a267d117216940c0a976e8400bea05812d43f4ec",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://dnr.izbirkom.ru/kalendar-vyborov/edg2026/dlya-politicheskikh-partiy-i-kandidatov",
+      "title": "Для политических партий и кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://dnr.izbirkom.ru/kalendar-vyborov/edg2026/dlya-politicheskikh-partiy-i-kandidatov/",
+        "requestKey": "http://dnr.izbirkom.ru/kalendar-vyborov/edg2026/dlya-politicheskikh-partiy-i-kandidatov",
+        "retrievedAt": "2026-09-04T03:50:14.861618+00:00",
+        "status": 200,
+        "sha256": "4eb325a4ebe0977519a6d21c0fe5dc827f60a7688141d9ba375b4f2701cf4ea9",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://dnr.izbirkom.ru/kalendar-vyborov/edg2026/odnomandatnye-izbiratelnye-okruga",
+      "title": "Одномандатные избирательные округа",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://dnr.izbirkom.ru/kalendar-vyborov/edg2026/odnomandatnye-izbiratelnye-okruga/",
+        "requestKey": "http://dnr.izbirkom.ru/kalendar-vyborov/edg2026/odnomandatnye-izbiratelnye-okruga",
+        "retrievedAt": "2026-09-04T03:50:15.496229+00:00",
+        "status": 200,
+        "sha256": "5334d82588c9a9812090f5cb02676bd0198ce2402e9f1bd294dfad0bead9ebe8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://dnr.izbirkom.ru/kalendar-vyborov/edg2026/dlya-politicheskikh-partiy-i-kandidatov/",
+      "title": "Для политических партий и кандидатов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://dnr.izbirkom.ru/kalendar-vyborov/edg2026/dlya-politicheskikh-partiy-i-kandidatov/",
+        "requestKey": "http://dnr.izbirkom.ru/kalendar-vyborov/edg2026/dlya-politicheskikh-partiy-i-kandidatov/",
+        "retrievedAt": "2026-09-04T03:50:21.337324+00:00",
+        "status": 200,
+        "sha256": "4eb325a4ebe0977519a6d21c0fe5dc827f60a7688141d9ba375b4f2701cf4ea9",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://dnr.izbirkom.ru/kalendar-vyborov/edg2026/odnomandatnye-izbiratelnye-okruga/",
+      "title": "Одномандатные избирательные округа",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://dnr.izbirkom.ru/kalendar-vyborov/edg2026/odnomandatnye-izbiratelnye-okruga/",
+        "requestKey": "http://dnr.izbirkom.ru/kalendar-vyborov/edg2026/odnomandatnye-izbiratelnye-okruga/",
+        "retrievedAt": "2026-09-04T03:50:21.816038+00:00",
+        "status": 200,
+        "sha256": "5334d82588c9a9812090f5cb02676bd0198ce2402e9f1bd294dfad0bead9ebe8",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

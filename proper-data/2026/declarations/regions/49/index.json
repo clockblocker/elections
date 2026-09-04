@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:39.232257+00:00",
+  "region": {
+    "code": "49",
+    "name": "Магаданская область",
+    "seedUrls": [
+      "http://magadan.izbirkom.ru/20092026/",
+      "http://magadan.izbirkom.ru/news/?ELEMENT_ID=7255",
+      "http://magadan.izbirkom.ru/20092026/ii/index.php"
+    ],
+    "allowedHosts": [
+      "magadan.izbirkom.ru",
+      "www.magadan.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 5,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://magadan.izbirkom.ru/20092026/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://magadan.izbirkom.ru/20092026/",
+        "requestKey": "http://magadan.izbirkom.ru/20092026/",
+        "retrievedAt": "2026-09-04T03:42:34.311714+00:00",
+        "status": 200,
+        "sha256": "c95da15b7c2eda2d56d9477246530ddd83719c53f5dbefd3731ee1fccb580527",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://magadan.izbirkom.ru/news/?ELEMENT_ID=7255",
+      "title": "Аккредитация представителей СМИ на выборах депутатов Государственной Думы Федерального Собрания Российской Федерации 18, 19 и 20 сентября 2026 года",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://magadan.izbirkom.ru/news/?ELEMENT_ID=7255",
+        "requestKey": "http://magadan.izbirkom.ru/news/?ELEMENT_ID=7255",
+        "retrievedAt": "2026-09-04T03:42:35.394850+00:00",
+        "status": 200,
+        "sha256": "d3bd5dcb0ebefa1f46b2cb801fd11a0a6ffec6d8d1e6f949f90fa5a106ba8127",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://magadan.izbirkom.ru/20092026/ii/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва. Информация для избирателей",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://magadan.izbirkom.ru/20092026/ii/index.php",
+        "requestKey": "http://magadan.izbirkom.ru/20092026/ii/index.php",
+        "retrievedAt": "2026-09-04T03:42:36.378570+00:00",
+        "status": 200,
+        "sha256": "2576c442eb7e40e0814ae18a97840c3f6300708ba02803a41b0553fb20484f39",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://magadan.izbirkom.ru/20092026/ikio/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва. Информация для кандидатов и избирательных объединений",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://magadan.izbirkom.ru/20092026/ikio/",
+        "requestKey": "http://magadan.izbirkom.ru/20092026/ikio/",
+        "retrievedAt": "2026-09-04T03:42:37.421917+00:00",
+        "status": 200,
+        "sha256": "7b2a5ef7af70d0bbb392602e85d4460d5fd7df3da9457ae7f0485ee89cc9940d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://magadan.izbirkom.ru/20092026/ii/ppz.php",
+      "title": "График работы территориальных и участковых избирательных комиссий в период приема заявлений о включении избирателей в список избирателей по месту нахождения при проведении выборов депутатов Государственной Думы Федерального Собрания Российской Федерации",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://magadan.izbirkom.ru/20092026/ii/ppz.php",
+        "requestKey": "http://magadan.izbirkom.ru/20092026/ii/ppz.php",
+        "retrievedAt": "2026-09-04T03:42:38.475227+00:00",
+        "status": 200,
+        "sha256": "9e402d15345a7f044ca5992bbe2389f9544c81184fb1428d57166b99d410871d",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

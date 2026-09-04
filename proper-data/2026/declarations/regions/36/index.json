@@ -1,0 +1,463 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:33.010966+00:00",
+  "region": {
+    "code": "36",
+    "name": "Воронежская область",
+    "seedUrls": [
+      "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/",
+      "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/"
+    ],
+    "allowedHosts": [
+      "voronezh.izbirkom.ru",
+      "www.voronezh.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": false,
+  "truncated": false,
+  "pageCount": 13,
+  "documentCount": 5,
+  "documentCounts": {
+    "declaration": 5
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 2,
+      "explicitEmptyPageCount": 1,
+      "documentCount": 5
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [
+      {
+        "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/90_доходы_имущество.pdf",
+        "category": "declaration",
+        "status": 404,
+        "error": "HTTP 404"
+      }
+    ],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/",
+        "requestKey": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/",
+        "retrievedAt": "2026-09-04T03:43:42.826107+00:00",
+        "status": 200,
+        "sha256": "6983688e70ede54d39a87970ac7ef63999a9dbd4014e40437e6d20dccea3a4c0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+      "title": "Сведения о доходах и имуществе кандидатов",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 7
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/90_доходы__имущество.pdf",
+        "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/90_доходы_имущество.pdf",
+        "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/91_доходы__имущество.pdf",
+        "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/92_доходы__имущество.pdf",
+        "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Сведения о расходах-2026.pdf",
+        "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Сведения об имуществе за рубежом-2026.pdf"
+      ],
+      "source": {
+        "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+        "requestKey": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+        "retrievedAt": "2026-09-04T03:43:43.604677+00:00",
+        "status": 200,
+        "sha256": "53a9744fbe58a1ec83942b5a210a456221a40eaebb9b1117b268746f800626d7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/grafik-raboti/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/grafik-raboti/",
+        "requestKey": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/grafik-raboti/",
+        "retrievedAt": "2026-09-04T03:43:44.542209+00:00",
+        "status": 200,
+        "sha256": "be3d10e2d9d921582c69ea2b27be7741ffb06f1ecf684b0f81e1e7e22c6b03a1",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/resheniya/",
+      "title": "Решения Избирательной комиссии Воронежской области",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/resheniya/",
+        "requestKey": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/resheniya/",
+        "retrievedAt": "2026-09-04T03:43:45.698023+00:00",
+        "status": 200,
+        "sha256": "23b75661991657fbf5996fb913e124446f7fd67cb1999f842ce3afebcf1a0c8b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/doc/inoformatsionnye-plakaty/",
+      "title": "Сведения о зарегистрированных кандидатах и списках кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/doc/inoformatsionnye-plakaty/",
+        "requestKey": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/doc/inoformatsionnye-plakaty/",
+        "retrievedAt": "2026-09-04T03:43:46.201767+00:00",
+        "status": 200,
+        "sha256": "4257628e4f7086df3e2b8053d0e77bd5d3122c978b27a151f1e9ab702b346bfb",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/spi-nabludateli/",
+      "title": "СПИ «Наблюдатели»",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/spi-nabludateli/",
+        "requestKey": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/spi-nabludateli/",
+        "retrievedAt": "2026-09-04T03:43:46.690764+00:00",
+        "status": 200,
+        "sha256": "af5d0089139147d6001ccd4c8cf3dbf87d836cfdd25c521595f42020d9d51bb9",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/resheniya/?PAGEN_1=2",
+      "title": "Решения Избирательной комиссии Воронежской области",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/resheniya/?PAGEN_1=2",
+        "requestKey": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/resheniya/?PAGEN_1=2",
+        "retrievedAt": "2026-09-04T03:43:48.943272+00:00",
+        "status": 200,
+        "sha256": "751dfa9c188381d86a79a4f91b4acce6a0a9e8f194eab9b71e1f86d43ca5599b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/resheniya/?PAGEN_1=3",
+      "title": "Решения Избирательной комиссии Воронежской области",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/resheniya/?PAGEN_1=3",
+        "requestKey": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/resheniya/?PAGEN_1=3",
+        "retrievedAt": "2026-09-04T03:43:49.419612+00:00",
+        "status": 200,
+        "sha256": "249b320b7364c8b04d2fc0e151900d85f32b10f71e6c18c6bd7e42f57099260b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/resheniya/?PAGEN_1=4",
+      "title": "Решения Избирательной комиссии Воронежской области",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/resheniya/?PAGEN_1=4",
+        "requestKey": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/resheniya/?PAGEN_1=4",
+        "retrievedAt": "2026-09-04T03:43:50.116610+00:00",
+        "status": 200,
+        "sha256": "0807467fa9a0b27df943a469c16cb94889732a0cea3bae5c7781c6ca205654b6",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/resheniya/?PAGEN_1=5",
+      "title": "Решения Избирательной комиссии Воронежской области",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/resheniya/?PAGEN_1=5",
+        "requestKey": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/resheniya/?PAGEN_1=5",
+        "retrievedAt": "2026-09-04T03:43:50.589607+00:00",
+        "status": 200,
+        "sha256": "b172b013a8774d0d7ba3b1d5526c644b57c2e38a3c3e3d5b1a55ef772ba84795",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/resheniya/?SHOWALL_1=1",
+      "title": "Решения Избирательной комиссии Воронежской области",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/resheniya/?SHOWALL_1=1",
+        "requestKey": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/resheniya/?SHOWALL_1=1",
+        "retrievedAt": "2026-09-04T03:43:51.119197+00:00",
+        "status": 200,
+        "sha256": "592623ba6ddda471aa1b43a16fb09870730205550b57dccb9011a14205320da4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/doc/inoformatsionnye-plakaty/mazhoritarnyy/",
+      "title": "Сведения о кандидатах в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва, выдвинутых в одномандатных избирательных округах",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/doc/inoformatsionnye-plakaty/mazhoritarnyy/",
+        "requestKey": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/doc/inoformatsionnye-plakaty/mazhoritarnyy/",
+        "retrievedAt": "2026-09-04T03:43:51.780823+00:00",
+        "status": 200,
+        "sha256": "e6c2af056fa0d4bbea8eea4cf769c4f3384de4f5c29382f4807347fc72b279f9",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/resheniya/?SHOWALL_1=0",
+      "title": "Решения Избирательной комиссии Воронежской области",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/resheniya/?SHOWALL_1=0",
+        "requestKey": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/resheniya/?SHOWALL_1=0",
+        "retrievedAt": "2026-09-04T03:43:52.287206+00:00",
+        "status": 200,
+        "sha256": "23b75661991657fbf5996fb913e124446f7fd67cb1999f842ce3afebcf1a0c8b",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "Одномандатный избирательный округ № 90",
+      "officialUrl": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/90_доходы__имущество.pdf",
+      "sourcePages": [
+        {
+          "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 0,
+          "sha256": "53a9744fbe58a1ec83942b5a210a456221a40eaebb9b1117b268746f800626d7"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "726c758707de208f7dfd4d1cf14ee4ad970f04457241bedb59871bcf887e5b4a",
+      "originalFilename": "90_доходы__имущество.pdf",
+      "filename": "Одномандатный_избирательный_округ_90-726c758707de.pdf",
+      "path": "files/Одномандатный_избирательный_округ_90-726c758707de.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 289521,
+      "sha256": "726c758707de208f7dfd4d1cf14ee4ad970f04457241bedb59871bcf887e5b4a",
+      "source": {
+        "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/90_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D1%8B__%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE.pdf",
+        "requestKey": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/90_доходы__имущество.pdf",
+        "retrievedAt": "2026-09-04T03:43:52.773703+00:00",
+        "status": 200,
+        "sha256": "726c758707de208f7dfd4d1cf14ee4ad970f04457241bedb59871bcf887e5b4a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Одномандатный избирательный округ № 91",
+      "officialUrl": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/91_доходы__имущество.pdf",
+      "sourcePages": [
+        {
+          "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 0,
+          "sha256": "53a9744fbe58a1ec83942b5a210a456221a40eaebb9b1117b268746f800626d7"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "ee9d2776dc63e9a00da5079c4beee829ea5ecab53fcabfeae0b2203b3065eada",
+      "originalFilename": "91_доходы__имущество.pdf",
+      "filename": "Одномандатный_избирательный_округ_91-ee9d2776dc63.pdf",
+      "path": "files/Одномандатный_избирательный_округ_91-ee9d2776dc63.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 267915,
+      "sha256": "ee9d2776dc63e9a00da5079c4beee829ea5ecab53fcabfeae0b2203b3065eada",
+      "source": {
+        "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/91_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D1%8B__%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE.pdf",
+        "requestKey": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/91_доходы__имущество.pdf",
+        "retrievedAt": "2026-09-04T03:43:53.932333+00:00",
+        "status": 200,
+        "sha256": "ee9d2776dc63e9a00da5079c4beee829ea5ecab53fcabfeae0b2203b3065eada",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Одномандатный избирательный округ № 92",
+      "officialUrl": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/92_доходы__имущество.pdf",
+      "sourcePages": [
+        {
+          "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 0,
+          "sha256": "53a9744fbe58a1ec83942b5a210a456221a40eaebb9b1117b268746f800626d7"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "f5b5057c4e851f29d16caf0a2c2b607beddadcc3e493ac79fa7c3c0b4f469d67",
+      "originalFilename": "92_доходы__имущество.pdf",
+      "filename": "Одномандатный_избирательный_округ_92-f5b5057c4e85.pdf",
+      "path": "files/Одномандатный_избирательный_округ_92-f5b5057c4e85.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 195832,
+      "sha256": "f5b5057c4e851f29d16caf0a2c2b607beddadcc3e493ac79fa7c3c0b4f469d67",
+      "source": {
+        "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/92_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D1%8B__%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE.pdf",
+        "requestKey": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/92_доходы__имущество.pdf",
+        "retrievedAt": "2026-09-04T03:43:54.393933+00:00",
+        "status": 200,
+        "sha256": "f5b5057c4e851f29d16caf0a2c2b607beddadcc3e493ac79fa7c3c0b4f469d67",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Сведения о расходах кандидата, его супруги (супруга) и несовершеннолетних детей по каждой сделке по приобретению земельного участка, другого объекта недвижимости, транспортного средства, ценных бумаг (долей участия, паев в уставных (складочных) капиталах организаций), цифровых финансовых активов, цифровой валюты и об источниках получения средств, за счет которых совершена сделка, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов, глав муниципальных округов и глав городских округов",
+      "officialUrl": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Сведения о расходах-2026.pdf",
+      "sourcePages": [
+        {
+          "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 0,
+          "sha256": "53a9744fbe58a1ec83942b5a210a456221a40eaebb9b1117b268746f800626d7"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "d699d6d827523ed08b5accc0f39c2ff508b656a555a2f462902a33df0f61c5c7",
+      "originalFilename": "Сведения о расходах-2026.pdf",
+      "filename": "Сведения_о_расходах_кандидата_его_супруги_супруга_и_несовершеннолетних_детей_по_каждой_сделке_по_при-d699d6d82752.pdf",
+      "path": "files/Сведения_о_расходах_кандидата_его_супруги_супруга_и_несовершеннолетних_детей_по_каждой_сделке_по_при-d699d6d82752.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 101727,
+      "sha256": "d699d6d827523ed08b5accc0f39c2ff508b656a555a2f462902a33df0f61c5c7",
+      "source": {
+        "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D1%80%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%B0%D1%85-2026.pdf",
+        "requestKey": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Сведения о расходах-2026.pdf",
+        "retrievedAt": "2026-09-04T03:43:54.838222+00:00",
+        "status": 200,
+        "sha256": "d699d6d827523ed08b5accc0f39c2ff508b656a555a2f462902a33df0f61c5c7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Сведения о принадлежащем кандидату, его супруге (супругу) и несовершеннолетним детям недвижимом имуществе, находящемся за пределами территории Российской Федерации, об источниках получения средств, за счет которых приобретено указанное имущество, об их обязательствах имущественного характера за пределами территории Российской Федерации, представляемая кандидатом на выборах в органы государственной власти, выборах глав муниципальных районов, глав муниципальных округов и глав городских округов",
+      "officialUrl": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Сведения об имуществе за рубежом-2026.pdf",
+      "sourcePages": [
+        {
+          "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/",
+          "title": "Сведения о доходах и имуществе кандидатов",
+          "depth": 0,
+          "sha256": "53a9744fbe58a1ec83942b5a210a456221a40eaebb9b1117b268746f800626d7"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "e9a65a08dd561e987bbff6f6b5f38fc7ea772f54ae9c79a746d8159203bb488e",
+      "originalFilename": "Сведения об имуществе за рубежом-2026.pdf",
+      "filename": "Сведения_о_принадлежащем_кандидату_его_супруге_супругу_и_несовершеннолетним_детям_недвижимом_имущест-e9a65a08dd56.pdf",
+      "path": "files/Сведения_о_принадлежащем_кандидату_его_супруге_супругу_и_несовершеннолетним_детям_недвижимом_имущест-e9a65a08dd56.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 102596,
+      "sha256": "e9a65a08dd561e987bbff6f6b5f38fc7ea772f54ae9c79a746d8159203bb488e",
+      "source": {
+        "url": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%D0%B1%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%20%D0%B7%D0%B0%20%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC-2026.pdf",
+        "requestKey": "http://voronezh.izbirkom.ru/kalendar-vyborov/2026/edg/gosduma/svedeniya-o-dokhodakh-i-imushchestve-kandidatov/Сведения об имуществе за рубежом-2026.pdf",
+        "retrievedAt": "2026-09-04T03:43:55.268153+00:00",
+        "status": 200,
+        "sha256": "e9a65a08dd561e987bbff6f6b5f38fc7ea772f54ae9c79a746d8159203bb488e",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

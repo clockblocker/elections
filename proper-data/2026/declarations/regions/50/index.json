@@ -1,0 +1,747 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:39.348420+00:00",
+  "region": {
+    "code": "50",
+    "name": "Московская область",
+    "seedUrls": [
+      "http://moscow-reg.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+      "http://moscow-reg.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8"
+    ],
+    "allowedHosts": [
+      "moscow-reg.izbirkom.ru",
+      "www.moscow-reg.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 12,
+  "documentCount": 12,
+  "documentCounts": {
+    "declaration": 12
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 5,
+      "explicitEmptyPageCount": 3,
+      "documentCount": 12
+    },
+    "inaccuracy": {
+      "signalPageCount": 1,
+      "explicitEmptyPageCount": 1,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://moscow-reg.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+      "title": "Поиск",
+      "depth": 0,
+      "electionContextConfirmed": false,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+        "requestKey": "http://moscow-reg.izbirkom.ru/search/?q=%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85",
+        "retrievedAt": "2026-09-04T03:42:39.731416+00:00",
+        "status": 200,
+        "sha256": "b2a8899b25fa9f8bfcf50c7afb78b006d0bee6df466c91f44e52416a2f3529b1",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://moscow-reg.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+      "title": "Поиск",
+      "depth": 0,
+      "electionContextConfirmed": false,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "inaccuracy"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+        "requestKey": "http://moscow-reg.izbirkom.ru/search/?q=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+        "retrievedAt": "2026-09-04T03:42:40.716888+00:00",
+        "status": 200,
+        "sha256": "26d726ad482420a54089527aa8d33c24922a0ea5dc6962958a2690bc000f42e0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php?sphrase_id=41",
+      "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 12
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/118.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/119.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/120.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/121.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/122.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/123.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/124.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/125.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/126.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/127.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/128.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/129.pdf"
+      ],
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php?sphrase_id=41",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php?sphrase_id=41",
+        "retrievedAt": "2026-09-04T03:55:19.166346+00:00",
+        "status": 200,
+        "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/",
+        "retrievedAt": "2026-09-04T03:55:19.696548+00:00",
+        "status": 200,
+        "sha256": "424621b6b6c041c0003f325f2f463a906ebe96f77e040b562658124cf4d97e51",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/",
+      "title": "Кандидаты",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/",
+        "retrievedAt": "2026-09-04T03:55:20.240890+00:00",
+        "status": 200,
+        "sha256": "ede69c5161b23e4f5ea49ecb2c6b68e31cefbd3180114ebbae36edaf6eccc00f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/okruzhnye-izbiratelnye-komissii",
+      "title": "Окружные избирательные комиссии",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/okruzhnye-izbiratelnye-komissii/",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/okruzhnye-izbiratelnye-komissii",
+        "retrievedAt": "2026-09-04T03:55:20.851521+00:00",
+        "status": 200,
+        "sha256": "22dba70b2e6e7794baeb3c1a28c1f079d3e25ded19872208b140ca74ed6b0689",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/resheniya-izbiratelnoy-komissii-moskovskoy-oblasti",
+      "title": "Решения избирательной комиссии Московской области",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/resheniya-izbiratelnoy-komissii-moskovskoy-oblasti/",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/resheniya-izbiratelnoy-komissii-moskovskoy-oblasti",
+        "retrievedAt": "2026-09-04T03:55:21.441151+00:00",
+        "status": 200,
+        "sha256": "ea93fa46afa9be6a9c3e237f26bfa020187ea83d0e0a4e1c844922acd81a9d20",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/informatsionnoe-obespechenie",
+      "title": "Информационное обеспечение",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/informatsionnoe-obespechenie/",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/informatsionnoe-obespechenie",
+        "retrievedAt": "2026-09-04T03:55:22.113963+00:00",
+        "status": 200,
+        "sha256": "873a3af122585a0333a9643a4c337db71d073f5a42dccaae05c9c437c33d09c5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty",
+      "title": "Кандидаты",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty",
+        "retrievedAt": "2026-09-04T03:55:22.703425+00:00",
+        "status": 200,
+        "sha256": "ede69c5161b23e4f5ea49ecb2c6b68e31cefbd3180114ebbae36edaf6eccc00f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/finansovye-otchety",
+      "title": "Финансовые отчеты",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/finansovye-otchety/",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/finansovye-otchety",
+        "retrievedAt": "2026-09-04T03:55:23.325868+00:00",
+        "status": 200,
+        "sha256": "aac336fd1120337a5d0c7d7718d47b04da6a5fae0c8f199415150ddc6be988c4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/postuplenie-i-raskhodovanie-sredstv",
+      "title": "Поступление и расходование средств",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/postuplenie-i-raskhodovanie-sredstv/",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/postuplenie-i-raskhodovanie-sredstv",
+        "retrievedAt": "2026-09-04T03:55:23.910704+00:00",
+        "status": 200,
+        "sha256": "8d8567c0de2989ffa22c3c624eb9c0acecf5050abee8a580399350243495253f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php",
+      "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 12
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/118.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/119.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/120.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/121.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/122.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/123.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/124.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/125.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/126.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/127.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/128.pdf",
+        "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/129.pdf"
+      ],
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php",
+        "retrievedAt": "2026-09-04T03:55:24.435682+00:00",
+        "status": 200,
+        "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "Балашихинский одномандатный избирательный округ №118",
+      "officialUrl": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/118.pdf",
+      "sourcePages": [
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php?sphrase_id=41",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 1,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        },
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 3,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "d324e7f93fc3f3d5037f678cab1921eddd72eb6f3d3aebcfd22c5d186c807fb6",
+      "originalFilename": "118.pdf",
+      "filename": "Балашихинский_одномандатный_избирательный_округ_118-d324e7f93fc3.pdf",
+      "path": "files/Балашихинский_одномандатный_избирательный_округ_118-d324e7f93fc3.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 185264,
+      "sha256": "d324e7f93fc3f3d5037f678cab1921eddd72eb6f3d3aebcfd22c5d186c807fb6",
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/118.pdf",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/118.pdf",
+        "retrievedAt": "2026-09-04T03:55:24.910681+00:00",
+        "status": 200,
+        "sha256": "d324e7f93fc3f3d5037f678cab1921eddd72eb6f3d3aebcfd22c5d186c807fb6",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Дмитровский одномандатный избирательный округ №119",
+      "officialUrl": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/119.pdf",
+      "sourcePages": [
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php?sphrase_id=41",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 1,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        },
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 3,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "8dd47493c7e705d86146901dd849c6fbbdb5c3e2578e17c05d0da393e0b5f43c",
+      "originalFilename": "119.pdf",
+      "filename": "Дмитровский_одномандатный_избирательный_округ_119-8dd47493c7e7.pdf",
+      "path": "files/Дмитровский_одномандатный_избирательный_округ_119-8dd47493c7e7.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 183684,
+      "sha256": "8dd47493c7e705d86146901dd849c6fbbdb5c3e2578e17c05d0da393e0b5f43c",
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/119.pdf",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/119.pdf",
+        "retrievedAt": "2026-09-04T03:55:25.358592+00:00",
+        "status": 200,
+        "sha256": "8dd47493c7e705d86146901dd849c6fbbdb5c3e2578e17c05d0da393e0b5f43c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Коломенский одномандатный избирательный округ №120",
+      "officialUrl": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/120.pdf",
+      "sourcePages": [
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php?sphrase_id=41",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 1,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        },
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 3,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "b4af424c5965bd1c64d70eb5e47642cc0c45b045eb0a5bfb9d4c53192ff49920",
+      "originalFilename": "120.pdf",
+      "filename": "Коломенский_одномандатный_избирательный_округ_120-b4af424c5965.pdf",
+      "path": "files/Коломенский_одномандатный_избирательный_округ_120-b4af424c5965.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 178119,
+      "sha256": "b4af424c5965bd1c64d70eb5e47642cc0c45b045eb0a5bfb9d4c53192ff49920",
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/120.pdf",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/120.pdf",
+        "retrievedAt": "2026-09-04T03:55:25.824620+00:00",
+        "status": 200,
+        "sha256": "b4af424c5965bd1c64d70eb5e47642cc0c45b045eb0a5bfb9d4c53192ff49920",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Красногорский одномандатный избирательный округ №121",
+      "officialUrl": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/121.pdf",
+      "sourcePages": [
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php?sphrase_id=41",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 1,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        },
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 3,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "a0255710b1552fcee20debb0164da31a1108a2545535a94cae509502ca546c6f",
+      "originalFilename": "121.pdf",
+      "filename": "Красногорский_одномандатный_избирательный_округ_121-a0255710b155.pdf",
+      "path": "files/Красногорский_одномандатный_избирательный_округ_121-a0255710b155.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 179267,
+      "sha256": "a0255710b1552fcee20debb0164da31a1108a2545535a94cae509502ca546c6f",
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/121.pdf",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/121.pdf",
+        "retrievedAt": "2026-09-04T03:55:26.304017+00:00",
+        "status": 200,
+        "sha256": "a0255710b1552fcee20debb0164da31a1108a2545535a94cae509502ca546c6f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Люберецкий одномандатный избирательный округ №122",
+      "officialUrl": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/122.pdf",
+      "sourcePages": [
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php?sphrase_id=41",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 1,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        },
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 3,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "782c7a4191fb5164fd329ec0d594fc5d3f0cd20e44cb33a589aa10875e5a472c",
+      "originalFilename": "122.pdf",
+      "filename": "Люберецкий_одномандатный_избирательный_округ_122-782c7a4191fb.pdf",
+      "path": "files/Люберецкий_одномандатный_избирательный_округ_122-782c7a4191fb.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 177906,
+      "sha256": "782c7a4191fb5164fd329ec0d594fc5d3f0cd20e44cb33a589aa10875e5a472c",
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/122.pdf",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/122.pdf",
+        "retrievedAt": "2026-09-04T03:55:26.761457+00:00",
+        "status": 200,
+        "sha256": "782c7a4191fb5164fd329ec0d594fc5d3f0cd20e44cb33a589aa10875e5a472c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Мытищинский одномандатный избирательный округ №123",
+      "officialUrl": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/123.pdf",
+      "sourcePages": [
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php?sphrase_id=41",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 1,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        },
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 3,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "5e76c52e5b2747389e759aaf0dd5068976b00af2e1dc5fa0ab6a2c42cd92c6bf",
+      "originalFilename": "123.pdf",
+      "filename": "Мытищинский_одномандатный_избирательный_округ_123-5e76c52e5b27.pdf",
+      "path": "files/Мытищинский_одномандатный_избирательный_округ_123-5e76c52e5b27.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 179740,
+      "sha256": "5e76c52e5b2747389e759aaf0dd5068976b00af2e1dc5fa0ab6a2c42cd92c6bf",
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/123.pdf",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/123.pdf",
+        "retrievedAt": "2026-09-04T03:55:27.227708+00:00",
+        "status": 200,
+        "sha256": "5e76c52e5b2747389e759aaf0dd5068976b00af2e1dc5fa0ab6a2c42cd92c6bf",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Одинцовский одномандатный избирательный округ №124",
+      "officialUrl": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/124.pdf",
+      "sourcePages": [
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php?sphrase_id=41",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 1,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        },
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 3,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "7b567cc1d2cfd17a540db7e7dc9ee4f0814fc22aa592b0fd54efaa5d4edea5b2",
+      "originalFilename": "124.pdf",
+      "filename": "Одинцовский_одномандатный_избирательный_округ_124-7b567cc1d2cf.pdf",
+      "path": "files/Одинцовский_одномандатный_избирательный_округ_124-7b567cc1d2cf.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 195784,
+      "sha256": "7b567cc1d2cfd17a540db7e7dc9ee4f0814fc22aa592b0fd54efaa5d4edea5b2",
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/124.pdf",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/124.pdf",
+        "retrievedAt": "2026-09-04T03:55:27.695006+00:00",
+        "status": 200,
+        "sha256": "7b567cc1d2cfd17a540db7e7dc9ee4f0814fc22aa592b0fd54efaa5d4edea5b2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Орехово-Зуевский одномандатный избирательный округ №125",
+      "officialUrl": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/125.pdf",
+      "sourcePages": [
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php?sphrase_id=41",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 1,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        },
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 3,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "e14782a7e08f43cf8ddf8e1db2b8f33881665058a2ef6a11b10f2a71d52df89c",
+      "originalFilename": "125.pdf",
+      "filename": "Орехово-Зуевский_одномандатный_избирательный_округ_125-e14782a7e08f.pdf",
+      "path": "files/Орехово-Зуевский_одномандатный_избирательный_округ_125-e14782a7e08f.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 176319,
+      "sha256": "e14782a7e08f43cf8ddf8e1db2b8f33881665058a2ef6a11b10f2a71d52df89c",
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/125.pdf",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/125.pdf",
+        "retrievedAt": "2026-09-04T03:55:28.145504+00:00",
+        "status": 200,
+        "sha256": "e14782a7e08f43cf8ddf8e1db2b8f33881665058a2ef6a11b10f2a71d52df89c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Подольский одномандатный избирательный округ №126",
+      "officialUrl": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/126.pdf",
+      "sourcePages": [
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php?sphrase_id=41",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 1,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        },
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 3,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "93e21ddfd1da783263e164f601b2325f090bba7a017dfbe3958667b470dda4d0",
+      "originalFilename": "126.pdf",
+      "filename": "Подольский_одномандатный_избирательный_округ_126-93e21ddfd1da.pdf",
+      "path": "files/Подольский_одномандатный_избирательный_округ_126-93e21ddfd1da.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 180107,
+      "sha256": "93e21ddfd1da783263e164f601b2325f090bba7a017dfbe3958667b470dda4d0",
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/126.pdf",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/126.pdf",
+        "retrievedAt": "2026-09-04T03:55:28.559898+00:00",
+        "status": 200,
+        "sha256": "93e21ddfd1da783263e164f601b2325f090bba7a017dfbe3958667b470dda4d0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Сергиево-Посадский одномандатный избирательный округ №127",
+      "officialUrl": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/127.pdf",
+      "sourcePages": [
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php?sphrase_id=41",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 1,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        },
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 3,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "d17482e81ae4e690e71af0e45f0437c0c7947b6f4b0f06c2e8a6603231b174bf",
+      "originalFilename": "127.pdf",
+      "filename": "Сергиево-Посадский_одномандатный_избирательный_округ_127-d17482e81ae4.pdf",
+      "path": "files/Сергиево-Посадский_одномандатный_избирательный_округ_127-d17482e81ae4.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 178057,
+      "sha256": "d17482e81ae4e690e71af0e45f0437c0c7947b6f4b0f06c2e8a6603231b174bf",
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/127.pdf",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/127.pdf",
+        "retrievedAt": "2026-09-04T03:55:29.011206+00:00",
+        "status": 200,
+        "sha256": "d17482e81ae4e690e71af0e45f0437c0c7947b6f4b0f06c2e8a6603231b174bf",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Серпуховский одномандатный избирательный округ №128",
+      "officialUrl": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/128.pdf",
+      "sourcePages": [
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php?sphrase_id=41",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 1,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        },
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 3,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "4c087bf4a4b66d45e771d6a875e10c23f653e360462e7c530257dea99dc6652f",
+      "originalFilename": "128.pdf",
+      "filename": "Серпуховский_одномандатный_избирательный_округ_128-4c087bf4a4b6.pdf",
+      "path": "files/Серпуховский_одномандатный_избирательный_округ_128-4c087bf4a4b6.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 179157,
+      "sha256": "4c087bf4a4b66d45e771d6a875e10c23f653e360462e7c530257dea99dc6652f",
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/128.pdf",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/128.pdf",
+        "retrievedAt": "2026-09-04T03:55:29.524819+00:00",
+        "status": 200,
+        "sha256": "4c087bf4a4b66d45e771d6a875e10c23f653e360462e7c530257dea99dc6652f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Щелковский одномандатный избирательный округ №129",
+      "officialUrl": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/129.pdf",
+      "sourcePages": [
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php?sphrase_id=41",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 1,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        },
+        {
+          "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/dokhody-i-imushchestvo-zaregistrirovannykh-kandidatov.php",
+          "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов",
+          "depth": 3,
+          "sha256": "7fb8e0a70e2649a2b062b84afe42a61be101b42383ba6898385ffc11ca4d4f36"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "c62f68cbf2d08d79bc8b0aeca42ea247231b28282f30c16c5cb56325dfcbad54",
+      "originalFilename": "129.pdf",
+      "filename": "Щелковский_одномандатный_избирательный_округ_129-c62f68cbf2d0.pdf",
+      "path": "files/Щелковский_одномандатный_избирательный_округ_129-c62f68cbf2d0.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 175053,
+      "sha256": "c62f68cbf2d08d79bc8b0aeca42ea247231b28282f30c16c5cb56325dfcbad54",
+      "source": {
+        "url": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/129.pdf",
+        "requestKey": "http://moscow-reg.izbirkom.ru/edg2026/gd2026/kandidaty/129.pdf",
+        "retrievedAt": "2026-09-04T03:55:30.009285+00:00",
+        "status": 200,
+        "sha256": "c62f68cbf2d08d79bc8b0aeca42ea247231b28282f30c16c5cb56325dfcbad54",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

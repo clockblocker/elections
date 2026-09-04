@@ -1,0 +1,1999 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:53:34.474695+00:00",
+  "region": {
+    "code": "78",
+    "name": "город Санкт-Петербург",
+    "seedUrls": [
+      "http://st-petersburg.izbirkom.ru/edg20092026/fact_gd9.php",
+      "http://st-petersburg.izbirkom.ru/edg20092026/doxod_gd9.php"
+    ],
+    "allowedHosts": [
+      "st-petersburg.izbirkom.ru",
+      "www.st-petersburg.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 10,
+  "documentCount": 57,
+  "documentCounts": {
+    "declaration": 53,
+    "inaccuracy": 4
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 9,
+      "explicitEmptyPageCount": 1,
+      "documentCount": 53
+    },
+    "inaccuracy": {
+      "signalPageCount": 1,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 4
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://st-petersburg.izbirkom.ru/edg20092026/fact_gd9.php",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных кандидатами в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатным избирательным округам",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 4
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://st-petersburg.izbirkom.ru/docs/2026/fact_212_0109.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/fact_215_2608.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/fact_217_2808.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/fact_218_0109.pdf"
+      ],
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/edg20092026/fact_gd9.php",
+        "requestKey": "http://st-petersburg.izbirkom.ru/edg20092026/fact_gd9.php",
+        "retrievedAt": "2026-09-04T03:45:08.951405+00:00",
+        "status": 200,
+        "sha256": "9f230c71bb9e45f8b3940d086f4cca5ef0a1d0d308c363d574285305f01803f9",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://st-petersburg.izbirkom.ru/edg20092026/doxod_gd9.php",
+      "title": "Сведения о доходах и имуществе кандидатов, выдвинувшихся по одномандатному избирательному округу на выборах депутатов Государственной Думы Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/edg20092026/doxod_gd9.php",
+        "requestKey": "http://st-petersburg.izbirkom.ru/edg20092026/doxod_gd9.php",
+        "retrievedAt": "2026-09-04T03:45:10.152115+00:00",
+        "status": 200,
+        "sha256": "c6f26c2326e13e6c4142f3e5b7b5d096efb2bf34f66b1597f717a2b8a1f4ea4f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod211.php",
+      "title": "Город Санкт-Петербург – Восточный одномандатный избирательный округ № 211",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 7
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://st-petersburg.izbirkom.ru/docs/2026/a34a9e6bcaedbb16068279fbb5060a20.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/bbbb4dd3a2194b1b67517b72e1c16de7.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/КИЗЮКОВА А.С_doxod211.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ЛОЖЕЧКО В.П_doxod211.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/МИЛЯЕВ М.А_doxod211.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ПЛОШКИНА Н.А_doxod211.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/САЗОНЦЕВ Е.П_doxod211.pdf"
+      ],
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod211.php",
+        "requestKey": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod211.php",
+        "retrievedAt": "2026-09-04T03:51:25.556759+00:00",
+        "status": 200,
+        "sha256": "a3a2cb687915f40dac6c1952e1ed413553aa4f6974ce1214d6400ab8dcfedecf",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod212.php",
+      "title": "Город Санкт-Петербург – Западный одномандатный избирательный округ №212",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 6
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://st-petersburg.izbirkom.ru/docs/2026/ГОЛОВИН А.С_doxod212.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/Денисов доходы.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ЗУДИН Д.С_doxod212.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/Тетердинко А.П._212.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/Тихонова_доходы.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/УТКИНА О.В_doxod212.pdf"
+      ],
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod212.php",
+        "requestKey": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod212.php",
+        "retrievedAt": "2026-09-04T03:51:26.399904+00:00",
+        "status": 200,
+        "sha256": "d70f4d64b94f5851a86152324bac93effd5c0d0fd041b65b73465c597d1009af",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod213.php",
+      "title": "Город Санкт-Петербург – Северный одномандатный избирательный округ №213",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 6
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://st-petersburg.izbirkom.ru/docs/2026/97c9d12e5366e1f16bf44d913b0f485c.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/b79e0c20b34f2d2a835dc4256a180bb2.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ddbf7981da7e4ce81730e1e6a296860f.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/АМОСОВ М.И_doxod213.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ГИНТОВТ Д. В_doxod213.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/МАТЯГИН В.В_doxod213.pdf"
+      ],
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod213.php",
+        "requestKey": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod213.php",
+        "retrievedAt": "2026-09-04T03:51:27.128508+00:00",
+        "status": 200,
+        "sha256": "5a04e7dbe505ff33760bb635772765339e86936948b338fae625d24faef7a08c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod214.php",
+      "title": "Город Санкт-Петербург – Северо-Восточный одномандатный избирательный округ №214",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 6
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://st-petersburg.izbirkom.ru/docs/2026/07a3ff576722bbf40c9a4b1670c950ec.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ГОРСКИЙ В.А_doxod214.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/МИРОНОВА Н.В_doxod214.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ПАНОВ Д.В_doxod214.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/СКОБЛОВ А.В_doxod214.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ЧАНГЛИ И.Д_doxod214.pdf"
+      ],
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod214.php",
+        "requestKey": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod214.php",
+        "retrievedAt": "2026-09-04T03:51:27.822246+00:00",
+        "status": 200,
+        "sha256": "f17a85dc5daa3d2705216fb0fb2667c2cb347d277dd0c31fbbd786891c42a54c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod215.php",
+      "title": "Город Санкт-Петербург – Северо-Западный одномандатный избирательный округ №215",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 7
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://st-petersburg.izbirkom.ru/docs/2026/БОРОДЕНЧИК_имущ.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/БЫКОВА В.В_doxod215.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ПЫХТЕЕВ А.С_doxod215.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ТАТАРОВ_имущ.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ЦЕД_доходы.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ЩЕБЕТОВ Д.В_doxod215.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ЮРКЕВИЧ О.И_doxod215.pdf"
+      ],
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod215.php",
+        "requestKey": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod215.php",
+        "retrievedAt": "2026-09-04T03:51:28.471673+00:00",
+        "status": 200,
+        "sha256": "0d6d9e476ee7f0d5e217dc5b6b9e6753423141b7fd2c7ac56dab6b354a92f202",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod216.php",
+      "title": "Город Санкт-Петербург – Центральный одномандатный избирательный округ №216",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 6
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://st-petersburg.izbirkom.ru/docs/2026/8f31357a3c3f3fd753721dff05f5fdff.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/97432e47f5f407a87b1eed2b7d8f91c0.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ef5f442c48d698f441a9766cd18163d5.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/КУЛИКОВ Ю.Н_doxod216.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ЧЕРЕМНЫХ К.В_doxod216.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ШМАКОВ И.В_doxod216.pdf"
+      ],
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod216.php",
+        "requestKey": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod216.php",
+        "retrievedAt": "2026-09-04T03:51:29.159668+00:00",
+        "status": 200,
+        "sha256": "181b0752119842e971e644c1f42b613ccacc79a5cdaa3ceeee42e8ab3c0b8bfd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod217.php",
+      "title": "Город Санкт-Петербург – Юго-Восточный одномандатный избирательный округ №217",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 8
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://st-petersburg.izbirkom.ru/docs/2026/ДМИТРИЕВА О.Г_doxod217.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ЕГОРОВА Л.И_doxod217.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ИСАКОВ В.М_doxod217.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/КЛИНОВИЦКАЯ В.Л_doxod217.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ЛЕБЕДЕВА М.Е_doxod217.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/МИХАЙЛОВ Е.В_doxod217.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ПРОКОПЕНКО К.О_doxod217.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/СЕРГЕЕВ И.Б_doxod217.pdf"
+      ],
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod217.php",
+        "requestKey": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod217.php",
+        "retrievedAt": "2026-09-04T03:51:29.712079+00:00",
+        "status": 200,
+        "sha256": "7b3467bd499488d577810f73025dcab2749dd3ac753e560b09566063e8b4ff00",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod218.php",
+      "title": "Город Санкт-Петербург – Южный одномандатный избирательный округ №218",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 7
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://st-petersburg.izbirkom.ru/docs/2026/doxod_Ивлиев С.Н_218.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/КУБАТЬЯН Г.С_doxod218.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ЛИТВЯК С.А_doxod218.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/Малков А.В._218.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/Милонов В.В._218.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/СУТУРИНА Е.Н_doxod218.pdf",
+        "http://st-petersburg.izbirkom.ru/docs/2026/ХОРЗОВ Д.В_doxod218.pdf"
+      ],
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod218.php",
+        "requestKey": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod218.php",
+        "retrievedAt": "2026-09-04T03:51:30.267397+00:00",
+        "status": 200,
+        "sha256": "56afbe4b70994e71d09c5f27bf8740a70ba8125401b3e9244f90f74e14d90373",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "КОНДРАТЬЕВА Е.В.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/07a3ff576722bbf40c9a4b1670c950ec.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod214.php",
+          "title": "Город Санкт-Петербург – Северо-Восточный одномандатный избирательный округ №214",
+          "depth": 1,
+          "sha256": "f17a85dc5daa3d2705216fb0fb2667c2cb347d277dd0c31fbbd786891c42a54c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "7dd98d1a92a4046185b03e24d3dc887a06d5a93f815d12a74658857cc73fad61",
+      "originalFilename": "07a3ff576722bbf40c9a4b1670c950ec.pdf",
+      "filename": "КОНДРАТЬЕВА_Е.В-7dd98d1a92a4.pdf",
+      "path": "files/КОНДРАТЬЕВА_Е.В-7dd98d1a92a4.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 109134,
+      "sha256": "7dd98d1a92a4046185b03e24d3dc887a06d5a93f815d12a74658857cc73fad61",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/07a3ff576722bbf40c9a4b1670c950ec.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/07a3ff576722bbf40c9a4b1670c950ec.pdf",
+        "retrievedAt": "2026-09-04T03:51:30.720671+00:00",
+        "status": 200,
+        "sha256": "7dd98d1a92a4046185b03e24d3dc887a06d5a93f815d12a74658857cc73fad61",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ЛОВЕНЕЦКИЙ С.Р.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/8f31357a3c3f3fd753721dff05f5fdff.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod216.php",
+          "title": "Город Санкт-Петербург – Центральный одномандатный избирательный округ №216",
+          "depth": 1,
+          "sha256": "181b0752119842e971e644c1f42b613ccacc79a5cdaa3ceeee42e8ab3c0b8bfd"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "58bae923724fdd11f4111f95382983a078800531c9f99d78b0a186c2acd48db0",
+      "originalFilename": "8f31357a3c3f3fd753721dff05f5fdff.pdf",
+      "filename": "ЛОВЕНЕЦКИЙ_С.Р-58bae923724f.pdf",
+      "path": "files/ЛОВЕНЕЦКИЙ_С.Р-58bae923724f.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 103926,
+      "sha256": "58bae923724fdd11f4111f95382983a078800531c9f99d78b0a186c2acd48db0",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/8f31357a3c3f3fd753721dff05f5fdff.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/8f31357a3c3f3fd753721dff05f5fdff.pdf",
+        "retrievedAt": "2026-09-04T03:51:31.154745+00:00",
+        "status": 200,
+        "sha256": "58bae923724fdd11f4111f95382983a078800531c9f99d78b0a186c2acd48db0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "АМЕЛИН А.Н.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/97432e47f5f407a87b1eed2b7d8f91c0.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod216.php",
+          "title": "Город Санкт-Петербург – Центральный одномандатный избирательный округ №216",
+          "depth": 1,
+          "sha256": "181b0752119842e971e644c1f42b613ccacc79a5cdaa3ceeee42e8ab3c0b8bfd"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "4b46485e4064131b28223dde7819e1acb1a1483fb6fa49e9c1d33a7fc2828577",
+      "originalFilename": "97432e47f5f407a87b1eed2b7d8f91c0.pdf",
+      "filename": "АМЕЛИН_А.Н-4b46485e4064.pdf",
+      "path": "files/АМЕЛИН_А.Н-4b46485e4064.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 109628,
+      "sha256": "4b46485e4064131b28223dde7819e1acb1a1483fb6fa49e9c1d33a7fc2828577",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/97432e47f5f407a87b1eed2b7d8f91c0.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/97432e47f5f407a87b1eed2b7d8f91c0.pdf",
+        "retrievedAt": "2026-09-04T03:51:31.645091+00:00",
+        "status": 200,
+        "sha256": "4b46485e4064131b28223dde7819e1acb1a1483fb6fa49e9c1d33a7fc2828577",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "БЕЛИКОВ В.Ф.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/97c9d12e5366e1f16bf44d913b0f485c.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod213.php",
+          "title": "Город Санкт-Петербург – Северный одномандатный избирательный округ №213",
+          "depth": 1,
+          "sha256": "5a04e7dbe505ff33760bb635772765339e86936948b338fae625d24faef7a08c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "84a80a5e154842e97e8814f800efd9b02a4c3f0145844b8153a811ec21aa3e41",
+      "originalFilename": "97c9d12e5366e1f16bf44d913b0f485c.pdf",
+      "filename": "БЕЛИКОВ_В.Ф-84a80a5e1548.pdf",
+      "path": "files/БЕЛИКОВ_В.Ф-84a80a5e1548.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 109139,
+      "sha256": "84a80a5e154842e97e8814f800efd9b02a4c3f0145844b8153a811ec21aa3e41",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/97c9d12e5366e1f16bf44d913b0f485c.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/97c9d12e5366e1f16bf44d913b0f485c.pdf",
+        "retrievedAt": "2026-09-04T03:51:32.084615+00:00",
+        "status": 200,
+        "sha256": "84a80a5e154842e97e8814f800efd9b02a4c3f0145844b8153a811ec21aa3e41",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "РАХЛИН М.А.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/a34a9e6bcaedbb16068279fbb5060a20.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod211.php",
+          "title": "Город Санкт-Петербург – Восточный одномандатный избирательный округ № 211",
+          "depth": 1,
+          "sha256": "a3a2cb687915f40dac6c1952e1ed413553aa4f6974ce1214d6400ab8dcfedecf"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "e5af12d3443c8e8240e4df81061a543670f54352bc21b804b2ebb58727af7b1f",
+      "originalFilename": "a34a9e6bcaedbb16068279fbb5060a20.pdf",
+      "filename": "РАХЛИН_М.А-e5af12d3443c.pdf",
+      "path": "files/РАХЛИН_М.А-e5af12d3443c.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 214158,
+      "sha256": "e5af12d3443c8e8240e4df81061a543670f54352bc21b804b2ebb58727af7b1f",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/a34a9e6bcaedbb16068279fbb5060a20.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/a34a9e6bcaedbb16068279fbb5060a20.pdf",
+        "retrievedAt": "2026-09-04T03:51:32.548408+00:00",
+        "status": 200,
+        "sha256": "e5af12d3443c8e8240e4df81061a543670f54352bc21b804b2ebb58727af7b1f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ЗВЕРЕВ А.А.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/b79e0c20b34f2d2a835dc4256a180bb2.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod213.php",
+          "title": "Город Санкт-Петербург – Северный одномандатный избирательный округ №213",
+          "depth": 1,
+          "sha256": "5a04e7dbe505ff33760bb635772765339e86936948b338fae625d24faef7a08c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "14471fe5b0689927eafbcb3f1865e02a3d2f9d4b050629b6954447fa59aeddd0",
+      "originalFilename": "b79e0c20b34f2d2a835dc4256a180bb2.pdf",
+      "filename": "ЗВЕРЕВ_А.А-14471fe5b068.pdf",
+      "path": "files/ЗВЕРЕВ_А.А-14471fe5b068.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 104416,
+      "sha256": "14471fe5b0689927eafbcb3f1865e02a3d2f9d4b050629b6954447fa59aeddd0",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/b79e0c20b34f2d2a835dc4256a180bb2.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/b79e0c20b34f2d2a835dc4256a180bb2.pdf",
+        "retrievedAt": "2026-09-04T03:51:33.005604+00:00",
+        "status": 200,
+        "sha256": "14471fe5b0689927eafbcb3f1865e02a3d2f9d4b050629b6954447fa59aeddd0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ЖИТКОВА С. А.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/bbbb4dd3a2194b1b67517b72e1c16de7.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod211.php",
+          "title": "Город Санкт-Петербург – Восточный одномандатный избирательный округ № 211",
+          "depth": 1,
+          "sha256": "a3a2cb687915f40dac6c1952e1ed413553aa4f6974ce1214d6400ab8dcfedecf"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "b0b5814e674930c6323e0813c0dabdbf0217ab90709851e271e6cbe4ca2d05e5",
+      "originalFilename": "bbbb4dd3a2194b1b67517b72e1c16de7.pdf",
+      "filename": "ЖИТКОВА_С._А-b0b5814e6749.pdf",
+      "path": "files/ЖИТКОВА_С._А-b0b5814e6749.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 202137,
+      "sha256": "b0b5814e674930c6323e0813c0dabdbf0217ab90709851e271e6cbe4ca2d05e5",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/bbbb4dd3a2194b1b67517b72e1c16de7.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/bbbb4dd3a2194b1b67517b72e1c16de7.pdf",
+        "retrievedAt": "2026-09-04T03:51:33.476513+00:00",
+        "status": 200,
+        "sha256": "b0b5814e674930c6323e0813c0dabdbf0217ab90709851e271e6cbe4ca2d05e5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ИВАНОВА И.В.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ddbf7981da7e4ce81730e1e6a296860f.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod213.php",
+          "title": "Город Санкт-Петербург – Северный одномандатный избирательный округ №213",
+          "depth": 1,
+          "sha256": "5a04e7dbe505ff33760bb635772765339e86936948b338fae625d24faef7a08c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "98e1d3bb61d77ef9bd7365fcc4405ea70c8851d9b0f9b5891dbe36aa760d11d5",
+      "originalFilename": "ddbf7981da7e4ce81730e1e6a296860f.pdf",
+      "filename": "ИВАНОВА_И.В-98e1d3bb61d7.pdf",
+      "path": "files/ИВАНОВА_И.В-98e1d3bb61d7.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 104238,
+      "sha256": "98e1d3bb61d77ef9bd7365fcc4405ea70c8851d9b0f9b5891dbe36aa760d11d5",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/ddbf7981da7e4ce81730e1e6a296860f.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ddbf7981da7e4ce81730e1e6a296860f.pdf",
+        "retrievedAt": "2026-09-04T03:51:33.920687+00:00",
+        "status": 200,
+        "sha256": "98e1d3bb61d77ef9bd7365fcc4405ea70c8851d9b0f9b5891dbe36aa760d11d5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ИВЛИЕВ С.Н.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/doxod_Ивлиев С.Н_218.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod218.php",
+          "title": "Город Санкт-Петербург – Южный одномандатный избирательный округ №218",
+          "depth": 1,
+          "sha256": "56afbe4b70994e71d09c5f27bf8740a70ba8125401b3e9244f90f74e14d90373"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "e4ea306bd39c7baab03f6d461771f2b930d17988508d3c17ecb57154a550b4e1",
+      "originalFilename": "doxod_Ивлиев С.Н_218.pdf",
+      "filename": "ИВЛИЕВ_С.Н-e4ea306bd39c.pdf",
+      "path": "files/ИВЛИЕВ_С.Н-e4ea306bd39c.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 133915,
+      "sha256": "e4ea306bd39c7baab03f6d461771f2b930d17988508d3c17ecb57154a550b4e1",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/doxod_%D0%98%D0%B2%D0%BB%D0%B8%D0%B5%D0%B2%20%D0%A1.%D0%9D_218.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/doxod_Ивлиев С.Н_218.pdf",
+        "retrievedAt": "2026-09-04T03:53:16.894699+00:00",
+        "status": 200,
+        "sha256": "e4ea306bd39c7baab03f6d461771f2b930d17988508d3c17ecb57154a550b4e1",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "УСТИМЕНКО А.Д.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ef5f442c48d698f441a9766cd18163d5.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod216.php",
+          "title": "Город Санкт-Петербург – Центральный одномандатный избирательный округ №216",
+          "depth": 1,
+          "sha256": "181b0752119842e971e644c1f42b613ccacc79a5cdaa3ceeee42e8ab3c0b8bfd"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "6492530fd3eff509f7f5b10cf72e63285d61d6f31638fd4d62f823355feb2b13",
+      "originalFilename": "ef5f442c48d698f441a9766cd18163d5.pdf",
+      "filename": "УСТИМЕНКО_А.Д-6492530fd3ef.pdf",
+      "path": "files/УСТИМЕНКО_А.Д-6492530fd3ef.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 99256,
+      "sha256": "6492530fd3eff509f7f5b10cf72e63285d61d6f31638fd4d62f823355feb2b13",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/ef5f442c48d698f441a9766cd18163d5.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ef5f442c48d698f441a9766cd18163d5.pdf",
+        "retrievedAt": "2026-09-04T03:51:34.322837+00:00",
+        "status": 200,
+        "sha256": "6492530fd3eff509f7f5b10cf72e63285d61d6f31638fd4d62f823355feb2b13",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "АМОСОВ М.И.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/АМОСОВ М.И_doxod213.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod213.php",
+          "title": "Город Санкт-Петербург – Северный одномандатный избирательный округ №213",
+          "depth": 1,
+          "sha256": "5a04e7dbe505ff33760bb635772765339e86936948b338fae625d24faef7a08c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "6e4b0439d50a65764156b23548ac7ef82be00a2badbb8111973dd277fd8f5f99",
+      "originalFilename": "АМОСОВ М.И_doxod213.pdf",
+      "filename": "АМОСОВ_М.И-6e4b0439d50a.pdf",
+      "path": "files/АМОСОВ_М.И-6e4b0439d50a.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 104671,
+      "sha256": "6e4b0439d50a65764156b23548ac7ef82be00a2badbb8111973dd277fd8f5f99",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%90%D0%9C%D0%9E%D0%A1%D0%9E%D0%92%20%D0%9C.%D0%98_doxod213.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/АМОСОВ М.И_doxod213.pdf",
+        "retrievedAt": "2026-09-04T03:53:17.368106+00:00",
+        "status": 200,
+        "sha256": "6e4b0439d50a65764156b23548ac7ef82be00a2badbb8111973dd277fd8f5f99",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "БОРОДЕНЧИК В.И.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/БОРОДЕНЧИК_имущ.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod215.php",
+          "title": "Город Санкт-Петербург – Северо-Западный одномандатный избирательный округ №215",
+          "depth": 1,
+          "sha256": "0d6d9e476ee7f0d5e217dc5b6b9e6753423141b7fd2c7ac56dab6b354a92f202"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "255713de74341072b8eb5660f186845b82430cef9e4238428059b7f9b907a2c5",
+      "originalFilename": "БОРОДЕНЧИК_имущ.pdf",
+      "filename": "БОРОДЕНЧИК_В.И-255713de7434.pdf",
+      "path": "files/БОРОДЕНЧИК_В.И-255713de7434.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 210531,
+      "sha256": "255713de74341072b8eb5660f186845b82430cef9e4238428059b7f9b907a2c5",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%91%D0%9E%D0%A0%D0%9E%D0%94%D0%95%D0%9D%D0%A7%D0%98%D0%9A_%D0%B8%D0%BC%D1%83%D1%89.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/БОРОДЕНЧИК_имущ.pdf",
+        "retrievedAt": "2026-09-04T03:51:34.813386+00:00",
+        "status": 200,
+        "sha256": "255713de74341072b8eb5660f186845b82430cef9e4238428059b7f9b907a2c5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "БЫКОВА В.В.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/БЫКОВА В.В_doxod215.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod215.php",
+          "title": "Город Санкт-Петербург – Северо-Западный одномандатный избирательный округ №215",
+          "depth": 1,
+          "sha256": "0d6d9e476ee7f0d5e217dc5b6b9e6753423141b7fd2c7ac56dab6b354a92f202"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "7bd952c363bc16d466a172012ee667206d2df7ffb6a9df1da7f0b3cf4e84c721",
+      "originalFilename": "БЫКОВА В.В_doxod215.pdf",
+      "filename": "БЫКОВА_В.В-7bd952c363bc.pdf",
+      "path": "files/БЫКОВА_В.В-7bd952c363bc.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 211984,
+      "sha256": "7bd952c363bc16d466a172012ee667206d2df7ffb6a9df1da7f0b3cf4e84c721",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%91%D0%AB%D0%9A%D0%9E%D0%92%D0%90%20%D0%92.%D0%92_doxod215.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/БЫКОВА В.В_doxod215.pdf",
+        "retrievedAt": "2026-09-04T03:53:17.783045+00:00",
+        "status": 200,
+        "sha256": "7bd952c363bc16d466a172012ee667206d2df7ffb6a9df1da7f0b3cf4e84c721",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ГИНТОВТ Д. В.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ГИНТОВТ Д. В_doxod213.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod213.php",
+          "title": "Город Санкт-Петербург – Северный одномандатный избирательный округ №213",
+          "depth": 1,
+          "sha256": "5a04e7dbe505ff33760bb635772765339e86936948b338fae625d24faef7a08c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "8c4558b39b581a9298b25ea0c9a9b3b99fc1c5218b6216eebbd01d0e87c13900",
+      "originalFilename": "ГИНТОВТ Д. В_doxod213.pdf",
+      "filename": "ГИНТОВТ_Д._В-8c4558b39b58.pdf",
+      "path": "files/ГИНТОВТ_Д._В-8c4558b39b58.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 115444,
+      "sha256": "8c4558b39b581a9298b25ea0c9a9b3b99fc1c5218b6216eebbd01d0e87c13900",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%93%D0%98%D0%9D%D0%A2%D0%9E%D0%92%D0%A2%20%D0%94.%20%D0%92_doxod213.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ГИНТОВТ Д. В_doxod213.pdf",
+        "retrievedAt": "2026-09-04T03:53:18.237034+00:00",
+        "status": 200,
+        "sha256": "8c4558b39b581a9298b25ea0c9a9b3b99fc1c5218b6216eebbd01d0e87c13900",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ГОЛОВИН А.С.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ГОЛОВИН А.С_doxod212.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod212.php",
+          "title": "Город Санкт-Петербург – Западный одномандатный избирательный округ №212",
+          "depth": 1,
+          "sha256": "d70f4d64b94f5851a86152324bac93effd5c0d0fd041b65b73465c597d1009af"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "186a02bd4f6d4d29459fb64f2e608b12b56e14943a91cabf3129e766ff222927",
+      "originalFilename": "ГОЛОВИН А.С_doxod212.pdf",
+      "filename": "ГОЛОВИН_А.С-186a02bd4f6d.pdf",
+      "path": "files/ГОЛОВИН_А.С-186a02bd4f6d.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 116674,
+      "sha256": "186a02bd4f6d4d29459fb64f2e608b12b56e14943a91cabf3129e766ff222927",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%93%D0%9E%D0%9B%D0%9E%D0%92%D0%98%D0%9D%20%D0%90.%D0%A1_doxod212.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ГОЛОВИН А.С_doxod212.pdf",
+        "retrievedAt": "2026-09-04T03:53:18.711631+00:00",
+        "status": 200,
+        "sha256": "186a02bd4f6d4d29459fb64f2e608b12b56e14943a91cabf3129e766ff222927",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ГОРСКИЙ В.А.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ГОРСКИЙ В.А_doxod214.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod214.php",
+          "title": "Город Санкт-Петербург – Северо-Восточный одномандатный избирательный округ №214",
+          "depth": 1,
+          "sha256": "f17a85dc5daa3d2705216fb0fb2667c2cb347d277dd0c31fbbd786891c42a54c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "40eede92fd0b6ed8d4785981a1ddedac3594d575db89837e6e696e23103a21a2",
+      "originalFilename": "ГОРСКИЙ В.А_doxod214.pdf",
+      "filename": "ГОРСКИЙ_В.А-40eede92fd0b.pdf",
+      "path": "files/ГОРСКИЙ_В.А-40eede92fd0b.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 108027,
+      "sha256": "40eede92fd0b6ed8d4785981a1ddedac3594d575db89837e6e696e23103a21a2",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%93%D0%9E%D0%A0%D0%A1%D0%9A%D0%98%D0%99%20%D0%92.%D0%90_doxod214.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ГОРСКИЙ В.А_doxod214.pdf",
+        "retrievedAt": "2026-09-04T03:53:19.165911+00:00",
+        "status": 200,
+        "sha256": "40eede92fd0b6ed8d4785981a1ddedac3594d575db89837e6e696e23103a21a2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ДМИТРИЕВА О.Г.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ДМИТРИЕВА О.Г_doxod217.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod217.php",
+          "title": "Город Санкт-Петербург – Юго-Восточный одномандатный избирательный округ №217",
+          "depth": 1,
+          "sha256": "7b3467bd499488d577810f73025dcab2749dd3ac753e560b09566063e8b4ff00"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "74dcc9171b99fbb4f094c4a20ef2f6f91ce39d7d11c7ee30dcfd657250d74339",
+      "originalFilename": "ДМИТРИЕВА О.Г_doxod217.pdf",
+      "filename": "ДМИТРИЕВА_О.Г-74dcc9171b99.pdf",
+      "path": "files/ДМИТРИЕВА_О.Г-74dcc9171b99.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 108361,
+      "sha256": "74dcc9171b99fbb4f094c4a20ef2f6f91ce39d7d11c7ee30dcfd657250d74339",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%94%D0%9C%D0%98%D0%A2%D0%A0%D0%98%D0%95%D0%92%D0%90%20%D0%9E.%D0%93_doxod217.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ДМИТРИЕВА О.Г_doxod217.pdf",
+        "retrievedAt": "2026-09-04T03:53:19.633142+00:00",
+        "status": 200,
+        "sha256": "74dcc9171b99fbb4f094c4a20ef2f6f91ce39d7d11c7ee30dcfd657250d74339",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ДЕНИСОВ Г.И.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/Денисов доходы.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod212.php",
+          "title": "Город Санкт-Петербург – Западный одномандатный избирательный округ №212",
+          "depth": 1,
+          "sha256": "d70f4d64b94f5851a86152324bac93effd5c0d0fd041b65b73465c597d1009af"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "4e3102170e0dea4d97a16b3ad9db1f33c36de6984b78b6610f70da83747a77e2",
+      "originalFilename": "Денисов доходы.pdf",
+      "filename": "ДЕНИСОВ_Г.И-4e3102170e0d.pdf",
+      "path": "files/ДЕНИСОВ_Г.И-4e3102170e0d.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 123083,
+      "sha256": "4e3102170e0dea4d97a16b3ad9db1f33c36de6984b78b6610f70da83747a77e2",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%94%D0%B5%D0%BD%D0%B8%D1%81%D0%BE%D0%B2%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D1%8B.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/Денисов доходы.pdf",
+        "retrievedAt": "2026-09-04T03:53:20.065411+00:00",
+        "status": 200,
+        "sha256": "4e3102170e0dea4d97a16b3ad9db1f33c36de6984b78b6610f70da83747a77e2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ЕГОРОВА Л.И.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ЕГОРОВА Л.И_doxod217.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod217.php",
+          "title": "Город Санкт-Петербург – Юго-Восточный одномандатный избирательный округ №217",
+          "depth": 1,
+          "sha256": "7b3467bd499488d577810f73025dcab2749dd3ac753e560b09566063e8b4ff00"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "8479ec1c7588774b9b2d3299d039327984cdd79edd8cf14dbd493760b5e01098",
+      "originalFilename": "ЕГОРОВА Л.И_doxod217.pdf",
+      "filename": "ЕГОРОВА_Л.И-8479ec1c7588.pdf",
+      "path": "files/ЕГОРОВА_Л.И-8479ec1c7588.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 110996,
+      "sha256": "8479ec1c7588774b9b2d3299d039327984cdd79edd8cf14dbd493760b5e01098",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%95%D0%93%D0%9E%D0%A0%D0%9E%D0%92%D0%90%20%D0%9B.%D0%98_doxod217.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ЕГОРОВА Л.И_doxod217.pdf",
+        "retrievedAt": "2026-09-04T03:53:20.469162+00:00",
+        "status": 200,
+        "sha256": "8479ec1c7588774b9b2d3299d039327984cdd79edd8cf14dbd493760b5e01098",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ЗУДИН Д.С.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ЗУДИН Д.С_doxod212.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod212.php",
+          "title": "Город Санкт-Петербург – Западный одномандатный избирательный округ №212",
+          "depth": 1,
+          "sha256": "d70f4d64b94f5851a86152324bac93effd5c0d0fd041b65b73465c597d1009af"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "89b1b2cbd6cd2901530da1cd5cbaa5297d230895c42cae6074cce7f780ef7c98",
+      "originalFilename": "ЗУДИН Д.С_doxod212.pdf",
+      "filename": "ЗУДИН_Д.С-89b1b2cbd6cd.pdf",
+      "path": "files/ЗУДИН_Д.С-89b1b2cbd6cd.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 115814,
+      "sha256": "89b1b2cbd6cd2901530da1cd5cbaa5297d230895c42cae6074cce7f780ef7c98",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%97%D0%A3%D0%94%D0%98%D0%9D%20%D0%94.%D0%A1_doxod212.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ЗУДИН Д.С_doxod212.pdf",
+        "retrievedAt": "2026-09-04T03:53:20.946693+00:00",
+        "status": 200,
+        "sha256": "89b1b2cbd6cd2901530da1cd5cbaa5297d230895c42cae6074cce7f780ef7c98",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ИСАКОВ В.М.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ИСАКОВ В.М_doxod217.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod217.php",
+          "title": "Город Санкт-Петербург – Юго-Восточный одномандатный избирательный округ №217",
+          "depth": 1,
+          "sha256": "7b3467bd499488d577810f73025dcab2749dd3ac753e560b09566063e8b4ff00"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "aa78641141b6db4785fb2c43bf9f7665b55c287102e90aa147c03b3e2c639c00",
+      "originalFilename": "ИСАКОВ В.М_doxod217.pdf",
+      "filename": "ИСАКОВ_В.М-aa78641141b6.pdf",
+      "path": "files/ИСАКОВ_В.М-aa78641141b6.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 116774,
+      "sha256": "aa78641141b6db4785fb2c43bf9f7665b55c287102e90aa147c03b3e2c639c00",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%98%D0%A1%D0%90%D0%9A%D0%9E%D0%92%20%D0%92.%D0%9C_doxod217.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ИСАКОВ В.М_doxod217.pdf",
+        "retrievedAt": "2026-09-04T03:53:21.399308+00:00",
+        "status": 200,
+        "sha256": "aa78641141b6db4785fb2c43bf9f7665b55c287102e90aa147c03b3e2c639c00",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "КИЗЮКОВА А.С.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/КИЗЮКОВА А.С_doxod211.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod211.php",
+          "title": "Город Санкт-Петербург – Восточный одномандатный избирательный округ № 211",
+          "depth": 1,
+          "sha256": "a3a2cb687915f40dac6c1952e1ed413553aa4f6974ce1214d6400ab8dcfedecf"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "938cd9d4bf3e3bb924035c2733380731c98b42a968ffa147eb39b410d83100b2",
+      "originalFilename": "КИЗЮКОВА А.С_doxod211.pdf",
+      "filename": "КИЗЮКОВА_А.С-938cd9d4bf3e.pdf",
+      "path": "files/КИЗЮКОВА_А.С-938cd9d4bf3e.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 203411,
+      "sha256": "938cd9d4bf3e3bb924035c2733380731c98b42a968ffa147eb39b410d83100b2",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%9A%D0%98%D0%97%D0%AE%D0%9A%D0%9E%D0%92%D0%90%20%D0%90.%D0%A1_doxod211.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/КИЗЮКОВА А.С_doxod211.pdf",
+        "retrievedAt": "2026-09-04T03:53:21.847840+00:00",
+        "status": 200,
+        "sha256": "938cd9d4bf3e3bb924035c2733380731c98b42a968ffa147eb39b410d83100b2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "КЛИНОВИЦКАЯ В.Л.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/КЛИНОВИЦКАЯ В.Л_doxod217.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod217.php",
+          "title": "Город Санкт-Петербург – Юго-Восточный одномандатный избирательный округ №217",
+          "depth": 1,
+          "sha256": "7b3467bd499488d577810f73025dcab2749dd3ac753e560b09566063e8b4ff00"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "f5bab313d0a7e8aeb9e7f0b29440e2737e30279947def5708c41ad59efb9d822",
+      "originalFilename": "КЛИНОВИЦКАЯ В.Л_doxod217.pdf",
+      "filename": "КЛИНОВИЦКАЯ_В.Л-f5bab313d0a7.pdf",
+      "path": "files/КЛИНОВИЦКАЯ_В.Л-f5bab313d0a7.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 80544,
+      "sha256": "f5bab313d0a7e8aeb9e7f0b29440e2737e30279947def5708c41ad59efb9d822",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%9A%D0%9B%D0%98%D0%9D%D0%9E%D0%92%D0%98%D0%A6%D0%9A%D0%90%D0%AF%20%D0%92.%D0%9B_doxod217.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/КЛИНОВИЦКАЯ В.Л_doxod217.pdf",
+        "retrievedAt": "2026-09-04T03:53:22.264689+00:00",
+        "status": 200,
+        "sha256": "f5bab313d0a7e8aeb9e7f0b29440e2737e30279947def5708c41ad59efb9d822",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "КУБАТЬЯН Г.С.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/КУБАТЬЯН Г.С_doxod218.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod218.php",
+          "title": "Город Санкт-Петербург – Южный одномандатный избирательный округ №218",
+          "depth": 1,
+          "sha256": "56afbe4b70994e71d09c5f27bf8740a70ba8125401b3e9244f90f74e14d90373"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "e33cef9957bf11ae211ede6ef73dc32bfaeed656c7817672caab7022f574659c",
+      "originalFilename": "КУБАТЬЯН Г.С_doxod218.pdf",
+      "filename": "КУБАТЬЯН_Г.С-e33cef9957bf.pdf",
+      "path": "files/КУБАТЬЯН_Г.С-e33cef9957bf.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 124722,
+      "sha256": "e33cef9957bf11ae211ede6ef73dc32bfaeed656c7817672caab7022f574659c",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%9A%D0%A3%D0%91%D0%90%D0%A2%D0%AC%D0%AF%D0%9D%20%D0%93.%D0%A1_doxod218.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/КУБАТЬЯН Г.С_doxod218.pdf",
+        "retrievedAt": "2026-09-04T03:53:22.729853+00:00",
+        "status": 200,
+        "sha256": "e33cef9957bf11ae211ede6ef73dc32bfaeed656c7817672caab7022f574659c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "КУЛИКОВ Ю.Н.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/КУЛИКОВ Ю.Н_doxod216.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod216.php",
+          "title": "Город Санкт-Петербург – Центральный одномандатный избирательный округ №216",
+          "depth": 1,
+          "sha256": "181b0752119842e971e644c1f42b613ccacc79a5cdaa3ceeee42e8ab3c0b8bfd"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "964a7c6e3ad58a0dbc7b841d5988d2a37bed513fdd1d740452815c9cfeeec94d",
+      "originalFilename": "КУЛИКОВ Ю.Н_doxod216.pdf",
+      "filename": "КУЛИКОВ_Ю.Н-964a7c6e3ad5.pdf",
+      "path": "files/КУЛИКОВ_Ю.Н-964a7c6e3ad5.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 109549,
+      "sha256": "964a7c6e3ad58a0dbc7b841d5988d2a37bed513fdd1d740452815c9cfeeec94d",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%9A%D0%A3%D0%9B%D0%98%D0%9A%D0%9E%D0%92%20%D0%AE.%D0%9D_doxod216.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/КУЛИКОВ Ю.Н_doxod216.pdf",
+        "retrievedAt": "2026-09-04T03:53:23.178508+00:00",
+        "status": 200,
+        "sha256": "964a7c6e3ad58a0dbc7b841d5988d2a37bed513fdd1d740452815c9cfeeec94d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ЛЕБЕДЕВА М.Е.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ЛЕБЕДЕВА М.Е_doxod217.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod217.php",
+          "title": "Город Санкт-Петербург – Юго-Восточный одномандатный избирательный округ №217",
+          "depth": 1,
+          "sha256": "7b3467bd499488d577810f73025dcab2749dd3ac753e560b09566063e8b4ff00"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "176ad20ae9a7c13adf09a85a41ca01c8d6c84165c5542497eceb8b73157e3d6b",
+      "originalFilename": "ЛЕБЕДЕВА М.Е_doxod217.pdf",
+      "filename": "ЛЕБЕДЕВА_М.Е-176ad20ae9a7.pdf",
+      "path": "files/ЛЕБЕДЕВА_М.Е-176ad20ae9a7.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 98562,
+      "sha256": "176ad20ae9a7c13adf09a85a41ca01c8d6c84165c5542497eceb8b73157e3d6b",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%9B%D0%95%D0%91%D0%95%D0%94%D0%95%D0%92%D0%90%20%D0%9C.%D0%95_doxod217.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ЛЕБЕДЕВА М.Е_doxod217.pdf",
+        "retrievedAt": "2026-09-04T03:53:23.653575+00:00",
+        "status": 200,
+        "sha256": "176ad20ae9a7c13adf09a85a41ca01c8d6c84165c5542497eceb8b73157e3d6b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ЛИТВЯК С.А.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ЛИТВЯК С.А_doxod218.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod218.php",
+          "title": "Город Санкт-Петербург – Южный одномандатный избирательный округ №218",
+          "depth": 1,
+          "sha256": "56afbe4b70994e71d09c5f27bf8740a70ba8125401b3e9244f90f74e14d90373"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "084599bc59bc3de666a1ec226a23d46efb37e01d4cf04eaa4a87b9404c7c67fb",
+      "originalFilename": "ЛИТВЯК С.А_doxod218.pdf",
+      "filename": "ЛИТВЯК_С.А-084599bc59bc.pdf",
+      "path": "files/ЛИТВЯК_С.А-084599bc59bc.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 146172,
+      "sha256": "084599bc59bc3de666a1ec226a23d46efb37e01d4cf04eaa4a87b9404c7c67fb",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%9B%D0%98%D0%A2%D0%92%D0%AF%D0%9A%20%D0%A1.%D0%90_doxod218.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ЛИТВЯК С.А_doxod218.pdf",
+        "retrievedAt": "2026-09-04T03:53:24.098461+00:00",
+        "status": 200,
+        "sha256": "084599bc59bc3de666a1ec226a23d46efb37e01d4cf04eaa4a87b9404c7c67fb",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ЛОЖЕЧКО В.П.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ЛОЖЕЧКО В.П_doxod211.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod211.php",
+          "title": "Город Санкт-Петербург – Восточный одномандатный избирательный округ № 211",
+          "depth": 1,
+          "sha256": "a3a2cb687915f40dac6c1952e1ed413553aa4f6974ce1214d6400ab8dcfedecf"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "4160ab08f9dc59dacc5b3cadf1437a362ddb8c5c593f9d4825ae650515a5f74d",
+      "originalFilename": "ЛОЖЕЧКО В.П_doxod211.pdf",
+      "filename": "ЛОЖЕЧКО_В.П-4160ab08f9dc.pdf",
+      "path": "files/ЛОЖЕЧКО_В.П-4160ab08f9dc.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 208192,
+      "sha256": "4160ab08f9dc59dacc5b3cadf1437a362ddb8c5c593f9d4825ae650515a5f74d",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%9B%D0%9E%D0%96%D0%95%D0%A7%D0%9A%D0%9E%20%D0%92.%D0%9F_doxod211.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ЛОЖЕЧКО В.П_doxod211.pdf",
+        "retrievedAt": "2026-09-04T03:53:24.601494+00:00",
+        "status": 200,
+        "sha256": "4160ab08f9dc59dacc5b3cadf1437a362ddb8c5c593f9d4825ae650515a5f74d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "МАТЯГИН В.В.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/МАТЯГИН В.В_doxod213.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod213.php",
+          "title": "Город Санкт-Петербург – Северный одномандатный избирательный округ №213",
+          "depth": 1,
+          "sha256": "5a04e7dbe505ff33760bb635772765339e86936948b338fae625d24faef7a08c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "996769fbf9ec803459082d491077ead187b722872ac09d6cf4d5d239a426f669",
+      "originalFilename": "МАТЯГИН В.В_doxod213.pdf",
+      "filename": "МАТЯГИН_В.В-996769fbf9ec.pdf",
+      "path": "files/МАТЯГИН_В.В-996769fbf9ec.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 108375,
+      "sha256": "996769fbf9ec803459082d491077ead187b722872ac09d6cf4d5d239a426f669",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%9C%D0%90%D0%A2%D0%AF%D0%93%D0%98%D0%9D%20%D0%92.%D0%92_doxod213.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/МАТЯГИН В.В_doxod213.pdf",
+        "retrievedAt": "2026-09-04T03:53:25.042416+00:00",
+        "status": 200,
+        "sha256": "996769fbf9ec803459082d491077ead187b722872ac09d6cf4d5d239a426f669",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "МИЛЯЕВ М.А.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/МИЛЯЕВ М.А_doxod211.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod211.php",
+          "title": "Город Санкт-Петербург – Восточный одномандатный избирательный округ № 211",
+          "depth": 1,
+          "sha256": "a3a2cb687915f40dac6c1952e1ed413553aa4f6974ce1214d6400ab8dcfedecf"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "b90a79f7f973f204117f76373abb6dfd9d31c1ece4043c56d840786a4b2eb332",
+      "originalFilename": "МИЛЯЕВ М.А_doxod211.pdf",
+      "filename": "МИЛЯЕВ_М.А-b90a79f7f973.pdf",
+      "path": "files/МИЛЯЕВ_М.А-b90a79f7f973.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 203544,
+      "sha256": "b90a79f7f973f204117f76373abb6dfd9d31c1ece4043c56d840786a4b2eb332",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%9C%D0%98%D0%9B%D0%AF%D0%95%D0%92%20%D0%9C.%D0%90_doxod211.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/МИЛЯЕВ М.А_doxod211.pdf",
+        "retrievedAt": "2026-09-04T03:53:25.477824+00:00",
+        "status": 200,
+        "sha256": "b90a79f7f973f204117f76373abb6dfd9d31c1ece4043c56d840786a4b2eb332",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "МИРОНОВА Н.В.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/МИРОНОВА Н.В_doxod214.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod214.php",
+          "title": "Город Санкт-Петербург – Северо-Восточный одномандатный избирательный округ №214",
+          "depth": 1,
+          "sha256": "f17a85dc5daa3d2705216fb0fb2667c2cb347d277dd0c31fbbd786891c42a54c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "942538717290ac34dc8c16d9a8b28bf004aa91adebe121a41ff1f0b717a1eb5f",
+      "originalFilename": "МИРОНОВА Н.В_doxod214.pdf",
+      "filename": "МИРОНОВА_Н.В-942538717290.pdf",
+      "path": "files/МИРОНОВА_Н.В-942538717290.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 97598,
+      "sha256": "942538717290ac34dc8c16d9a8b28bf004aa91adebe121a41ff1f0b717a1eb5f",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%9C%D0%98%D0%A0%D0%9E%D0%9D%D0%9E%D0%92%D0%90%20%D0%9D.%D0%92_doxod214.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/МИРОНОВА Н.В_doxod214.pdf",
+        "retrievedAt": "2026-09-04T03:53:25.887617+00:00",
+        "status": 200,
+        "sha256": "942538717290ac34dc8c16d9a8b28bf004aa91adebe121a41ff1f0b717a1eb5f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "МИХАЙЛОВ Е.В.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/МИХАЙЛОВ Е.В_doxod217.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod217.php",
+          "title": "Город Санкт-Петербург – Юго-Восточный одномандатный избирательный округ №217",
+          "depth": 1,
+          "sha256": "7b3467bd499488d577810f73025dcab2749dd3ac753e560b09566063e8b4ff00"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "80fee0e460d173af50a5854bd3b4d519a26caf50ed21f09552e13763aae6e5ea",
+      "originalFilename": "МИХАЙЛОВ Е.В_doxod217.pdf",
+      "filename": "МИХАЙЛОВ_Е.В-80fee0e460d1.pdf",
+      "path": "files/МИХАЙЛОВ_Е.В-80fee0e460d1.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 110091,
+      "sha256": "80fee0e460d173af50a5854bd3b4d519a26caf50ed21f09552e13763aae6e5ea",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%9C%D0%98%D0%A5%D0%90%D0%99%D0%9B%D0%9E%D0%92%20%D0%95.%D0%92_doxod217.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/МИХАЙЛОВ Е.В_doxod217.pdf",
+        "retrievedAt": "2026-09-04T03:53:26.350241+00:00",
+        "status": 200,
+        "sha256": "80fee0e460d173af50a5854bd3b4d519a26caf50ed21f09552e13763aae6e5ea",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "МАЛКОВ А.В.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/Малков А.В._218.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod218.php",
+          "title": "Город Санкт-Петербург – Южный одномандатный избирательный округ №218",
+          "depth": 1,
+          "sha256": "56afbe4b70994e71d09c5f27bf8740a70ba8125401b3e9244f90f74e14d90373"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "4402899f9be169809759cf483b0af0cbb58fdb712f88c1f3fb398b753040f9d8",
+      "originalFilename": "Малков А.В._218.pdf",
+      "filename": "МАЛКОВ_А.В-4402899f9be1.pdf",
+      "path": "files/МАЛКОВ_А.В-4402899f9be1.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 122211,
+      "sha256": "4402899f9be169809759cf483b0af0cbb58fdb712f88c1f3fb398b753040f9d8",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%9C%D0%B0%D0%BB%D0%BA%D0%BE%D0%B2%20%D0%90.%D0%92._218.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/Малков А.В._218.pdf",
+        "retrievedAt": "2026-09-04T03:53:26.909063+00:00",
+        "status": 200,
+        "sha256": "4402899f9be169809759cf483b0af0cbb58fdb712f88c1f3fb398b753040f9d8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "МИЛОНОВ В.В.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/Милонов В.В._218.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod218.php",
+          "title": "Город Санкт-Петербург – Южный одномандатный избирательный округ №218",
+          "depth": 1,
+          "sha256": "56afbe4b70994e71d09c5f27bf8740a70ba8125401b3e9244f90f74e14d90373"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "3235d99409f12da844fcedfdecd762be3f4c0bb3143f5ec2831bea7776b24ca6",
+      "originalFilename": "Милонов В.В._218.pdf",
+      "filename": "МИЛОНОВ_В.В-3235d99409f1.pdf",
+      "path": "files/МИЛОНОВ_В.В-3235d99409f1.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 135437,
+      "sha256": "3235d99409f12da844fcedfdecd762be3f4c0bb3143f5ec2831bea7776b24ca6",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%9C%D0%B8%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2%20%D0%92.%D0%92._218.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/Милонов В.В._218.pdf",
+        "retrievedAt": "2026-09-04T03:53:27.343173+00:00",
+        "status": 200,
+        "sha256": "3235d99409f12da844fcedfdecd762be3f4c0bb3143f5ec2831bea7776b24ca6",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ПАНОВ Д.В.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ПАНОВ Д.В_doxod214.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod214.php",
+          "title": "Город Санкт-Петербург – Северо-Восточный одномандатный избирательный округ №214",
+          "depth": 1,
+          "sha256": "f17a85dc5daa3d2705216fb0fb2667c2cb347d277dd0c31fbbd786891c42a54c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "d2491da4b1b292d8776cdd40d3932143feeafe801d0e94cc72fe7e54f8577b98",
+      "originalFilename": "ПАНОВ Д.В_doxod214.pdf",
+      "filename": "ПАНОВ_Д.В-d2491da4b1b2.pdf",
+      "path": "files/ПАНОВ_Д.В-d2491da4b1b2.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 99500,
+      "sha256": "d2491da4b1b292d8776cdd40d3932143feeafe801d0e94cc72fe7e54f8577b98",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%9F%D0%90%D0%9D%D0%9E%D0%92%20%D0%94.%D0%92_doxod214.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ПАНОВ Д.В_doxod214.pdf",
+        "retrievedAt": "2026-09-04T03:53:27.734962+00:00",
+        "status": 200,
+        "sha256": "d2491da4b1b292d8776cdd40d3932143feeafe801d0e94cc72fe7e54f8577b98",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ПЛОШКИНА Н.А.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ПЛОШКИНА Н.А_doxod211.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod211.php",
+          "title": "Город Санкт-Петербург – Восточный одномандатный избирательный округ № 211",
+          "depth": 1,
+          "sha256": "a3a2cb687915f40dac6c1952e1ed413553aa4f6974ce1214d6400ab8dcfedecf"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "61d5f0cc4ab1bde3e30bf1c0a2182962eb7706237e2a837c89dc674d7d0b1ebf",
+      "originalFilename": "ПЛОШКИНА Н.А_doxod211.pdf",
+      "filename": "ПЛОШКИНА_Н.А-61d5f0cc4ab1.pdf",
+      "path": "files/ПЛОШКИНА_Н.А-61d5f0cc4ab1.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 206928,
+      "sha256": "61d5f0cc4ab1bde3e30bf1c0a2182962eb7706237e2a837c89dc674d7d0b1ebf",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%9F%D0%9B%D0%9E%D0%A8%D0%9A%D0%98%D0%9D%D0%90%20%D0%9D.%D0%90_doxod211.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ПЛОШКИНА Н.А_doxod211.pdf",
+        "retrievedAt": "2026-09-04T03:53:28.191203+00:00",
+        "status": 200,
+        "sha256": "61d5f0cc4ab1bde3e30bf1c0a2182962eb7706237e2a837c89dc674d7d0b1ebf",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ПРОКОПЕНКО К.О.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ПРОКОПЕНКО К.О_doxod217.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod217.php",
+          "title": "Город Санкт-Петербург – Юго-Восточный одномандатный избирательный округ №217",
+          "depth": 1,
+          "sha256": "7b3467bd499488d577810f73025dcab2749dd3ac753e560b09566063e8b4ff00"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "73a4832bb31d1c9ba4efdf56c10540bd574bd463ef0ed10a8add5b9acd223fa3",
+      "originalFilename": "ПРОКОПЕНКО К.О_doxod217.pdf",
+      "filename": "ПРОКОПЕНКО_К.О-73a4832bb31d.pdf",
+      "path": "files/ПРОКОПЕНКО_К.О-73a4832bb31d.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 99332,
+      "sha256": "73a4832bb31d1c9ba4efdf56c10540bd574bd463ef0ed10a8add5b9acd223fa3",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%9F%D0%A0%D0%9E%D0%9A%D0%9E%D0%9F%D0%95%D0%9D%D0%9A%D0%9E%20%D0%9A.%D0%9E_doxod217.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ПРОКОПЕНКО К.О_doxod217.pdf",
+        "retrievedAt": "2026-09-04T03:53:28.581368+00:00",
+        "status": 200,
+        "sha256": "73a4832bb31d1c9ba4efdf56c10540bd574bd463ef0ed10a8add5b9acd223fa3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ПЫХТЕЕВ А.С.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ПЫХТЕЕВ А.С_doxod215.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod215.php",
+          "title": "Город Санкт-Петербург – Северо-Западный одномандатный избирательный округ №215",
+          "depth": 1,
+          "sha256": "0d6d9e476ee7f0d5e217dc5b6b9e6753423141b7fd2c7ac56dab6b354a92f202"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "302fe5363c948e98d775974c949f9342191cec90bfe12758b2d24c2c82c2462c",
+      "originalFilename": "ПЫХТЕЕВ А.С_doxod215.pdf",
+      "filename": "ПЫХТЕЕВ_А.С-302fe5363c94.pdf",
+      "path": "files/ПЫХТЕЕВ_А.С-302fe5363c94.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 363905,
+      "sha256": "302fe5363c948e98d775974c949f9342191cec90bfe12758b2d24c2c82c2462c",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%9F%D0%AB%D0%A5%D0%A2%D0%95%D0%95%D0%92%20%D0%90.%D0%A1_doxod215.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ПЫХТЕЕВ А.С_doxod215.pdf",
+        "retrievedAt": "2026-09-04T03:53:29.106981+00:00",
+        "status": 200,
+        "sha256": "302fe5363c948e98d775974c949f9342191cec90bfe12758b2d24c2c82c2462c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "САЗОНЦЕВ Е.П.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/САЗОНЦЕВ Е.П_doxod211.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod211.php",
+          "title": "Город Санкт-Петербург – Восточный одномандатный избирательный округ № 211",
+          "depth": 1,
+          "sha256": "a3a2cb687915f40dac6c1952e1ed413553aa4f6974ce1214d6400ab8dcfedecf"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "97dfe3ceb4c43db1f9fb2253927e1a2fb1f365790b7e1ae821cf451e307a8e6f",
+      "originalFilename": "САЗОНЦЕВ Е.П_doxod211.pdf",
+      "filename": "САЗОНЦЕВ_Е.П-97dfe3ceb4c4.pdf",
+      "path": "files/САЗОНЦЕВ_Е.П-97dfe3ceb4c4.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 202354,
+      "sha256": "97dfe3ceb4c43db1f9fb2253927e1a2fb1f365790b7e1ae821cf451e307a8e6f",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%A1%D0%90%D0%97%D0%9E%D0%9D%D0%A6%D0%95%D0%92%20%D0%95.%D0%9F_doxod211.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/САЗОНЦЕВ Е.П_doxod211.pdf",
+        "retrievedAt": "2026-09-04T03:53:29.563821+00:00",
+        "status": 200,
+        "sha256": "97dfe3ceb4c43db1f9fb2253927e1a2fb1f365790b7e1ae821cf451e307a8e6f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "СЕРГЕЕВ И.Б.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/СЕРГЕЕВ И.Б_doxod217.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod217.php",
+          "title": "Город Санкт-Петербург – Юго-Восточный одномандатный избирательный округ №217",
+          "depth": 1,
+          "sha256": "7b3467bd499488d577810f73025dcab2749dd3ac753e560b09566063e8b4ff00"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "09382a5371fe96ed8c61c6315b082f2f2c8e9db7accfecad3575087c4c9b44a5",
+      "originalFilename": "СЕРГЕЕВ И.Б_doxod217.pdf",
+      "filename": "СЕРГЕЕВ_И.Б-09382a5371fe.pdf",
+      "path": "files/СЕРГЕЕВ_И.Б-09382a5371fe.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 95778,
+      "sha256": "09382a5371fe96ed8c61c6315b082f2f2c8e9db7accfecad3575087c4c9b44a5",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%A1%D0%95%D0%A0%D0%93%D0%95%D0%95%D0%92%20%D0%98.%D0%91_doxod217.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/СЕРГЕЕВ И.Б_doxod217.pdf",
+        "retrievedAt": "2026-09-04T03:53:29.984030+00:00",
+        "status": 200,
+        "sha256": "09382a5371fe96ed8c61c6315b082f2f2c8e9db7accfecad3575087c4c9b44a5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "СКОБЛОВ А.В.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/СКОБЛОВ А.В_doxod214.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod214.php",
+          "title": "Город Санкт-Петербург – Северо-Восточный одномандатный избирательный округ №214",
+          "depth": 1,
+          "sha256": "f17a85dc5daa3d2705216fb0fb2667c2cb347d277dd0c31fbbd786891c42a54c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "85531c64df1bb4e2c8e2a31b592e6b0ef9bb2710de500244339391fa676a0c90",
+      "originalFilename": "СКОБЛОВ А.В_doxod214.pdf",
+      "filename": "СКОБЛОВ_А.В-85531c64df1b.pdf",
+      "path": "files/СКОБЛОВ_А.В-85531c64df1b.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 127486,
+      "sha256": "85531c64df1bb4e2c8e2a31b592e6b0ef9bb2710de500244339391fa676a0c90",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%A1%D0%9A%D0%9E%D0%91%D0%9B%D0%9E%D0%92%20%D0%90.%D0%92_doxod214.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/СКОБЛОВ А.В_doxod214.pdf",
+        "retrievedAt": "2026-09-04T03:53:30.423096+00:00",
+        "status": 200,
+        "sha256": "85531c64df1bb4e2c8e2a31b592e6b0ef9bb2710de500244339391fa676a0c90",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "СУТУРИНА Е.Н.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/СУТУРИНА Е.Н_doxod218.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod218.php",
+          "title": "Город Санкт-Петербург – Южный одномандатный избирательный округ №218",
+          "depth": 1,
+          "sha256": "56afbe4b70994e71d09c5f27bf8740a70ba8125401b3e9244f90f74e14d90373"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "958c16bd71dbd18e9971e070b2103aff9d4ff023bf3c34b249db5a812aa15d8d",
+      "originalFilename": "СУТУРИНА Е.Н_doxod218.pdf",
+      "filename": "СУТУРИНА_Е.Н-958c16bd71db.pdf",
+      "path": "files/СУТУРИНА_Е.Н-958c16bd71db.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 126311,
+      "sha256": "958c16bd71dbd18e9971e070b2103aff9d4ff023bf3c34b249db5a812aa15d8d",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%A1%D0%A3%D0%A2%D0%A3%D0%A0%D0%98%D0%9D%D0%90%20%D0%95.%D0%9D_doxod218.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/СУТУРИНА Е.Н_doxod218.pdf",
+        "retrievedAt": "2026-09-04T03:53:30.866987+00:00",
+        "status": 200,
+        "sha256": "958c16bd71dbd18e9971e070b2103aff9d4ff023bf3c34b249db5a812aa15d8d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ТАТАРОВ В.Н.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ТАТАРОВ_имущ.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod215.php",
+          "title": "Город Санкт-Петербург – Северо-Западный одномандатный избирательный округ №215",
+          "depth": 1,
+          "sha256": "0d6d9e476ee7f0d5e217dc5b6b9e6753423141b7fd2c7ac56dab6b354a92f202"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "443e5795c9427ce8ca479c94476a9fc911e35bc3803bf69233114a377a012055",
+      "originalFilename": "ТАТАРОВ_имущ.pdf",
+      "filename": "ТАТАРОВ_В.Н-443e5795c942.pdf",
+      "path": "files/ТАТАРОВ_В.Н-443e5795c942.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 212430,
+      "sha256": "443e5795c9427ce8ca479c94476a9fc911e35bc3803bf69233114a377a012055",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%A2%D0%90%D0%A2%D0%90%D0%A0%D0%9E%D0%92_%D0%B8%D0%BC%D1%83%D1%89.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ТАТАРОВ_имущ.pdf",
+        "retrievedAt": "2026-09-04T03:51:36.271647+00:00",
+        "status": 200,
+        "sha256": "443e5795c9427ce8ca479c94476a9fc911e35bc3803bf69233114a377a012055",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ТЕТЕРДИНКО А.П.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/Тетердинко А.П._212.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod212.php",
+          "title": "Город Санкт-Петербург – Западный одномандатный избирательный округ №212",
+          "depth": 1,
+          "sha256": "d70f4d64b94f5851a86152324bac93effd5c0d0fd041b65b73465c597d1009af"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "4cb292b4bda787b5da6aa441f494221ad66e188476feb6deebc790e6b456b8c6",
+      "originalFilename": "Тетердинко А.П._212.pdf",
+      "filename": "ТЕТЕРДИНКО_А.П-4cb292b4bda7.pdf",
+      "path": "files/ТЕТЕРДИНКО_А.П-4cb292b4bda7.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 117658,
+      "sha256": "4cb292b4bda787b5da6aa441f494221ad66e188476feb6deebc790e6b456b8c6",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%A2%D0%B5%D1%82%D0%B5%D1%80%D0%B4%D0%B8%D0%BD%D0%BA%D0%BE%20%D0%90.%D0%9F._212.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/Тетердинко А.П._212.pdf",
+        "retrievedAt": "2026-09-04T03:53:31.353489+00:00",
+        "status": 200,
+        "sha256": "4cb292b4bda787b5da6aa441f494221ad66e188476feb6deebc790e6b456b8c6",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ТИХОНОВА Н.Г.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/Тихонова_доходы.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod212.php",
+          "title": "Город Санкт-Петербург – Западный одномандатный избирательный округ №212",
+          "depth": 1,
+          "sha256": "d70f4d64b94f5851a86152324bac93effd5c0d0fd041b65b73465c597d1009af"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "c3b397d18b5a0a1d934bcefda306f69fecc99c8fd2882d613b39239bf10ce09f",
+      "originalFilename": "Тихонова_доходы.pdf",
+      "filename": "ТИХОНОВА_Н.Г-c3b397d18b5a.pdf",
+      "path": "files/ТИХОНОВА_Н.Г-c3b397d18b5a.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 119822,
+      "sha256": "c3b397d18b5a0a1d934bcefda306f69fecc99c8fd2882d613b39239bf10ce09f",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%A2%D0%B8%D1%85%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D1%8B.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/Тихонова_доходы.pdf",
+        "retrievedAt": "2026-09-04T03:51:36.726135+00:00",
+        "status": 200,
+        "sha256": "c3b397d18b5a0a1d934bcefda306f69fecc99c8fd2882d613b39239bf10ce09f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "УТКИНА О.В.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/УТКИНА О.В_doxod212.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod212.php",
+          "title": "Город Санкт-Петербург – Западный одномандатный избирательный округ №212",
+          "depth": 1,
+          "sha256": "d70f4d64b94f5851a86152324bac93effd5c0d0fd041b65b73465c597d1009af"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "14d8f5b991ff51cc9466a442d519c21d2e80ccdd4a7b4e3c6fd93f0d72736c98",
+      "originalFilename": "УТКИНА О.В_doxod212.pdf",
+      "filename": "УТКИНА_О.В-14d8f5b991ff.pdf",
+      "path": "files/УТКИНА_О.В-14d8f5b991ff.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 123203,
+      "sha256": "14d8f5b991ff51cc9466a442d519c21d2e80ccdd4a7b4e3c6fd93f0d72736c98",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%A3%D0%A2%D0%9A%D0%98%D0%9D%D0%90%20%D0%9E.%D0%92_doxod212.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/УТКИНА О.В_doxod212.pdf",
+        "retrievedAt": "2026-09-04T03:53:31.815957+00:00",
+        "status": 200,
+        "sha256": "14d8f5b991ff51cc9466a442d519c21d2e80ccdd4a7b4e3c6fd93f0d72736c98",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ХОРЗОВ Д.В.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ХОРЗОВ Д.В_doxod218.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod218.php",
+          "title": "Город Санкт-Петербург – Южный одномандатный избирательный округ №218",
+          "depth": 1,
+          "sha256": "56afbe4b70994e71d09c5f27bf8740a70ba8125401b3e9244f90f74e14d90373"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "68d488504f4c7dedb5f2966ca1318ed1ad939c7eb7b809cd162f0c80b7a1572b",
+      "originalFilename": "ХОРЗОВ Д.В_doxod218.pdf",
+      "filename": "ХОРЗОВ_Д.В-68d488504f4c.pdf",
+      "path": "files/ХОРЗОВ_Д.В-68d488504f4c.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 129530,
+      "sha256": "68d488504f4c7dedb5f2966ca1318ed1ad939c7eb7b809cd162f0c80b7a1572b",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%A5%D0%9E%D0%A0%D0%97%D0%9E%D0%92%20%D0%94.%D0%92_doxod218.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ХОРЗОВ Д.В_doxod218.pdf",
+        "retrievedAt": "2026-09-04T03:53:32.263886+00:00",
+        "status": 200,
+        "sha256": "68d488504f4c7dedb5f2966ca1318ed1ad939c7eb7b809cd162f0c80b7a1572b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ЦЕД Н.Г.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ЦЕД_доходы.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod215.php",
+          "title": "Город Санкт-Петербург – Северо-Западный одномандатный избирательный округ №215",
+          "depth": 1,
+          "sha256": "0d6d9e476ee7f0d5e217dc5b6b9e6753423141b7fd2c7ac56dab6b354a92f202"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "1a26f5913064b2e49cc4452eb44c3ed80b95231faca1d0593e69e7a374d4381b",
+      "originalFilename": "ЦЕД_доходы.pdf",
+      "filename": "ЦЕД_Н.Г-1a26f5913064.pdf",
+      "path": "files/ЦЕД_Н.Г-1a26f5913064.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 208524,
+      "sha256": "1a26f5913064b2e49cc4452eb44c3ed80b95231faca1d0593e69e7a374d4381b",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%A6%D0%95%D0%94_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D1%8B.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ЦЕД_доходы.pdf",
+        "retrievedAt": "2026-09-04T03:51:37.199222+00:00",
+        "status": 200,
+        "sha256": "1a26f5913064b2e49cc4452eb44c3ed80b95231faca1d0593e69e7a374d4381b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ЧАНГЛИ И.Д.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ЧАНГЛИ И.Д_doxod214.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod214.php",
+          "title": "Город Санкт-Петербург – Северо-Восточный одномандатный избирательный округ №214",
+          "depth": 1,
+          "sha256": "f17a85dc5daa3d2705216fb0fb2667c2cb347d277dd0c31fbbd786891c42a54c"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "31497618e36360059837903d325c9b74ffc0a5bf519d2c09e30bf1453d29399e",
+      "originalFilename": "ЧАНГЛИ И.Д_doxod214.pdf",
+      "filename": "ЧАНГЛИ_И.Д-31497618e363.pdf",
+      "path": "files/ЧАНГЛИ_И.Д-31497618e363.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 98561,
+      "sha256": "31497618e36360059837903d325c9b74ffc0a5bf519d2c09e30bf1453d29399e",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%A7%D0%90%D0%9D%D0%93%D0%9B%D0%98%20%D0%98.%D0%94_doxod214.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ЧАНГЛИ И.Д_doxod214.pdf",
+        "retrievedAt": "2026-09-04T03:53:32.682703+00:00",
+        "status": 200,
+        "sha256": "31497618e36360059837903d325c9b74ffc0a5bf519d2c09e30bf1453d29399e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ЧЕРЕМНЫХ К.В.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ЧЕРЕМНЫХ К.В_doxod216.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod216.php",
+          "title": "Город Санкт-Петербург – Центральный одномандатный избирательный округ №216",
+          "depth": 1,
+          "sha256": "181b0752119842e971e644c1f42b613ccacc79a5cdaa3ceeee42e8ab3c0b8bfd"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "cd6965efd10f454fc807aaf84053a09aa99ccba6f08c25491802521eddd45983",
+      "originalFilename": "ЧЕРЕМНЫХ К.В_doxod216.pdf",
+      "filename": "ЧЕРЕМНЫХ_К.В-cd6965efd10f.pdf",
+      "path": "files/ЧЕРЕМНЫХ_К.В-cd6965efd10f.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 92647,
+      "sha256": "cd6965efd10f454fc807aaf84053a09aa99ccba6f08c25491802521eddd45983",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%A7%D0%95%D0%A0%D0%95%D0%9C%D0%9D%D0%AB%D0%A5%20%D0%9A.%D0%92_doxod216.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ЧЕРЕМНЫХ К.В_doxod216.pdf",
+        "retrievedAt": "2026-09-04T03:53:33.066030+00:00",
+        "status": 200,
+        "sha256": "cd6965efd10f454fc807aaf84053a09aa99ccba6f08c25491802521eddd45983",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ШМАКОВ И.В.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ШМАКОВ И.В_doxod216.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod216.php",
+          "title": "Город Санкт-Петербург – Центральный одномандатный избирательный округ №216",
+          "depth": 1,
+          "sha256": "181b0752119842e971e644c1f42b613ccacc79a5cdaa3ceeee42e8ab3c0b8bfd"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "483e13ac3529dbf9d5103f0c7e8a913f70b56b7ba1251974a14c1cd5aba5be21",
+      "originalFilename": "ШМАКОВ И.В_doxod216.pdf",
+      "filename": "ШМАКОВ_И.В-483e13ac3529.pdf",
+      "path": "files/ШМАКОВ_И.В-483e13ac3529.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 104483,
+      "sha256": "483e13ac3529dbf9d5103f0c7e8a913f70b56b7ba1251974a14c1cd5aba5be21",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%A8%D0%9C%D0%90%D0%9A%D0%9E%D0%92%20%D0%98.%D0%92_doxod216.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ШМАКОВ И.В_doxod216.pdf",
+        "retrievedAt": "2026-09-04T03:53:33.507858+00:00",
+        "status": 200,
+        "sha256": "483e13ac3529dbf9d5103f0c7e8a913f70b56b7ba1251974a14c1cd5aba5be21",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ЩЕБЕТОВ Д.В.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ЩЕБЕТОВ Д.В_doxod215.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod215.php",
+          "title": "Город Санкт-Петербург – Северо-Западный одномандатный избирательный округ №215",
+          "depth": 1,
+          "sha256": "0d6d9e476ee7f0d5e217dc5b6b9e6753423141b7fd2c7ac56dab6b354a92f202"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "0fc32b2603025f45ea59a6165dee9a595f3e0f8b1fea769686c2c7b16a2113f9",
+      "originalFilename": "ЩЕБЕТОВ Д.В_doxod215.pdf",
+      "filename": "ЩЕБЕТОВ_Д.В-0fc32b260302.pdf",
+      "path": "files/ЩЕБЕТОВ_Д.В-0fc32b260302.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 367244,
+      "sha256": "0fc32b2603025f45ea59a6165dee9a595f3e0f8b1fea769686c2c7b16a2113f9",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%A9%D0%95%D0%91%D0%95%D0%A2%D0%9E%D0%92%20%D0%94.%D0%92_doxod215.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ЩЕБЕТОВ Д.В_doxod215.pdf",
+        "retrievedAt": "2026-09-04T03:53:33.994778+00:00",
+        "status": 200,
+        "sha256": "0fc32b2603025f45ea59a6165dee9a595f3e0f8b1fea769686c2c7b16a2113f9",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ЮРКЕВИЧ О.И.",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/ЮРКЕВИЧ О.И_doxod215.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/gd_doxod215.php",
+          "title": "Город Санкт-Петербург – Северо-Западный одномандатный избирательный округ №215",
+          "depth": 1,
+          "sha256": "0d6d9e476ee7f0d5e217dc5b6b9e6753423141b7fd2c7ac56dab6b354a92f202"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "40d52d1a95d3f1ae1e5dfe5a51c531553cab431fa6e412481c245f472f1d9282",
+      "originalFilename": "ЮРКЕВИЧ О.И_doxod215.pdf",
+      "filename": "ЮРКЕВИЧ_О.И-40d52d1a95d3.pdf",
+      "path": "files/ЮРКЕВИЧ_О.И-40d52d1a95d3.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 214148,
+      "sha256": "40d52d1a95d3f1ae1e5dfe5a51c531553cab431fa6e412481c245f472f1d9282",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/%D0%AE%D0%A0%D0%9A%D0%95%D0%92%D0%98%D0%A7%20%D0%9E.%D0%98_doxod215.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/ЮРКЕВИЧ О.И_doxod215.pdf",
+        "retrievedAt": "2026-09-04T03:53:34.449259+00:00",
+        "status": 200,
+        "sha256": "40d52d1a95d3f1ae1e5dfe5a51c531553cab431fa6e412481c245f472f1d9282",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Город Санкт-Петербург – Западный одномандатный избирательный округ №212",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/fact_212_0109.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/fact_gd9.php",
+          "title": "Сведения о выявленных фактах недостоверности сведений, представленных кандидатами в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатным избирательным округам",
+          "depth": 0,
+          "sha256": "9f230c71bb9e45f8b3940d086f4cca5ef0a1d0d308c363d574285305f01803f9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "d1a7b120616d892b8e02be8cfcea5b5d3fe8c74a19f36bae9edcdc2e83f095fc",
+      "originalFilename": "fact_212_0109.pdf",
+      "filename": "Город_Санкт-Петербург_Западный_одномандатный_избирательный_округ_212-d1a7b120616d.pdf",
+      "path": "files/Город_Санкт-Петербург_Западный_одномандатный_избирательный_округ_212-d1a7b120616d.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 132698,
+      "sha256": "d1a7b120616d892b8e02be8cfcea5b5d3fe8c74a19f36bae9edcdc2e83f095fc",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/fact_212_0109.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/fact_212_0109.pdf",
+        "retrievedAt": "2026-09-04T03:45:10.939347+00:00",
+        "status": 200,
+        "sha256": "d1a7b120616d892b8e02be8cfcea5b5d3fe8c74a19f36bae9edcdc2e83f095fc",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Город Санкт-Петербург – Северо-Западный одномандатный избирательный округ №215",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/fact_215_2608.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/fact_gd9.php",
+          "title": "Сведения о выявленных фактах недостоверности сведений, представленных кандидатами в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатным избирательным округам",
+          "depth": 0,
+          "sha256": "9f230c71bb9e45f8b3940d086f4cca5ef0a1d0d308c363d574285305f01803f9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "7b4f01c208edfeb7c35e2049fb8b8de811d6678639ceed0d90e216fa2643f30c",
+      "originalFilename": "fact_215_2608.pdf",
+      "filename": "Город_Санкт-Петербург_Северо-Западный_одномандатный_избирательный_округ_215-7b4f01c208ed.pdf",
+      "path": "files/Город_Санкт-Петербург_Северо-Западный_одномандатный_избирательный_округ_215-7b4f01c208ed.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 738817,
+      "sha256": "7b4f01c208edfeb7c35e2049fb8b8de811d6678639ceed0d90e216fa2643f30c",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/fact_215_2608.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/fact_215_2608.pdf",
+        "retrievedAt": "2026-09-04T03:45:11.758580+00:00",
+        "status": 200,
+        "sha256": "7b4f01c208edfeb7c35e2049fb8b8de811d6678639ceed0d90e216fa2643f30c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Город Санкт-Петербург – Юго-Восточный одномандатный избирательный округ №217",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/fact_217_2808.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/fact_gd9.php",
+          "title": "Сведения о выявленных фактах недостоверности сведений, представленных кандидатами в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатным избирательным округам",
+          "depth": 0,
+          "sha256": "9f230c71bb9e45f8b3940d086f4cca5ef0a1d0d308c363d574285305f01803f9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "9b46d19464f1c1c77dfa844d398be20eae3da99158ae749bc8ca9cab72902f55",
+      "originalFilename": "fact_217_2808.pdf",
+      "filename": "Город_Санкт-Петербург_Юго-Восточный_одномандатный_избирательный_округ_217-9b46d19464f1.pdf",
+      "path": "files/Город_Санкт-Петербург_Юго-Восточный_одномандатный_избирательный_округ_217-9b46d19464f1.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 155793,
+      "sha256": "9b46d19464f1c1c77dfa844d398be20eae3da99158ae749bc8ca9cab72902f55",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/fact_217_2808.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/fact_217_2808.pdf",
+        "retrievedAt": "2026-09-04T03:45:12.662321+00:00",
+        "status": 200,
+        "sha256": "9b46d19464f1c1c77dfa844d398be20eae3da99158ae749bc8ca9cab72902f55",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Город Санкт-Петербург – Южный одномандатный избирательный округ №218",
+      "officialUrl": "http://st-petersburg.izbirkom.ru/docs/2026/fact_218_0109.pdf",
+      "sourcePages": [
+        {
+          "url": "http://st-petersburg.izbirkom.ru/edg20092026/fact_gd9.php",
+          "title": "Сведения о выявленных фактах недостоверности сведений, представленных кандидатами в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатным избирательным округам",
+          "depth": 0,
+          "sha256": "9f230c71bb9e45f8b3940d086f4cca5ef0a1d0d308c363d574285305f01803f9"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "f09ce47d82bbe5293ba010c1a1edd947e622ddc3d2aeaa3d28464104e78a2738",
+      "originalFilename": "fact_218_0109.pdf",
+      "filename": "Город_Санкт-Петербург_Южный_одномандатный_избирательный_округ_218-f09ce47d82bb.pdf",
+      "path": "files/Город_Санкт-Петербург_Южный_одномандатный_избирательный_округ_218-f09ce47d82bb.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 122687,
+      "sha256": "f09ce47d82bbe5293ba010c1a1edd947e622ddc3d2aeaa3d28464104e78a2738",
+      "source": {
+        "url": "http://st-petersburg.izbirkom.ru/docs/2026/fact_218_0109.pdf",
+        "requestKey": "http://st-petersburg.izbirkom.ru/docs/2026/fact_218_0109.pdf",
+        "retrievedAt": "2026-09-04T03:45:13.429347+00:00",
+        "status": 200,
+        "sha256": "f09ce47d82bbe5293ba010c1a1edd947e622ddc3d2aeaa3d28464104e78a2738",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

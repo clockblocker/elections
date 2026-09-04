@@ -1,0 +1,675 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T04:02:24.043358+00:00",
+  "region": {
+    "code": "32",
+    "name": "Брянская область",
+    "seedUrls": [
+      "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+      "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/index.php"
+    ],
+    "allowedHosts": [
+      "bryansk.izbirkom.ru",
+      "www.bryansk.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 28,
+  "documentCount": 2,
+  "documentCounts": {
+    "declaration": 2
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 4,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 2
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/",
+        "retrievedAt": "2026-09-04T03:37:13.669479+00:00",
+        "status": 200,
+        "sha256": "1b0bc0430aebc71896235329b44ccf935f4bae8f8e256fab525b06a9f87b27a5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/index.php",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/index.php",
+        "retrievedAt": "2026-09-04T03:37:14.649404+00:00",
+        "status": 200,
+        "sha256": "1b0bc0430aebc71896235329b44ccf935f4bae8f8e256fab525b06a9f87b27a5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/index.php",
+      "title": "Информационное обеспечение выборов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/index.php",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/index.php",
+        "retrievedAt": "2026-09-04T04:02:14.714388+00:00",
+        "status": 200,
+        "sha256": "00c11b197aaaa4878a326a8c5cd1bfeca18ea55e4213104965e0248f5e09b6b2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-dlya-uchastnikov-izbiratelnogo-protsessa/index.php",
+      "title": "Информация для участников избирательного процесса",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-dlya-uchastnikov-izbiratelnogo-protsessa/index.php",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-dlya-uchastnikov-izbiratelnogo-protsessa/index.php",
+        "retrievedAt": "2026-09-04T04:02:15.323922+00:00",
+        "status": 200,
+        "sha256": "2ba183956b8309fd12bb4ed864afe57b7c8a2aa91a4365dd6983bc21bb4f0c51",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/mobilnyy-izbiratel/index.php",
+      "title": "Мобильный избиратель",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/mobilnyy-izbiratel/index.php",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/mobilnyy-izbiratel/index.php",
+        "retrievedAt": "2026-09-04T04:02:15.857471+00:00",
+        "status": 200,
+        "sha256": "621b5b54be773dffacfb53ce05772e2391bb06be0336af40e58f5ae32c701225",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/finansirovanie-vyborov/index.php",
+      "title": "Финансирование выборов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/finansirovanie-vyborov/index.php",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/finansirovanie-vyborov/index.php",
+        "retrievedAt": "2026-09-04T04:02:16.493956+00:00",
+        "status": 200,
+        "sha256": "7e6bf67a2cadfe07dbe591d10e2c0be9fdbf3819103a30c97a993157537b21e5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/postanovleniya-izbiratelnoy-komissii-bryanskoy-oblasti/index.php",
+      "title": "Постановления Избирательной комиссии Брянской области",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/postanovleniya-izbiratelnoy-komissii-bryanskoy-oblasti/index.php",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/postanovleniya-izbiratelnoy-komissii-bryanskoy-oblasti/index.php",
+        "retrievedAt": "2026-09-04T04:02:17.020603+00:00",
+        "status": 200,
+        "sha256": "94e97598ea662143c95ba8113d2a6c4cb511d363b12437341bd16a815d71d5e1",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/o-rabote-uchebnogo-kabineta-izbiratelnoy-komissii-bryanskoy-oblasti/index.php",
+      "title": "О работе Учебного кабинета Избирательной комиссии Брянской области",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/o-rabote-uchebnogo-kabineta-izbiratelnoy-komissii-bryanskoy-oblasti/index.php",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/o-rabote-uchebnogo-kabineta-izbiratelnoy-komissii-bryanskoy-oblasti/index.php",
+        "retrievedAt": "2026-09-04T04:02:17.569561+00:00",
+        "status": 200,
+        "sha256": "20b153d5e7c5cc374cbce4c1ac16ded387875eef7155c3769ec640390aaaee59",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/grafik-raboty-izbiratelnoy-komissii-bryanskoy-oblasti-po-priemu-izbiratelnykh-dokumentov-predstavlya/index.php",
+      "title": "График работы Избирательной комиссии Брянской области по приему избирательных документов, представляемых кандидатами (иными уполномоченными лицами) в период избирательной кампании по выборам депутатов Государственной Думы",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/grafik-raboty-izbiratelnoy-komissii-bryanskoy-oblasti-po-priemu-izbiratelnykh-dokumentov-predstavlya/index.php",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/grafik-raboty-izbiratelnoy-komissii-bryanskoy-oblasti-po-priemu-izbiratelnykh-dokumentov-predstavlya/index.php",
+        "retrievedAt": "2026-09-04T03:37:15.299698+00:00",
+        "status": 200,
+        "sha256": "d5bb204840738919fdd375ff227606ca8d07f06be57d2d44d743b836d8181d92",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/",
+      "title": "Информационное обеспечение выборов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/",
+        "retrievedAt": "2026-09-04T04:02:18.124043+00:00",
+        "status": 200,
+        "sha256": "00c11b197aaaa4878a326a8c5cd1bfeca18ea55e4213104965e0248f5e09b6b2",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/index.php",
+      "title": "Сведения о зарегистрированных кандидатах по одномандатному избирательному округу Брянская область - Унечский одномандатный избирательный округ № 82",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/Сведения%20о%20доходах%20и%20об%20имуществе%20на%20сайт%20(ГД_82%20округ).pdf"
+      ],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/index.php",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/index.php",
+        "retrievedAt": "2026-09-04T04:02:18.659337+00:00",
+        "status": 200,
+        "sha256": "2f97cb6add58d7de9b6ef04421674de2606c7ba443af8f2d38de59ad91611887",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/index.php",
+      "title": "Сведения о зарегистрированных кандидатах по одномандатному избирательному округу Брянская область - Брянский одномандатный избирательный округ № 81",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/Сведения%20о%20доходах%20и%20об%20имуществе%20на%20сайт%20(ГД_81%20округ).pdf"
+      ],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/index.php",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/index.php",
+        "retrievedAt": "2026-09-04T04:02:19.181842+00:00",
+        "status": 200,
+        "sha256": "fc4e9c82762861e0f82edd614494a598ad5cf5360a30b8905e3f2f6d12138d6a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/informatsiya-o-zherebevkakh-po-raspredeleniyu-efirnogo-vremeni-i-pechatnoy-ploshchadi-pri-provedenii/index.php",
+      "title": "Информация о жеребьевках по распределению эфирного времени и печатной площади при проведении выборов депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/informatsiya-o-zherebevkakh-po-raspredeleniyu-efirnogo-vremeni-i-pechatnoy-ploshchadi-pri-provedenii/index.php",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/informatsiya-o-zherebevkakh-po-raspredeleniyu-efirnogo-vremeni-i-pechatnoy-ploshchadi-pri-provedenii/index.php",
+        "retrievedAt": "2026-09-04T04:02:19.716149+00:00",
+        "status": 200,
+        "sha256": "121e9903711fa66819d6c18bfb00d543cb9240dc6e1b782bd25af4a96a38f531",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/k-svedeniyu-rukovoditeley-sredstv-massovoy-informatsii-organizatsiy-i-individualnykh-predprinimatele/index.php",
+      "title": "К сведению руководителей средств массовой информации, организаций и индивидуальных предпринимателей, осуществляющих изготовление печатных агитационных материалов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/k-svedeniyu-rukovoditeley-sredstv-massovoy-informatsii-organizatsiy-i-individualnykh-predprinimatele/index.php",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/k-svedeniyu-rukovoditeley-sredstv-massovoy-informatsii-organizatsiy-i-individualnykh-predprinimatele/index.php",
+        "retrievedAt": "2026-09-04T04:02:20.242598+00:00",
+        "status": 200,
+        "sha256": "6a5af5664be68fdc55e8c3fc1a270487d723fea5a380b0078ceb4d96959e1fb3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/perechen-regionalnykh-gosudarstvennykh-organizatsiy-teleradioveshchaniya-regionalnykh-gosudarstvenny/index.php",
+      "title": "Перечень региональных государственных организаций телерадиовещания, региональных государственных и муниципальных периодических печатных изданий Брянской области, используемых для информационного обеспечения выборов депутатов Государственной Думы",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/perechen-regionalnykh-gosudarstvennykh-organizatsiy-teleradioveshchaniya-regionalnykh-gosudarstvenny/index.php",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/perechen-regionalnykh-gosudarstvennykh-organizatsiy-teleradioveshchaniya-regionalnykh-gosudarstvenny/index.php",
+        "retrievedAt": "2026-09-04T04:02:20.786237+00:00",
+        "status": 200,
+        "sha256": "8a87976a42f66a4205f2345e28f344ca462e0332bf7567421b671ffdc0bb1d5c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-dlya-uchastnikov-izbiratelnogo-protsessa/",
+      "title": "Информация для участников избирательного процесса",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-dlya-uchastnikov-izbiratelnogo-protsessa/",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-dlya-uchastnikov-izbiratelnogo-protsessa/",
+        "retrievedAt": "2026-09-04T04:02:21.315561+00:00",
+        "status": 200,
+        "sha256": "2ba183956b8309fd12bb4ed864afe57b7c8a2aa91a4365dd6983bc21bb4f0c51",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-dlya-uchastnikov-izbiratelnogo-protsessa/o-naznachenii-nablyudateley/index.php",
+      "title": "О назначении наблюдателей",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-dlya-uchastnikov-izbiratelnogo-protsessa/o-naznachenii-nablyudateley/index.php",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-dlya-uchastnikov-izbiratelnogo-protsessa/o-naznachenii-nablyudateley/index.php",
+        "retrievedAt": "2026-09-04T04:02:21.840813+00:00",
+        "status": 200,
+        "sha256": "aae3aef34c083245b61fcde8754e51cf992c2a998c396ed28858f2e7b7831a03",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/mobilnyy-izbiratel/",
+      "title": "Мобильный избиратель",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/mobilnyy-izbiratel/",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/mobilnyy-izbiratel/",
+        "retrievedAt": "2026-09-04T04:02:22.352803+00:00",
+        "status": 200,
+        "sha256": "621b5b54be773dffacfb53ce05772e2391bb06be0336af40e58f5ae32c701225",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/finansirovanie-vyborov/",
+      "title": "Финансирование выборов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/finansirovanie-vyborov/",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/finansirovanie-vyborov/",
+        "retrievedAt": "2026-09-04T04:02:22.855560+00:00",
+        "status": 200,
+        "sha256": "7e6bf67a2cadfe07dbe591d10e2c0be9fdbf3819103a30c97a993157537b21e5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/postanovleniya-izbiratelnoy-komissii-bryanskoy-oblasti/",
+      "title": "Постановления Избирательной комиссии Брянской области",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/postanovleniya-izbiratelnoy-komissii-bryanskoy-oblasti/",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/postanovleniya-izbiratelnoy-komissii-bryanskoy-oblasti/",
+        "retrievedAt": "2026-09-04T04:02:23.418965+00:00",
+        "status": 200,
+        "sha256": "94e97598ea662143c95ba8113d2a6c4cb511d363b12437341bd16a815d71d5e1",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/o-rabote-uchebnogo-kabineta-izbiratelnoy-komissii-bryanskoy-oblasti/",
+      "title": "О работе Учебного кабинета Избирательной комиссии Брянской области",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/o-rabote-uchebnogo-kabineta-izbiratelnoy-komissii-bryanskoy-oblasti/",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/o-rabote-uchebnogo-kabineta-izbiratelnoy-komissii-bryanskoy-oblasti/",
+        "retrievedAt": "2026-09-04T04:02:23.944741+00:00",
+        "status": 200,
+        "sha256": "20b153d5e7c5cc374cbce4c1ac16ded387875eef7155c3769ec640390aaaee59",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/grafik-raboty-izbiratelnoy-komissii-bryanskoy-oblasti-po-priemu-izbiratelnykh-dokumentov-predstavlya/",
+      "title": "График работы Избирательной комиссии Брянской области по приему избирательных документов, представляемых кандидатами (иными уполномоченными лицами) в период избирательной кампании по выборам депутатов Государственной Думы",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/grafik-raboty-izbiratelnoy-komissii-bryanskoy-oblasti-po-priemu-izbiratelnykh-dokumentov-predstavlya/",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/grafik-raboty-izbiratelnoy-komissii-bryanskoy-oblasti-po-priemu-izbiratelnykh-dokumentov-predstavlya/",
+        "retrievedAt": "2026-09-04T03:37:16.334126+00:00",
+        "status": 200,
+        "sha256": "d5bb204840738919fdd375ff227606ca8d07f06be57d2d44d743b836d8181d92",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/",
+      "title": "Сведения о зарегистрированных кандидатах по одномандатному избирательному округу Брянская область - Унечский одномандатный избирательный округ № 82",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/Сведения%20о%20доходах%20и%20об%20имуществе%20на%20сайт%20(ГД_82%20округ).pdf"
+      ],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/",
+        "retrievedAt": "2026-09-04T03:43:14.690566+00:00",
+        "status": 200,
+        "sha256": "2f97cb6add58d7de9b6ef04421674de2606c7ba443af8f2d38de59ad91611887",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/",
+      "title": "Сведения о зарегистрированных кандидатах по одномандатному избирательному округу Брянская область - Брянский одномандатный избирательный округ № 81",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/Сведения%20о%20доходах%20и%20об%20имуществе%20на%20сайт%20(ГД_81%20округ).pdf"
+      ],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/",
+        "retrievedAt": "2026-09-04T03:43:15.354556+00:00",
+        "status": 200,
+        "sha256": "fc4e9c82762861e0f82edd614494a598ad5cf5360a30b8905e3f2f6d12138d6a",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/informatsiya-o-zherebevkakh-po-raspredeleniyu-efirnogo-vremeni-i-pechatnoy-ploshchadi-pri-provedenii/",
+      "title": "Информация о жеребьевках по распределению эфирного времени и печатной площади при проведении выборов депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/informatsiya-o-zherebevkakh-po-raspredeleniyu-efirnogo-vremeni-i-pechatnoy-ploshchadi-pri-provedenii/",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/informatsiya-o-zherebevkakh-po-raspredeleniyu-efirnogo-vremeni-i-pechatnoy-ploshchadi-pri-provedenii/",
+        "retrievedAt": "2026-09-04T03:43:16.035011+00:00",
+        "status": 200,
+        "sha256": "121e9903711fa66819d6c18bfb00d543cb9240dc6e1b782bd25af4a96a38f531",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/k-svedeniyu-rukovoditeley-sredstv-massovoy-informatsii-organizatsiy-i-individualnykh-predprinimatele/",
+      "title": "К сведению руководителей средств массовой информации, организаций и индивидуальных предпринимателей, осуществляющих изготовление печатных агитационных материалов",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/k-svedeniyu-rukovoditeley-sredstv-massovoy-informatsii-organizatsiy-i-individualnykh-predprinimatele/",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/k-svedeniyu-rukovoditeley-sredstv-massovoy-informatsii-organizatsiy-i-individualnykh-predprinimatele/",
+        "retrievedAt": "2026-09-04T03:43:16.741514+00:00",
+        "status": 200,
+        "sha256": "6a5af5664be68fdc55e8c3fc1a270487d723fea5a380b0078ceb4d96959e1fb3",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/perechen-regionalnykh-gosudarstvennykh-organizatsiy-teleradioveshchaniya-regionalnykh-gosudarstvenny/",
+      "title": "Перечень региональных государственных организаций телерадиовещания, региональных государственных и муниципальных периодических печатных изданий Брянской области, используемых для информационного обеспечения выборов депутатов Государственной Думы",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/perechen-regionalnykh-gosudarstvennykh-organizatsiy-teleradioveshchaniya-regionalnykh-gosudarstvenny/",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/perechen-regionalnykh-gosudarstvennykh-organizatsiy-teleradioveshchaniya-regionalnykh-gosudarstvenny/",
+        "retrievedAt": "2026-09-04T03:43:17.390555+00:00",
+        "status": 200,
+        "sha256": "8a87976a42f66a4205f2345e28f344ca462e0332bf7567421b671ffdc0bb1d5c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-dlya-uchastnikov-izbiratelnogo-protsessa/o-naznachenii-nablyudateley/",
+      "title": "О назначении наблюдателей",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-dlya-uchastnikov-izbiratelnogo-protsessa/o-naznachenii-nablyudateley/",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsiya-dlya-uchastnikov-izbiratelnogo-protsessa/o-naznachenii-nablyudateley/",
+        "retrievedAt": "2026-09-04T03:43:18.144265+00:00",
+        "status": 200,
+        "sha256": "aae3aef34c083245b61fcde8754e51cf992c2a998c396ed28858f2e7b7831a03",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов по одномандатному избирательному округу Брянская область - Брянский одномандатный избирательный округ № 81",
+      "officialUrl": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/Сведения%20о%20доходах%20и%20об%20имуществе%20на%20сайт%20(ГД_81%20округ).pdf",
+      "sourcePages": [
+        {
+          "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/index.php",
+          "title": "Сведения о зарегистрированных кандидатах по одномандатному избирательному округу Брянская область - Брянский одномандатный избирательный округ № 81",
+          "depth": 2,
+          "sha256": "fc4e9c82762861e0f82edd614494a598ad5cf5360a30b8905e3f2f6d12138d6a"
+        },
+        {
+          "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/",
+          "title": "Сведения о зарегистрированных кандидатах по одномандатному избирательному округу Брянская область - Брянский одномандатный избирательный округ № 81",
+          "depth": 3,
+          "sha256": "fc4e9c82762861e0f82edd614494a598ad5cf5360a30b8905e3f2f6d12138d6a"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "d2802491d37d94d1b1d0a4bf1f5eb8d892d8afb097598cedec70a9b33e19cbfd",
+      "originalFilename": "Сведения о доходах и об имуществе на сайт (ГД_81 округ).pdf",
+      "filename": "Сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_по_одномандатному_избирательному_окр-d2802491d37d.pdf",
+      "path": "files/Сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_по_одномандатному_избирательному_окр-d2802491d37d.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 147636,
+      "sha256": "d2802491d37d94d1b1d0a4bf1f5eb8d892d8afb097598cedec70a9b33e19cbfd",
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85%20%D0%B8%20%D0%BE%D0%B1%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%20(%D0%93%D0%94_81%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3).pdf",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/informatsionnoe-obespechenie-vyborov/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/Сведения%20о%20доходах%20и%20об%20имуществе%20на%20сайт%20(ГД_81%20округ).pdf",
+        "retrievedAt": "2026-09-04T03:43:18.763478+00:00",
+        "status": 200,
+        "sha256": "d2802491d37d94d1b1d0a4bf1f5eb8d892d8afb097598cedec70a9b33e19cbfd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "Сведения о доходах и об имуществе зарегистрированных кандидатов по одномандатному избирательному округу Брянская область - Унечский одномандатный избирательный округ № 82",
+      "officialUrl": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/Сведения%20о%20доходах%20и%20об%20имуществе%20на%20сайт%20(ГД_82%20округ).pdf",
+      "sourcePages": [
+        {
+          "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/index.php",
+          "title": "Сведения о зарегистрированных кандидатах по одномандатному избирательному округу Брянская область - Унечский одномандатный избирательный округ № 82",
+          "depth": 2,
+          "sha256": "2f97cb6add58d7de9b6ef04421674de2606c7ba443af8f2d38de59ad91611887"
+        },
+        {
+          "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/",
+          "title": "Сведения о зарегистрированных кандидатах по одномандатному избирательному округу Брянская область - Унечский одномандатный избирательный округ № 82",
+          "depth": 3,
+          "sha256": "2f97cb6add58d7de9b6ef04421674de2606c7ba443af8f2d38de59ad91611887"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "5f769fd814b1343110e7631d9abb769a0c33ac69396c9592f9166ad63f096b9f",
+      "originalFilename": "Сведения о доходах и об имуществе на сайт (ГД_82 округ).pdf",
+      "filename": "Сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_по_одномандатному_избирательному_окр-5f769fd814b1.pdf",
+      "path": "files/Сведения_о_доходах_и_об_имуществе_зарегистрированных_кандидатов_по_одномандатному_избирательному_окр-5f769fd814b1.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 149804,
+      "sha256": "5f769fd814b1343110e7631d9abb769a0c33ac69396c9592f9166ad63f096b9f",
+      "source": {
+        "url": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0%D1%85%20%D0%B8%20%D0%BE%D0%B1%20%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%20(%D0%93%D0%94_82%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3).pdf",
+        "requestKey": "http://bryansk.izbirkom.ru/arkhiv-vyborov-i-referendumov/edinyy-den-golosovaniya-20-sentyabrya-2026-goda/vybory-deputatov-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federatsii-devyatogo-sozyva/svedeniya-o-zaregistrirovannykh-kandidatakh-po-odnomandatnomu-izbiratelnomu-okrugu-bryanskaya-oblast/Сведения%20о%20доходах%20и%20об%20имуществе%20на%20сайт%20(ГД_82%20округ).pdf",
+        "retrievedAt": "2026-09-04T03:43:19.457337+00:00",
+        "status": 200,
+        "sha256": "5f769fd814b1343110e7631d9abb769a0c33ac69396c9592f9166ad63f096b9f",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

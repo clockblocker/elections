@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:10.073644+00:00",
+  "region": {
+    "code": "56",
+    "name": "Оренбургская область",
+    "seedUrls": [
+      "http://orenburg.izbirkom.ru/arkhiv-vyborov-i-referendumov/edg-2026/vybory-deputatov-gos-dumy/",
+      "http://orenburg.izbirkom.ru/arkhiv-vyborov-i-referendumov/edg-2026/vybory-deputatov-gos-dumy/index.php"
+    ],
+    "allowedHosts": [
+      "orenburg.izbirkom.ru",
+      "www.orenburg.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 4,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://orenburg.izbirkom.ru/arkhiv-vyborov-i-referendumov/edg-2026/vybory-deputatov-gos-dumy/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://orenburg.izbirkom.ru/arkhiv-vyborov-i-referendumov/edg-2026/vybory-deputatov-gos-dumy/",
+        "requestKey": "http://orenburg.izbirkom.ru/arkhiv-vyborov-i-referendumov/edg-2026/vybory-deputatov-gos-dumy/",
+        "retrievedAt": "2026-09-04T03:35:45.489267+00:00",
+        "status": 200,
+        "sha256": "1a64c038d1ba5ce5dc76291ab4e31bf99d73319ca932628bf1bb0e2d0c14d0c0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://orenburg.izbirkom.ru/arkhiv-vyborov-i-referendumov/edg-2026/vybory-deputatov-gos-dumy/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://orenburg.izbirkom.ru/arkhiv-vyborov-i-referendumov/edg-2026/vybory-deputatov-gos-dumy/index.php",
+        "requestKey": "http://orenburg.izbirkom.ru/arkhiv-vyborov-i-referendumov/edg-2026/vybory-deputatov-gos-dumy/index.php",
+        "retrievedAt": "2026-09-04T03:35:46.149820+00:00",
+        "status": 200,
+        "sha256": "1a64c038d1ba5ce5dc76291ab4e31bf99d73319ca932628bf1bb0e2d0c14d0c0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://orenburg.izbirkom.ru/arkhiv-vyborov-i-referendumov/edg-2026/vybory-deputatov-gos-dumy/kandidatam-izbiratelnym-obedineniyam-izbiratelyam/index.php",
+      "title": "Кандидатам, избирательным объединениям, избирателям",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://orenburg.izbirkom.ru/arkhiv-vyborov-i-referendumov/edg-2026/vybory-deputatov-gos-dumy/kandidatam-izbiratelnym-obedineniyam-izbiratelyam/index.php",
+        "requestKey": "http://orenburg.izbirkom.ru/arkhiv-vyborov-i-referendumov/edg-2026/vybory-deputatov-gos-dumy/kandidatam-izbiratelnym-obedineniyam-izbiratelyam/index.php",
+        "retrievedAt": "2026-09-04T03:35:48.296953+00:00",
+        "status": 200,
+        "sha256": "a0d61dbb0e40f695ff9078c08772f0191885d0f566c0dc239bdd8f27b71a7572",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://orenburg.izbirkom.ru/arkhiv-vyborov-i-referendumov/edg-2026/vybory-deputatov-gos-dumy/kandidatam-izbiratelnym-obedineniyam-izbiratelyam/",
+      "title": "Кандидатам, избирательным объединениям, избирателям",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://orenburg.izbirkom.ru/arkhiv-vyborov-i-referendumov/edg-2026/vybory-deputatov-gos-dumy/kandidatam-izbiratelnym-obedineniyam-izbiratelyam/",
+        "requestKey": "http://orenburg.izbirkom.ru/arkhiv-vyborov-i-referendumov/edg-2026/vybory-deputatov-gos-dumy/kandidatam-izbiratelnym-obedineniyam-izbiratelyam/",
+        "retrievedAt": "2026-09-04T03:35:54.939894+00:00",
+        "status": 200,
+        "sha256": "a0d61dbb0e40f695ff9078c08772f0191885d0f566c0dc239bdd8f27b71a7572",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

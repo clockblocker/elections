@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:54:10.467047+00:00",
+  "region": {
+    "code": "65",
+    "name": "Сахалинская область",
+    "seedUrls": [
+      "http://sakhalin.izbirkom.ru/news/4875/",
+      "http://sakhalin.izbirkom.ru/vybory-i-referendumy/vybory-i-referendumy-2026-god/vybory-deputatov-gosudarstvennoy-dumy/"
+    ],
+    "allowedHosts": [
+      "sakhalin.izbirkom.ru",
+      "www.sakhalin.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 5,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://sakhalin.izbirkom.ru/news/4875/",
+      "title": "В Александровск-Сахалинском состоялся семинар с участковыми избирательными комиссиями «Задачи УИК по организации подготовки и проведения выборов депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва»",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://sakhalin.izbirkom.ru/news/4875/",
+        "requestKey": "http://sakhalin.izbirkom.ru/news/4875/",
+        "retrievedAt": "2026-09-04T03:41:13.788888+00:00",
+        "status": 200,
+        "sha256": "5df7bafa131e96e77dccc56a53311fe0b19d566550dcb676845b2d1cc786aaa8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://sakhalin.izbirkom.ru/vybory-i-referendumy/vybory-i-referendumy-2026-god/vybory-deputatov-gosudarstvennoy-dumy/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://sakhalin.izbirkom.ru/vybory-i-referendumy/vybory-i-referendumy-2026-god/vybory-deputatov-gosudarstvennoy-dumy/",
+        "requestKey": "http://sakhalin.izbirkom.ru/vybory-i-referendumy/vybory-i-referendumy-2026-god/vybory-deputatov-gosudarstvennoy-dumy/",
+        "retrievedAt": "2026-09-04T03:41:14.827428+00:00",
+        "status": 200,
+        "sha256": "de0ca7c90f51b628aaec861aeee51cef74264df8485fed346992b9465f268f8f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://sakhalin.izbirkom.ru/news/4878/",
+      "title": "На Южных Курилах продолжается досрочное голосование на выборах депутатов Государственной Думы",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://sakhalin.izbirkom.ru/news/4878/",
+        "requestKey": "http://sakhalin.izbirkom.ru/news/4878/",
+        "retrievedAt": "2026-09-04T03:41:15.902429+00:00",
+        "status": 200,
+        "sha256": "7ff62da672c96b86a86fbc57d02d0584bc9107266843a9c2528a1c6df3dda93d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://sakhalin.izbirkom.ru/news/4877/",
+      "title": "В Поронайском районе избиратели узнают о предстоящих выборах депутатов Государственной Думы от членов участковых избирательных комиссий, участвующих в проекте «ИнформУИК»",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://sakhalin.izbirkom.ru/news/4877/",
+        "requestKey": "http://sakhalin.izbirkom.ru/news/4877/",
+        "retrievedAt": "2026-09-04T03:41:16.941919+00:00",
+        "status": 200,
+        "sha256": "590fb7bea6dd0786f96a02eb32898b3d220b9ee7756ba3710505691dfb1870a4",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://sakhalin.izbirkom.ru/news/4876/",
+      "title": "На Южных Курилах продолжается адресное информирование избирателей о выборах депутатов Государственной Думы",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://sakhalin.izbirkom.ru/news/4876/",
+        "requestKey": "http://sakhalin.izbirkom.ru/news/4876/",
+        "retrievedAt": "2026-09-04T03:41:17.983875+00:00",
+        "status": 200,
+        "sha256": "304f4b4660a872ad98fbfd90d51c9dc4395861edc9e74f33998315d53c009a33",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

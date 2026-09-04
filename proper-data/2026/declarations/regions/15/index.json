@@ -1,0 +1,501 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:30.748742+00:00",
+  "region": {
+    "code": "15",
+    "name": "Республика Северная Осетия-Алания",
+    "seedUrls": [
+      "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/",
+      "http://n-osset-alania.izbirkom.ru/informatsionnoe-obespechenie/accreditacia-smi/index.php",
+      "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/"
+    ],
+    "allowedHosts": [
+      "n-osset-alania.izbirkom.ru",
+      "www.n-osset-alania.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 8,
+  "documentCount": 9,
+  "documentCounts": {
+    "declaration": 8,
+    "inaccuracy": 1
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 3,
+      "explicitEmptyPageCount": 2,
+      "documentCount": 8
+    },
+    "inaccuracy": {
+      "signalPageCount": 2,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 1
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/",
+      "title": "Выборы депутатов Государственной Думы Федерального собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/",
+        "requestKey": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/",
+        "retrievedAt": "2026-09-04T03:30:51.658369+00:00",
+        "status": 200,
+        "sha256": "57cb1afdcd25231c27b7659e5ad13f24c91a2f58cea22dc34a417ee603aed437",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://n-osset-alania.izbirkom.ru/informatsionnoe-obespechenie/accreditacia-smi/index.php",
+      "title": "Аккредитация представителей средств массовой информации на выборах депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://n-osset-alania.izbirkom.ru/informatsionnoe-obespechenie/accreditacia-smi/index.php",
+        "requestKey": "http://n-osset-alania.izbirkom.ru/informatsionnoe-obespechenie/accreditacia-smi/index.php",
+        "retrievedAt": "2026-09-04T03:30:52.164004+00:00",
+        "status": 200,
+        "sha256": "816815f548f85d19d94b1803ba5db1c85d3944c73e1aecf390c874c873da9b42",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/",
+      "title": "Выборы депутатов Государственной Думы Федерального собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 2
+      },
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [
+        "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/Недостоверные сведения_для сайта.docx.pdf"
+      ],
+      "source": {
+        "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/",
+        "requestKey": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/",
+        "retrievedAt": "2026-09-04T03:30:52.655709+00:00",
+        "status": 200,
+        "sha256": "23d0e4118150b0be426fb71ba03dd5b6b384205d4f7c034400fa13b91d253f19",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/grafik-priema-dokumentov-dlya-vydvizheniya-i-registratsii-kandidatov.php",
+      "title": "График приема документов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/grafik-priema-dokumentov-dlya-vydvizheniya-i-registratsii-kandidatov.php",
+        "requestKey": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/grafik-priema-dokumentov-dlya-vydvizheniya-i-registratsii-kandidatov.php",
+        "retrievedAt": "2026-09-04T03:30:54.278008+00:00",
+        "status": 200,
+        "sha256": "47d0fd7bed73b9932e1b53da9fa7673342ff1642752f30ac48e0d0f010f77a9d",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/index.php",
+      "title": "Выборы депутатов Государственной Думы Федерального собрания Российской Федерации девятого созыва",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration",
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 2
+      },
+      "explicitEmptyCategories": [
+        "declaration"
+      ],
+      "discoveredDocumentUrls": [
+        "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/Недостоверные сведения_для сайта.docx.pdf"
+      ],
+      "source": {
+        "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/index.php",
+        "requestKey": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/index.php",
+        "retrievedAt": "2026-09-04T03:30:56.217547+00:00",
+        "status": 200,
+        "sha256": "23d0e4118150b0be426fb71ba03dd5b6b384205d4f7c034400fa13b91d253f19",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://n-osset-alania.izbirkom.ru/news/7244/",
+      "title": "Предвыборная агитация кандидатов, избирательных объединений в средствах массовой информации.",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://n-osset-alania.izbirkom.ru/news/7244/",
+        "requestKey": "http://n-osset-alania.izbirkom.ru/news/7244/",
+        "retrievedAt": "2026-09-04T03:33:15.749861+00:00",
+        "status": 200,
+        "sha256": "acef0260e775cc3c9aa675d681699b078c6f990be3b0d0adfd11233cbf6ee535",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/obshchaya-informatsiya-o-kandidatakh.php",
+      "title": "Общая информация о кандидатах",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/obshchaya-informatsiya-o-kandidatakh.php",
+        "requestKey": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/obshchaya-informatsiya-o-kandidatakh.php",
+        "retrievedAt": "2026-09-04T03:33:16.246924+00:00",
+        "status": 200,
+        "sha256": "1e3befcd72c92d44eaef9245a7ec1f8a4bc619a5e8e63cee236a82681a140d5e",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/svedeniya-o-dokhodakh-i.php",
+      "title": "Сведения о доходах и имуществе кандидатов, зарегистрированных по одномандатному избирательному округу № 30, сведения об их имуществе и имуществе их супругов и несовершеннолетних детей за пределами Российской Федерации, об их расходах",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "declaration"
+      ],
+      "linkedDocumentCounts": {
+        "declaration": 8
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/!!!Таймазов%20доходы.pdf",
+        "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/!!Бестаев%20доходы.pdf",
+        "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/!!Фидаров%20доходы.xls.pdf",
+        "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/!!Хубулов%20доходы.pdf",
+        "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/!!Цкаева%20доходы.pdf",
+        "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/Дудати.pdf",
+        "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/Кучиев%20доходы.pdf",
+        "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/Мамукаев.pdf"
+      ],
+      "source": {
+        "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/svedeniya-o-dokhodakh-i.php",
+        "requestKey": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/svedeniya-o-dokhodakh-i.php",
+        "retrievedAt": "2026-09-04T03:33:16.741095+00:00",
+        "status": 200,
+        "sha256": "b6d855badcf65cde1501f95585ea0ecc4b850e38719bafe13838701e0747a7ff",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "declaration",
+      "title": "ТАЙМАЗОВ АРТУР БОРИСОВИЧ",
+      "officialUrl": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/!!!Таймазов%20доходы.pdf",
+      "sourcePages": [
+        {
+          "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/svedeniya-o-dokhodakh-i.php",
+          "title": "Сведения о доходах и имуществе кандидатов, зарегистрированных по одномандатному избирательному округу № 30, сведения об их имуществе и имуществе их супругов и несовершеннолетних детей за пределами Российской Федерации, об их расходах",
+          "depth": 1,
+          "sha256": "b6d855badcf65cde1501f95585ea0ecc4b850e38719bafe13838701e0747a7ff"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "b6ebff0606af50b464c33960ff124322aa4dc60d9314af36bef02f3955f10512",
+      "originalFilename": "!!!Таймазов доходы.pdf",
+      "filename": "ТАЙМАЗОВ_АРТУР_БОРИСОВИЧ-b6ebff0606af.pdf",
+      "path": "files/ТАЙМАЗОВ_АРТУР_БОРИСОВИЧ-b6ebff0606af.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 286938,
+      "sha256": "b6ebff0606af50b464c33960ff124322aa4dc60d9314af36bef02f3955f10512",
+      "source": {
+        "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/!!!%D0%A2%D0%B0%D0%B9%D0%BC%D0%B0%D0%B7%D0%BE%D0%B2%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D1%8B.pdf",
+        "requestKey": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/!!!Таймазов%20доходы.pdf",
+        "retrievedAt": "2026-09-04T03:33:26.848267+00:00",
+        "status": 200,
+        "sha256": "b6ebff0606af50b464c33960ff124322aa4dc60d9314af36bef02f3955f10512",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "БЕСТАЕВ СОСЛАН ВИГЕНТИЕВИЧ",
+      "officialUrl": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/!!Бестаев%20доходы.pdf",
+      "sourcePages": [
+        {
+          "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/svedeniya-o-dokhodakh-i.php",
+          "title": "Сведения о доходах и имуществе кандидатов, зарегистрированных по одномандатному избирательному округу № 30, сведения об их имуществе и имуществе их супругов и несовершеннолетних детей за пределами Российской Федерации, об их расходах",
+          "depth": 1,
+          "sha256": "b6d855badcf65cde1501f95585ea0ecc4b850e38719bafe13838701e0747a7ff"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "f77853ac3bb16fb7930141d20a78a97c075d8661d4700b2aa7e19c4e1ed2817b",
+      "originalFilename": "!!Бестаев доходы.pdf",
+      "filename": "БЕСТАЕВ_СОСЛАН_ВИГЕНТИЕВИЧ-f77853ac3bb1.pdf",
+      "path": "files/БЕСТАЕВ_СОСЛАН_ВИГЕНТИЕВИЧ-f77853ac3bb1.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 290867,
+      "sha256": "f77853ac3bb16fb7930141d20a78a97c075d8661d4700b2aa7e19c4e1ed2817b",
+      "source": {
+        "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/!!%D0%91%D0%B5%D1%81%D1%82%D0%B0%D0%B5%D0%B2%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D1%8B.pdf",
+        "requestKey": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/!!Бестаев%20доходы.pdf",
+        "retrievedAt": "2026-09-04T03:33:27.398608+00:00",
+        "status": 200,
+        "sha256": "f77853ac3bb16fb7930141d20a78a97c075d8661d4700b2aa7e19c4e1ed2817b",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ФИДАРОВ ТАЙМУРАЗ КАМБОЛАТОВИЧ",
+      "officialUrl": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/!!Фидаров%20доходы.xls.pdf",
+      "sourcePages": [
+        {
+          "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/svedeniya-o-dokhodakh-i.php",
+          "title": "Сведения о доходах и имуществе кандидатов, зарегистрированных по одномандатному избирательному округу № 30, сведения об их имуществе и имуществе их супругов и несовершеннолетних детей за пределами Российской Федерации, об их расходах",
+          "depth": 1,
+          "sha256": "b6d855badcf65cde1501f95585ea0ecc4b850e38719bafe13838701e0747a7ff"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "27f32025bc6bd3fc3cf04403998100e385c1a0b7ff5a659b0bf3d34dca65da8c",
+      "originalFilename": "!!Фидаров доходы.xls.pdf",
+      "filename": "ФИДАРОВ_ТАЙМУРАЗ_КАМБОЛАТОВИЧ-27f32025bc6b.pdf",
+      "path": "files/ФИДАРОВ_ТАЙМУРАЗ_КАМБОЛАТОВИЧ-27f32025bc6b.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 294785,
+      "sha256": "27f32025bc6bd3fc3cf04403998100e385c1a0b7ff5a659b0bf3d34dca65da8c",
+      "source": {
+        "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/!!%D0%A4%D0%B8%D0%B4%D0%B0%D1%80%D0%BE%D0%B2%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D1%8B.xls.pdf",
+        "requestKey": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/!!Фидаров%20доходы.xls.pdf",
+        "retrievedAt": "2026-09-04T03:33:27.881179+00:00",
+        "status": 200,
+        "sha256": "27f32025bc6bd3fc3cf04403998100e385c1a0b7ff5a659b0bf3d34dca65da8c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ХУБУЛОВ ЯКОВ ЮРЬЕВИЧ",
+      "officialUrl": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/!!Хубулов%20доходы.pdf",
+      "sourcePages": [
+        {
+          "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/svedeniya-o-dokhodakh-i.php",
+          "title": "Сведения о доходах и имуществе кандидатов, зарегистрированных по одномандатному избирательному округу № 30, сведения об их имуществе и имуществе их супругов и несовершеннолетних детей за пределами Российской Федерации, об их расходах",
+          "depth": 1,
+          "sha256": "b6d855badcf65cde1501f95585ea0ecc4b850e38719bafe13838701e0747a7ff"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "4a7d5245a6b49f17470529a7348a1b859a98299bcef693f88401751a1da9a18c",
+      "originalFilename": "!!Хубулов доходы.pdf",
+      "filename": "ХУБУЛОВ_ЯКОВ_ЮРЬЕВИЧ-4a7d5245a6b4.pdf",
+      "path": "files/ХУБУЛОВ_ЯКОВ_ЮРЬЕВИЧ-4a7d5245a6b4.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 289285,
+      "sha256": "4a7d5245a6b49f17470529a7348a1b859a98299bcef693f88401751a1da9a18c",
+      "source": {
+        "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/!!%D0%A5%D1%83%D0%B1%D1%83%D0%BB%D0%BE%D0%B2%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D1%8B.pdf",
+        "requestKey": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/!!Хубулов%20доходы.pdf",
+        "retrievedAt": "2026-09-04T03:33:28.371652+00:00",
+        "status": 200,
+        "sha256": "4a7d5245a6b49f17470529a7348a1b859a98299bcef693f88401751a1da9a18c",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ЦКАЕВА ЗЕМФИРА АСЛАНОВНА",
+      "officialUrl": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/!!Цкаева%20доходы.pdf",
+      "sourcePages": [
+        {
+          "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/svedeniya-o-dokhodakh-i.php",
+          "title": "Сведения о доходах и имуществе кандидатов, зарегистрированных по одномандатному избирательному округу № 30, сведения об их имуществе и имуществе их супругов и несовершеннолетних детей за пределами Российской Федерации, об их расходах",
+          "depth": 1,
+          "sha256": "b6d855badcf65cde1501f95585ea0ecc4b850e38719bafe13838701e0747a7ff"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "13186249daaf5442d08a9a332b61bf216e7e696b05c0a24548888a7475200fc7",
+      "originalFilename": "!!Цкаева доходы.pdf",
+      "filename": "ЦКАЕВА_ЗЕМФИРА_АСЛАНОВНА-13186249daaf.pdf",
+      "path": "files/ЦКАЕВА_ЗЕМФИРА_АСЛАНОВНА-13186249daaf.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 288933,
+      "sha256": "13186249daaf5442d08a9a332b61bf216e7e696b05c0a24548888a7475200fc7",
+      "source": {
+        "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/!!%D0%A6%D0%BA%D0%B0%D0%B5%D0%B2%D0%B0%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D1%8B.pdf",
+        "requestKey": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/!!Цкаева%20доходы.pdf",
+        "retrievedAt": "2026-09-04T03:33:28.907716+00:00",
+        "status": 200,
+        "sha256": "13186249daaf5442d08a9a332b61bf216e7e696b05c0a24548888a7475200fc7",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "ДУДАТИ ЧЕРМЕН АЛАНОВИЧ",
+      "officialUrl": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/Дудати.pdf",
+      "sourcePages": [
+        {
+          "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/svedeniya-o-dokhodakh-i.php",
+          "title": "Сведения о доходах и имуществе кандидатов, зарегистрированных по одномандатному избирательному округу № 30, сведения об их имуществе и имуществе их супругов и несовершеннолетних детей за пределами Российской Федерации, об их расходах",
+          "depth": 1,
+          "sha256": "b6d855badcf65cde1501f95585ea0ecc4b850e38719bafe13838701e0747a7ff"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "10db0fd0dd98689f499fa49b03e515255dc0bdcfe12e85c5b655e5c161d0523f",
+      "originalFilename": "Дудати.pdf",
+      "filename": "ДУДАТИ_ЧЕРМЕН_АЛАНОВИЧ-10db0fd0dd98.pdf",
+      "path": "files/ДУДАТИ_ЧЕРМЕН_АЛАНОВИЧ-10db0fd0dd98.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 289848,
+      "sha256": "10db0fd0dd98689f499fa49b03e515255dc0bdcfe12e85c5b655e5c161d0523f",
+      "source": {
+        "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/%D0%94%D1%83%D0%B4%D0%B0%D1%82%D0%B8.pdf",
+        "requestKey": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/Дудати.pdf",
+        "retrievedAt": "2026-09-04T03:33:29.405692+00:00",
+        "status": 200,
+        "sha256": "10db0fd0dd98689f499fa49b03e515255dc0bdcfe12e85c5b655e5c161d0523f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "КУЧИЕВ АЛАН ЗАУРОВИЧ",
+      "officialUrl": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/Кучиев%20доходы.pdf",
+      "sourcePages": [
+        {
+          "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/svedeniya-o-dokhodakh-i.php",
+          "title": "Сведения о доходах и имуществе кандидатов, зарегистрированных по одномандатному избирательному округу № 30, сведения об их имуществе и имуществе их супругов и несовершеннолетних детей за пределами Российской Федерации, об их расходах",
+          "depth": 1,
+          "sha256": "b6d855badcf65cde1501f95585ea0ecc4b850e38719bafe13838701e0747a7ff"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "9550a70ac015c86c3f12c937382b95cbdf12c7602d869618e7ac81a63c5dafc5",
+      "originalFilename": "Кучиев доходы.pdf",
+      "filename": "КУЧИЕВ_АЛАН_ЗАУРОВИЧ-9550a70ac015.pdf",
+      "path": "files/КУЧИЕВ_АЛАН_ЗАУРОВИЧ-9550a70ac015.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 290939,
+      "sha256": "9550a70ac015c86c3f12c937382b95cbdf12c7602d869618e7ac81a63c5dafc5",
+      "source": {
+        "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/%D0%9A%D1%83%D1%87%D0%B8%D0%B5%D0%B2%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D1%8B.pdf",
+        "requestKey": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/Кучиев%20доходы.pdf",
+        "retrievedAt": "2026-09-04T03:33:29.902244+00:00",
+        "status": 200,
+        "sha256": "9550a70ac015c86c3f12c937382b95cbdf12c7602d869618e7ac81a63c5dafc5",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "declaration",
+      "title": "МАМУКАЕВ АЛАН СЕРГЕЕВИЧ",
+      "officialUrl": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/Мамукаев.pdf",
+      "sourcePages": [
+        {
+          "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/svedeniya-o-dokhodakh-i.php",
+          "title": "Сведения о доходах и имуществе кандидатов, зарегистрированных по одномандатному избирательному округу № 30, сведения об их имуществе и имуществе их супругов и несовершеннолетних детей за пределами Российской Федерации, об их расходах",
+          "depth": 1,
+          "sha256": "b6d855badcf65cde1501f95585ea0ecc4b850e38719bafe13838701e0747a7ff"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "e1f69f46018a1c9305ab5f8c1a8c05fa7c73c7732190fa3aab55376829fbd22f",
+      "originalFilename": "Мамукаев.pdf",
+      "filename": "МАМУКАЕВ_АЛАН_СЕРГЕЕВИЧ-e1f69f46018a.pdf",
+      "path": "files/МАМУКАЕВ_АЛАН_СЕРГЕЕВИЧ-e1f69f46018a.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 288210,
+      "sha256": "e1f69f46018a1c9305ab5f8c1a8c05fa7c73c7732190fa3aab55376829fbd22f",
+      "source": {
+        "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/%D0%9C%D0%B0%D0%BC%D1%83%D0%BA%D0%B0%D0%B5%D0%B2.pdf",
+        "requestKey": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/Мамукаев.pdf",
+        "retrievedAt": "2026-09-04T03:33:30.398238+00:00",
+        "status": 200,
+        "sha256": "e1f69f46018a1c9305ab5f8c1a8c05fa7c73c7732190fa3aab55376829fbd22f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "category": "inaccuracy",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных кандидатами в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва по Северо-Осетинскому одномандатному избирательному округу № 30",
+      "officialUrl": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/Недостоверные сведения_для сайта.docx.pdf",
+      "sourcePages": [
+        {
+          "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/",
+          "title": "Выборы депутатов Государственной Думы Федерального собрания Российской Федерации девятого созыва",
+          "depth": 0,
+          "sha256": "23d0e4118150b0be426fb71ba03dd5b6b384205d4f7c034400fa13b91d253f19"
+        },
+        {
+          "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/index.php",
+          "title": "Выборы депутатов Государственной Думы Федерального собрания Российской Федерации девятого созыва",
+          "depth": 1,
+          "sha256": "23d0e4118150b0be426fb71ba03dd5b6b384205d4f7c034400fa13b91d253f19"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "b2d36bf92d11051f88f704d1a0e83f4fd77da37714f1a38b96bae8113dcd8dfa",
+      "originalFilename": "Недостоверные сведения_для сайта.docx.pdf",
+      "filename": "Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-b2d36bf92d11.pdf",
+      "path": "files/Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-b2d36bf92d11.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 62233,
+      "sha256": "b2d36bf92d11051f88f704d1a0e83f4fd77da37714f1a38b96bae8113dcd8dfa",
+      "source": {
+        "url": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/%D0%9D%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0.docx.pdf",
+        "requestKey": "http://n-osset-alania.izbirkom.ru/20-09-2026-gos-duma/informatsiya-o-kandidatakh/Недостоверные сведения_для сайта.docx.pdf",
+        "retrievedAt": "2026-09-04T03:33:30.838275+00:00",
+        "status": 200,
+        "sha256": "b2d36bf92d11051f88f704d1a0e83f4fd77da37714f1a38b96bae8113dcd8dfa",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}

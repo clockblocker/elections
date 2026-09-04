@@ -1,0 +1,312 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:39.517377+00:00",
+  "region": {
+    "code": "53",
+    "name": "Новгородская область",
+    "seedUrls": [
+      "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/",
+      "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/Kand/"
+    ],
+    "allowedHosts": [
+      "novgorod.izbirkom.ru",
+      "www.novgorod.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 14,
+  "documentCount": 0,
+  "documentCounts": {},
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации девятого созыва",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/",
+        "requestKey": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/",
+        "retrievedAt": "2026-09-04T03:42:48.115372+00:00",
+        "status": 200,
+        "sha256": "a193a23ff3c9df2856883639f48e26ee1b744006729c530bb08bbd0f21ceb218",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/Kand/",
+      "title": "Сведения о кандидатах в депутаты",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/Kand/",
+        "requestKey": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/Kand/",
+        "retrievedAt": "2026-09-04T03:42:49.116962+00:00",
+        "status": 200,
+        "sha256": "0fac51e9c0270b9bc1a5a941902fd293dd3e58ac3d436037f92e78617a6b4a33",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/zakon/index.php",
+      "title": "Законодательство",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/zakon/index.php",
+        "requestKey": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/zakon/index.php",
+        "retrievedAt": "2026-09-04T03:42:50.075834+00:00",
+        "status": 200,
+        "sha256": "5afe41797dfcfe4c628df21b39187b1951262ec26ab393ce48d2360acbdc8c51",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/NPA/index.php",
+      "title": "Постановления по подготовке и проведению выборов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/NPA/index.php",
+        "requestKey": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/NPA/index.php",
+        "retrievedAt": "2026-09-04T03:42:51.165734+00:00",
+        "status": 200,
+        "sha256": "013ed491d5270b5a4ce69fff5949c0e1332b1a9894bc7fa4e0498cf7fc2d38dd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/Kand/index.php",
+      "title": "Сведения о кандидатах в депутаты",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/Kand/index.php",
+        "requestKey": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/Kand/index.php",
+        "retrievedAt": "2026-09-04T03:42:52.202076+00:00",
+        "status": 200,
+        "sha256": "0fac51e9c0270b9bc1a5a941902fd293dd3e58ac3d436037f92e78617a6b4a33",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/KIF/index.php",
+      "title": "Финансирование выборов",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/KIF/index.php",
+        "requestKey": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/KIF/index.php",
+        "retrievedAt": "2026-09-04T03:42:53.210733+00:00",
+        "status": 200,
+        "sha256": "8b6578ab326d660843e5abf2560e5310a72c4bf3516da5de5faaaeb702feb9ba",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/IRD",
+      "title": "Информационно-разъяснительная деятельность, информация для участников избирательного процесса",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/IRD/",
+        "requestKey": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/IRD",
+        "retrievedAt": "2026-09-04T03:42:54.320897+00:00",
+        "status": 200,
+        "sha256": "0d4490a90d09fc12a9114d51f8f3e2f540fc38228c05ec483ca84215c1571450",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://novgorod.izbirkom.ru/news/3670/",
+      "title": "Повестка дня № 14 заседания окружной избирательной комиссии",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://novgorod.izbirkom.ru/news/3670/",
+        "requestKey": "http://novgorod.izbirkom.ru/news/3670/",
+        "retrievedAt": "2026-09-04T03:55:30.792162+00:00",
+        "status": 200,
+        "sha256": "f0b1600692761fe9af195476d592b2c06c755704578c7c8c0ffcff4eaeab7b7f",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/zakon/",
+      "title": "Законодательство",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/zakon/",
+        "requestKey": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/zakon/",
+        "retrievedAt": "2026-09-04T03:42:55.333817+00:00",
+        "status": 200,
+        "sha256": "5afe41797dfcfe4c628df21b39187b1951262ec26ab393ce48d2360acbdc8c51",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/NPA/",
+      "title": "Постановления по подготовке и проведению выборов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/NPA/",
+        "requestKey": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/NPA/",
+        "retrievedAt": "2026-09-04T03:42:56.353806+00:00",
+        "status": 200,
+        "sha256": "013ed491d5270b5a4ce69fff5949c0e1332b1a9894bc7fa4e0498cf7fc2d38dd",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/KIF/",
+      "title": "Финансирование выборов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/KIF/",
+        "requestKey": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/KIF/",
+        "retrievedAt": "2026-09-04T03:42:57.616873+00:00",
+        "status": 200,
+        "sha256": "8b6578ab326d660843e5abf2560e5310a72c4bf3516da5de5faaaeb702feb9ba",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/IRD/",
+      "title": "Информационно-разъяснительная деятельность, информация для участников избирательного процесса",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/IRD/",
+        "requestKey": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/IRD/",
+        "retrievedAt": "2026-09-04T03:42:58.597384+00:00",
+        "status": 200,
+        "sha256": "0d4490a90d09fc12a9114d51f8f3e2f540fc38228c05ec483ca84215c1571450",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/IRD/distant_otkr_schetov/index.php",
+      "title": "Дистанционное открытие специальных избирательных счетов",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/IRD/distant_otkr_schetov/index.php",
+        "requestKey": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/IRD/distant_otkr_schetov/index.php",
+        "retrievedAt": "2026-09-04T03:42:59.704730+00:00",
+        "status": 200,
+        "sha256": "04e7b96b170ac8e69081b172a00eabc8eb90157e60781d3c5e2e14a7408415e0",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/IRD/distant_otkr_schetov/",
+      "title": "Дистанционное открытие специальных избирательных счетов",
+      "depth": 3,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/IRD/distant_otkr_schetov/",
+        "requestKey": "http://novgorod.izbirkom.ru/arkhiv-vyborov-i-referendumov/EDG/2026-09-20/GD9/IRD/distant_otkr_schetov/",
+        "retrievedAt": "2026-09-04T03:43:00.691257+00:00",
+        "status": 200,
+        "sha256": "04e7b96b170ac8e69081b172a00eabc8eb90157e60781d3c5e2e14a7408415e0",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": []
+}

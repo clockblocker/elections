@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-04T03:56:39.372611+00:00",
+  "region": {
+    "code": "51",
+    "name": "Мурманская область",
+    "seedUrls": [
+      "http://murmansk.izbirkom.ru/edg/edg2026/gd/"
+    ],
+    "allowedHosts": [
+      "murmansk.izbirkom.ru",
+      "www.murmansk.izbirkom.ru"
+    ]
+  },
+  "limits": {
+    "maxPages": 100,
+    "maxDepth": 3
+  },
+  "crawlInProgress": false,
+  "complete": true,
+  "truncated": false,
+  "pageCount": 3,
+  "documentCount": 1,
+  "documentCounts": {
+    "inaccuracy": 1
+  },
+  "categoryCoverage": {
+    "declaration": {
+      "signalPageCount": 0,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 0
+    },
+    "inaccuracy": {
+      "signalPageCount": 2,
+      "explicitEmptyPageCount": 0,
+      "documentCount": 1
+    }
+  },
+  "failures": {
+    "pages": [],
+    "documents": [],
+    "runner": []
+  },
+  "pages": [
+    {
+      "url": "http://murmansk.izbirkom.ru/edg/edg2026/gd/",
+      "title": "Выборы депутатов Государственной Думы Федерального Собрания Российской Федерации",
+      "depth": 0,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [],
+      "linkedDocumentCounts": {},
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [],
+      "source": {
+        "url": "http://murmansk.izbirkom.ru/edg/edg2026/gd/",
+        "requestKey": "http://murmansk.izbirkom.ru/edg/edg2026/gd/",
+        "retrievedAt": "2026-09-04T03:42:41.649705+00:00",
+        "status": 200,
+        "sha256": "96f9e710cdaf88d28389d9551d34a2431aa36016d2c45a5484341244e7d27fb8",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://murmansk.izbirkom.ru/edg/edg2026/gd/oik",
+      "title": "Одномандатный избирательный округ № 130 «Мурманская область - Мурманский одномандатный избирательный округ»",
+      "depth": 1,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://murmansk.izbirkom.ru/etc/gd26-dn-hom.pdf"
+      ],
+      "source": {
+        "url": "http://murmansk.izbirkom.ru/edg/edg2026/gd/oik/",
+        "requestKey": "http://murmansk.izbirkom.ru/edg/edg2026/gd/oik",
+        "retrievedAt": "2026-09-04T03:42:42.813945+00:00",
+        "status": 200,
+        "sha256": "1cf40b9b3482b182efcfaf409760447421945652f346ac043a3618e81c65f615",
+        "provenance": "live-official"
+      }
+    },
+    {
+      "url": "http://murmansk.izbirkom.ru/edg/edg2026/gd/oik/",
+      "title": "Одномандатный избирательный округ № 130 «Мурманская область - Мурманский одномандатный избирательный округ»",
+      "depth": 2,
+      "electionContextConfirmed": true,
+      "encoding": "utf-8",
+      "categorySignals": [
+        "inaccuracy"
+      ],
+      "linkedDocumentCounts": {
+        "inaccuracy": 1
+      },
+      "explicitEmptyCategories": [],
+      "discoveredDocumentUrls": [
+        "http://murmansk.izbirkom.ru/etc/gd26-dn-hom.pdf"
+      ],
+      "source": {
+        "url": "http://murmansk.izbirkom.ru/edg/edg2026/gd/oik/",
+        "requestKey": "http://murmansk.izbirkom.ru/edg/edg2026/gd/oik/",
+        "retrievedAt": "2026-09-04T03:42:43.774404+00:00",
+        "status": 200,
+        "sha256": "1cf40b9b3482b182efcfaf409760447421945652f346ac043a3618e81c65f615",
+        "provenance": "live-official"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "category": "inaccuracy",
+      "title": "Сведения о выявленных фактах недостоверности сведений, представленных кандидатами в депутаты Государственной Думы Федерального Собрания Российской Федерации девятого созыва по одномандатному избирательному округу «Мурманская область-Мурманский одномандатный избирательный округ № 130»",
+      "officialUrl": "http://murmansk.izbirkom.ru/etc/gd26-dn-hom.pdf",
+      "sourcePages": [
+        {
+          "url": "http://murmansk.izbirkom.ru/edg/edg2026/gd/oik",
+          "title": "Одномандатный избирательный округ № 130 «Мурманская область - Мурманский одномандатный избирательный округ»",
+          "depth": 1,
+          "sha256": "1cf40b9b3482b182efcfaf409760447421945652f346ac043a3618e81c65f615"
+        },
+        {
+          "url": "http://murmansk.izbirkom.ru/edg/edg2026/gd/oik/",
+          "title": "Одномандатный избирательный округ № 130 «Мурманская область - Мурманский одномандатный избирательный округ»",
+          "depth": 2,
+          "sha256": "1cf40b9b3482b182efcfaf409760447421945652f346ac043a3618e81c65f615"
+        }
+      ],
+      "scopeWarnings": [],
+      "documentId": "361fb86efd8e82cf081752d65242737dc9b98620cd7fdc47e826febf6dfcf287",
+      "originalFilename": "gd26-dn-hom.pdf",
+      "filename": "Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-361fb86efd8e.pdf",
+      "path": "files/Сведения_о_выявленных_фактах_недостоверности_сведений_представленных_кандидатами_в_депутаты_Государс-361fb86efd8e.pdf",
+      "mediaType": "application/pdf",
+      "byteLength": 206335,
+      "sha256": "361fb86efd8e82cf081752d65242737dc9b98620cd7fdc47e826febf6dfcf287",
+      "source": {
+        "url": "http://murmansk.izbirkom.ru/etc/gd26-dn-hom.pdf",
+        "requestKey": "http://murmansk.izbirkom.ru/etc/gd26-dn-hom.pdf",
+        "retrievedAt": "2026-09-04T03:42:44.834091+00:00",
+        "status": 200,
+        "sha256": "361fb86efd8e82cf081752d65242737dc9b98620cd7fdc47e826febf6dfcf287",
+        "provenance": "live-official"
+      }
+    }
+  ]
+}
