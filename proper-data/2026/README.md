@@ -103,3 +103,6 @@ content-addressed response storage. Regional output is deliberately conservative
 a completed request with no matching documents is not evidence that a commission
 has published none, and failures or page-limit truncation remain explicit in each
 index and in `declarations/corpus.json`.
+
+The decision to keep the declaration corpus as an index over source-owned documents
+is recorded in [ADR 0001](docs/adr/0001-index-declaration-documents-in-place.md).
