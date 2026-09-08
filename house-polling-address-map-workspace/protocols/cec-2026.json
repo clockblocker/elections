@@ -1,0 +1,7 @@
+{
+  "address_graphql_url": "http://apps.cikrf.ru/service/address/search/node/graphql",
+  "api_url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy",
+  "election_id": 587813923,
+  "election_external_id": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+  "voting_date": "2026-09-20"
+}

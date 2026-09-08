@@ -13,11 +13,20 @@ The checked-in code contains no downloaded personal data. Apartments and
 rooms are intentionally out of scope until evidence shows that a building can
 be split between UIKs.
 
+The immediate product target is a user-facing, 2026-only address lookup. Its
+backend resolves a supplied address through the live CEC gateway, pins the 2026
+State Duma election, and joins the returned `(subjectRf, UIK number)` to the
+repository's 2026 UIK voting-address dataset. The endpoint contract and failure
+semantics are recorded in
+[`docs/2026-user-address-endpoint.md`](docs/2026-user-address-endpoint.md).
+
 ## What is implemented
 
 - Streaming GAR XML/ZIP ingestion with a bounded-memory SQLite hierarchy index.
 - Canonical, deterministic GAR building identities.
-- A configurable current CEC JSON lookup adapter.
+- A configurable archived 2019–2023 CEC JSON lookup adapter.
+- A live 2026 CEC gateway probe with SOCKS/HTTP proxy support and ephemeral
+  challenge authentication.
 - The recovered 2016–2018 CEC hierarchical classifier adapter.
 - A resumable legacy-tree crawler that preserves every response verbatim.
 - Time-versioned address-to-UIK evidence and separate commission/voting addresses.
@@ -25,7 +34,8 @@ be split between UIKs.
 
 ## Bootstrap
 
-Python 3.11 or newer is sufficient; runtime code uses only the standard library.
+Python 3.11 or newer is sufficient. The live probe uses `requests[socks]` for
+the same proxy route as the repository's other CEC crawlers.
 
 ```sh
 cd house-polling-address-map-workspace
@@ -62,6 +72,21 @@ house-polling-map --database data/map.sqlite3 --raw-dir data/raw \
   probe-cec protocol.json 'Новосибирская область, Новосибирск, Красный проспект, 18'
 ```
 
+Probe the verified 2026 gateway. `PROPER_DATA_PROXY_URL` is read from the
+environment or the repository's ignored `.env`; pass `--proxy-url` to override
+it. Public response bodies are preserved, while challenge responses containing
+the temporary API key are deliberately excluded:
+
+```sh
+house-polling-map --database data/map.sqlite3 --raw-dir data/raw \
+  probe-cec-2026 protocols/cec-2026.json \
+  'Приморский край Владивосток Советский район проспект 100-летия Владивостока дом 100 В квартира 1'
+```
+
+This verifies address → 2026 election → UIK number. The federal gateway's
+commission-organization result was empty in the initial canaries, so a regional
+or documentary source is still required for many physical voting-room addresses.
+
 Resolve a bounded batch of imported GAR buildings (start with a canary):
 
 ```sh
@@ -73,9 +98,10 @@ Each invocation visits an address at most once. A later invocation retries
 addresses whose newest outcome is `failed`; resolved, ambiguous, and no-match
 outcomes are not silently repeated.
 
-The checked-in recipe is recovered from CEC's archived 2019–2023 first-party
-JavaScript. Revalidate it with `probe-cec` before an unbounded run; it is not a
-claim that the same paths remain available in 2026.
+The `resolve-gar` recipe is recovered from CEC's archived 2019–2023 first-party
+JavaScript and is no longer the current live protocol. Use `probe-cec-2026` for
+live canaries; the 2026 probe is not yet wired into the nationwide batch
+resolver.
 
 The protocol file makes the unstable HTTP request shape explicit:
 
@@ -90,9 +116,8 @@ The protocol file makes the unstable HTTP request shape explicit:
 }
 ```
 
-Do not substitute an assumed URL for `suggest_url`: capture and document the
-working public form first. The repository's current network cannot reach
-`cikrf.ru`, and the public implementation has changed over time.
+Do not substitute the 2026 URLs into this older schema: the live protocol now
+uses GraphQL plus a separate authenticated election gateway.
 
 Resume the enumerable legacy tree against a reachable origin or replay server:
 

@@ -1,50 +1,194 @@
 # Russian CEC address → UIK lookup protocol
 
-Checked 2026-09-08. This note records only behavior visible in first-party CEC
-HTML/JavaScript/API responses preserved by the Internet Archive, plus the result
-of attempting to reach the live origin from this workspace. It is not an API
-contract.
+Checked 2026-09-08. This note records behavior visible in first-party CEC
+HTML/JavaScript/API responses captured from the live services or preserved by
+the Internet Archive. It is not an API contract.
 
 ## Bottom line
 
-The CEC has exposed two materially different implementations:
+The CEC has exposed three materially different implementations:
 
-1. **2015–2018 address tree:** an enumerable, cascading JSON tree at
+1. **Live 2026 gateway:** an unauthenticated GraphQL address index at
+   `apps.cikrf.ru/service/address/search/node/graphql`, followed by the
+   arithmetic-challenge-authenticated `ik-inp-service-pbcopy` gateway. This
+   route was probed successfully on 8 September 2026 and returned a 2026 State
+   Duma UIK for current building- and apartment-level address identifiers.
+2. **2015–2018 address tree:** an enumerable, cascading JSON tree at
    `/services/lk_tree/`; a terminal address identifier is resolved by an HTML
    result page at `/services/lk_address/{address-id}?do=result`.
-2. **2019–at least 2023 autocomplete API:** free-text autocomplete at
+3. **2019–at least 2023 autocomplete API:** free-text autocomplete at
    `/iservices/voter-services/address/search/{term}/`; selecting a terminal
    result causes a JSON lookup at
    `/iservices/voter-services/committee/address/{address-id}`.
 
-The second protocol is the most recent one that could be verified from CEC's
-own archived source. The live CEC host was not reachable from this environment,
-so its status in 2026 is **unverified**. Do not call the 2019–2023 protocol
-"current" until a browser on a network that can reach the site captures one
-successful lookup.
+The first protocol is current. The older two remain useful as historical
+evidence and, in the tree's case, as a possible enumerable snapshot. The
+2019–2023 routes are retired on the live host: even after acquiring a page
+session and sending browser/AJAX headers, both old paths returned the site's
+generic HTML page rather than JSON.
 
 ## Live-origin check
 
-On 2026-09-08 both `cikrf.ru` and `www.cikrf.ru` resolved here to
-`5.143.246.137`. TCP connection attempts to HTTP and HTTPS timed out before an
-HTTP response (curl exit 28; 20–30 second limits). The public page and a direct
-autocomplete URL behaved the same way. A fetch through Jina's external reader
-also timed out at the origin.
+Direct TCP/HTTP requests from this environment still time out. The configured
+repository SOCKS proxy reaches the live hosts over plain HTTP:
 
-Consequences:
+- the CEC page returned HTTP 200 and UTF-8 HTML;
+- its `apps.cikrf.ru/service/gateway/` iframe returned HTTP 200;
+- the current GraphQL and authenticated JSON endpoints returned HTTP 200.
 
-- No 2026 response headers, cookies, CAPTCHA, WAF challenge, request quota, or
-  rate-limit response was observed.
-- A connection timeout does not distinguish downtime, routing/geographic
-  filtering, or silent firewall drops. It is not evidence of a particular
-  anti-bot product.
-- The implementation should keep the live protocol behind an adapter and begin
-  with a fresh browser-network capture from a reachable network.
+HTTPS connections through this particular proxy failed, while the Moscow
+regional commission's HTTPS service was directly reachable. This is a routing
+property of the observed environment, not evidence that the official service
+does not support HTTPS elsewhere. Proxy credentials were neither logged nor
+stored with captured responses.
 
 The advertised entry page is
 <https://www.cikrf.ru/digital-services/naydi-svoy-izbiratelnyy-uchastok/>.
-The latest archived first-party page recovered in this pass is [the 6 July 2023
-capture](https://web.archive.org/web/20230706032023id_/http://www.cikrf.ru/digital-services/naydi-svoy-izbiratelnyy-uchastok/).
+The live page body captured on 8 September 2026 has SHA-256
+`333bfc3f3b8da65eda8bddaf7f360d555323650050563d46c18349fb4f54f9cb`.
+
+## Protocol C: live 2026 gateway
+
+### Browser bootstrap
+
+The live page embeds:
+
+```html
+<iframe src="http://apps.cikrf.ru/service/gateway/?origin=http://www.cikrf.ru">
+```
+
+The iframe loads `/service/gateway/env.js` and a hashed JavaScript application.
+The captured environment file identifies these two backends:
+
+```text
+http://apps.cikrf.ru/service/address/search/node
+http://apps.cikrf.ru/service/ik-inp-service-pbcopy
+```
+
+The captured main application JavaScript has SHA-256
+`bc57879cc4154849fb28ef7f644b050ae976dacb49e7807e5f72848589f2b00a`.
+
+### Address autocomplete and parent expansion
+
+Autocomplete is a same-origin GraphQL POST and does not require the gateway API
+key:
+
+```http
+POST /service/address/search/node/graphql
+Content-Type: application/json
+```
+
+```graphql
+query ($query: String!) {
+  ADDRESSSearchFulltext(
+    query: $query
+    limit: 20
+    incomplete: true
+    unchecked: false
+    locations: ["1"]
+  ) {
+    id
+    fullName
+    isRetro
+  }
+}
+```
+
+After the user selects an address, the client obtains every ancestor ID:
+
+```graphql
+query ($query: ID!) {
+  nodeADDRESSById(id: $query) {
+    id
+    parents { id VCADDRESS_NAME }
+  }
+}
+```
+
+The selected ID and all parent IDs are passed as one comma-separated
+`addressIds` value to the election gateway. Apartment-qualified nodes are live
+and significant; they must not be collapsed to their building before comparing
+assignments.
+
+### Arithmetic challenge and election lookup
+
+The election gateway requires two headers:
+
+```http
+X-Api-Key: <ephemeral value>
+X-Client-Fingerprint: <browser user-agent>
+```
+
+The key is minted by this public browser flow:
+
+```text
+GET  /service/ik-inp-service-pbcopy/challenge/get
+POST /service/ik-inp-service-pbcopy/challenge/solve
+```
+
+`challenge/get` returned `jsTask` in the form `return A + B;` and a public
+token. The solve body contains that token, the arithmetic answer, and the exact
+user-agent fingerprint. The solve response contains the API key. No cookies
+were created during the observed flow. Challenge bodies must not be archived
+because the solve response contains a live credential.
+
+With the key, the live application calls:
+
+```text
+GET /addresses/elections?page=1&perPage=100&addressIds={ids}
+GET /addresses/commissionClassifiers?addressIds={ids}&electionsId={numeric-id}
+GET /addresses/commissionOrgs?page=1&perPage=100&addressIds={ids}
+```
+
+The 2026 State Duma identifiers observed on 8 September 2026 are:
+
+```json
+{
+  "id": 587813923,
+  "externalId": "2b72bb97-c625-4a02-a76b-b5740c4d5f6a",
+  "votingDate": "2026-09-20"
+}
+```
+
+`commissionClassifiers` requires the numeric `id`, not the UUID
+`externalId`. Passing the UUID produced HTTP 400.
+
+### Successful canaries
+
+Three selected current addresses were resolved against election `587813923`:
+
+| Selected address level | Subject | Result |
+| --- | --- | --- |
+| Moscow apartment | 77 | UIK 146 |
+| Vladivostok apartment | 25 | UIK 840 |
+| Izobilny building | 26 | UIK 456 |
+
+For the Vladivostok canary, the search, parent, election, and classifier body
+hashes were respectively
+`1e928c2bc11d0c24eb349ef654adb0d42fc59a1631349514551d4e4ffc35ed5c`,
+`1b91582ee2a5356fc6d60f27c1f20adc7292b55f6166cb0875034b4fa4efe41c`,
+`bb421e855eac16ad8a0122bf17e5666da457ca28195889d4cb0ff242e5912d91`,
+and `33d125f4200459719b0c848cab5bbc2f80c8774557011d3e1d5623569829f02e`.
+
+The federal `addresses/commissionOrgs` response was empty for all three
+canaries. Thus the federal flow currently proves **home address -> 2026 UIK
+number**, but does not by itself provide the physical voting-room address for
+those examples.
+
+Moscow's independent official service did provide that final field. For
+`Тверская улица, 6 стр. 1`, its address resolver returned UIK 146, voting date
+20 September 2026, and the voting place at `ПЕТРОВКА УЛ., 23/10 стр. 21`,
+`ГБОУ школа № 2054`. The response body SHA-256 is
+`28a472e8107c7f4ce8566d8733b697b86c0897f5ea563cef8c1bc7b44febbaa9`.
+
+### Negative and rate canaries
+
+- Calling the election gateway without the challenge headers returned HTTP 401.
+- A nonsense GraphQL address returned an empty result array with HTTP 200.
+- A nonsense `addressIds` value returned an empty JSON object with HTTP 200.
+- Five immediate authenticated classifier requests and five immediate GraphQL
+  searches all returned HTTP 200. This small canary is not evidence of a bulk
+  crawling allowance or stable rate limit.
 
 ## Protocol A: 2019–2023 autocomplete and JSON resolver
 
@@ -330,10 +474,13 @@ handling. The recovered responses do not establish a historical rate limit.
 
 ### What is safely implementable now
 
-- Implement two versioned adapters, not one collection of guessed fallbacks.
+- Use the 2026 GraphQL + authenticated election-gateway protocol for current
+  address-to-UIK resolution. Keep its temporary authentication response out of
+  the raw evidence store.
+- Keep all three protocol generations in separate versioned adapters.
 - For the old tree, decode JSON and result HTML as Windows-1251, preserve both
   node identifiers, recurse until `[]`, and resolve each terminal `intid`.
-- For the newer API, reproduce the browser's exact sanitization and UTF-8 URL
+- For the 2019–2023 API, reproduce the browser's exact sanitization and UTF-8 URL
   encoding, retain a cookie jar, accept both `leaf` states, and resolve only
   terminal IDs.
 - Persist the raw response, URL, retrieval/archive timestamp, encoding, and a
@@ -345,33 +492,31 @@ handling. The recovered responses do not establish a historical rate limit.
 
 ### What is not established
 
-- That either protocol remains live in 2026.
+- That the federal 2026 gateway can supply a physical voting-room address for
+  every returned UIK; its commission-organization projection was empty in the
+  three-address canary.
 - That autocomplete can be enumerated completely. Its client has no pagination,
-  and a broad captured query returned ten mixed nationwide matches.
+  and the 2026 client explicitly limits each query to 20 results.
 - That an address ID is permanent across CEC data refreshes.
 - That one request per 250 ms is an acceptable server rate.
 - That the `session-cookie` is optional for the resolver.
 - That all Russian addresses terminate at a house rather than an apartment or
   another sub-house qualifier.
 
-### Required pre-crawl capture
+### Required pre-crawl validation
 
-From a browser that can reach the live service, record one lookup for a known
-address and one lookup by region/UIK. Preserve a HAR and raw response bodies,
-then verify:
+Before a nationwide run, expand the current canary and verify:
 
-1. the loaded script URLs and their hashes;
-2. exact autocomplete and resolver URLs/methods;
-3. request/response headers and redirect chain;
-4. whether a fresh session can call the resolver without first loading the
-   page or autocomplete;
-5. cookies and their rotation/expiry;
-6. zero-result, non-terminal, invalid-ID, and too-fast-request responses;
-7. result cap/pagination behavior using a deliberately broad term;
-8. whether repeated requests trigger 403, 429, CAPTCHA, or silent delay.
+1. whether address and parent IDs remain stable across gateway deployments;
+2. how many regions populate `addresses/commissionOrgs` and when;
+3. regional sources for physical voting-room addresses where it is empty;
+4. whether a fresh session can reuse an API key and its observed expiry;
+5. whether any address assignments differ at apartment level;
+6. malformed and partial address behavior across a representative sample;
+7. whether the 20-result cap can hide exact GAR buildings;
+8. whether sustained requests trigger 403, 429, CAPTCHA, or silent delay.
 
-Until that capture is complete, the 2019–2023 adapter should be disabled by
-default for live nationwide execution. The 2015–2018 tree is the stronger
-historical path for exhaustive enumeration because it exposes child lists;
-the autocomplete protocol is suitable for resolving externally supplied
-GAR/FIAS addresses but does not itself demonstrate completeness.
+The 2019–2023 adapter should remain disabled for live execution. The 2015–2018
+tree is the stronger historical path for exhaustive enumeration because it
+exposes child lists. The 2026 autocomplete is suitable for resolving externally
+supplied GAR/FIAS addresses but does not itself demonstrate completeness.

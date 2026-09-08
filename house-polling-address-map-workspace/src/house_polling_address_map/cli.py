@@ -4,16 +4,43 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 from collections.abc import Sequence
 from dataclasses import asdict
 from pathlib import Path
 
 from .cec import CecLegacyTree, CecLookup
+from .cec2026 import Cec2026Probe, Cec2026Protocol, probe_result_json
 from .gar import GarBuilding, iter_gar_buildings
 from .legacy import LegacyTreeCrawler
 from .models import AddressIdentity, BuildingAddress
 from .resolver import resolve_pending
 from .store import PollingMapStore
+
+
+def _dotenv_value(name: str) -> str | None:
+    candidates = (
+        Path.cwd() / ".env",
+        Path.cwd().parent / ".env",
+        Path(__file__).resolve().parents[3] / ".env",
+    )
+    for path in dict.fromkeys(candidates):
+        if not path.is_file():
+            continue
+        for raw_line in path.read_text(encoding="utf-8").splitlines():
+            line = raw_line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, value = line.split("=", 1)
+            if key.strip() == name:
+                return value.strip().strip("'\"") or None
+    return None
+
+
+def _proxy_url(explicit: str | None) -> str | None:
+    return explicit or os.environ.get("PROPER_DATA_PROXY_URL") or _dotenv_value(
+        "PROPER_DATA_PROXY_URL"
+    )
 
 
 def _parser() -> argparse.ArgumentParser:
@@ -43,6 +70,16 @@ def _parser() -> argparse.ArgumentParser:
     )
     probe.add_argument("protocol", type=Path)
     probe.add_argument("address")
+
+    probe_2026 = commands.add_parser(
+        "probe-cec-2026",
+        help="probe the live 2026 CEC address and election-classifier gateway",
+    )
+    probe_2026.add_argument("protocol", type=Path)
+    probe_2026.add_argument("address")
+    probe_2026.add_argument("--address-id")
+    probe_2026.add_argument("--proxy-url")
+    probe_2026.add_argument("--timeout", type=float, default=30.0)
 
     resolve = commands.add_parser(
         "resolve-gar", help="resolve pending GAR buildings through a captured CEC protocol"
@@ -132,6 +169,15 @@ def main(argv: Sequence[str] | None = None) -> int:
                     indent=2,
                 )
             )
+            return 0
+        if args.command == "probe-cec-2026":
+            result = Cec2026Probe(
+                Cec2026Protocol.from_file(args.protocol),
+                store,
+                proxy_url=_proxy_url(args.proxy_url),
+                timeout=args.timeout,
+            ).probe(args.address, address_id=args.address_id)
+            print(json.dumps(probe_result_json(result), ensure_ascii=False, indent=2))
             return 0
         if args.command == "resolve-gar":
             counts = resolve_pending(

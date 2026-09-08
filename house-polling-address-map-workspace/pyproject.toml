@@ -3,6 +3,7 @@ name = "house-polling-address-map"
 version = "0.1.0"
 description = "Evidence-preserving Russian building-address to polling-station mapping"
 requires-python = ">=3.11"
+dependencies = ["requests[socks]>=2.32,<3"]
 
 [project.scripts]
 house-polling-map = "house_polling_address_map.cli:main"
