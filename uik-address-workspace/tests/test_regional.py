@@ -113,7 +113,158 @@ class ParserTests(unittest.TestCase):
         self.assertEqual(47, len(urls))
         self.assertTrue(urls[0].endswith("/tik001/"))
         self.assertTrue(urls[-1].endswith("/tik047/"))
-        self.assertEqual((), seed_urls("58", "http://penza.izbirkom.ru/"))
+        self.assertEqual((), seed_urls("27", "http://khabarovsk.izbirkom.ru/"))
+
+    def test_vologda_adapter_uses_verified_directory_number(self) -> None:
+        payload = """
+        <html><head><title>Территориальная избирательная комиссия Белозерского
+        муниципального округа</title></head><body>
+        Территориальная избирательная комиссия Белозерского муниципального округа
+        находится по адресу: 161200, Вологодская область, г. Белозерск,
+        просп. Советский, д. 63, Телефон: 8 (81756) 23338
+        </body></html>
+        """.encode()
+        outcome = parse_artifact(
+            payload,
+            url=(
+                "http://vologod.izbirkom.ru/izbiratelnye-komissii/"
+                "territorialnye-izbiratelnye-komissii/T03.php"
+            ),
+            subject_code="35",
+            retrieved_at=NOW,
+        )
+        self.assertEqual("adapter:vologda_tik_directory", outcome.parser)
+        contact = outcome.contacts[0]
+        self.assertEqual(3, contact.commission_number)
+        self.assertEqual(
+            "161200, Вологодская область, г. Белозерск, просп. Советский, д. 63",
+            contact.commission_address,
+        )
+        self.assertEqual("8 (81756) 23338", contact.commission_phone)
+        self.assertEqual("regional_adapter_vologda_tik", contact.source.source_type)
+
+    def test_yamal_adapter_uses_explicit_verified_route_map(self) -> None:
+        payload = """
+        <html><body>
+        Территориальная избирательная комиссия г.Муравленко
+        Адрес: 629603 г. Муравленко, ул. Ленина, 80
+        тел (34938)2-82-49, 2-84-49
+        </body></html>
+        """.encode()
+        outcome = parse_artifact(
+            payload,
+            url="http://yamal-nenetsk.izbirkom.ru/about/tik/03tik/adress/index.php",
+            subject_code="89",
+            retrieved_at=NOW,
+        )
+        self.assertEqual("adapter:yamal_tik_address_directory", outcome.parser)
+        contact = outcome.contacts[0]
+        self.assertEqual(4, contact.commission_number)
+        self.assertEqual("629603 г. Муравленко, ул. Ленина, 80", contact.commission_address)
+        self.assertEqual("(34938)2-82-49, 2-84-49", contact.commission_phone)
+        self.assertEqual("regional_adapter_yamal_tik", contact.source.source_type)
+
+    def test_vologda_and_yamal_adapter_seeds_are_bounded(self) -> None:
+        vologda = seed_urls("35", "http://vologod.izbirkom.ru/")
+        self.assertEqual(24, len(vologda))
+        self.assertTrue(vologda[0].endswith("/T01.php"))
+        self.assertTrue(vologda[-1].endswith("/T24.php"))
+        yamal = seed_urls("89", "http://yamal-nenetsk.izbirkom.ru/")
+        self.assertEqual(6, len(yamal))
+        self.assertTrue(yamal[0].endswith("/01tik/adress/index.php"))
+        self.assertTrue(yamal[-1].endswith("/10tik/adress/index.php"))
+
+    def test_belgorod_adapter_uses_verified_municipality_slug(self) -> None:
+        payload = """
+        <html><body>
+        Территориальные избирательные комиссии
+        Губкинский городской округ
+        Фактический адрес: 309189, Белгородская область, г. Губкин, ул. Мира, 20
+        Телефон: +7 (47241) 7-54-97
+        </body></html>
+        """.encode()
+        outcome = parse_artifact(
+            payload,
+            url="http://belgorod.izbirkom.ru/tik/gubkin/",
+            subject_code="31",
+            retrieved_at=NOW,
+        )
+        self.assertEqual("adapter:belgorod_tik_directory", outcome.parser)
+        contact = outcome.contacts[0]
+        self.assertEqual(9, contact.commission_number)
+        self.assertEqual(
+            "309189, Белгородская область, г. Губкин, ул. Мира, 20",
+            contact.commission_address,
+        )
+        self.assertEqual("+7 (47241) 7-54-97", contact.commission_phone)
+        self.assertEqual("regional_adapter_belgorod_tik", contact.source.source_type)
+
+    def test_ugra_adapter_uses_verified_directory_map(self) -> None:
+        payload = """
+        <html><head><title>Приём обращений в ТИК Октябрьского района</title></head>
+        <body>
+        Адрес комиссии: 628100, пгт Октябрьское, ул. Ленина, дом 40, помещение 125.
+        Телефон: 8 (34678) 2-13-89
+        </body></html>
+        """.encode()
+        outcome = parse_artifact(
+            payload,
+            url=(
+                "http://hmao.izbirkom.ru/izbiratelnie-komissii/tik/tikpage/"
+                "tik10/priem-og/index.php?sphrase_id=5942"
+            ),
+            subject_code="86",
+            retrieved_at=NOW,
+        )
+        self.assertEqual("adapter:ugra_tik_directory", outcome.parser)
+        contact = outcome.contacts[0]
+        self.assertEqual(12, contact.commission_number)
+        self.assertEqual(
+            "628100, пгт Октябрьское, ул. Ленина, дом 40, помещение 125", contact.commission_address
+        )
+        self.assertEqual("8 (34678) 2-13-89", contact.commission_phone)
+        self.assertEqual("regional_adapter_ugra_tik", contact.source.source_type)
+
+    def test_belgorod_and_ugra_adapter_seeds_are_bounded(self) -> None:
+        belgorod = seed_urls("31", "http://belgorod.izbirkom.ru/")
+        self.assertEqual(22, len(belgorod))
+        self.assertTrue(belgorod[0].endswith("/tik/alekseevka/"))
+        self.assertTrue(belgorod[-1].endswith("/tik/stroitel/"))
+        ugra = seed_urls("86", "http://hmao.izbirkom.ru/")
+        self.assertEqual(20, len(ugra))
+        self.assertTrue(ugra[0].endswith("/tik01/priem-og/index.php"))
+        self.assertTrue(ugra[-1].endswith("/tik21/priem-og/index.php"))
+
+    def test_penza_adapter_uses_verified_directory_map_and_excludes_footer(self) -> None:
+        payload = """
+        <html><head><title>Новости ТИК Башмаковского района</title></head><body>
+        ТЕРРИТОРИАЛЬНАЯ ИЗБИРАТЕЛЬНАЯ КОМИССИЯ БАШМАКОВСКОГО РАЙОНА
+        Адрес: 442060, Пензенская область, р.п. Башмаково, ул. Советская, 17
+        Телефон: (841-43) 4-13-06
+        Адрес: 440000, г. Пенза, ул. Володарского, 49
+        </body></html>
+        """.encode()
+        outcome = parse_artifact(
+            payload,
+            url="http://penza.izbirkom.ru/tik_page/tik_01/index.php",
+            subject_code="58",
+            retrieved_at=NOW,
+        )
+        self.assertEqual("adapter:penza_tik_directory", outcome.parser)
+        contact = outcome.contacts[0]
+        self.assertEqual(7, contact.commission_number)
+        self.assertEqual(
+            "442060, Пензенская область, р.п. Башмаково, ул. Советская, 17",
+            contact.commission_address,
+        )
+        self.assertEqual("(841-43) 4-13-06", contact.commission_phone)
+        self.assertEqual("regional_adapter_penza_tik", contact.source.source_type)
+
+    def test_penza_adapter_seeds_are_verified_and_bounded(self) -> None:
+        penza = seed_urls("58", "http://penza.izbirkom.ru/")
+        self.assertEqual(33, len(penza))
+        self.assertTrue(penza[0].endswith("/tik_01/index.php"))
+        self.assertTrue(penza[-1].endswith("/tik_35/index.php"))
 
     def test_parses_explicit_csv_uik_rows(self) -> None:
         payload = (
