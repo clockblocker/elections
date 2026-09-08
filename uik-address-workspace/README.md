@@ -72,7 +72,9 @@ not copied into the polling-address field.
 UIKs are joined only by exact subject code and UIK number. TIKs first use exact
 subject code and TIK number, then a normalized name only if the candidate is
 unique inside the subject. Conflicting source values are flagged in the match
-method and the higher-quality/fresher source wins deterministically.
+method and the higher-quality/fresher source wins deterministically in the audit
+CSV. Conflicting values are blanked from the public CSV so user-facing consumers
+fail closed until the conflict is resolved.
 
 The CEC commission index is useful but currently incomplete. The regional pass is
 therefore a necessary second route, not an optional source of truth. `coverage.json`

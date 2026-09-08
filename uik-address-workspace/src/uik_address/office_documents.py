@@ -25,14 +25,21 @@ _PRECINCT_CONTEXT_RE = re.compile(
     r"номер\s+избирательного\s+участка|(?:^|\W)уик(?:\W|$))",
     re.IGNORECASE,
 )
+_REMOTE_VOTING_CONTEXT_RE = re.compile(
+    r"(?:групп\w*\s+избирател|отсутствуют\s+помещения\s+для\s+голосования|"
+    r"транспортн\w*\s+сообщени\w*\s+с\s+котор\w*\s+затруднен)",
+    re.IGNORECASE,
+)
 _CYRILLIC_OR_LATIN_RE = re.compile(r"[a-zа-яё]", re.IGNORECASE)
 
 
 @dataclass(frozen=True, slots=True)
 class PrecinctDocumentRow:
     number: int
-    voting_address: str
+    voting_address: str = ""
     voting_phone: str = ""
+    commission_address: str = ""
+    commission_phone: str = ""
 
 
 def _clean(value: object) -> str:
@@ -73,6 +80,26 @@ def _phone_header(value: str) -> bool:
     return key == "телефон" or key.startswith(("телефон ", "телефон, "))
 
 
+def _column_role(rows: list[list[str]], row_index: int, column_index: int) -> str:
+    context = _key(
+        " ".join(
+            row[column_index]
+            for row in rows[: row_index + 1]
+            if column_index < len(row) and row[column_index]
+        )
+    )
+    if re.search(
+        r"(?:помещен.*голосован|участок для голосования|место проведения голосования)",
+        context,
+    ):
+        return "voting"
+    if re.search(
+        r"(?:избирательн.*комисс|адрес уик|место нахождения участковой)", context
+    ):
+        return "commission"
+    return "generic"
+
+
 def _number(value: str) -> int | None:
     if not re.fullmatch(r"\s*\d+(?:\.0+)?\s*", value):
         return None
@@ -90,6 +117,10 @@ def _address(value: str) -> str:
 def _phone(value: str) -> str:
     text = _clean(value)
     return text if sum(character.isdigit() for character in text) >= 5 else ""
+
+
+def _ditto(value: str) -> bool:
+    return bool(re.fullmatch(r"[\s\-–—'\"«»]+", value))
 
 
 def _sheet_rows(worksheet: Any) -> list[list[str]]:
@@ -116,18 +147,24 @@ def _parse_table(
     )
     if not _PRECINCT_CONTEXT_RE.search(context):
         return []
+    if _REMOTE_VOTING_CONTEXT_RE.search(context):
+        return []
 
     number_columns: list[tuple[int, int]] = []
-    address_columns: list[tuple[int, int]] = []
-    phone_columns: list[tuple[int, int]] = []
+    address_columns: list[tuple[int, int, str]] = []
+    phone_columns: list[tuple[int, int, str]] = []
     for row_index, row in enumerate(rows[:HEADER_SCAN_ROWS]):
         for column_index, cell in enumerate(row):
             if _number_header(cell):
                 number_columns.append((row_index, column_index))
             if _address_header(cell):
-                address_columns.append((row_index, column_index))
+                address_columns.append(
+                    (row_index, column_index, _column_role(rows, row_index, column_index))
+                )
             if _phone_header(cell):
-                phone_columns.append((row_index, column_index))
+                phone_columns.append(
+                    (row_index, column_index, _column_role(rows, row_index, column_index))
+                )
     if not number_columns or not address_columns:
         return []
 
@@ -142,22 +179,70 @@ def _parse_table(
             item[0],
         ),
     )
-    address_row, address_column = max(address_columns, key=lambda item: (item[0], item[1]))
-    phone_column = (
-        max(phone_columns, key=lambda item: (item[0], item[1]))[1] if phone_columns else -1
-    )
-    data_start = max(number_row, address_row, *(row for row, _ in phone_columns)) + 1
+    def select_column(role: str, values: list[tuple[int, int, str]]) -> tuple[int, int] | None:
+        matches = [(row, column) for row, column, actual in values if actual == role]
+        return max(matches, key=lambda item: (item[0], item[1])) if matches else None
+
+    commission_address = select_column("commission", address_columns)
+    voting_address = select_column("voting", address_columns)
+    generic_address = select_column("generic", address_columns)
+    if voting_address is None and commission_address is None:
+        voting_address = generic_address
+    commission_phone = select_column("commission", phone_columns)
+    voting_phone = select_column("voting", phone_columns)
+    generic_phone = select_column("generic", phone_columns)
+    if voting_phone is None and commission_phone is None and voting_address is not None:
+        voting_phone = generic_phone
+    header_rows = [number_row]
+    header_rows.extend(row for row, _, _ in address_columns)
+    header_rows.extend(row for row, _, _ in phone_columns)
+    data_start = max(header_rows) + 1
+
+    def value(row: list[str], column: tuple[int, int] | None) -> str:
+        return row[column[1]] if column is not None and column[1] < len(row) else ""
 
     result: list[PrecinctDocumentRow] = []
     for row in rows[data_start:]:
         raw_number = row[number_column] if number_column < len(row) else ""
-        raw_address = row[address_column] if address_column < len(row) else ""
         number = _number(raw_number)
-        address = _address(raw_address)
-        if number is None or not address:
+        commission_address_value = _address(value(row, commission_address))
+        commission_phone_value = _phone(value(row, commission_phone))
+        raw_voting_address = value(row, voting_address)
+        raw_voting_phone = value(row, voting_phone)
+        voting_address_value = _address(raw_voting_address)
+        voting_phone_value = _phone(raw_voting_phone)
+        if (
+            not voting_address_value
+            and commission_address_value
+            and "если совпадает" in context.casefold()
+            and _ditto(raw_voting_address)
+        ):
+            voting_address_value = commission_address_value
+        if (
+            not voting_phone_value
+            and commission_phone_value
+            and "если совпадает" in context.casefold()
+            and _ditto(raw_voting_phone)
+        ):
+            voting_phone_value = commission_phone_value
+        if number is None or not any(
+            (
+                voting_address_value,
+                voting_phone_value,
+                commission_address_value,
+                commission_phone_value,
+            )
+        ):
             continue
-        raw_phone = row[phone_column] if 0 <= phone_column < len(row) else ""
-        result.append(PrecinctDocumentRow(number, address, _phone(raw_phone)))
+        result.append(
+            PrecinctDocumentRow(
+                number=number,
+                voting_address=voting_address_value,
+                voting_phone=voting_phone_value,
+                commission_address=commission_address_value,
+                commission_phone=commission_phone_value,
+            )
+        )
     return result
 
 

@@ -364,22 +364,30 @@ def write_csv(path: Path, rows: Iterable[dict[str, object]]) -> int:
 
 def public_rows(rows: Iterable[dict[str, object]]) -> Iterable[dict[str, object]]:
     for row in rows:
+        uik_conflict = "_conflict_" in str(row["uik_match_method"])
+        tik_conflict = "_conflict_" in str(row["tik_match_method"])
+        uik_voting_address = "" if uik_conflict else row["uik_voting_address"]
+        uik_voting_phone = "" if uik_conflict else row["uik_voting_phone"]
+        uik_commission_phone = "" if uik_conflict else row["uik_commission_phone"]
         has_uik_contact = bool(
-            row["uik_voting_address"] or row["uik_voting_phone"] or row["uik_commission_phone"]
+            uik_voting_address or uik_voting_phone or uik_commission_phone
         )
         prefix = "uik" if has_uik_contact else "tik"
+        selected_conflict = uik_conflict if prefix == "uik" else tik_conflict
         yield {
             "subject": row["subject_name"],
             "tik_name": row["tik_name"],
             "tik_number": row["tik_number"],
-            "tik_address": row["tik_address"],
-            "tik_phone": row["tik_phone"],
+            "tik_address": "" if tik_conflict else row["tik_address"],
+            "tik_phone": "" if tik_conflict else row["tik_phone"],
             "uik_number": row["uik_number"],
-            "uik_voting_address": row["uik_voting_address"],
-            "uik_phone": row["uik_voting_phone"] or row["uik_commission_phone"],
-            "contact_source": row[f"{prefix}_contact_source"],
-            "contact_retrieved_at": row[f"{prefix}_contact_retrieved_at"],
-            "contact_status": row[f"{prefix}_contact_status"],
+            "uik_voting_address": uik_voting_address,
+            "uik_phone": uik_voting_phone or uik_commission_phone,
+            "contact_source": "" if selected_conflict else row[f"{prefix}_contact_source"],
+            "contact_retrieved_at": (
+                "" if selected_conflict else row[f"{prefix}_contact_retrieved_at"]
+            ),
+            "contact_status": "" if selected_conflict else row[f"{prefix}_contact_status"],
         }
 
 

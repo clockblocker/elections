@@ -5,7 +5,13 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from uik_address.assemble import assemble_rows, normalize_name, write_csv, write_public_csv
+from uik_address.assemble import (
+    assemble_rows,
+    normalize_name,
+    public_rows,
+    write_csv,
+    write_public_csv,
+)
 from uik_address.gaps import gap_rows, write_gaps
 from uik_address.models import BackboneRow, CommissionContact, SourceEvidence
 
@@ -100,6 +106,22 @@ class AssembleTests(unittest.TestCase):
         self.assertEqual(forward_coverage, reverse_coverage)
         self.assertEqual("exact_region_number_conflict_selected", forward[0]["uik_match_method"])
         self.assertEqual(1, forward_coverage["uik_match_conflicts"])
+        public = next(iter(public_rows(forward)))
+        self.assertEqual("", public["uik_voting_address"])
+        self.assertEqual("", public["contact_source"])
+
+    def test_public_rows_fail_closed_on_conflicting_polling_addresses(self) -> None:
+        contacts = [
+            CommissionContact("77", "5", 1, "УИК №1", "a", "", "", "one", "", SOURCE),
+            CommissionContact("77", "5", 1, "УИК №1", "z", "", "", "two", "", SOURCE),
+        ]
+        audit, coverage = assemble_rows([self.row()], contacts)
+        public = next(iter(public_rows(audit)))
+        self.assertEqual(1, coverage["uik_match_conflicts"])
+        self.assertNotEqual("", audit[0]["uik_voting_address"])
+        self.assertEqual("", public["uik_voting_address"])
+        self.assertEqual("", public["uik_phone"])
+        self.assertEqual("", public["contact_source"])
 
     def test_known_source_types_are_prioritized_but_empty_hits_do_not_mask_data(self) -> None:
         regional = SourceEvidence(

@@ -103,8 +103,10 @@ class ParserTests(unittest.TestCase):
         return output.getvalue()
 
     @staticmethod
-    def docx_bytes(*, dated: bool = True) -> bytes:
+    def docx_bytes(*, dated: bool = True, remote: bool = False) -> bytes:
         date = "по состоянию на 16 июня 2026 года" if dated else "архивный список"
+        if remote:
+            date += " для групп избирателей, где отсутствуют помещения для голосования"
         xml = f"""<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
         <w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
           <w:body><w:p><w:r><w:t>{date}</w:t></w:r></w:p><w:tbl>
@@ -170,8 +172,56 @@ class ParserTests(unittest.TestCase):
         contact = outcome.contacts[0]
         self.assertEqual(42, contact.commission_number)
         self.assertEqual("Школа, ул. Рабочая, 3", contact.voting_address)
-        self.assertEqual("", contact.commission_address)
+        self.assertEqual("Администрация, ул. Советская, 1", contact.commission_address)
         self.assertEqual("regional_docx_2026", contact.source.source_type)
+
+    def test_rejects_remote_mobile_voting_locations_as_uik_addresses(self) -> None:
+        outcome = parse_artifact(
+            self.docx_bytes(remote=True),
+            url="https://official.test/2026/remote-voting.docx",
+            subject_code="50",
+            retrieved_at=NOW,
+        )
+        self.assertEqual("unresolved", outcome.status)
+        self.assertEqual((), outcome.contacts)
+
+    def test_xlsx_copies_explicit_ditto_location_but_keeps_both_fields(self) -> None:
+        workbook = Workbook()
+        sheet = workbook.active
+        sheet.append(["Перечень избирательных участков на 20 сентября 2026 года"])
+        sheet.append(
+            [
+                "№ п/п",
+                "№ УИК",
+                "Избирательная комиссия",
+                None,
+                'Помещение для голосования (-"-, если совпадает с избирательной комиссией)',
+            ]
+        )
+        sheet.append([None, None, "Адрес", "Телефон", "Адрес", "Телефон"])
+        sheet.append(
+            [
+                1,
+                7,
+                "Хабаровский край, г. Тест, ул. Школьная, 1",
+                "8 (4212) 11-22-33",
+                '-"-',
+                '-"-',
+            ]
+        )
+        output = BytesIO()
+        workbook.save(output)
+        workbook.close()
+        outcome = parse_artifact(
+            output.getvalue(),
+            url="https://official.test/2026/uik.xlsx",
+            subject_code="27",
+            retrieved_at=NOW,
+        )
+        self.assertEqual("parsed", outcome.status)
+        contact = outcome.contacts[0]
+        self.assertEqual(contact.commission_address, contact.voting_address)
+        self.assertEqual(contact.commission_phone, contact.voting_phone)
 
     def test_kemerovo_adapter_maps_directory_ordinal_to_backbone_number(self) -> None:
         payload = """
