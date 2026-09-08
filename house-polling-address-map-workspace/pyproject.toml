@@ -1,0 +1,19 @@
+[project]
+name = "house-polling-address-map"
+version = "0.1.0"
+description = "Evidence-preserving Russian building-address to polling-station mapping"
+requires-python = ">=3.11"
+
+[project.scripts]
+house-polling-map = "house_polling_address_map.cli:main"
+
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"

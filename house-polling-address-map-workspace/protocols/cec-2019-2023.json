@@ -1,0 +1,9 @@
+{
+  "suggest_url": "http://www.cikrf.ru/iservices/voter-services/address/search/{query}/",
+  "method": "GET",
+  "headers": {
+    "Accept": "application/json"
+  },
+  "resolve_url": "http://www.cikrf.ru/iservices/voter-services/committee/address/{address_id}",
+  "committee_url": "http://www.cikrf.ru/iservices/voter-services/committee/subjcode/{region_code}/num/{committee_number}"
+}
