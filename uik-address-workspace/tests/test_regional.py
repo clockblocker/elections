@@ -59,7 +59,7 @@ class CatalogTests(unittest.TestCase):
     def test_loads_curated_supplemental_catalog(self) -> None:
         catalog = Path(__file__).resolve().parents[1] / "official-precinct-sources.json"
         regions = load_catalog(catalog)
-        self.assertEqual(["64", "78"], [region.code for region in regions])
+        self.assertEqual(["38", "64", "78"], [region.code for region in regions])
         petersburg = next(region for region in regions if region.code == "78")
         self.assertEqual({"www.gov.spb.ru"}, set(petersburg.allowed_hosts))
         self.assertGreaterEqual(len(petersburg.seed_urls), 10)
@@ -613,6 +613,28 @@ class ParserTests(unittest.TestCase):
         )
         self.assertEqual("parsed", outcome.status)
         self.assertEqual({"tik", "uik"}, {item.commission_type for item in outcome.contacts})
+
+    def test_parses_combined_voting_and_commission_html_table(self) -> None:
+        payload = """
+        <h1>Выборы депутатов Государственной Думы 20 сентября 2026 года</h1>
+        <table><tr><th>№ УИК</th>
+        <th>Помещение для голосования, место нахождения избирательной комиссии</th>
+        <th>Номер телефона участковой избирательной комиссии</th></tr>
+        <tr><td>1567</td><td>Гимназия № 1, ул. Наймушина, 9</td>
+        <td>7-46-19</td></tr></table>
+        """.encode()
+        outcome = parse_artifact(
+            payload,
+            url="https://official.test/2026/precincts.html",
+            subject_code="38",
+            retrieved_at=NOW,
+        )
+        self.assertEqual("parsed", outcome.status)
+        self.assertEqual(1567, outcome.contacts[0].commission_number)
+        self.assertEqual("УИК №1567", outcome.contacts[0].commission_name)
+        self.assertEqual("Гимназия № 1, ул. Наймушина, 9", outcome.contacts[0].voting_address)
+        self.assertEqual("7-46-19", outcome.contacts[0].commission_phone)
+        self.assertEqual("regional_html_2026", outcome.contacts[0].source.source_type)
 
     def test_ambiguous_csv_and_invalid_pdf_remain_unresolved(self) -> None:
         csv_outcome = parse_artifact(

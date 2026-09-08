@@ -336,6 +336,7 @@ _ALIASES = {
     },
     "type": {"тип комиссии", "вид комиссии", "уровень комиссии", "commission type", "type"},
     "number": {
+        "уик",
         "номер уик",
         "уик номер",
         "номер тик",
@@ -359,11 +360,13 @@ _ALIASES = {
         "телефон тик",
         "телефон уик",
         "номер телефона комиссии",
+        "номер телефона участковой избирательной комиссии",
         "commission phone",
         "phone",
     },
     "voting_address": {
         "адрес помещения для голосования",
+        "помещение для голосования место нахождения избирательной комиссии",
         "место голосования",
         "адрес места голосования",
         "адрес избирательного участка",
@@ -458,7 +461,9 @@ def _record_contact(
         number = _uik_number_from_identity(identity_context)
     if kind == "uik" and number is None:
         return None
-    if not name:
+    if kind == "uik" and number is not None and (not name or name.isdigit()):
+        name = f"УИК №{number}"
+    elif not name:
         if kind == "uik" and number is not None:
             name = f"УИК №{number}"
         else:
@@ -762,7 +767,17 @@ def parse_artifact(
             or "html" in media
             or payload.lstrip().lower().startswith((b"<!doctype", b"<html"))
         ):
-            parser, source_type = "html", "regional_html"
+            parser = "html"
+            decoded = _decode(payload)
+            current_html = "2026" in url and bool(
+                re.search(
+                    r"(?:20[.\-/ ]?09[.\-/ ]?2026|20\s+сентябр\w*\s+2026|"
+                    r"выбор\w*[^\n]{0,120}2026)",
+                    decoded,
+                    re.IGNORECASE,
+                )
+            )
+            source_type = "regional_html_2026" if current_html else "regional_html"
         else:
             return ParseOutcome((), parser, "unresolved", "unsupported document format")
         source = SourceEvidence(url, retrieved_at, digest, status, source_type)

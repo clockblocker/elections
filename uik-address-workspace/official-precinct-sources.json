@@ -2,6 +2,19 @@
   "schemaVersion": 1,
   "regions": [
     {
+      "regionCode": "38",
+      "regionName": "Иркутская область",
+      "baseUrl": "https://tik.ikio38.ru/",
+      "allowedHosts": [
+        "tik.ikio38.ru"
+      ],
+      "maxPages": 5,
+      "maxDepth": 0,
+      "seedUrls": [
+        "https://tik.ikio38.ru/ust-ilimsk-g/ust-ilimsk-g-vibory/print:page,1,37136-vybory-deputatov-gosudarstvennoj-dumy-federalnogo-sobranija-rossijskoj-federacii-devjatogo-sozyva-20-sentjabrja-2026-goda.html"
+      ]
+    },
+    {
       "regionCode": "78",
       "regionName": "Санкт-Петербург",
       "baseUrl": "https://www.gov.spb.ru/",

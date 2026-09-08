@@ -34,12 +34,12 @@
     "hierarchy_source_sha256",
     "hierarchy_retrieved_at"
   ],
-  "input_contacts": 4690,
+  "input_contacts": 4730,
   "rows": 91247,
-  "rows_with_any_contact": 16790,
-  "rows_with_uik_voting_address_or_tik_contact": 16671,
-  "rows_without_uik_voting_address": 87101,
-  "rows_without_uik_voting_address_or_tik_contact": 74576,
+  "rows_with_any_contact": 16830,
+  "rows_with_uik_voting_address_or_tik_contact": 16711,
+  "rows_without_uik_voting_address": 87061,
+  "rows_without_uik_voting_address_or_tik_contact": 74536,
   "rows_without_uik_voting_address_with_tik_address_and_phone": 11211,
   "rows_without_uik_voting_address_with_tik_contact": 12525,
   "rows_without_uik_voting_address_with_tik_phone": 12446,
@@ -49,9 +49,9 @@
   "tik_phone": 12446,
   "uik_commission_address": 3706,
   "uik_match_conflicts": 0,
-  "uik_matched": 4265,
-  "uik_phone": 2860,
-  "uik_voting_address": 4146,
+  "uik_matched": 4305,
+  "uik_phone": 2900,
+  "uik_voting_address": 4186,
   "unused_contacts": 68,
-  "used_contacts": 4622
+  "used_contacts": 4662
 }
