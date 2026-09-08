@@ -80,9 +80,9 @@ def normalize_name(value: str) -> str:
     return " ".join(text.split())
 
 
-def _contact_score(contact: CommissionContact) -> tuple[int, int, int, str, str]:
+def _source_priority(contact: CommissionContact) -> int:
     source_type = contact.source.source_type.casefold().replace("_", "-")
-    source_priority = {
+    return {
         "cec-report-42": 50,
         "cec-commission-parents": 40,
         "cec-commission-org": 40,
@@ -91,13 +91,21 @@ def _contact_score(contact: CommissionContact) -> tuple[int, int, int, str, str]
         "regional-official-csv": 20,
         "regional-official-html": 10,
         "regional-xlsx-2026": 45,
+        "regional-xls-2026": 45,
         "regional-docx-2026": 45,
+        "regional-pdf-2026": 45,
+        "regional-html-2026": 45,
+        "regional-html-2026-amendment": 55,
         "moscow-api-2026": 50,
         "regional-json": 25,
         "regional-csv": 20,
         "regional-html": 10,
         "regional-adapter-kemerovo-tik": 35,
     }.get(source_type, 35 if source_type.startswith("regional-adapter-") else 0)
+
+
+def _contact_score(contact: CommissionContact) -> tuple[int, int, int, str, str]:
+    source_priority = _source_priority(contact)
     completeness = sum(
         bool(value.strip())
         for value in (
@@ -134,7 +142,12 @@ def _normalized_contact_values(contact: CommissionContact) -> tuple[str, str, st
 def _contact_conflict(candidates: Sequence[CommissionContact]) -> bool:
     """Report contradictory populated fields, not compatible partial records."""
 
-    values = [_normalized_contact_values(candidate) for candidate in candidates]
+    highest_priority = max((_source_priority(candidate) for candidate in candidates), default=0)
+    values = [
+        _normalized_contact_values(candidate)
+        for candidate in candidates
+        if _source_priority(candidate) == highest_priority
+    ]
     return any(len({row[index] for row in values if row[index]}) > 1 for index in range(4))
 
 
@@ -262,19 +275,26 @@ def assemble_rows(
         counts["tik_address"] += bool(tik.contact and tik.contact.commission_address.strip())
         counts["tik_phone"] += bool(tik.contact and tik.contact.commission_phone.strip())
         counts["uik_matched"] += bool(uik.contact)
-        counts["uik_voting_address"] += bool(uik.contact and uik.contact.voting_address.strip())
+        counts["uik_voting_address"] += bool(
+            uik.contact and not uik.conflict and uik.contact.voting_address.strip()
+        )
         counts["uik_commission_address"] += bool(
-            uik.contact and uik.contact.commission_address.strip()
+            uik.contact and not uik.conflict and uik.contact.commission_address.strip()
         )
         counts["uik_phone"] += bool(
             uik.contact
+            and not uik.conflict
             and (uik.contact.voting_phone.strip() or uik.contact.commission_phone.strip())
         )
         has_tik_address = bool(tik.contact and tik.contact.commission_address.strip())
         has_tik_phone = bool(tik.contact and tik.contact.commission_phone.strip())
         has_tik_contact = has_tik_address or has_tik_phone
-        has_uik_contact = bool(uik.contact and any(_contact_values(uik.contact)))
-        has_uik_voting_address = bool(uik.contact and uik.contact.voting_address.strip())
+        has_uik_contact = bool(
+            uik.contact and not uik.conflict and any(_contact_values(uik.contact))
+        )
+        has_uik_voting_address = bool(
+            uik.contact and not uik.conflict and uik.contact.voting_address.strip()
+        )
         counts["rows_with_any_contact"] += has_tik_contact or has_uik_contact
         counts["rows_without_uik_voting_address"] += not has_uik_voting_address
         counts["rows_without_uik_voting_address_with_tik_contact"] += (

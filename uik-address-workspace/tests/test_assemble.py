@@ -12,7 +12,7 @@ from uik_address.assemble import (
     write_csv,
     write_public_csv,
 )
-from uik_address.gaps import gap_rows, write_gaps
+from uik_address.gaps import gap_rows, subject_coverage_rows, write_gaps
 from uik_address.models import BackboneRow, CommissionContact, SourceEvidence
 
 SOURCE = SourceEvidence(
@@ -112,6 +112,25 @@ class AssembleTests(unittest.TestCase):
         self.assertEqual("", public["src"])
         self.assertEqual("conflicted", public["legacy_status"])
 
+    def test_higher_priority_amendment_supersedes_base_without_a_conflict(self) -> None:
+        base = SourceEvidence(
+            "https://official.test/base.pdf", "2026-08-01", "b" * 64, 200, "regional_pdf_2026"
+        )
+        amendment = SourceEvidence(
+            "https://official.test/amendment",
+            "2026-08-10",
+            "a" * 64,
+            200,
+            "regional_html_2026_amendment",
+        )
+        contacts = [
+            CommissionContact("77", "5", 1, "УИК №1", "", "", "", "Old", "", base),
+            CommissionContact("77", "5", 1, "УИК №1", "", "", "", "New", "", amendment),
+        ]
+        rows, coverage = assemble_rows([self.row()], contacts)
+        self.assertEqual("New", rows[0]["uik_voting_address"])
+        self.assertEqual(0, coverage["contact_conflicts"])
+
     def test_public_rows_fail_closed_on_conflicting_polling_addresses(self) -> None:
         contacts = [
             CommissionContact("77", "5", 1, "УИК №1", "a", "", "", "one", "", SOURCE),
@@ -120,6 +139,8 @@ class AssembleTests(unittest.TestCase):
         audit, coverage = assemble_rows([self.row()], contacts)
         public = next(iter(public_rows(audit)))
         self.assertEqual(1, coverage["uik_match_conflicts"])
+        self.assertEqual(0, coverage["uik_voting_address"])
+        self.assertEqual(1, coverage["rows_without_uik_voting_address"])
         self.assertNotEqual("", audit[0]["uik_voting_address"])
         self.assertEqual("", public["uik_voting_address"])
         self.assertEqual("", public["uik_phone"])
@@ -259,6 +280,10 @@ class AssembleTests(unittest.TestCase):
         gaps = gap_rows(rows)
         self.assertEqual(1, len(gaps))
         self.assertEqual(2, gaps[0]["priority_missing_uiks"])
+
+        coverage = subject_coverage_rows(rows)
+        self.assertEqual("none", coverage[0]["coverage_status"])
+        self.assertEqual(2, coverage[0]["uiks_missing_address_and_tik_fallback_count"])
         with tempfile.TemporaryDirectory() as directory:
             path = Path(directory) / "gaps.csv"
             write_gaps(path, rows)

@@ -10,6 +10,7 @@ from xml.etree import ElementTree
 from zipfile import BadZipFile, ZipFile
 
 import pdfplumber
+import xlrd
 from openpyxl import load_workbook
 from openpyxl.utils.exceptions import InvalidFileException
 from pypdf import PdfReader
@@ -46,11 +47,11 @@ _PDF_RECORD_RE = re.compile(
 )
 _PDF_COMBINED_LOCATION_RE = re.compile(
     r"(?:"
-    r"(?:место\s+нахождени[ея]|адрес)\s+помещени\w*\s+участков\w*\s+"
-    r"избирательн\w*\s+комисси\w*\s+и\s+(?:помещени\w*\s+)?для\s+голосовани\w*"
+    r"(?:место\s+нахождени[ея]|адрес)\s+(?:помещени\w*\s+)?участков\w*\s+"
+    r"(?:избирательн\w*\s+)?комисси\w*\s+и\s+(?:помещени\w*\s+)?для\s+голосовани\w*"
     r"|помещени\w*\s+для\s+голосовани\w*"
     r"|для\s+голосовани\w*"
-    r")\s*[:;]\s*(.*?)"
+    r")\s*[:;–—-]\s*(.*?)"
     r"(?=\s*№\s*телефон|\s*(?:в\s+границах|границ\w*\s+(?:избирательн\w*\s+)?"
     r"участк\w*)\s*[:;]|\n\s*(?:территориальн\w*\s+"
     r"избирательн\w*\s+комисси\w*|(?:внутригородск\w*\s+)?муниципальн\w*\s+"
@@ -78,7 +79,11 @@ def _clean(value: object) -> str:
 
 
 def _key(value: object) -> str:
-    return re.sub(r"[^a-zа-я0-9№]+", " ", _clean(value).casefold().replace("ё", "е")).strip()
+    text = _clean(value).casefold().replace("ё", "е")
+    # PDF table extractors preserve print line-break hyphenation. Rejoin only a
+    # hyphen followed by whitespace so ordinary compounds remain distinct.
+    text = re.sub(r"(?<=[a-zа-я])[-‐‑]\s+(?=[a-zа-я])", "", text)
+    return re.sub(r"[^a-zа-я0-9№]+", " ", text).strip()
 
 
 def _is_2026_source(url: str, rows: list[list[str]], context_extra: str = "") -> bool:
@@ -114,7 +119,7 @@ def _address_header(value: str) -> bool:
 
 def _phone_header(value: str) -> bool:
     key = _key(value)
-    return key == "телефон" or key.startswith(("телефон ", "телефон, "))
+    return key in {"телефон", "телефоны"} or key.startswith(("телефон ", "телефон, "))
 
 
 def _column_role(rows: list[list[str]], row_index: int, column_index: int) -> str:
@@ -136,9 +141,10 @@ def _column_role(rows: list[list[str]], row_index: int, column_index: int) -> st
 
 
 def _number(value: str) -> int | None:
-    if not re.fullmatch(r"\s*\d+(?:\.0+)?\s*", value):
+    match = re.fullmatch(r"\s*(?:уик\s*)?(?:№|N|No\.?)?\s*(\d+)(?:\.0+)?\s*", value, re.IGNORECASE)
+    if match is None:
         return None
-    number = int(float(value))
+    number = int(match.group(1))
     return number if 0 < number < 100_000 else None
 
 
@@ -164,6 +170,12 @@ def _address_and_phone(value: str) -> tuple[str, str]:
     text = _clean(value).rstrip(" .;")
     marker = re.search(r"\s*,?\s*тел(?:ефон)?\.?\b", text, re.IGNORECASE)
     if marker is None:
+        suffix = re.search(
+            r"^(.*?)[,;]\s*((?:\+?\d[\d()\s+\-–—]{3,})\d)$",
+            text,
+        )
+        if suffix is not None and sum(character.isdigit() for character in suffix.group(2)) >= 5:
+            return _address(suffix.group(1)), _phone(suffix.group(2))
         return _address(text), ""
     phone_candidates = re.findall(
         r"[+()\d][\d()\s+\-–—]{4,}\d(?:\s*\(?(?:доб\.?\s*)?\d+\)?)?",
@@ -172,6 +184,19 @@ def _address_and_phone(value: str) -> tuple[str, str]:
     )
     phone = _phone(phone_candidates[-1]) if phone_candidates else ""
     return _address(text[: marker.start()]), phone
+
+
+def _trim_unlabelled_precinct_boundaries(value: str) -> str:
+    """Drop an address-list tail when a combined-location block has no boundary label."""
+
+    match = re.search(
+        r"\)(?=\s+(?:проспект(?:ы)?|улиц(?:а|ы)?|переул(?:ок|ки)|проезд(?:ы)?|"
+        r"шоссе|микрорайон(?:ы)?|дом(?:а|ы)?|пос[её]лок|деревн[яи]|садовод\w*|"
+        r"государственн\w*|муниципальн\w*)\b)",
+        value,
+        re.IGNORECASE | re.DOTALL,
+    )
+    return value[: match.end()] if match is not None else value
 
 
 def _ditto(value: str) -> bool:
@@ -361,6 +386,45 @@ def parse_xlsx_precinct_rows(payload: bytes, *, url: str) -> tuple[PrecinctDocum
         workbook.close()
 
 
+def parse_xls_precinct_rows(payload: bytes, *, url: str) -> tuple[PrecinctDocumentRow, ...]:
+    """Extract explicitly numbered polling places from a current BIFF XLS file."""
+
+    if not payload:
+        return ()
+    if len(payload) > MAX_WORKBOOK_BYTES:
+        raise ValueError("workbook exceeds the byte limit")
+    try:
+        workbook = xlrd.open_workbook(file_contents=payload, on_demand=True)
+    except (OSError, ValueError, xlrd.XLRDError) as error:
+        raise ValueError(f"invalid XLS workbook: {error}") from error
+    try:
+        if workbook.nsheets > MAX_WORKSHEETS:
+            raise ValueError("workbook exceeds the worksheet limit")
+        records: dict[int, PrecinctDocumentRow] = {}
+        conflicts: set[int] = set()
+        for worksheet in workbook.sheets():
+            if worksheet.nrows > MAX_ROWS_PER_SHEET:
+                raise ValueError(f"worksheet {worksheet.name!r} exceeds the row limit")
+            rows = [
+                [
+                    _clean(worksheet.cell_value(row, column))
+                    for column in range(min(worksheet.ncols, MAX_COLUMNS))
+                ]
+                for row in range(worksheet.nrows)
+            ]
+            for record in _parse_table(rows, url=url):
+                previous = records.get(record.number)
+                if previous is not None and previous != record:
+                    conflicts.add(record.number)
+                else:
+                    records[record.number] = record
+        for number in conflicts:
+            records.pop(number, None)
+        return tuple(records[number] for number in sorted(records))
+    finally:
+        workbook.release_resources()
+
+
 def _docx_cell_text(cell: ElementTree.Element, namespace: dict[str, str]) -> str:
     paragraphs: list[str] = []
     for paragraph in cell.findall(".//w:p", namespace):
@@ -428,6 +492,7 @@ def _parse_labelled_pdf_text(text: str, *, url: str) -> tuple[PrecinctDocumentRo
         (r"избирател\s+ь", "избиратель"),
         (r"помещени\s+я", "помещения"),
         (r"голосовани\s+я", "голосования"),
+        (r"голос\s+ован", "голосован"),
         (r"уча\s+стк", "участк"),
     ):
         text = re.sub(broken, joined, text, flags=re.IGNORECASE)
@@ -445,7 +510,8 @@ def _parse_labelled_pdf_text(text: str, *, url: str) -> tuple[PrecinctDocumentRo
         location_match = _PDF_COMBINED_LOCATION_RE.search(block)
         if location_match is None:
             continue
-        address, inline_phone = _address_and_phone(location_match.group(1))
+        location = _trim_unlabelled_precinct_boundaries(location_match.group(1))
+        address, inline_phone = _address_and_phone(location)
         phone_match = _PDF_PHONE_RE.search(block)
         phone = _phone(phone_match.group(1)) if phone_match is not None else inline_phone
         if not address:
@@ -465,6 +531,12 @@ def _parse_labelled_pdf_text(text: str, *, url: str) -> tuple[PrecinctDocumentRo
     for number in conflicts:
         records.pop(number, None)
     return tuple(records[number] for number in sorted(records))
+
+
+def parse_labelled_precinct_text(text: str, *, url: str) -> tuple[PrecinctDocumentRow, ...]:
+    """Extract explicitly combined UIK/polling locations from current labelled text."""
+
+    return _parse_labelled_pdf_text(text, url=url)
 
 
 def parse_pdf_precinct_rows(payload: bytes, *, url: str) -> tuple[PrecinctDocumentRow, ...]:

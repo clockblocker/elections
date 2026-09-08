@@ -11,7 +11,7 @@ from pathlib import Path
 from .assemble import assemble_rows, write_coverage, write_csv, write_public_csv
 from .backbone import coverage_summary, extract_backbone, write_backbone_jsonl
 from .cec import crawl_cec_contacts
-from .gaps import write_gaps
+from .gaps import write_gaps, write_subject_coverage
 from .io import read_jsonl
 from .models import BackboneRow, CommissionContact
 from .moscow import crawl_moscow_contacts
@@ -70,6 +70,7 @@ def _assemble(
     write_csv(work_root / "uik-addresses-2026.csv", output_rows)
     write_public_csv(work_root / "uik-addresses-2026-public.csv", output_rows)
     write_gaps(work_root / "gaps.csv", output_rows)
+    write_subject_coverage(work_root / "subject-coverage.csv", output_rows)
     write_coverage(work_root / "coverage.json", coverage)
     return coverage
 

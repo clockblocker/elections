@@ -59,9 +59,15 @@ class CatalogTests(unittest.TestCase):
     def test_loads_curated_supplemental_catalog(self) -> None:
         catalog = Path(__file__).resolve().parents[1] / "official-precinct-sources.json"
         regions = load_catalog(catalog)
-        self.assertEqual(["38", "64", "78"], [region.code for region in regions])
+        self.assertEqual(
+            ["3", "16", "24", "38", "50", "52", "64", "66", "74", "78"],
+            [region.code for region in regions],
+        )
         petersburg = next(region for region in regions if region.code == "78")
-        self.assertEqual({"www.gov.spb.ru"}, set(petersburg.allowed_hosts))
+        self.assertEqual(
+            {"tik27.spbik.spb.ru", "www.gov.spb.ru"},
+            set(petersburg.allowed_hosts),
+        )
         self.assertGreaterEqual(len(petersburg.seed_urls), 10)
 
     def test_rejects_seed_outside_allowlist(self) -> None:
@@ -636,6 +642,43 @@ class ParserTests(unittest.TestCase):
         self.assertEqual("7-46-19", outcome.contacts[0].commission_phone)
         self.assertEqual("regional_html_2026", outcome.contacts[0].source.source_type)
 
+    def test_parses_current_labelled_municipal_html_blocks(self) -> None:
+        payload = """
+        <h1>Постановление от 25.03.2026 № 926</h1>
+        <h2>Избирательный участок № 3496</h2>
+        <p>Состав участка: дома по улице Первомайской №№ 1–19.</p>
+        <p>Место нахождения участковой комиссии и помещения для голосования:
+        МБОУ СОШ № 25; пгт Фряново, ул. Первомайская, стр. 12.</p>
+        """.encode()
+        outcome = parse_artifact(
+            payload,
+            url="https://official.test/acts/25032026-926/",
+            subject_code="50",
+            retrieved_at=NOW,
+        )
+        self.assertEqual("parsed", outcome.status)
+        self.assertEqual(3496, outcome.contacts[0].commission_number)
+        self.assertEqual(
+            "МБОУ СОШ № 25; пгт Фряново, ул. Первомайская, стр. 12",
+            outcome.contacts[0].voting_address,
+        )
+        self.assertEqual("regional_html_2026", outcome.contacts[0].source.source_type)
+
+    def test_marks_current_html_amendment_as_superseding_evidence(self) -> None:
+        payload = """
+        <h1>Постановление от 10.08.2026 о внесении изменений</h1>
+        <h2>Избирательный участок № 2414</h2>
+        <p>Место нахождения участковой комиссии и помещения для голосования:
+        Школа № 1; г. Тест, ул. Новая, 2.</p>
+        """.encode()
+        outcome = parse_artifact(
+            payload,
+            url="https://official.test/acts/amendment-2026/",
+            subject_code="74",
+            retrieved_at=NOW,
+        )
+        self.assertEqual("regional_html_2026_amendment", outcome.contacts[0].source.source_type)
+
     def test_ambiguous_csv_and_invalid_pdf_remain_unresolved(self) -> None:
         csv_outcome = parse_artifact(
             b"number,address,phone\n7,Somewhere,123456\n",
@@ -693,6 +736,34 @@ class ParserTests(unittest.TestCase):
         self.assertEqual("Миллионная ул., д. 14, школа № 204", rows[0].voting_address)
         self.assertEqual("762-00-41", rows[0].voting_phone)
 
+    def test_labelled_location_drops_an_unlabelled_precinct_boundary_tail(self) -> None:
+        text = """
+        Постановление администрации от 06.04.2026
+        Избирательный участок № 2140
+        Место нахождения участковой избирательной комиссии и помещения для голосования –
+        Дворец культуры имени И.В. Окунева (проспект Вагоностроителей, 1)
+        проспект Вагоностроителей – № 3; улицы: Ильича – № 1, 2, 3.
+        Избирательный участок № 2141
+        Место нахождения участковой избирательной комиссии и помещения для голос ования –
+        Школа № 35 (улица Патона, 7)
+        улицы: Бажова – № 3, 5; Ильича – № 14, 15.
+        Избирательный участок № 2142
+        Место нахождения участковой избирательной комиссии и помещения для голосования –
+        Пансионат «Тагильский» (улица Красногвардейская, 57а)
+        Государственное учреждение «Тагильский пансионат».
+        """
+        rows = _parse_labelled_pdf_text(text, url="https://official.test/2026/list.docx")
+        self.assertEqual([2140, 2141, 2142], [row.number for row in rows])
+        self.assertEqual(
+            "Дворец культуры имени И.В. Окунева (проспект Вагоностроителей, 1)",
+            rows[0].voting_address,
+        )
+        self.assertEqual("Школа № 35 (улица Патона, 7)", rows[1].voting_address)
+        self.assertEqual(
+            "Пансионат «Тагильский» (улица Красногвардейская, 57а)",
+            rows[2].voting_address,
+        )
+
     def test_table_inline_location_excludes_precinct_boundaries(self) -> None:
         rows = [
             ["№ п/п", "№ изб. участка", "Границы избирательного участка"],
@@ -714,6 +785,56 @@ class ParserTests(unittest.TestCase):
             parsed[0].voting_address,
         )
         self.assertEqual("339-95-50 (доб. 1010)", parsed[0].voting_phone)
+
+    def test_pdf_table_rejoins_hyphenated_number_header_and_keeps_voting_column(self) -> None:
+        rows = [
+            ["ЕДИНЫЙ ДЕНЬ ГОЛОСОВАНИЯ 20 СЕНТЯБРЯ 2026 ГОДА"],
+            [
+                "№\nучастковой\nизбира-\nтельной\nкомиссии",
+                "Наименование улицы",
+                "Номер(а) дома",
+                (
+                    "Адреса помещений для работы участковой избирательной комиссии "
+                    "(наименование объекта), телефон"
+                ),
+                "Адреса помещений для голосования (наименование объекта)",
+            ],
+            [
+                "1279",
+                "Заозёрная ул.",
+                "3; 3, корп. 2; 4; 6",
+                "Московский пр., д. 80 (Институт детства), 252-73-14",
+                "Московский пр., д. 80 (Институт детства)",
+            ],
+        ]
+        parsed = _parse_table(rows, url="https://official.test/2026/list.pdf")
+        self.assertEqual([1279], [row.number for row in parsed])
+        self.assertEqual(
+            "Московский пр., д. 80 (Институт детства)",
+            parsed[0].voting_address,
+        )
+
+    def test_table_accepts_number_sign_in_uik_cells(self) -> None:
+        rows = [
+            [
+                "№ УИК",
+                "Адрес помещений для работы участковой избирательной комиссии",
+                "Адрес помещения для голосования",
+            ],
+            ["№ 104", "Кадетская линия, дом 3", "Кадетская линия, дом 3"],
+        ]
+        parsed = _parse_table(rows, url="https://official.test/2026/list.xls")
+        self.assertEqual([104], [row.number for row in parsed])
+        self.assertEqual("Кадетская линия, дом 3", parsed[0].voting_address)
+
+    def test_table_separates_unlabelled_trailing_phone_from_voting_address(self) -> None:
+        rows = [
+            ["№ УИК", "Адрес помещения для голосования"],
+            ["1365", "Фёдора Котанова ул., д. 3 (Детский сад № 80), 679-73-09"],
+        ]
+        parsed = _parse_table(rows, url="https://official.test/2026/list.pdf")
+        self.assertEqual("Фёдора Котанова ул., д. 3 (Детский сад № 80)", parsed[0].voting_address)
+        self.assertEqual("679-73-09", parsed[0].voting_phone)
 
     def test_search_snippets_with_ellipses_are_not_published(self) -> None:
         payload = """
@@ -836,6 +957,33 @@ class CrawlTests(unittest.TestCase):
         self.assertTrue(result["manifest"]["truncated"])
         self.assertEqual(2, result["summary"]["pageRequests"])
         self.assertNotIn("https://official.test/tik/two", fetcher.calls)
+
+    def test_curated_crawl_can_exclude_broad_regional_adapter_seeds(self) -> None:
+        source = RegionSource(
+            "52",
+            "Test Region",
+            "https://official.test/",
+            ("https://official.test/current-2026.html",),
+            ("official.test",),
+            1,
+            0,
+        )
+        fetcher = FakeFetcher(
+            {
+                "https://official.test/current-2026.html": response(
+                    "https://official.test/current-2026.html", "<h1>Current list</h1>"
+                )
+            }
+        )
+        with tempfile.TemporaryDirectory() as directory:
+            crawl_region(
+                source,
+                fetcher,
+                Path(directory),
+                search_terms=(),
+                include_adapter_seeds=False,
+            )
+        self.assertEqual(["https://official.test/current-2026.html"], fetcher.calls)
 
     def test_catalog_outputs_are_sorted_and_reuse_cache(self) -> None:
         csv_body = "Номер УИК;Адрес помещения для голосования\n9;Школа\n"

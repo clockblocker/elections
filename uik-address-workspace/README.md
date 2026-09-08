@@ -59,19 +59,22 @@ PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli reparse-regiona
 - `work/coverage.json` — exact matched/address/phone counts.
 - `work/gaps.csv` — one row per TIK, ranked by UIKs still lacking both a polling
   address and a TIK fallback.
+- `work/subject-coverage.csv` — one row per subject with exact-address,
+  TIK-fallback, and residual-missing counts.
 - `work/backbone.jsonl` — Duma-only UIK-to-TIK hierarchy.
 - `work/cec/`, `work/regional/`, `work/supplemental/`, and `work/moscow/` — normalized
   contacts, crawl summaries, manifests, and content-addressed raw responses.
 - `work/run-summary.json` — combined run result.
 
 The regional parser intentionally publishes only explicit fields in CSV, JSON,
-simple tables, labelled HTML blocks, and freshness-gated 2026 XLSX/DOCX precinct
+simple tables, labelled HTML blocks, and freshness-gated 2026 XLS/XLSX/DOCX precinct
 lists. Text PDFs are accepted only when a 2026 document repeatedly labels one
-location as both the UIK and voting room. Other PDFs, legacy Office, undated
-Office, and ambiguous prose are archived and reported as unresolved instead of
-being guessed into the CSV. XLSX/DOCX parsing requires explicit precinct-number
-and address columns; commission locations are not copied into the polling-address
-field.
+location as both the UIK and voting room. Other PDFs, undated Office, and ambiguous
+prose are archived and reported as unresolved instead of being guessed into the
+CSV. XLS/XLSX/DOCX parsing requires explicit precinct-number and address columns;
+commission locations are not copied into the polling-address field. A binary XLS
+is not accepted merely because it is an older Office format: it must pass the same
+explicit 2026 freshness and table-header checks.
 
 ## Matching policy
 

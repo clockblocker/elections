@@ -7,4 +7,5 @@ __pycache__/
 work/*
 !work/coverage.json
 !work/gaps.csv
+!work/subject-coverage.csv
 !work/uik-addresses-2026-public.csv

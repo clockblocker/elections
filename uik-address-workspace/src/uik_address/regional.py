@@ -36,7 +36,9 @@ from .io import write_jsonl
 from .models import CommissionContact, SourceEvidence, canonical_region_code
 from .office_documents import (
     parse_docx_precinct_rows,
+    parse_labelled_precinct_text,
     parse_pdf_precinct_rows,
+    parse_xls_precinct_rows,
     parse_xlsx_precinct_rows,
 )
 from .regional_adapters import parse_html as parse_html_adapter
@@ -583,6 +585,46 @@ def _xlsx_contacts(
     ]
 
 
+def _xls_contacts(
+    payload: bytes, *, url: str, subject_code: str, source: SourceEvidence
+) -> list[CommissionContact]:
+    return [
+        CommissionContact(
+            subject_code=subject_code,
+            commission_type="uik",
+            commission_number=row.number,
+            commission_name=f"УИК №{row.number}",
+            external_id="",
+            commission_address=row.commission_address,
+            commission_phone=row.commission_phone,
+            voting_address=row.voting_address,
+            voting_phone=row.voting_phone,
+            source=source,
+        )
+        for row in parse_xls_precinct_rows(payload, url=url)
+    ]
+
+
+def _labelled_text_contacts(
+    text: str, *, url: str, subject_code: str, source: SourceEvidence
+) -> list[CommissionContact]:
+    return [
+        CommissionContact(
+            subject_code=subject_code,
+            commission_type="uik",
+            commission_number=row.number,
+            commission_name=f"УИК №{row.number}",
+            external_id="",
+            commission_address=row.commission_address,
+            commission_phone=row.commission_phone,
+            voting_address=row.voting_address,
+            voting_phone=row.voting_phone,
+            source=source,
+        )
+        for row in parse_labelled_precinct_text(text, url=url)
+    ]
+
+
 def _docx_contacts(
     payload: bytes, *, url: str, subject_code: str, source: SourceEvidence
 ) -> list[CommissionContact]:
@@ -758,6 +800,8 @@ def parse_artifact(
             parser, source_type = "json", "regional_json"
         elif suffix == ".xlsx" or "spreadsheetml" in media:
             parser, source_type = "xlsx_2026", "regional_xlsx_2026"
+        elif suffix == ".xls" or "application/vnd.ms-excel" in media:
+            parser, source_type = "xls_2026", "regional_xls_2026"
         elif suffix == ".docx" or "wordprocessingml" in media:
             parser, source_type = "docx_2026", "regional_docx_2026"
         elif suffix == ".pdf" or "application/pdf" in media:
@@ -772,12 +816,21 @@ def parse_artifact(
             current_html = "2026" in url and bool(
                 re.search(
                     r"(?:20[.\-/ ]?09[.\-/ ]?2026|20\s+сентябр\w*\s+2026|"
-                    r"выбор\w*[^\n]{0,120}2026)",
+                    r"(?:выбор\w*|постановлен\w*)[^\n]{0,120}2026)",
                     decoded,
                     re.IGNORECASE,
                 )
             )
-            source_type = "regional_html_2026" if current_html else "regional_html"
+            amendment = current_html and bool(
+                re.search(r"\bо\s+внесении\s+изменений\b", decoded, re.IGNORECASE)
+            )
+            source_type = (
+                "regional_html_2026_amendment"
+                if amendment
+                else "regional_html_2026"
+                if current_html
+                else "regional_html"
+            )
         else:
             return ParseOutcome((), parser, "unresolved", "unsupported document format")
         source = SourceEvidence(url, retrieved_at, digest, status, source_type)
@@ -787,6 +840,8 @@ def parse_artifact(
             contacts = _json_contacts(payload, subject_code=subject_code, source=source)
         elif parser == "xlsx_2026":
             contacts = _xlsx_contacts(payload, url=url, subject_code=subject_code, source=source)
+        elif parser == "xls_2026":
+            contacts = _xls_contacts(payload, url=url, subject_code=subject_code, source=source)
         elif parser == "docx_2026":
             contacts = _docx_contacts(payload, url=url, subject_code=subject_code, source=source)
         elif parser == "pdf_2026":
@@ -811,6 +866,11 @@ def parse_artifact(
                     contacts.extend(
                         _records_contacts(table, subject_code=subject_code, source=source)
                     )
+                contacts.extend(
+                    _labelled_text_contacts(
+                        html.text, url=url, subject_code=subject_code, source=source
+                    )
+                )
                 contacts.extend(
                     _labelled_html_contacts(html.text, subject_code=subject_code, source=source)
                 )
@@ -908,6 +968,7 @@ def crawl_region(
     *,
     search_terms: Sequence[str] = DEFAULT_SEARCH_TERMS,
     follow_patterns: Sequence[str] = DEFAULT_FOLLOW_PATTERNS,
+    include_adapter_seeds: bool = True,
     max_pages: int | None = None,
     max_depth: int | None = None,
     max_documents: int = 100,
@@ -935,7 +996,7 @@ def crawl_region(
     initial = sorted(
         {
             *region.seed_urls,
-            *adapter_seed_urls(region.code, region.base_url),
+            *(adapter_seed_urls(region.code, region.base_url) if include_adapter_seeds else ()),
             *(url for url in search_urls if url),
         }
     )
@@ -1159,6 +1220,7 @@ def crawl_catalog(
     cache_only: bool = False,
     search_terms: Sequence[str] = DEFAULT_SEARCH_TERMS,
     follow_patterns: Sequence[str] = DEFAULT_FOLLOW_PATTERNS,
+    include_adapter_seeds: bool = True,
 ) -> dict[str, Any]:
     """Crawl all regions with globally bounded region-level concurrency."""
 
@@ -1175,6 +1237,7 @@ def crawl_catalog(
                     output_dir,
                     search_terms=search_terms,
                     follow_patterns=follow_patterns,
+                    include_adapter_seeds=include_adapter_seeds,
                     max_pages=max_pages_per_region,
                     concurrency=1,
                     refresh=refresh,
@@ -1530,5 +1593,6 @@ def run_supplemental_crawl(
         refresh=refresh,
         cache_only=cache_only,
         search_terms=(),
+        include_adapter_seeds=False,
     )
     return aggregate_cached_regions(regions, output_dir)

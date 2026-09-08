@@ -2,6 +2,34 @@
   "schemaVersion": 1,
   "regions": [
     {
+      "regionCode": "03",
+      "regionName": "Республика Башкортостан",
+      "baseUrl": "https://www.gorodufa.ru/",
+      "allowedHosts": [
+        "www.gorodufa.ru",
+        "www.oktadm.ru"
+      ],
+      "maxPages": 5,
+      "maxDepth": 0,
+      "seedUrls": [
+        "https://www.gorodufa.ru/upload/iblock/89e/ev23r49la6oe3n1ejqslln93u7b7pg0u.pdf",
+        "https://www.oktadm.ru/upload/iblock/50e/51x10e1cbe0ywbv8wxowkqrhszfx05xh/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%E2%84%96%202531-26%20%D0%BE%D1%82%2023.07.2026%20%D0%9E%D0%B1%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%B8%D0%B7%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%BE%D0%B2%2C%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%BE%D0%B2%20%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D0%B4%D1%83%D0%BC%D0%B0.pdf"
+      ]
+    },
+    {
+      "regionCode": "16",
+      "regionName": "Республика Татарстан",
+      "baseUrl": "https://pravo.tatarstan.ru/",
+      "allowedHosts": [
+        "pravo.tatarstan.ru"
+      ],
+      "maxPages": 5,
+      "maxDepth": 0,
+      "seedUrls": [
+        "https://pravo.tatarstan.ru/file/npa/2026-05/1837320/npa_1837321.pdf"
+      ]
+    },
+    {
       "regionCode": "38",
       "regionName": "Иркутская область",
       "baseUrl": "https://tik.ikio38.ru/",
@@ -15,15 +43,56 @@
       ]
     },
     {
+      "regionCode": "24",
+      "regionName": "Красноярский край",
+      "baseUrl": "https://izbirkom.admk26.ru/",
+      "allowedHosts": [
+        "izbirkom.admk26.ru"
+      ],
+      "maxPages": 5,
+      "maxDepth": 0,
+      "seedUrls": [
+        "https://izbirkom.admk26.ru/UserFiles/banner/Izbirkom/2026/Centry_UIK_2026.docx"
+      ]
+    },
+    {
+      "regionCode": "50",
+      "regionName": "Московская область",
+      "baseUrl": "https://infoadmgos.ru/",
+      "allowedHosts": [
+        "infoadmgos.ru"
+      ],
+      "maxPages": 5,
+      "maxDepth": 0,
+      "seedUrls": [
+        "https://infoadmgos.ru/decrees/postanovlenie-administracii-gorodskogo-okruga-shyolkovo-ot-25032026-926/"
+      ]
+    },
+    {
+      "regionCode": "52",
+      "regionName": "Нижегородская область",
+      "baseUrl": "https://admgor.nnov.ru/",
+      "allowedHosts": [
+        "admgor.nnov.ru"
+      ],
+      "maxPages": 5,
+      "maxDepth": 0,
+      "seedUrls": [
+        "https://admgor.nnov.ru/upload/getODA/document34886.html"
+      ]
+    },
+    {
       "regionCode": "78",
       "regionName": "Санкт-Петербург",
       "baseUrl": "https://www.gov.spb.ru/",
       "allowedHosts": [
+        "tik27.spbik.spb.ru",
         "www.gov.spb.ru"
       ],
       "maxPages": 25,
       "maxDepth": 0,
       "seedUrls": [
+        "https://www.gov.spb.ru/static/writable/ckeditor/uploads/2026/08/13/09/СПИСКИ_УИК_ВО_2026.xls",
         "https://www.gov.spb.ru/static/writable/ckeditor/uploads/2026/07/22/06/ИУ_в_газету_2026.docx",
         "https://www.gov.spb.ru/static/writable/ckeditor/uploads/2026/07/21/13/Приложение_к_распоряжению_01_07_2026.docx",
         "https://www.gov.spb.ru/static/writable/ckeditor/uploads/2026/07/21/16/Перечень_избирательных_участков.pdf",
@@ -33,7 +102,36 @@
         "https://www.gov.spb.ru/static/writable/ckeditor/uploads/2026/09/02/07/Perechen_UIKov_v_gazetu_2026_s_pravkami_1_1.xlsx",
         "https://www.gov.spb.ru/static/writable/ckeditor/uploads/2026/08/06/12/Перечень_УИК_2026.pdf",
         "https://www.gov.spb.ru/static/writable/ckeditor/uploads/2026/08/04/33/УИКи-телефоны__для_печати.docx",
-        "https://www.gov.spb.ru/static/writable/ckeditor/uploads/2026/08/21/54/Адресное_пространство_на_июль_2026_газета.pdf"
+        "https://www.gov.spb.ru/static/writable/ckeditor/uploads/2026/08/21/54/Адресное_пространство_на_июль_2026_газета.pdf",
+        "https://tik27.spbik.spb.ru/tik/27/мр.pdf"
+      ]
+    },
+    {
+      "regionCode": "66",
+      "regionName": "Свердловская область",
+      "baseUrl": "https://ntagil.org/",
+      "allowedHosts": [
+        "ntagil.org"
+      ],
+      "maxPages": 5,
+      "maxDepth": 0,
+      "seedUrls": [
+        "https://ntagil.org/upload/iblock/2e3/70i7ki3sn06fe8a22nrfef1x9pwjvp5l/1455_PA.docx"
+      ]
+    },
+    {
+      "regionCode": "74",
+      "regionName": "Челябинская область",
+      "baseUrl": "https://vecherka.su/",
+      "allowedHosts": [
+        "vecherka.su"
+      ],
+      "maxPages": 10,
+      "maxDepth": 0,
+      "seedUrls": [
+        "https://vecherka.su/upload/files/vch_0805_000_prilozheniya_IU.pdf",
+        "https://vecherka.su/articles/official/219907/",
+        "https://vecherka.su/articles/official/220273/"
       ]
     },
     {
