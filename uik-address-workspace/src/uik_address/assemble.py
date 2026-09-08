@@ -34,6 +34,8 @@ CSV_COLUMNS = (
     "uik_commission_phone",
     "uik_voting_address",
     "uik_voting_phone",
+    "uik_address_src",
+    "uik_address_legacy_status",
     "uik_match_method",
     "uik_contact_source",
     "uik_contact_source_type",
@@ -58,6 +60,8 @@ PUBLIC_CSV_COLUMNS = (
     "contact_source",
     "contact_retrieved_at",
     "contact_status",
+    "src",
+    "legacy_status",
 )
 
 
@@ -88,6 +92,7 @@ def _contact_score(contact: CommissionContact) -> tuple[int, int, int, str, str]
         "regional-official-html": 10,
         "regional-xlsx-2026": 45,
         "regional-docx-2026": 45,
+        "moscow-api-2026": 50,
         "regional-json": 25,
         "regional-csv": 20,
         "regional-html": 10,
@@ -324,6 +329,8 @@ def assemble_rows(
 def _assembled_row(row: BackboneRow, tik: ContactMatch, uik: ContactMatch) -> dict[str, object]:
     tc = tik.contact
     uc = uik.contact
+    uik_conflict = uik.conflict
+    has_uik_address = bool(uc and uc.voting_address.strip())
     return {
         "subject_code": row.subject_code,
         "subject_name": row.subject_name,
@@ -345,6 +352,12 @@ def _assembled_row(row: BackboneRow, tik: ContactMatch, uik: ContactMatch) -> di
         "uik_commission_phone": uc.commission_phone if uc else "",
         "uik_voting_address": uc.voting_address if uc else "",
         "uik_voting_phone": uc.voting_phone if uc else "",
+        "uik_address_src": uc.source.url if has_uik_address else "",
+        "uik_address_legacy_status": _legacy_status(
+            uc.source.source_type if has_uik_address and uc else "",
+            address_present=has_uik_address,
+            conflict=uik_conflict,
+        ),
         "uik_match_method": uik.method + ("_conflict_selected" if uik.conflict else ""),
         "uik_contact_source": uc.source.url if uc else "",
         "uik_contact_source_type": uc.source.source_type if uc else "",
@@ -362,6 +375,19 @@ def write_csv(path: Path, rows: Iterable[dict[str, object]]) -> int:
     return _write_dict_csv(path, rows, CSV_COLUMNS)
 
 
+def _legacy_status(source_type: object, *, address_present: bool, conflict: bool) -> str:
+    if conflict:
+        return "conflicted"
+    if not address_present:
+        return "missing"
+    normalized = str(source_type).strip().casefold().replace("_", "-")
+    if any(marker in normalized for marker in ("legacy", "historical", "archive")):
+        return "legacy-only"
+    if "2026" in normalized or normalized.startswith("cec-"):
+        return "current-2026"
+    return "unverified"
+
+
 def public_rows(rows: Iterable[dict[str, object]]) -> Iterable[dict[str, object]]:
     for row in rows:
         uik_conflict = "_conflict_" in str(row["uik_match_method"])
@@ -369,11 +395,16 @@ def public_rows(rows: Iterable[dict[str, object]]) -> Iterable[dict[str, object]
         uik_voting_address = "" if uik_conflict else row["uik_voting_address"]
         uik_voting_phone = "" if uik_conflict else row["uik_voting_phone"]
         uik_commission_phone = "" if uik_conflict else row["uik_commission_phone"]
-        has_uik_contact = bool(
-            uik_voting_address or uik_voting_phone or uik_commission_phone
-        )
-        prefix = "uik" if has_uik_contact else "tik"
+        has_uik_contact = bool(uik_voting_address or uik_voting_phone or uik_commission_phone)
+        has_tik_contact = not tik_conflict and bool(row["tik_address"] or row["tik_phone"])
+        prefix = "uik" if has_uik_contact or (uik_conflict and not has_tik_contact) else "tik"
         selected_conflict = uik_conflict if prefix == "uik" else tik_conflict
+        address_src = "" if uik_conflict or not uik_voting_address else row["uik_contact_source"]
+        address_status = _legacy_status(
+            row["uik_contact_source_type"] if address_src else "",
+            address_present=bool(address_src),
+            conflict=uik_conflict,
+        )
         yield {
             "subject": row["subject_name"],
             "tik_name": row["tik_name"],
@@ -388,11 +419,13 @@ def public_rows(rows: Iterable[dict[str, object]]) -> Iterable[dict[str, object]
                 "" if selected_conflict else row[f"{prefix}_contact_retrieved_at"]
             ),
             "contact_status": "" if selected_conflict else row[f"{prefix}_contact_status"],
+            "src": address_src,
+            "legacy_status": address_status,
         }
 
 
 def write_public_csv(path: Path, rows: Iterable[dict[str, object]]) -> int:
-    """Write the exact consumer-facing 11-column handoff."""
+    """Write the exact consumer-facing handoff."""
 
     return _write_dict_csv(path, public_rows(rows), PUBLIC_CSV_COLUMNS)
 

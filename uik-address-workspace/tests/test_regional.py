@@ -10,6 +10,7 @@ from zipfile import ZipFile
 
 from openpyxl import Workbook
 
+from uik_address.office_documents import _parse_labelled_pdf_text
 from uik_address.regional import (
     FetchResponse,
     RegionSource,
@@ -605,7 +606,7 @@ class ParserTests(unittest.TestCase):
         self.assertEqual("parsed", outcome.status)
         self.assertEqual({"tik", "uik"}, {item.commission_type for item in outcome.contacts})
 
-    def test_ambiguous_csv_and_pdf_remain_unresolved(self) -> None:
+    def test_ambiguous_csv_and_invalid_pdf_remain_unresolved(self) -> None:
         csv_outcome = parse_artifact(
             b"number,address,phone\n7,Somewhere,123456\n",
             url="https://official.test/data.csv",
@@ -621,7 +622,29 @@ class ParserTests(unittest.TestCase):
         )
         self.assertEqual("unresolved", csv_outcome.status)
         self.assertEqual("unresolved", pdf_outcome.status)
-        self.assertIn("unsupported", pdf_outcome.reason)
+        self.assertIn("parse error", pdf_outcome.reason)
+
+    def test_parses_only_explicit_current_combined_pdf_locations(self) -> None:
+        text = """
+        Постановление администрации от 01.08.2026
+        Избирательный участок, участок референдума № 1301
+        Место нахождения участковой избирательной комиссии и помещения для
+        голосования: Дом культуры, Амурская область, г. Райчихинск, ул. Победы, д. 11
+        № телефона: 8 (41647) 2-00-50
+        В границах: улица Победы, дома 1, 2, 3.
+        Избирательный участок, участок референдума № 1302
+        Место нахождения участковой избирательной комиссии и помещения для
+        голосования: Школа, Амурская область, г. Райчихинск, ул. Пионерская, д. 31
+        № телефона: 8 (41647) 2-30-56
+        В границах: улица Пионерская, дома 1, 2, 3.
+        """
+        rows = _parse_labelled_pdf_text(text, url="https://official.test/list.pdf")
+        self.assertEqual([1301, 1302], [row.number for row in rows])
+        self.assertEqual(rows[0].commission_address, rows[0].voting_address)
+        self.assertEqual("8 (41647) 2-00-50", rows[0].voting_phone)
+
+        undated = text.replace("01.08.2026", "архивный список")
+        self.assertEqual((), _parse_labelled_pdf_text(undated, url="https://official.test/a.pdf"))
 
     def test_search_snippets_with_ellipses_are_not_published(self) -> None:
         payload = """

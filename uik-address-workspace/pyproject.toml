@@ -3,7 +3,7 @@ name = "uik-address"
 version = "0.1.0"
 description = "Evidence-preserving 2026 UIK/TIK contact crawler and CSV assembler"
 requires-python = ">=3.11"
-dependencies = ["openpyxl>=3.1,<4", "requests[socks]>=2.32"]
+dependencies = ["openpyxl>=3.1,<4", "pypdf>=6,<7", "requests[socks]>=2.32"]
 
 [project.scripts]
 uik-address = "uik_address.cli:main"

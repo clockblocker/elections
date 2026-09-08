@@ -6,9 +6,9 @@ official base URL, adds bounded site-search requests, and follows only contact/U
 TIK-looking links on catalog-approved hosts.
 
 Every successful response is preserved byte-for-byte in a content-addressed store.
-Only CSV, JSON, simple HTML tables, and explicit labelled HTML contact blocks are
-parsed.  PDF/Office/ambiguous artifacts remain in the manifest as unresolved input
-for a future adapter or manual review.
+Only CSV, JSON, simple HTML tables, explicit labelled HTML contact blocks, and
+freshness-gated 2026 Office/PDF precinct lists are parsed. Ambiguous artifacts
+remain in the manifest as unresolved input for a future adapter or manual review.
 """
 
 from __future__ import annotations
@@ -34,7 +34,11 @@ import requests
 
 from .io import write_jsonl
 from .models import CommissionContact, SourceEvidence, canonical_region_code
-from .office_documents import parse_docx_precinct_rows, parse_xlsx_precinct_rows
+from .office_documents import (
+    parse_docx_precinct_rows,
+    parse_pdf_precinct_rows,
+    parse_xlsx_precinct_rows,
+)
 from .regional_adapters import parse_html as parse_html_adapter
 from .regional_adapters import seed_urls as adapter_seed_urls
 
@@ -594,6 +598,26 @@ def _docx_contacts(
     ]
 
 
+def _pdf_contacts(
+    payload: bytes, *, url: str, subject_code: str, source: SourceEvidence
+) -> list[CommissionContact]:
+    return [
+        CommissionContact(
+            subject_code=subject_code,
+            commission_type="uik",
+            commission_number=row.number,
+            commission_name=f"УИК №{row.number}",
+            external_id="",
+            commission_address=row.commission_address,
+            commission_phone=row.commission_phone,
+            voting_address=row.voting_address,
+            voting_phone=row.voting_phone,
+            source=source,
+        )
+        for row in parse_pdf_precinct_rows(payload, url=url)
+    ]
+
+
 def _label_value(lines: Sequence[str], aliases: Sequence[str]) -> str:
     pattern = re.compile(
         rf"^(?:{'|'.join(map(re.escape, aliases))})\s*[:—-]\s*(.+)$", re.IGNORECASE
@@ -731,6 +755,8 @@ def parse_artifact(
             parser, source_type = "xlsx_2026", "regional_xlsx_2026"
         elif suffix == ".docx" or "wordprocessingml" in media:
             parser, source_type = "docx_2026", "regional_docx_2026"
+        elif suffix == ".pdf" or "application/pdf" in media:
+            parser, source_type = "pdf_2026", "regional_pdf_2026"
         elif (
             suffix in HTML_SUFFIXES
             or "html" in media
@@ -748,6 +774,8 @@ def parse_artifact(
             contacts = _xlsx_contacts(payload, url=url, subject_code=subject_code, source=source)
         elif parser == "docx_2026":
             contacts = _docx_contacts(payload, url=url, subject_code=subject_code, source=source)
+        elif parser == "pdf_2026":
+            contacts = _pdf_contacts(payload, url=url, subject_code=subject_code, source=source)
         else:
             html = _HTML()
             html.feed(_decode(payload))

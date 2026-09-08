@@ -11,6 +11,8 @@ from zipfile import BadZipFile, ZipFile
 
 from openpyxl import load_workbook
 from openpyxl.utils.exceptions import InvalidFileException
+from pypdf import PdfReader
+from pypdf.errors import PyPdfError
 
 MAX_WORKBOOK_BYTES = 25_000_000
 MAX_WORKSHEETS = 100
@@ -18,6 +20,9 @@ MAX_ROWS_PER_SHEET = 200_000
 MAX_COLUMNS = 100
 HEADER_SCAN_ROWS = 30
 MAX_DOCUMENT_XML_BYTES = 100_000_000
+MAX_PDF_BYTES = 25_000_000
+MAX_PDF_PAGES = 500
+MAX_PDF_TEXT_CHARACTERS = 50_000_000
 
 _PRECINCT_CONTEXT_RE = re.compile(
     r"(?:переч(?:ень|ня)\s+(?:участков(?:ых)?\s+избирательных\s+комиссий|"
@@ -31,6 +36,21 @@ _REMOTE_VOTING_CONTEXT_RE = re.compile(
     re.IGNORECASE,
 )
 _CYRILLIC_OR_LATIN_RE = re.compile(r"[a-zа-яё]", re.IGNORECASE)
+_PDF_RECORD_RE = re.compile(
+    r"избирательн\w*\s+участ\w*\s*,?\s*участ\w*\s+референдум\w*\s*№\s*(\d{1,5})",
+    re.IGNORECASE,
+)
+_PDF_COMBINED_LOCATION_RE = re.compile(
+    r"место\s+нахождени[ея]\s+участков\w*\s+избирательн\w*\s+комисси\w*\s+и\s+"
+    r"помещени\w*\s+для\s+голосовани\w*\s*[:;]\s*(.*?)"
+    r"(?=\s*№\s*телефон|\s*в\s+границах\s*[:;]|\Z)",
+    re.IGNORECASE | re.DOTALL,
+)
+_PDF_PHONE_RE = re.compile(
+    r"№\s*телефон\w*\s*[:;]\s*(.*?)"
+    r"(?=\s*в\s+границах\s*[:;]|\Z)",
+    re.IGNORECASE | re.DOTALL,
+)
 
 
 @dataclass(frozen=True, slots=True)
@@ -93,9 +113,7 @@ def _column_role(rows: list[list[str]], row_index: int, column_index: int) -> st
         context,
     ):
         return "voting"
-    if re.search(
-        r"(?:избирательн.*комисс|адрес уик|место нахождения участковой)", context
-    ):
+    if re.search(r"(?:избирательн.*комисс|адрес уик|место нахождения участковой)", context):
         return "commission"
     return "generic"
 
@@ -179,6 +197,7 @@ def _parse_table(
             item[0],
         ),
     )
+
     def select_column(role: str, values: list[tuple[int, int, str]]) -> tuple[int, int] | None:
         matches = [(row, column) for row, column, actual in values if actual == role]
         return max(matches, key=lambda item: (item[0], item[1])) if matches else None
@@ -333,3 +352,68 @@ def parse_docx_precinct_rows(payload: bytes, *, url: str) -> tuple[PrecinctDocum
     for number in conflicts:
         records.pop(number, None)
     return tuple(records[number] for number in sorted(records))
+
+
+def _parse_labelled_pdf_text(text: str, *, url: str) -> tuple[PrecinctDocumentRow, ...]:
+    """Parse only records that explicitly share a UIK and voting-room location."""
+
+    if not re.search(r"(?<!\d)2026(?!\d)", f"{url} {text}"):
+        return ()
+    matches = list(_PDF_RECORD_RE.finditer(text))
+    records: dict[int, PrecinctDocumentRow] = {}
+    conflicts: set[int] = set()
+    for position, match in enumerate(matches):
+        number = int(match.group(1))
+        if not 0 < number < 100_000:
+            continue
+        end = matches[position + 1].start() if position + 1 < len(matches) else len(text)
+        block = text[match.end() : end]
+        location_match = _PDF_COMBINED_LOCATION_RE.search(block)
+        if location_match is None:
+            continue
+        address = _address(location_match.group(1))
+        phone_match = _PDF_PHONE_RE.search(block)
+        phone = _phone(phone_match.group(1)) if phone_match is not None else ""
+        if not address:
+            continue
+        record = PrecinctDocumentRow(
+            number=number,
+            voting_address=address,
+            voting_phone=phone,
+            commission_address=address,
+            commission_phone=phone,
+        )
+        previous = records.get(number)
+        if previous is not None and previous != record:
+            conflicts.add(number)
+        else:
+            records[number] = record
+    for number in conflicts:
+        records.pop(number, None)
+    return tuple(records[number] for number in sorted(records))
+
+
+def parse_pdf_precinct_rows(payload: bytes, *, url: str) -> tuple[PrecinctDocumentRow, ...]:
+    """Extract explicit combined UIK/voting locations from a current text PDF."""
+
+    if not payload:
+        return ()
+    if len(payload) > MAX_PDF_BYTES:
+        raise ValueError("PDF exceeds the byte limit")
+    try:
+        reader = PdfReader(BytesIO(payload), strict=False)
+        if reader.is_encrypted:
+            raise ValueError("encrypted PDF is unsupported")
+        if len(reader.pages) > MAX_PDF_PAGES:
+            raise ValueError("PDF exceeds the page limit")
+        parts: list[str] = []
+        characters = 0
+        for page in reader.pages:
+            extracted = page.extract_text() or ""
+            characters += len(extracted)
+            if characters > MAX_PDF_TEXT_CHARACTERS:
+                raise ValueError("PDF exceeds the text limit")
+            parts.append(extracted)
+    except (PyPdfError, OSError) as error:
+        raise ValueError(f"invalid PDF document: {error}") from error
+    return _parse_labelled_pdf_text("\n".join(parts), url=url)

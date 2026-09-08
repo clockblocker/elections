@@ -14,6 +14,7 @@ from .cec import crawl_cec_contacts
 from .gaps import write_gaps
 from .io import read_jsonl
 from .models import BackboneRow, CommissionContact
+from .moscow import crawl_moscow_contacts
 from .regional import load_catalog, reparse_cached_regions, run_regional_crawl
 
 WORKSPACE_ROOT = Path(__file__).resolve().parents[2]
@@ -123,6 +124,18 @@ def build_parser() -> argparse.ArgumentParser:
         "--cache-only", action="store_true", help="rebuild outputs without network requests"
     )
 
+    moscow = subparsers.add_parser(
+        "crawl-moscow", help="look up 2026 Moscow polling places by exact UIK number"
+    )
+    _add_common_paths(moscow)
+    _add_network(moscow)
+    moscow.add_argument("--concurrency", type=int, default=4)
+    moscow.add_argument(
+        "--request-limit",
+        type=int,
+        help="maximum new requests this run (for bounded probes and resumable batches)",
+    )
+
     reparse = subparsers.add_parser(
         "reparse-regional", help="reparse preserved regional artifacts without network requests"
     )
@@ -137,7 +150,7 @@ def build_parser() -> argparse.ArgumentParser:
         "--contacts",
         type=Path,
         action="append",
-        help="contact JSONL; repeatable (defaults to CEC and regional outputs)",
+        help="contact JSONL; repeatable (defaults to CEC, regional, and Moscow outputs)",
     )
 
     run = subparsers.add_parser("run", help="run backbone, both crawlers, and assembly")
@@ -150,6 +163,7 @@ def build_parser() -> argparse.ArgumentParser:
     run.add_argument("--no-report-42", action="store_true")
     run.add_argument("--skip-cec", action="store_true")
     run.add_argument("--skip-regional", action="store_true")
+    run.add_argument("--skip-moscow", action="store_true")
     return parser
 
 
@@ -175,6 +189,8 @@ def _compact_crawl_summary(kind: str, summary: object) -> object:
         }
     if kind == "regional":
         return {key: value for key, value in summary.items() if key != "regionCoverage"}
+    if kind == "moscow":
+        return summary
     return summary
 
 
@@ -232,10 +248,24 @@ def main(argv: Sequence[str] | None = None) -> int:
         _print_result(_compact_crawl_summary("regional", summary))
         return 0
 
+    if args.command == "crawl-moscow":
+        summary = crawl_moscow_contacts(
+            _load_backbone(work_root / "backbone.jsonl"),
+            work_root / "moscow",
+            proxy_url=_proxy(args),
+            timeout=args.timeout,
+            concurrency=args.concurrency,
+            refresh=args.refresh,
+            request_limit=args.request_limit,
+        )
+        _print_result(summary)
+        return 0
+
     if args.command == "assemble":
         contact_paths = args.contacts or [
             work_root / "cec" / "contacts.jsonl",
             work_root / "regional" / "contacts.jsonl",
+            work_root / "moscow" / "contacts.jsonl",
         ]
         coverage = _assemble(
             _load_backbone(work_root / "backbone.jsonl"),
@@ -247,6 +277,7 @@ def main(argv: Sequence[str] | None = None) -> int:
             for kind, path in (
                 ("cec", work_root / "cec" / "summary.json"),
                 ("regional", work_root / "regional" / "summary.json"),
+                ("moscow", work_root / "moscow" / "summary.json"),
             )
             if (summary := _read_json_if_present(path)) is not None
         }
@@ -289,8 +320,21 @@ def main(argv: Sequence[str] | None = None) -> int:
             refresh=args.refresh,
             region_codes=args.region_code,
         )
+    if not args.skip_moscow:
+        crawl_summaries["moscow"] = crawl_moscow_contacts(
+            backbone_rows,
+            work_root / "moscow",
+            proxy_url=_proxy(args),
+            timeout=args.timeout,
+            concurrency=min(args.concurrency, 8),
+            refresh=args.refresh,
+        )
     contacts = _load_contacts(
-        [work_root / "cec" / "contacts.jsonl", work_root / "regional" / "contacts.jsonl"]
+        [
+            work_root / "cec" / "contacts.jsonl",
+            work_root / "regional" / "contacts.jsonl",
+            work_root / "moscow" / "contacts.jsonl",
+        ]
     )
     coverage = _assemble(backbone_rows, contacts, work_root)
     result = {"backbone": backbone_summary, "crawls": crawl_summaries, "coverage": coverage}

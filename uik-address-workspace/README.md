@@ -29,6 +29,7 @@ PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli backbone
 PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli crawl-cec \
   --unfiltered --all-backbone-subjects
 PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli crawl-regional
+PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli crawl-moscow
 PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli reparse-regional
 PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli assemble
 ```
@@ -50,22 +51,26 @@ PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli reparse-regiona
 
 ## Outputs
 
-- `work/uik-addresses-2026-public.csv` — the requested 11-column handoff.
+- `work/uik-addresses-2026-public.csv` — the consumer handoff. `src` is the
+  official URL that specifically backs `uik_voting_address`; `legacy_status` is
+  `current-2026`, `legacy-only`, `unverified`, `missing`, or `conflicted`.
 - `work/uik-addresses-2026.csv` — audit-friendly UTF-8-with-BOM CSV with match and provenance fields.
 - `work/coverage.json` — exact matched/address/phone counts.
 - `work/gaps.csv` — one row per TIK, ranked by UIKs still lacking both a polling
   address and a TIK fallback.
 - `work/backbone.jsonl` — Duma-only UIK-to-TIK hierarchy.
-- `work/cec/` and `work/regional/` — normalized contacts, crawl summaries,
+- `work/cec/`, `work/regional/`, and `work/moscow/` — normalized contacts, crawl summaries,
   manifests, and content-addressed raw responses.
 - `work/run-summary.json` — combined run result.
 
 The regional parser intentionally publishes only explicit fields in CSV, JSON,
 simple tables, labelled HTML blocks, and freshness-gated 2026 XLSX/DOCX precinct
-lists. PDF, legacy Office, undated Office, and ambiguous prose are archived and
-reported as unresolved instead of being guessed into the CSV. XLSX/DOCX parsing
-requires explicit precinct-number and address columns; commission locations are
-not copied into the polling-address field.
+lists. Text PDFs are accepted only when a 2026 document repeatedly labels one
+location as both the UIK and voting room. Other PDFs, legacy Office, undated
+Office, and ambiguous prose are archived and reported as unresolved instead of
+being guessed into the CSV. XLSX/DOCX parsing requires explicit precinct-number
+and address columns; commission locations are not copied into the polling-address
+field.
 
 ## Matching policy
 
@@ -79,3 +84,9 @@ fail closed until the conflict is resolved.
 The CEC commission index is useful but currently incomplete. The regional pass is
 therefore a necessary second route, not an optional source of truth. `coverage.json`
 is the release gate: missing fields stay empty and are never presented as complete.
+
+The Moscow pass calls the Moscow City Election Commission's official number lookup
+for each subject-77 backbone UIK. A response is publishable only when its returned
+UIK number matches exactly, its `votingDate` is `2026-09-20`, and it contains an
+explicit polling-place address. HTTP errors and rejected records remain in the
+hashed manifest and are resumed without refetching verified responses.
