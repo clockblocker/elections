@@ -62,6 +62,24 @@ class AssembleTests(unittest.TestCase):
         self.assertEqual("unmatched", rows[0]["tik_match_method"])
         self.assertEqual(0, coverage["tik_matched"])
 
+    def test_matches_identical_name_contacts_from_duplicate_official_urls(self) -> None:
+        duplicate_source = SourceEvidence(
+            "https://official.test/duplicate",
+            "2026-09-08T00:00:00Z",
+            "d" * 64,
+            200,
+            "regional_html",
+        )
+        contacts = [
+            CommissionContact("77", "4", None, "район Арбат", "", "one", "phone", "", "", SOURCE),
+            CommissionContact(
+                "77", "4", None, "район Арбат", "", "one", "phone", "", "", duplicate_source
+            ),
+        ]
+        rows, _ = assemble_rows([self.row()], contacts)
+        self.assertEqual("one", rows[0]["tik_address"])
+        self.assertEqual("unique_normalized_name_duplicate_sources", rows[0]["tik_match_method"])
+
     def test_compatible_partial_records_are_not_a_conflict(self) -> None:
         contacts = [
             CommissionContact("77", "5", 1, "УИК №1", "u", "address", "", "", "", SOURCE),

@@ -217,6 +217,15 @@ class ContactIndex:
             if name_key not in self._name_matches:
                 self._name_matches[name_key] = self._select(by_name, "unique_normalized_name")
             return self._name_matches[name_key]
+        # Official sites often publish the same TIK's contact card through both
+        # a canonical page and a search-result URL.  Multiple URLs are safe to
+        # merge only when the normalized contact fields are identical.
+        if by_name and len({_normalized_contact_values(item) for item in by_name}) == 1:
+            if name_key not in self._name_matches:
+                self._name_matches[name_key] = self._select(
+                    by_name, "unique_normalized_name_duplicate_sources"
+                )
+            return self._name_matches[name_key]
         return ContactMatch(None, "unmatched")
 
 
