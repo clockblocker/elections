@@ -1,0 +1,20 @@
+[project]
+name = "uik-address"
+version = "0.1.0"
+description = "Evidence-preserving 2026 UIK/TIK contact crawler and CSV assembler"
+requires-python = ">=3.11"
+dependencies = ["requests[socks]>=2.32"]
+
+[project.scripts]
+uik-address = "uik_address.cli:main"
+
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"

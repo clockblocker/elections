@@ -1,0 +1,9 @@
+.ruff_cache/
+.venv/
+__pycache__/
+*.egg-info/
+
+# Large reproducible crawl and assembly intermediates stay local.
+work/*
+!work/coverage.json
+!work/uik-addresses-2026-public.csv
