@@ -29,6 +29,7 @@ PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli backbone
 PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli crawl-cec \
   --unfiltered --all-backbone-subjects
 PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli crawl-regional
+PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli crawl-supplemental
 PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli crawl-moscow
 PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli reparse-regional
 PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli assemble
@@ -59,8 +60,8 @@ PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli reparse-regiona
 - `work/gaps.csv` — one row per TIK, ranked by UIKs still lacking both a polling
   address and a TIK fallback.
 - `work/backbone.jsonl` — Duma-only UIK-to-TIK hierarchy.
-- `work/cec/`, `work/regional/`, and `work/moscow/` — normalized contacts, crawl summaries,
-  manifests, and content-addressed raw responses.
+- `work/cec/`, `work/regional/`, `work/supplemental/`, and `work/moscow/` — normalized
+  contacts, crawl summaries, manifests, and content-addressed raw responses.
 - `work/run-summary.json` — combined run result.
 
 The regional parser intentionally publishes only explicit fields in CSV, JSON,
@@ -90,3 +91,8 @@ for each subject-77 backbone UIK. A response is publishable only when its return
 UIK number matches exactly, its `votingDate` is `2026-09-20`, and it contains an
 explicit polling-place address. HTTP errors and rejected records remain in the
 hashed manifest and are resumed without refetching verified responses.
+
+`official-precinct-sources.json` is the reviewed allowlist of current regional
+precinct documents that broad discovery cannot reliably find. The supplemental
+pass fetches only those official-host seeds, keeps their raw bytes and exact URLs,
+and uses the same conservative parsers and backbone matching as the regional pass.

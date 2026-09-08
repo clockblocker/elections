@@ -1067,7 +1067,9 @@ def crawl_region(
                 parser.feed(_decode(response.body))
                 parser.close()
                 body_signal = f"{parser.title} {parser.text[:10000]} {final}"
-            candidate = _looks_candidate(body_signal or final, compiled)
+            candidate = requested in region.seed_urls or _looks_candidate(
+                body_signal or final, compiled
+            )
             record_response(
                 requested, response, depth=depth, parent=parent, candidate=candidate, error=""
             )
@@ -1473,5 +1475,45 @@ def run_regional_crawl(
         concurrency=concurrency,
         refresh=refresh,
         cache_only=cache_only,
+    )
+    return aggregate_cached_regions(regions, output_dir)
+
+
+def run_supplemental_crawl(
+    catalog_path: Path,
+    output_dir: Path,
+    *,
+    proxy_url: str | None = None,
+    max_pages_per_region: int | None = None,
+    concurrency: int = 6,
+    timeout: float = 30.0,
+    refresh: bool = False,
+    cache_only: bool = False,
+    region_codes: Sequence[str] | None = None,
+) -> dict[str, Any]:
+    """Crawl curated current precinct documents without broad site search."""
+
+    regions = load_catalog(catalog_path)
+    selected = regions
+    if region_codes:
+        requested = {canonical_region_code(code) for code in region_codes}
+        known = {region.code for region in regions}
+        if missing := sorted(requested - known):
+            raise ValueError(f"unknown region codes: {', '.join(missing)}")
+        selected = [region for region in regions if region.code in requested]
+    fetcher = RequestsFetcher(
+        proxy_url=proxy_url,
+        timeout=timeout,
+        concurrency=concurrency,
+    )
+    crawl_catalog(
+        selected,
+        fetcher,
+        output_dir,
+        max_pages_per_region=max_pages_per_region,
+        concurrency=concurrency,
+        refresh=refresh,
+        cache_only=cache_only,
+        search_terms=(),
     )
     return aggregate_cached_regions(regions, output_dir)

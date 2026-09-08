@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "regions": [
+    {
+      "regionCode": "78",
+      "regionName": "Санкт-Петербург",
+      "baseUrl": "https://www.gov.spb.ru/",
+      "allowedHosts": [
+        "www.gov.spb.ru"
+      ],
+      "maxPages": 25,
+      "maxDepth": 0,
+      "seedUrls": [
+        "https://www.gov.spb.ru/static/writable/ckeditor/uploads/2026/07/22/06/ИУ_в_газету_2026.docx",
+        "https://www.gov.spb.ru/static/writable/ckeditor/uploads/2026/07/21/13/Приложение_к_распоряжению_01_07_2026.docx",
+        "https://www.gov.spb.ru/static/writable/ckeditor/uploads/2026/07/21/16/Перечень_избирательных_участков.pdf",
+        "https://www.gov.spb.ru/static/writable/ckeditor/uploads/2026/08/13/01/Nar_z_13_2026_site.pdf",
+        "https://www.gov.spb.ru/static/writable/ckeditor/uploads/2026/08/10/28/Избирательные_участки_ИП_2026.pdf",
+        "https://www.gov.spb.ru/static/writable/ckeditor/uploads/2026/08/13/52/Приложение_к_распоряжению_о_списках_ИУ_20.09.26.docx",
+        "https://www.gov.spb.ru/static/writable/ckeditor/uploads/2026/09/02/07/Perechen_UIKov_v_gazetu_2026_s_pravkami_1_1.xlsx",
+        "https://www.gov.spb.ru/static/writable/ckeditor/uploads/2026/08/06/12/Перечень_УИК_2026.pdf",
+        "https://www.gov.spb.ru/static/writable/ckeditor/uploads/2026/08/04/33/УИКи-телефоны__для_печати.docx",
+        "https://www.gov.spb.ru/static/writable/ckeditor/uploads/2026/08/21/54/Адресное_пространство_на_июль_2026_газета.pdf"
+      ]
+    },
+    {
+      "regionCode": "64",
+      "regionName": "Саратовская область",
+      "baseUrl": "https://sarpan.ru/",
+      "allowedHosts": [
+        "sarpan.ru"
+      ],
+      "maxPages": 5,
+      "maxDepth": 0,
+      "seedUrls": [
+        "https://sarpan.ru/upload/files/docs/363608839-doc.pdf"
+      ]
+    }
+  ]
+}

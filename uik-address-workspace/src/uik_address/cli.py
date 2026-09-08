@@ -15,12 +15,18 @@ from .gaps import write_gaps
 from .io import read_jsonl
 from .models import BackboneRow, CommissionContact
 from .moscow import crawl_moscow_contacts
-from .regional import load_catalog, reparse_cached_regions, run_regional_crawl
+from .regional import (
+    load_catalog,
+    reparse_cached_regions,
+    run_regional_crawl,
+    run_supplemental_crawl,
+)
 
 WORKSPACE_ROOT = Path(__file__).resolve().parents[2]
 REPOSITORY_ROOT = WORKSPACE_ROOT.parent
 DEFAULT_DATA_ROOT = REPOSITORY_ROOT / "proper-data" / "2026"
 DEFAULT_WORK_ROOT = WORKSPACE_ROOT / "work"
+DEFAULT_SUPPLEMENTAL_CATALOG = WORKSPACE_ROOT / "official-precinct-sources.json"
 
 
 def _write_json(path: Path, value: object) -> None:
@@ -124,6 +130,21 @@ def build_parser() -> argparse.ArgumentParser:
         "--cache-only", action="store_true", help="rebuild outputs without network requests"
     )
 
+    supplemental = subparsers.add_parser(
+        "crawl-supplemental", help="crawl curated current precinct documents"
+    )
+    _add_common_paths(supplemental)
+    _add_network(supplemental)
+    supplemental.add_argument("--catalog", type=Path, default=DEFAULT_SUPPLEMENTAL_CATALOG)
+    supplemental.add_argument("--max-pages-per-region", type=int)
+    supplemental.add_argument("--concurrency", type=int, default=6)
+    supplemental.add_argument(
+        "--region-code", action="append", help="crawl only this region; repeatable"
+    )
+    supplemental.add_argument(
+        "--cache-only", action="store_true", help="rebuild outputs without network requests"
+    )
+
     moscow = subparsers.add_parser(
         "crawl-moscow", help="look up 2026 Moscow polling places by exact UIK number"
     )
@@ -163,6 +184,7 @@ def build_parser() -> argparse.ArgumentParser:
     run.add_argument("--no-report-42", action="store_true")
     run.add_argument("--skip-cec", action="store_true")
     run.add_argument("--skip-regional", action="store_true")
+    run.add_argument("--skip-supplemental", action="store_true")
     run.add_argument("--skip-moscow", action="store_true")
     return parser
 
@@ -239,6 +261,21 @@ def main(argv: Sequence[str] | None = None) -> int:
         _print_result(_compact_crawl_summary("regional", summary))
         return 0
 
+    if args.command == "crawl-supplemental":
+        summary = run_supplemental_crawl(
+            args.catalog.resolve(),
+            work_root / "supplemental",
+            proxy_url=_proxy(args),
+            timeout=args.timeout,
+            max_pages_per_region=args.max_pages_per_region,
+            concurrency=args.concurrency,
+            refresh=args.refresh,
+            cache_only=args.cache_only,
+            region_codes=args.region_code,
+        )
+        _print_result(_compact_crawl_summary("regional", summary))
+        return 0
+
     if args.command == "reparse-regional":
         summary = reparse_cached_regions(
             load_catalog(data_root / "regional-declaration-sources.json"),
@@ -265,6 +302,7 @@ def main(argv: Sequence[str] | None = None) -> int:
         contact_paths = args.contacts or [
             work_root / "cec" / "contacts.jsonl",
             work_root / "regional" / "contacts.jsonl",
+            work_root / "supplemental" / "contacts.jsonl",
             work_root / "moscow" / "contacts.jsonl",
         ]
         coverage = _assemble(
@@ -277,6 +315,7 @@ def main(argv: Sequence[str] | None = None) -> int:
             for kind, path in (
                 ("cec", work_root / "cec" / "summary.json"),
                 ("regional", work_root / "regional" / "summary.json"),
+                ("supplemental", work_root / "supplemental" / "summary.json"),
                 ("moscow", work_root / "moscow" / "summary.json"),
             )
             if (summary := _read_json_if_present(path)) is not None
@@ -320,6 +359,22 @@ def main(argv: Sequence[str] | None = None) -> int:
             refresh=args.refresh,
             region_codes=args.region_code,
         )
+    supplemental_codes = {region.code for region in load_catalog(DEFAULT_SUPPLEMENTAL_CATALOG)}
+    selected_supplemental_codes = sorted(
+        supplemental_codes
+        & {str(code).lstrip("0") or "0" for code in (args.region_code or supplemental_codes)}
+    )
+    if not args.skip_supplemental and selected_supplemental_codes:
+        crawl_summaries["supplemental"] = run_supplemental_crawl(
+            DEFAULT_SUPPLEMENTAL_CATALOG,
+            work_root / "supplemental",
+            proxy_url=_proxy(args),
+            timeout=args.timeout,
+            max_pages_per_region=args.max_pages_per_region,
+            concurrency=args.concurrency,
+            refresh=args.refresh,
+            region_codes=selected_supplemental_codes if args.region_code else None,
+        )
     if not args.skip_moscow:
         crawl_summaries["moscow"] = crawl_moscow_contacts(
             backbone_rows,
@@ -333,6 +388,7 @@ def main(argv: Sequence[str] | None = None) -> int:
         [
             work_root / "cec" / "contacts.jsonl",
             work_root / "regional" / "contacts.jsonl",
+            work_root / "supplemental" / "contacts.jsonl",
             work_root / "moscow" / "contacts.jsonl",
         ]
     )

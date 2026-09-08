@@ -9,6 +9,7 @@ from typing import Any
 from xml.etree import ElementTree
 from zipfile import BadZipFile, ZipFile
 
+import pdfplumber
 from openpyxl import load_workbook
 from openpyxl.utils.exceptions import InvalidFileException
 from pypdf import PdfReader
@@ -23,11 +24,13 @@ MAX_DOCUMENT_XML_BYTES = 100_000_000
 MAX_PDF_BYTES = 25_000_000
 MAX_PDF_PAGES = 500
 MAX_PDF_TEXT_CHARACTERS = 50_000_000
+MAX_ADDRESS_CHARACTERS = 500
 
 _PRECINCT_CONTEXT_RE = re.compile(
     r"(?:переч(?:ень|ня)\s+(?:участков(?:ых)?\s+избирательных\s+комиссий|"
     r"избирательных\s+участков)|сведения\s+об\s+избирательном\s+участке|"
-    r"номер\s+избирательного\s+участка|(?:^|\W)уик(?:\W|$))",
+    r"номер\s+избирательного\s+участка|участков\w*\s+избирательн\w*\s+комисси\w*|"
+    r"(?:^|\W)уик(?:\W|$))",
     re.IGNORECASE,
 )
 _REMOTE_VOTING_CONTEXT_RE = re.compile(
@@ -37,13 +40,21 @@ _REMOTE_VOTING_CONTEXT_RE = re.compile(
 )
 _CYRILLIC_OR_LATIN_RE = re.compile(r"[a-zа-яё]", re.IGNORECASE)
 _PDF_RECORD_RE = re.compile(
-    r"избирательн\w*\s+участ\w*\s*,?\s*участ\w*\s+референдум\w*\s*№\s*(\d{1,5})",
-    re.IGNORECASE,
+    r"избир\s*ательн\w*\s+участ\w*"
+    r"(?:\s*,?\s*участ\w*\s+референдум\w*)?\s*№?\s*(\d{1,5})",
+    re.IGNORECASE | re.MULTILINE,
 )
 _PDF_COMBINED_LOCATION_RE = re.compile(
-    r"место\s+нахождени[ея]\s+участков\w*\s+избирательн\w*\s+комисси\w*\s+и\s+"
-    r"помещени\w*\s+для\s+голосовани\w*\s*[:;]\s*(.*?)"
-    r"(?=\s*№\s*телефон|\s*в\s+границах\s*[:;]|\Z)",
+    r"(?:"
+    r"(?:место\s+нахождени[ея]|адрес)\s+помещени\w*\s+участков\w*\s+"
+    r"избирательн\w*\s+комисси\w*\s+и\s+(?:помещени\w*\s+)?для\s+голосовани\w*"
+    r"|помещени\w*\s+для\s+голосовани\w*"
+    r"|для\s+голосовани\w*"
+    r")\s*[:;]\s*(.*?)"
+    r"(?=\s*№\s*телефон|\s*(?:в\s+границах|границ\w*\s+(?:избирательн\w*\s+)?"
+    r"участк\w*)\s*[:;]|\n\s*(?:территориальн\w*\s+"
+    r"избирательн\w*\s+комисси\w*|(?:внутригородск\w*\s+)?муниципальн\w*\s+"
+    r"образовани\w*)|\Z)",
     re.IGNORECASE | re.DOTALL,
 )
 _PDF_PHONE_RE = re.compile(
@@ -80,11 +91,17 @@ def _is_2026_source(url: str, rows: list[list[str]], context_extra: str = "") ->
 def _number_header(value: str) -> bool:
     key = _key(value)
     return key in {"№", "номер", "№ уик", "номер уик"} or bool(
-        re.search(r"(?:номер|№)\s+(?:избирательного\s+участка|уик)\b", key)
+        re.search(
+            r"(?:номер|№)\s+(?:(?:изб(?:ирательного)?\s+)?участка|участковой\s+"
+            r"(?:избирательной\s+)?комиссии|уик)\b",
+            key,
+        )
     )
 
 
 def _address_header(value: str) -> bool:
+    if len(value) > 250 or _PDF_COMBINED_LOCATION_RE.search(value):
+        return False
     key = _key(value)
     return key == "адрес" or bool(
         re.search(
@@ -127,7 +144,13 @@ def _number(value: str) -> int | None:
 
 def _address(value: str) -> str:
     text = _clean(value)
-    if len(text) < 8 or not _CYRILLIC_OR_LATIN_RE.search(text) or "..." in text or "…" in text:
+    if (
+        len(text) < 8
+        or len(text) > MAX_ADDRESS_CHARACTERS
+        or not _CYRILLIC_OR_LATIN_RE.search(text)
+        or "..." in text
+        or "…" in text
+    ):
         return ""
     return text
 
@@ -135,6 +158,20 @@ def _address(value: str) -> str:
 def _phone(value: str) -> str:
     text = _clean(value)
     return text if sum(character.isdigit() for character in text) >= 5 else ""
+
+
+def _address_and_phone(value: str) -> tuple[str, str]:
+    text = _clean(value).rstrip(" .;")
+    marker = re.search(r"\s*,?\s*тел(?:ефон)?\.?\b", text, re.IGNORECASE)
+    if marker is None:
+        return _address(text), ""
+    phone_candidates = re.findall(
+        r"[+()\d][\d()\s+\-–—]{4,}\d(?:\s*\(?(?:доб\.?\s*)?\d+\)?)?",
+        text[marker.start() :],
+        re.IGNORECASE,
+    )
+    phone = _phone(phone_candidates[-1]) if phone_candidates else ""
+    return _address(text[: marker.start()]), phone
 
 
 def _ditto(value: str) -> bool:
@@ -183,8 +220,32 @@ def _parse_table(
                 phone_columns.append(
                     (row_index, column_index, _column_role(rows, row_index, column_index))
                 )
+
+    # Some official lists keep boundaries and the labelled combined UIK/voting
+    # location in one cell. Extract that explicit label without treating the
+    # preceding boundary prose as an address column.
+    inline_records: dict[int, PrecinctDocumentRow] = {}
+    for row in rows:
+        row_text = " ".join(cell for cell in row if cell)
+        record_match = _PDF_RECORD_RE.search(row_text)
+        number = int(record_match.group(1)) if record_match is not None else None
+        if number is None and number_columns:
+            _, column = max(number_columns, key=lambda item: (item[1], item[0]))
+            number = _number(row[column]) if column < len(row) else None
+        location_match = _PDF_COMBINED_LOCATION_RE.search(row_text)
+        if number is None or location_match is None:
+            continue
+        address, phone = _address_and_phone(location_match.group(1))
+        if address:
+            inline_records[number] = PrecinctDocumentRow(
+                number=number,
+                voting_address=address,
+                voting_phone=phone,
+                commission_address=address,
+                commission_phone=phone,
+            )
     if not number_columns or not address_columns:
-        return []
+        return list(inline_records.values())
 
     # Prefer the most explicit/right-most UIK number column. This avoids using
     # a serial-number column when a sheet has both "№ п/п" and "№ УИК".
@@ -220,16 +281,18 @@ def _parse_table(
     def value(row: list[str], column: tuple[int, int] | None) -> str:
         return row[column[1]] if column is not None and column[1] < len(row) else ""
 
-    result: list[PrecinctDocumentRow] = []
+    result: dict[int, PrecinctDocumentRow] = dict(inline_records)
     for row in rows[data_start:]:
         raw_number = row[number_column] if number_column < len(row) else ""
         number = _number(raw_number)
-        commission_address_value = _address(value(row, commission_address))
-        commission_phone_value = _phone(value(row, commission_phone))
+        commission_address_value, embedded_commission_phone = _address_and_phone(
+            value(row, commission_address)
+        )
+        commission_phone_value = _phone(value(row, commission_phone)) or embedded_commission_phone
         raw_voting_address = value(row, voting_address)
         raw_voting_phone = value(row, voting_phone)
-        voting_address_value = _address(raw_voting_address)
-        voting_phone_value = _phone(raw_voting_phone)
+        voting_address_value, embedded_voting_phone = _address_and_phone(raw_voting_address)
+        voting_phone_value = _phone(raw_voting_phone) or embedded_voting_phone
         if (
             not voting_address_value
             and commission_address_value
@@ -253,16 +316,14 @@ def _parse_table(
             )
         ):
             continue
-        result.append(
-            PrecinctDocumentRow(
-                number=number,
-                voting_address=voting_address_value,
-                voting_phone=voting_phone_value,
-                commission_address=commission_address_value,
-                commission_phone=commission_phone_value,
-            )
+        result[number] = PrecinctDocumentRow(
+            number=number,
+            voting_address=voting_address_value,
+            voting_phone=voting_phone_value,
+            commission_address=commission_address_value,
+            commission_phone=commission_phone_value,
         )
-    return result
+    return list(result.values())
 
 
 def parse_xlsx_precinct_rows(payload: bytes, *, url: str) -> tuple[PrecinctDocumentRow, ...]:
@@ -329,8 +390,11 @@ def parse_docx_precinct_rows(payload: bytes, *, url: str) -> tuple[PrecinctDocum
     document_context = _clean(
         " ".join(node.text or "" for node in root.findall(".//w:t", namespace))
     )
-    records: dict[int, PrecinctDocumentRow] = {}
-    conflicts: set[int] = set()
+    records = {
+        record.number: record for record in _parse_labelled_pdf_text(document_context, url=url)
+    }
+    table_records: dict[int, PrecinctDocumentRow] = {}
+    table_conflicts: set[int] = set()
     for table_number, table in enumerate(root.findall(".//w:tbl", namespace), start=1):
         if table_number > MAX_WORKSHEETS:
             raise ValueError("document exceeds the table limit")
@@ -344,19 +408,29 @@ def parse_docx_precinct_rows(payload: bytes, *, url: str) -> tuple[PrecinctDocum
             ]
             rows.append(cells)
         for record in _parse_table(rows, url=url, context_extra=document_context):
-            previous = records.get(record.number)
+            previous = table_records.get(record.number)
             if previous is not None and previous != record:
-                conflicts.add(record.number)
+                table_conflicts.add(record.number)
             else:
-                records[record.number] = record
-    for number in conflicts:
+                table_records[record.number] = record
+    for number in table_conflicts:
         records.pop(number, None)
+        table_records.pop(number, None)
+    # Structured cells take precedence over noisier concatenated DOCX text.
+    records.update(table_records)
     return tuple(records[number] for number in sorted(records))
 
 
 def _parse_labelled_pdf_text(text: str, *, url: str) -> tuple[PrecinctDocumentRow, ...]:
     """Parse only records that explicitly share a UIK and voting-room location."""
 
+    for broken, joined in (
+        (r"избирател\s+ь", "избиратель"),
+        (r"помещени\s+я", "помещения"),
+        (r"голосовани\s+я", "голосования"),
+        (r"уча\s+стк", "участк"),
+    ):
+        text = re.sub(broken, joined, text, flags=re.IGNORECASE)
     if not re.search(r"(?<!\d)2026(?!\d)", f"{url} {text}"):
         return ()
     matches = list(_PDF_RECORD_RE.finditer(text))
@@ -371,9 +445,9 @@ def _parse_labelled_pdf_text(text: str, *, url: str) -> tuple[PrecinctDocumentRo
         location_match = _PDF_COMBINED_LOCATION_RE.search(block)
         if location_match is None:
             continue
-        address = _address(location_match.group(1))
+        address, inline_phone = _address_and_phone(location_match.group(1))
         phone_match = _PDF_PHONE_RE.search(block)
-        phone = _phone(phone_match.group(1)) if phone_match is not None else ""
+        phone = _phone(phone_match.group(1)) if phone_match is not None else inline_phone
         if not address:
             continue
         record = PrecinctDocumentRow(
@@ -416,4 +490,19 @@ def parse_pdf_precinct_rows(payload: bytes, *, url: str) -> tuple[PrecinctDocume
             parts.append(extracted)
     except (PyPdfError, OSError) as error:
         raise ValueError(f"invalid PDF document: {error}") from error
-    return _parse_labelled_pdf_text("\n".join(parts), url=url)
+    document_text = "\n".join(parts)
+    records = {row.number: row for row in _parse_labelled_pdf_text(document_text, url=url)}
+    table_rows: list[list[str]] = []
+    try:
+        with pdfplumber.open(BytesIO(payload)) as document:
+            for page in document.pages:
+                for table in page.extract_tables():
+                    table_rows.extend([[_clean(cell) for cell in row] for row in table])
+    except Exception as error:
+        raise ValueError(f"invalid PDF table structure: {error}") from error
+    # PDF pages commonly repeat the same table without repeating its header.
+    # Parsing their rows together preserves the header schema for later pages.
+    # Structured table values take precedence over noisier full-text extraction.
+    for record in _parse_table(table_rows, url=url, context_extra=document_text[:100_000]):
+        records[record.number] = record
+    return tuple(records[number] for number in sorted(records))

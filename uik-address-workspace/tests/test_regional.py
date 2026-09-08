@@ -10,7 +10,7 @@ from zipfile import ZipFile
 
 from openpyxl import Workbook
 
-from uik_address.office_documents import _parse_labelled_pdf_text
+from uik_address.office_documents import _parse_labelled_pdf_text, _parse_table
 from uik_address.regional import (
     FetchResponse,
     RegionSource,
@@ -55,6 +55,14 @@ class CatalogTests(unittest.TestCase):
         self.assertEqual(89, len({region.code for region in regions}))
         self.assertTrue(all(region.base_url for region in regions))
         self.assertTrue(all(region.allowed_hosts for region in regions))
+
+    def test_loads_curated_supplemental_catalog(self) -> None:
+        catalog = Path(__file__).resolve().parents[1] / "official-precinct-sources.json"
+        regions = load_catalog(catalog)
+        self.assertEqual(["64", "78"], [region.code for region in regions])
+        petersburg = next(region for region in regions if region.code == "78")
+        self.assertEqual({"www.gov.spb.ru"}, set(petersburg.allowed_hosts))
+        self.assertGreaterEqual(len(petersburg.seed_urls), 10)
 
     def test_rejects_seed_outside_allowlist(self) -> None:
         with tempfile.TemporaryDirectory() as directory:
@@ -645,6 +653,45 @@ class ParserTests(unittest.TestCase):
 
         undated = text.replace("01.08.2026", "архивный список")
         self.assertEqual((), _parse_labelled_pdf_text(undated, url="https://official.test/a.pdf"))
+
+    def test_parses_direct_shared_pdf_address_with_inline_phone(self) -> None:
+        text = """
+        Перечень на 20 сентября 2026 года
+        Избирательный участок № 2180
+        Аптекарский пер., д. 3, 4, 6
+        Адрес помещения участковой избирательной комиссии и помещения для голосования:
+        Миллионная ул., д. 14, школа № 204, тел. 762-00-41
+        Избирательный участок № 2181
+        Невский пр., д. 2, 4, 6
+        Адрес помещения участковой избирательной комиссии и помещения для голосования:
+        Невский пр., д. 14, школа № 210, тел. 417-54-36
+        """
+        rows = _parse_labelled_pdf_text(text, url="https://official.test/2026/list.pdf")
+        self.assertEqual([2180, 2181], [row.number for row in rows])
+        self.assertEqual("Миллионная ул., д. 14, школа № 204", rows[0].voting_address)
+        self.assertEqual("762-00-41", rows[0].voting_phone)
+
+    def test_table_inline_location_excludes_precinct_boundaries(self) -> None:
+        rows = [
+            ["№ п/п", "№ изб. участка", "Границы избирательного участка"],
+            [
+                "",
+                "293",
+                (
+                    "Тихоокеанская ул., дома № 1, 3; Михайловская дорога, дом 6. "
+                    "Адрес помещения участковой избирательной комиссии и для "
+                    "голосования: Тихоокеанская ул., дом 10, корпус 2, школа № 475, "
+                    "тел. 339-95-50 (доб. 1010)"
+                ),
+            ],
+        ]
+        parsed = _parse_table(rows, url="https://official.test/2026/list.docx")
+        self.assertEqual([293], [row.number for row in parsed])
+        self.assertEqual(
+            "Тихоокеанская ул., дом 10, корпус 2, школа № 475",
+            parsed[0].voting_address,
+        )
+        self.assertEqual("339-95-50 (доб. 1010)", parsed[0].voting_phone)
 
     def test_search_snippets_with_ellipses_are_not_published(self) -> None:
         payload = """
