@@ -86,11 +86,13 @@ def _contact_score(contact: CommissionContact) -> tuple[int, int, int, str, str]
         "regional-official-json": 25,
         "regional-official-csv": 20,
         "regional-official-html": 10,
+        "regional-xlsx-2026": 45,
+        "regional-docx-2026": 45,
         "regional-json": 25,
         "regional-csv": 20,
         "regional-html": 10,
         "regional-adapter-kemerovo-tik": 35,
-    }.get(source_type, 0)
+    }.get(source_type, 35 if source_type.startswith("regional-adapter-") else 0)
     completeness = sum(
         bool(value.strip())
         for value in (

@@ -30,6 +30,19 @@ _UGRA_PATH = re.compile(
     re.IGNORECASE,
 )
 _PENZA_PATH = re.compile(r"/tik_page/tik_(?P<directory_number>\d{2})/index\.php$", re.IGNORECASE)
+_LENINGRAD_PATH = re.compile(
+    r"/izbiratelnye-komissii/territorialnye-izbiratelnye-komissii-leningradskoy-oblasti/"
+    r"(?P<directory>[a-z0-9-]+)/o-komissii/index\.php$",
+    re.IGNORECASE,
+)
+_NIZHNY_NOVGOROD_PATH = re.compile(
+    r"/izbiratelnye-komissii/tik-(?P<number>\d{2})/rabota-s-obrashcheniyami/?$",
+    re.IGNORECASE,
+)
+_SVERDLOVSK_PATH = re.compile(r"/stranitsy-tik/(?P<directory_number>\d{2})/?$", re.IGNORECASE)
+_CHELYABINSK_PATH = re.compile(
+    r"/site-tik/(?P<number>\d{2})/rabota-s-obrashcheniyami/?$", re.IGNORECASE
+)
 # The directory ordinal is not the election classifier's TIK number. This map
 # was verified against the official page titles and the 2026 backbone. Missing
 # ordinals 5, 36, and 44 return 404 and are intentionally not guessed.
@@ -178,6 +191,117 @@ _PENZA_TIK_NUMBER = {
     35: 19,
 }
 
+# These canonical directory names and numbers are published together on the
+# official regional commission site.  The absent ordinals are not current TIKs
+# in the 2026 backbone and are deliberately not probed or inferred.
+_LENINGRAD_TIK_NUMBER = {
+    "tik01-boksitogorskogo-munitsipalnogo-rayona": 1,
+    "tik02-volosovskogo-munitsipalnogo-rayona": 2,
+    "tik03-volkhovskogo-munitsipalnogo-rayona": 3,
+    "tik04-vsevolozhskogo-munitsipalnogo-rayona": 4,
+    "tik05-vyborgskogo-munitsipalnogo-rayona": 5,
+    "tik07-gatchinskogo-munitsipalnogo-okruga": 7,
+    "tik09-kingiseppskogo-munitsipalnogo-rayona": 9,
+    "tik10-kirishskogo-munitsipalnogo-rayona": 10,
+    "tik11-kirovskogo-munitsipalnogo-rayona": 11,
+    "tik12-lodeynopolskogo-munitsipalnogo-rayona": 12,
+    "tik13-lomonosovskogo-munitsipalnogo-rayona": 13,
+    "tik14-luzhskogo-munitsipalnogo-rayona": 14,
+    "tik16-podporozhskogo-munitsipalnogo-rayona": 16,
+    "tik17-priozerskogo-munitsipalnogo-rayona": 17,
+    "tik18-slantsevskogo-munitsipalnogo-rayona": 18,
+    "tik19-sosnovoborskogo-gorodskogo-okruga": 19,
+    "tik20-tikhvinskogo-munitsipalnogo-rayona": 20,
+    "tik21-tosnenskogo-munitsipalnogo-rayona": 21,
+}
+
+# Sverdlovsk's official directory retains historical editorial ordinals that
+# do not match the 2026 election classifier.  Every pair below was verified by
+# comparing the current directory title with the corresponding backbone TIK.
+_SVERDLOVSK_TIK_NUMBER = {
+    1: 61,
+    2: 35,
+    3: 46,
+    4: 28,
+    5: 47,
+    6: 29,
+    7: 30,
+    9: 13,
+    10: 6,
+    11: 17,
+    12: 63,
+    13: 64,
+    14: 66,
+    15: 2,
+    16: 3,
+    17: 14,
+    18: 4,
+    19: 32,
+    20: 15,
+    21: 7,
+    22: 33,
+    23: 67,
+    24: 34,
+    25: 8,
+    27: 9,
+    28: 36,
+    29: 69,
+    30: 68,
+    31: 19,
+    32: 70,
+    33: 71,
+    34: 26,
+    35: 52,
+    36: 20,
+    37: 21,
+    38: 55,
+    39: 54,
+    40: 23,
+    41: 24,
+    42: 22,
+    43: 73,
+    44: 74,
+    45: 72,
+    46: 75,
+    47: 37,
+    48: 57,
+    49: 25,
+    50: 39,
+    51: 58,
+    52: 16,
+    53: 77,
+    54: 53,
+    55: 41,
+    56: 42,
+    57: 10,
+    58: 80,
+    59: 43,
+    60: 81,
+    61: 44,
+    62: 45,
+    63: 60,
+    64: 62,
+    65: 12,
+    66: 56,
+    67: 78,
+    68: 79,
+    69: 11,
+    70: 5,
+    71: 48,
+    72: 50,
+    73: 31,
+    74: 49,
+    75: 18,
+    76: 65,
+    77: 51,
+    78: 38,
+    79: 76,
+    80: 40,
+    81: 27,
+    82: 59,
+    83: 1,
+}
+
 
 def seed_urls(subject_code: str, base_url: str) -> tuple[str, ...]:
     """Return bounded, adapter-owned directory URLs for a catalog region."""
@@ -215,6 +339,37 @@ def seed_urls(subject_code: str, base_url: str) -> tuple[str, ...]:
         return tuple(
             urllib.parse.urljoin(base_url, f"/tik_page/tik_{number:02d}/index.php")
             for number in _PENZA_TIK_NUMBER
+        )
+    if subject_code == "47":
+        return tuple(
+            urllib.parse.urljoin(
+                base_url,
+                "/izbiratelnye-komissii/"
+                "territorialnye-izbiratelnye-komissii-leningradskoy-oblasti/"
+                f"{directory}/o-komissii/index.php",
+            )
+            for directory in _LENINGRAD_TIK_NUMBER
+        )
+    if subject_code == "52":
+        # The regional directory has one current page for each backbone TIK
+        # 1--61. Backbone TIK 62 is a second Bogorodsk OIK classifier without
+        # a distinct official directory identity, so it is not guessed.
+        return tuple(
+            urllib.parse.urljoin(
+                base_url,
+                f"/izbiratelnye-komissii/tik-{number:02d}/rabota-s-obrashcheniyami/",
+            )
+            for number in range(1, 62)
+        )
+    if subject_code == "66":
+        return tuple(
+            urllib.parse.urljoin(base_url, f"/stranitsy-tik/{number:02d}/")
+            for number in _SVERDLOVSK_TIK_NUMBER
+        )
+    if subject_code == "74":
+        return tuple(
+            urllib.parse.urljoin(base_url, f"/site-tik/{number:02d}/rabota-s-obrashcheniyami/")
+            for number in range(1, 52)
         )
     return ()
 
@@ -270,6 +425,87 @@ def parse_html(
     """Parse an adapter-recognized page, or return ``None`` for generic handling."""
 
     path = urllib.parse.unquote(urllib.parse.urlsplit(url).path)
+    if subject_code == "52":
+        match = _NIZHNY_NOVGOROD_PATH.fullmatch(path)
+        if not match:
+            return None
+        number = int(match.group("number"))
+        if not 1 <= number <= 61:
+            return AdapterResult("nizhny_novgorod_tik_directory", ())
+        address = _label(text, "Адрес комиссии")
+        phone = _label(text, "Телефон")
+        if not address and not phone:
+            return AdapterResult("nizhny_novgorod_tik_directory", ())
+        return AdapterResult(
+            "nizhny_novgorod_tik_directory",
+            (
+                _tik_contact(
+                    subject_code=subject_code,
+                    number=number,
+                    name=f"ТИК №{number}",
+                    address=address.rstrip(" ,.;"),
+                    phone=phone.rstrip(" ,.;"),
+                    source=source,
+                    source_type="regional_adapter_nizhny_novgorod_tik",
+                ),
+            ),
+        )
+
+    if subject_code == "66":
+        match = _SVERDLOVSK_PATH.fullmatch(path)
+        if not match:
+            return None
+        number = _SVERDLOVSK_TIK_NUMBER.get(int(match.group("directory_number")))
+        if number is None:
+            return AdapterResult("sverdlovsk_tik_directory", ())
+        address = _label(text, "Адрес")
+        phone = _label(text, "Телефон")
+        if not address and not phone:
+            return AdapterResult("sverdlovsk_tik_directory", ())
+        return AdapterResult(
+            "sverdlovsk_tik_directory",
+            (
+                _tik_contact(
+                    subject_code=subject_code,
+                    number=number,
+                    name=title.strip() or f"ТИК №{number}",
+                    address=address.rstrip(" ,.;"),
+                    phone=phone.rstrip(" ,.;"),
+                    source=source,
+                    source_type="regional_adapter_sverdlovsk_tik",
+                ),
+            ),
+        )
+
+    if subject_code == "74":
+        match = _CHELYABINSK_PATH.fullmatch(path)
+        if not match:
+            return None
+        number = int(match.group("number"))
+        if not 1 <= number <= 51:
+            return AdapterResult("chelyabinsk_tik_directory", ())
+        address = _first(
+            r"принимаются\s+по\s+адресу\s*:\s*(?P<value>.+?)(?=\s*Время\s+работы\s*:)",
+            text,
+        )
+        phone = _label(text, "Телефон")
+        if not address and not phone:
+            return AdapterResult("chelyabinsk_tik_directory", ())
+        return AdapterResult(
+            "chelyabinsk_tik_directory",
+            (
+                _tik_contact(
+                    subject_code=subject_code,
+                    number=number,
+                    name=f"ТИК №{number}",
+                    address=address.rstrip(" ,.;"),
+                    phone=phone.rstrip(" ,.;"),
+                    source=source,
+                    source_type="regional_adapter_chelyabinsk_tik",
+                ),
+            ),
+        )
+
     if subject_code == "31":
         match = _BELGOROD_PATH.fullmatch(path)
         if not match:
@@ -352,6 +588,35 @@ def parse_html(
                     phone=phone.rstrip(" ,.;"),
                     source=source,
                     source_type="regional_adapter_penza_tik",
+                ),
+            ),
+        )
+
+    if subject_code == "47":
+        match = _LENINGRAD_PATH.fullmatch(path)
+        if not match:
+            return None
+        number = _LENINGRAD_TIK_NUMBER.get(match.group("directory").casefold())
+        if number is None:
+            return AdapterResult("leningrad_tik_directory", ())
+        address = _first(
+            r"\bАдрес\s+комиссии\s*:\s*(?P<value>.+?)(?=\s*Телефон\s*:)",
+            text,
+        )
+        phone = _first(r"\bТелефон\s*:\s*(?P<value>[+0-9()\-\s]{5,})", text)
+        if not address and not phone:
+            return AdapterResult("leningrad_tik_directory", ())
+        return AdapterResult(
+            "leningrad_tik_directory",
+            (
+                _tik_contact(
+                    subject_code=subject_code,
+                    number=number,
+                    name=title.strip() or f"ТИК №{number}",
+                    address=address.rstrip(" ,.;"),
+                    phone=phone.rstrip(" ,.;"),
+                    source=source,
+                    source_type="regional_adapter_leningrad_tik",
                 ),
             ),
         )

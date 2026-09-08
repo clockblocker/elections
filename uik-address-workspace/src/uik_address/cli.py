@@ -14,7 +14,7 @@ from .cec import crawl_cec_contacts
 from .gaps import write_gaps
 from .io import read_jsonl
 from .models import BackboneRow, CommissionContact
-from .regional import run_regional_crawl
+from .regional import load_catalog, reparse_cached_regions, run_regional_crawl
 
 WORKSPACE_ROOT = Path(__file__).resolve().parents[2]
 REPOSITORY_ROOT = WORKSPACE_ROOT.parent
@@ -123,6 +123,14 @@ def build_parser() -> argparse.ArgumentParser:
         "--cache-only", action="store_true", help="rebuild outputs without network requests"
     )
 
+    reparse = subparsers.add_parser(
+        "reparse-regional", help="reparse preserved regional artifacts without network requests"
+    )
+    _add_common_paths(reparse)
+    reparse.add_argument(
+        "--region-code", action="append", help="reparse only this region; repeatable"
+    )
+
     assemble = subparsers.add_parser("assemble", help="join a backbone with contact JSONL files")
     _add_common_paths(assemble)
     assemble.add_argument(
@@ -210,6 +218,15 @@ def main(argv: Sequence[str] | None = None) -> int:
             concurrency=args.concurrency,
             refresh=args.refresh,
             cache_only=args.cache_only,
+            region_codes=args.region_code,
+        )
+        _print_result(_compact_crawl_summary("regional", summary))
+        return 0
+
+    if args.command == "reparse-regional":
+        summary = reparse_cached_regions(
+            load_catalog(data_root / "regional-declaration-sources.json"),
+            work_root / "regional",
             region_codes=args.region_code,
         )
         _print_result(_compact_crawl_summary("regional", summary))

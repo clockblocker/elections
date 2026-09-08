@@ -4,7 +4,11 @@ import hashlib
 import json
 import tempfile
 import unittest
+from io import BytesIO
 from pathlib import Path
+from zipfile import ZipFile
+
+from openpyxl import Workbook
 
 from uik_address.regional import (
     FetchResponse,
@@ -15,6 +19,7 @@ from uik_address.regional import (
     crawl_region,
     load_catalog,
     parse_artifact,
+    reparse_cached_regions,
 )
 from uik_address.regional_adapters import seed_urls
 
@@ -81,6 +86,93 @@ class CatalogTests(unittest.TestCase):
 
 
 class ParserTests(unittest.TestCase):
+    @staticmethod
+    def xlsx_bytes(*, dated: bool = True) -> bytes:
+        workbook = Workbook()
+        sheet = workbook.active
+        sheet.append([None, "Перечень избирательных участков"])
+        sheet.append([None, "20 сентября 2026 года" if dated else "Список участков"])
+        sheet.append([None, "№ п/п", "Сведения об избирательном участке"])
+        sheet.append([None, None, "№", "Адрес", "Телефон"])
+        sheet.append([None, "1", 2, 3, 4])
+        sheet.append([None, 1, 17, "г. Биробиджан, ул. Ленина, 1", "8 42622 12-34-56"])
+        sheet.append([None, 2, 18, "г. Биробиджан, ул. Шолом-Алейхема, 2", "8 42622 65-43-21"])
+        output = BytesIO()
+        workbook.save(output)
+        workbook.close()
+        return output.getvalue()
+
+    @staticmethod
+    def docx_bytes(*, dated: bool = True) -> bytes:
+        date = "по состоянию на 16 июня 2026 года" if dated else "архивный список"
+        xml = f"""<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+        <w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+          <w:body><w:p><w:r><w:t>{date}</w:t></w:r></w:p><w:tbl>
+            <w:tr>
+              <w:tc><w:p><w:r><w:t>Номер избирательного участка</w:t></w:r></w:p></w:tc>
+              <w:tc><w:p><w:r><w:t>Место нахождения участковой избирательной комиссии</w:t></w:r></w:p></w:tc>
+              <w:tc><w:p><w:r><w:t>Адрес помещения для голосования</w:t></w:r></w:p></w:tc>
+            </w:tr>
+            <w:tr>
+              <w:tc><w:p><w:r><w:t>42</w:t></w:r></w:p></w:tc>
+              <w:tc><w:p><w:r><w:t>Администрация, ул. Советская, 1</w:t></w:r></w:p></w:tc>
+              <w:tc><w:p><w:r><w:t>Школа, ул. Рабочая, 3</w:t></w:r></w:p></w:tc>
+            </w:tr>
+          </w:tbl></w:body>
+        </w:document>"""
+        output = BytesIO()
+        with ZipFile(output, "w") as archive:
+            archive.writestr("word/document.xml", xml)
+        return output.getvalue()
+
+    def test_parses_current_xlsx_precinct_list_with_multiline_headers(self) -> None:
+        payload = self.xlsx_bytes()
+        outcome = parse_artifact(
+            payload,
+            url="https://official.test/20-09-2026/precincts.xlsx",
+            subject_code="79",
+            retrieved_at=NOW,
+            content_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        )
+        self.assertEqual("parsed", outcome.status)
+        self.assertEqual("xlsx_2026", outcome.parser)
+        self.assertEqual([17, 18], [contact.commission_number for contact in outcome.contacts])
+        self.assertEqual("г. Биробиджан, ул. Ленина, 1", outcome.contacts[0].voting_address)
+        self.assertEqual("8 42622 12-34-56", outcome.contacts[0].voting_phone)
+        self.assertEqual("", outcome.contacts[0].commission_address)
+        self.assertEqual("regional_xlsx_2026", outcome.contacts[0].source.source_type)
+        self.assertEqual(hashlib.sha256(payload).hexdigest(), outcome.contacts[0].source.sha256)
+
+    def test_rejects_xlsx_without_2026_freshness_evidence(self) -> None:
+        outcome = parse_artifact(
+            self.xlsx_bytes(dated=False),
+            url="https://official.test/archive/precincts.xlsx",
+            subject_code="79",
+            retrieved_at=NOW,
+        )
+        self.assertEqual("unresolved", outcome.status)
+        self.assertEqual((), outcome.contacts)
+
+    def test_parses_current_docx_and_keeps_commission_location_separate(self) -> None:
+        payload = self.docx_bytes()
+        outcome = parse_artifact(
+            payload,
+            url="https://official.test/files/current-list.docx",
+            subject_code="12",
+            retrieved_at=NOW,
+            content_type=(
+                "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+            ),
+        )
+        self.assertEqual("parsed", outcome.status)
+        self.assertEqual("docx_2026", outcome.parser)
+        self.assertEqual(1, len(outcome.contacts))
+        contact = outcome.contacts[0]
+        self.assertEqual(42, contact.commission_number)
+        self.assertEqual("Школа, ул. Рабочая, 3", contact.voting_address)
+        self.assertEqual("", contact.commission_address)
+        self.assertEqual("regional_docx_2026", contact.source.source_type)
+
     def test_kemerovo_adapter_maps_directory_ordinal_to_backbone_number(self) -> None:
         payload = """
         <html><head><title>Территориальная избирательная комиссия
@@ -265,6 +357,138 @@ class ParserTests(unittest.TestCase):
         self.assertEqual(33, len(penza))
         self.assertTrue(penza[0].endswith("/tik_01/index.php"))
         self.assertTrue(penza[-1].endswith("/tik_35/index.php"))
+
+    def test_leningrad_adapter_uses_verified_directory_number(self) -> None:
+        payload = """
+        <html><head><title>Территориальная избирательная комиссия
+        Бокситогорского муниципального района</title></head><body>
+        <b>Адрес комиссии:</b>
+        <span>187650, Ленинградская область, г. Бокситогорск,
+        ул. Социалистическая, д. 9</span>
+        <b>Телефон:</b> 8 (81366) 21840
+        <footer>Телефон ИСЦ ЦИК России: 8-800-200-00-20</footer>
+        </body></html>
+        """.encode()
+        outcome = parse_artifact(
+            payload,
+            url=(
+                "http://leningrad-reg.izbirkom.ru/izbiratelnye-komissii/"
+                "territorialnye-izbiratelnye-komissii-leningradskoy-oblasti/"
+                "tik01-boksitogorskogo-munitsipalnogo-rayona/o-komissii/index.php"
+            ),
+            subject_code="47",
+            retrieved_at=NOW,
+        )
+        self.assertEqual("adapter:leningrad_tik_directory", outcome.parser)
+        contact = outcome.contacts[0]
+        self.assertEqual(1, contact.commission_number)
+        self.assertEqual(
+            "187650, Ленинградская область, г. Бокситогорск, ул. Социалистическая, д. 9",
+            contact.commission_address,
+        )
+        self.assertEqual("8 (81366) 21840", contact.commission_phone)
+        self.assertEqual("regional_adapter_leningrad_tik", contact.source.source_type)
+
+    def test_leningrad_adapter_seeds_are_verified_and_bounded(self) -> None:
+        urls = seed_urls("47", "http://leningrad-reg.izbirkom.ru/")
+        self.assertEqual(18, len(urls))
+        self.assertTrue(
+            urls[0].endswith("/tik01-boksitogorskogo-munitsipalnogo-rayona/o-komissii/index.php")
+        )
+        self.assertTrue(
+            urls[-1].endswith("/tik21-tosnenskogo-munitsipalnogo-rayona/o-komissii/index.php")
+        )
+
+    def test_nizhny_novgorod_adapter_uses_current_contact_subpage(self) -> None:
+        payload = """
+        <html><head><title>Работа с обращениями</title></head><body>
+        Адрес комиссии: 607130, Нижегородская область, рп Ардатов, ул. Ленина, 28
+        Телефон: 8-83179-5-04-23
+        <footer>Адрес 603082, г. Нижний Новгород, Кремль, корп. 14</footer>
+        </body></html>
+        """.encode()
+        outcome = parse_artifact(
+            payload,
+            url=("http://nnov.izbirkom.ru/izbiratelnye-komissii/tik-01/rabota-s-obrashcheniyami/"),
+            subject_code="52",
+            retrieved_at=NOW,
+        )
+        self.assertEqual("adapter:nizhny_novgorod_tik_directory", outcome.parser)
+        contact = outcome.contacts[0]
+        self.assertEqual(1, contact.commission_number)
+        self.assertEqual(
+            "607130, Нижегородская область, рп Ардатов, ул. Ленина, 28",
+            contact.commission_address,
+        )
+        self.assertEqual("8-83179-5-04-23", contact.commission_phone)
+        self.assertEqual("regional_adapter_nizhny_novgorod_tik", contact.source.source_type)
+
+    def test_sverdlovsk_adapter_uses_verified_editorial_route_map(self) -> None:
+        payload = """
+        <html><head><title>Алапаевская городская территориальная
+        избирательная комиссия</title></head><body>
+        Адрес: 624605, Свердловская область, г. Алапаевск, ул. Ленина, д.18.
+        Телефон: (34346) 21679.
+        </body></html>
+        """.encode()
+        outcome = parse_artifact(
+            payload,
+            url="http://sverdlovsk.izbirkom.ru/stranitsy-tik/01/",
+            subject_code="66",
+            retrieved_at=NOW,
+        )
+        self.assertEqual("adapter:sverdlovsk_tik_directory", outcome.parser)
+        contact = outcome.contacts[0]
+        self.assertEqual(61, contact.commission_number)
+        self.assertEqual(
+            "624605, Свердловская область, г. Алапаевск, ул. Ленина, д.18",
+            contact.commission_address,
+        )
+        self.assertEqual("(34346) 21679", contact.commission_phone)
+        self.assertEqual("regional_adapter_sverdlovsk_tik", contact.source.source_type)
+
+    def test_chelyabinsk_adapter_bounds_address_before_schedule(self) -> None:
+        payload = """
+        <html><head><title>Работа с обращениями</title></head><body>
+        Обращения граждан принимаются по адресу:
+        Челябинская область, Агаповский округ, село Агаповка,
+        улица Дорожная, дом 32А, кабинет 30
+        Время работы: Пн – чт: с 8.30 до 17.30
+        Телефон: 8-(351-40)-2-02-95
+        </body></html>
+        """.encode()
+        outcome = parse_artifact(
+            payload,
+            url="http://chelyabinsk.izbirkom.ru/site-tik/01/rabota-s-obrashcheniyami/",
+            subject_code="74",
+            retrieved_at=NOW,
+        )
+        self.assertEqual("adapter:chelyabinsk_tik_directory", outcome.parser)
+        contact = outcome.contacts[0]
+        self.assertEqual(1, contact.commission_number)
+        self.assertEqual(
+            "Челябинская область, Агаповский округ, село Агаповка, "
+            "улица Дорожная, дом 32А, кабинет 30",
+            contact.commission_address,
+        )
+        self.assertEqual("8-(351-40)-2-02-95", contact.commission_phone)
+        self.assertEqual("regional_adapter_chelyabinsk_tik", contact.source.source_type)
+
+    def test_ural_volga_adapter_seeds_are_verified_and_bounded(self) -> None:
+        nizhny = seed_urls("52", "http://nnov.izbirkom.ru/")
+        self.assertEqual(61, len(nizhny))
+        self.assertTrue(nizhny[0].endswith("/tik-01/rabota-s-obrashcheniyami/"))
+        self.assertTrue(nizhny[-1].endswith("/tik-61/rabota-s-obrashcheniyami/"))
+
+        sverdlovsk = seed_urls("66", "http://sverdlovsk.izbirkom.ru/")
+        self.assertEqual(81, len(sverdlovsk))
+        self.assertTrue(sverdlovsk[0].endswith("/stranitsy-tik/01/"))
+        self.assertTrue(sverdlovsk[-1].endswith("/stranitsy-tik/83/"))
+
+        chelyabinsk = seed_urls("74", "http://chelyabinsk.izbirkom.ru/")
+        self.assertEqual(51, len(chelyabinsk))
+        self.assertTrue(chelyabinsk[0].endswith("/site-tik/01/rabota-s-obrashcheniyami/"))
+        self.assertTrue(chelyabinsk[-1].endswith("/site-tik/51/rabota-s-obrashcheniyami/"))
 
     def test_parses_explicit_csv_uik_rows(self) -> None:
         payload = (
@@ -551,6 +775,55 @@ class CrawlTests(unittest.TestCase):
             contacts = (output / "contacts.jsonl").read_text().splitlines()
         self.assertEqual(2, summary["contacts"]["total"])
         self.assertEqual(2, len(contacts))
+
+    def test_reparse_cached_regions_unlocks_preserved_xlsx_without_network(self) -> None:
+        payload = ParserTests.xlsx_bytes()
+        digest = hashlib.sha256(payload).hexdigest()
+        with tempfile.TemporaryDirectory() as directory:
+            output = Path(directory)
+            raw_path = Path("raw/sha256") / digest[:2] / digest
+            (output / raw_path).parent.mkdir(parents=True)
+            (output / raw_path).write_bytes(payload)
+            region_dir = output / "regions/1"
+            region_dir.mkdir(parents=True)
+            (region_dir / "manifest.json").write_text(
+                json.dumps(
+                    {
+                        "schemaVersion": 1,
+                        "region": {"code": "1", "name": "Test Region"},
+                        "artifacts": [
+                            {
+                                "regionCode": "1",
+                                "requestedUrl": "https://official.test/2026/precincts.xlsx",
+                                "url": "https://official.test/2026/precincts.xlsx",
+                                "status": 200,
+                                "contentType": (
+                                    "application/vnd.openxmlformats-officedocument."
+                                    "spreadsheetml.sheet"
+                                ),
+                                "retrievedAt": NOW,
+                                "sha256": digest,
+                                "rawPath": raw_path.as_posix(),
+                                "candidate": True,
+                                "parser": "unsupported",
+                                "parseStatus": "unresolved",
+                                "parseReason": "unsupported document format",
+                                "contactCount": 0,
+                            }
+                        ],
+                    },
+                    ensure_ascii=False,
+                ),
+                encoding="utf-8",
+            )
+            summary = reparse_cached_regions([self.region()], output)
+            contacts = (region_dir / "contacts.jsonl").read_text(encoding="utf-8").splitlines()
+            artifact = json.loads((region_dir / "manifest.json").read_text())["artifacts"][0]
+        self.assertEqual(2, len(contacts))
+        self.assertEqual("parsed", artifact["parseStatus"])
+        self.assertEqual("xlsx_2026", artifact["parser"])
+        self.assertEqual(1, summary["reparse"]["newly_parsed_artifacts"])
+        self.assertEqual(2, summary["contacts"]["uik"])
 
 
 if __name__ == "__main__":

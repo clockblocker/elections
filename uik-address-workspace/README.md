@@ -29,6 +29,7 @@ PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli backbone
 PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli crawl-cec \
   --unfiltered --all-backbone-subjects
 PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli crawl-regional
+PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli reparse-regional
 PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli assemble
 ```
 
@@ -37,6 +38,14 @@ the cached results for the others:
 
 ```bash
 PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli crawl-regional --region-code 42
+```
+
+Already-preserved artifacts can be reparsed without network access after adding
+or improving a parser:
+
+```bash
+PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli reparse-regional \
+  --region-code 79
 ```
 
 ## Outputs
@@ -52,8 +61,11 @@ PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli crawl-regional 
 - `work/run-summary.json` — combined run result.
 
 The regional parser intentionally publishes only explicit fields in CSV, JSON,
-simple tables, or labelled HTML blocks. PDFs, office files, and ambiguous prose
-are archived and reported as unresolved instead of being guessed into the CSV.
+simple tables, labelled HTML blocks, and freshness-gated 2026 XLSX/DOCX precinct
+lists. PDF, legacy Office, undated Office, and ambiguous prose are archived and
+reported as unresolved instead of being guessed into the CSV. XLSX/DOCX parsing
+requires explicit precinct-number and address columns; commission locations are
+not copied into the polling-address field.
 
 ## Matching policy
 

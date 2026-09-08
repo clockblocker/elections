@@ -34,6 +34,7 @@ import requests
 
 from .io import write_jsonl
 from .models import CommissionContact, SourceEvidence, canonical_region_code
+from .office_documents import parse_docx_precinct_rows, parse_xlsx_precinct_rows
 from .regional_adapters import parse_html as parse_html_adapter
 from .regional_adapters import seed_urls as adapter_seed_urls
 
@@ -553,6 +554,46 @@ def _json_contacts(
     return _records_contacts(rows, subject_code=subject_code, source=source)
 
 
+def _xlsx_contacts(
+    payload: bytes, *, url: str, subject_code: str, source: SourceEvidence
+) -> list[CommissionContact]:
+    return [
+        CommissionContact(
+            subject_code=subject_code,
+            commission_type="uik",
+            commission_number=row.number,
+            commission_name=f"УИК №{row.number}",
+            external_id="",
+            commission_address="",
+            commission_phone="",
+            voting_address=row.voting_address,
+            voting_phone=row.voting_phone,
+            source=source,
+        )
+        for row in parse_xlsx_precinct_rows(payload, url=url)
+    ]
+
+
+def _docx_contacts(
+    payload: bytes, *, url: str, subject_code: str, source: SourceEvidence
+) -> list[CommissionContact]:
+    return [
+        CommissionContact(
+            subject_code=subject_code,
+            commission_type="uik",
+            commission_number=row.number,
+            commission_name=f"УИК №{row.number}",
+            external_id="",
+            commission_address="",
+            commission_phone="",
+            voting_address=row.voting_address,
+            voting_phone=row.voting_phone,
+            source=source,
+        )
+        for row in parse_docx_precinct_rows(payload, url=url)
+    ]
+
+
 def _label_value(lines: Sequence[str], aliases: Sequence[str]) -> str:
     pattern = re.compile(
         rf"^(?:{'|'.join(map(re.escape, aliases))})\s*[:—-]\s*(.+)$", re.IGNORECASE
@@ -686,6 +727,10 @@ def parse_artifact(
             parser, source_type = "csv", "regional_csv"
         elif suffix == ".json" or "json" in media:
             parser, source_type = "json", "regional_json"
+        elif suffix == ".xlsx" or "spreadsheetml" in media:
+            parser, source_type = "xlsx_2026", "regional_xlsx_2026"
+        elif suffix == ".docx" or "wordprocessingml" in media:
+            parser, source_type = "docx_2026", "regional_docx_2026"
         elif (
             suffix in HTML_SUFFIXES
             or "html" in media
@@ -699,6 +744,10 @@ def parse_artifact(
             contacts = _csv_contacts(payload, subject_code=subject_code, source=source)
         elif parser == "json":
             contacts = _json_contacts(payload, subject_code=subject_code, source=source)
+        elif parser == "xlsx_2026":
+            contacts = _xlsx_contacts(payload, url=url, subject_code=subject_code, source=source)
+        elif parser == "docx_2026":
+            contacts = _docx_contacts(payload, url=url, subject_code=subject_code, source=source)
         else:
             html = _HTML()
             html.feed(_decode(payload))
@@ -1153,6 +1202,141 @@ def crawl_catalog(
             ),
         },
     )
+    _write_json(output_dir / "summary.json", summary)
+    return summary
+
+
+def reparse_cached_regions(
+    regions: Sequence[RegionSource],
+    output_dir: Path,
+    *,
+    region_codes: Sequence[str] | None = None,
+) -> dict[str, Any]:
+    """Reparse preserved successful artifacts without making network requests."""
+
+    requested = {canonical_region_code(code) for code in region_codes} if region_codes else None
+    known = {region.code for region in regions}
+    if requested and (missing := sorted(requested - known)):
+        raise ValueError(f"unknown region codes: {', '.join(missing)}")
+
+    selected = [region for region in regions if requested is None or region.code in requested]
+    totals: Counter[str] = Counter()
+    for region in selected:
+        region_dir = output_dir / "regions" / region.code
+        manifest_path = region_dir / "manifest.json"
+        if not manifest_path.is_file():
+            totals["regions_without_cache"] += 1
+            continue
+        manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+        artifacts = manifest.get("artifacts", [])
+        if not isinstance(artifacts, list):
+            raise TypeError(f"{manifest_path}: artifacts must be an array")
+        contacts: list[CommissionContact] = []
+        for artifact in artifacts:
+            if not isinstance(artifact, dict):
+                continue
+            status = int(artifact.get("status") or 0)
+            if not artifact.get("candidate") or not 200 <= status < 400:
+                continue
+            totals["candidate_artifacts"] += 1
+            raw_path = str(artifact.get("rawPath") or "")
+            cached_path = output_dir / raw_path if raw_path else None
+            if not cached_path or not cached_path.is_file():
+                artifact.update(
+                    {
+                        "parser": "",
+                        "parseStatus": "cache_error",
+                        "parseReason": "cached body is missing",
+                        "contactCount": 0,
+                    }
+                )
+                totals["cache_errors"] += 1
+                continue
+            payload = cached_path.read_bytes()
+            digest = hashlib.sha256(payload).hexdigest()
+            if digest != str(artifact.get("sha256") or ""):
+                artifact.update(
+                    {
+                        "parser": "",
+                        "parseStatus": "cache_error",
+                        "parseReason": "cached body hash mismatch",
+                        "contactCount": 0,
+                    }
+                )
+                totals["cache_errors"] += 1
+                continue
+            previous_status = str(artifact.get("parseStatus") or "")
+            outcome = parse_artifact(
+                payload,
+                url=str(artifact.get("url") or artifact.get("requestedUrl") or ""),
+                subject_code=region.code,
+                retrieved_at=str(artifact.get("retrievedAt") or ""),
+                status=status,
+                content_type=str(artifact.get("contentType") or ""),
+            )
+            artifact.update(
+                {
+                    "parser": outcome.parser,
+                    "parseStatus": outcome.status,
+                    "parseReason": outcome.reason,
+                    "contactCount": len(outcome.contacts),
+                }
+            )
+            contacts.extend(outcome.contacts)
+            totals["reparsed_artifacts"] += 1
+            totals["parsed_artifacts"] += outcome.status == "parsed"
+            totals["newly_parsed_artifacts"] += (
+                previous_status != "parsed" and outcome.status == "parsed"
+            )
+
+        final_contacts = _deduplicate(contacts)
+        manifest["artifacts"] = sorted(
+            artifacts, key=lambda item: (item.get("requestedUrl", ""), item.get("url", ""))
+        )
+        _write_json(manifest_path, manifest)
+        write_jsonl(
+            region_dir / "contacts.jsonl", (contact.to_dict() for contact in final_contacts)
+        )
+        old_summary_path = region_dir / "summary.json"
+        old_summary = (
+            json.loads(old_summary_path.read_text(encoding="utf-8"))
+            if old_summary_path.is_file()
+            else {}
+        )
+        parse_counts = Counter(str(item.get("parseStatus") or "") for item in manifest["artifacts"])
+        summary = {
+            **old_summary,
+            "regionCode": region.code,
+            "regionName": region.name,
+            "artifacts": len(manifest["artifacts"]),
+            "parsedArtifacts": parse_counts["parsed"],
+            "unresolvedArtifacts": parse_counts["unresolved"],
+            "fetchFailures": parse_counts["fetch_failed"]
+            + parse_counts["http_error"]
+            + parse_counts["rejected_redirect"]
+            + parse_counts["cache_error"],
+            "contacts": len(final_contacts),
+            "tikContacts": sum(contact.commission_type == "tik" for contact in final_contacts),
+            "uikContacts": sum(contact.commission_type == "uik" for contact in final_contacts),
+        }
+        _write_json(old_summary_path, summary)
+        totals["regions_reparsed"] += 1
+        totals["contacts"] += len(final_contacts)
+
+    summary = aggregate_cached_regions(regions, output_dir)
+    summary["reparse"] = {
+        key: totals[key]
+        for key in (
+            "regions_reparsed",
+            "regions_without_cache",
+            "candidate_artifacts",
+            "reparsed_artifacts",
+            "parsed_artifacts",
+            "newly_parsed_artifacts",
+            "cache_errors",
+            "contacts",
+        )
+    }
     _write_json(output_dir / "summary.json", summary)
     return summary
 
