@@ -6,6 +6,7 @@ import unittest
 from pathlib import Path
 
 from uik_address.assemble import assemble_rows, normalize_name, write_csv, write_public_csv
+from uik_address.gaps import gap_rows, write_gaps
 from uik_address.models import BackboneRow, CommissionContact, SourceEvidence
 
 SOURCE = SourceEvidence(
@@ -181,6 +182,18 @@ class AssembleTests(unittest.TestCase):
 
     def test_name_normalization_removes_commission_boilerplate(self) -> None:
         self.assertEqual("район арбат", normalize_name("ТИК — район Арбат"))
+
+    def test_gap_rows_rank_missing_fallback_work(self) -> None:
+        first = self.row()
+        second = BackboneRow("77", "город Москва", "", "tik-id", 79, "район Арбат", "u2", 2, SOURCE)
+        rows, _ = assemble_rows([first, second], [])
+        gaps = gap_rows(rows)
+        self.assertEqual(1, len(gaps))
+        self.assertEqual(2, gaps[0]["priority_missing_uiks"])
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "gaps.csv"
+            write_gaps(path, rows)
+            self.assertTrue(path.read_bytes().startswith(b"\xef\xbb\xbf"))
 
 
 if __name__ == "__main__":

@@ -9,12 +9,14 @@ from pathlib import Path
 from uik_address.regional import (
     FetchResponse,
     RegionSource,
+    aggregate_cached_regions,
     canonical_url,
     crawl_catalog,
     crawl_region,
     load_catalog,
     parse_artifact,
 )
+from uik_address.regional_adapters import seed_urls
 
 NOW = "2026-09-08T12:00:00+00:00"
 
@@ -79,6 +81,40 @@ class CatalogTests(unittest.TestCase):
 
 
 class ParserTests(unittest.TestCase):
+    def test_kemerovo_adapter_maps_directory_ordinal_to_backbone_number(self) -> None:
+        payload = """
+        <html><head><title>Территориальная избирательная комиссия
+        Анжеро-Судженского городского округа</title></head><body>
+        <strong>Адрес комиссии: </strong><span>652470, г. Анжеро-Судженск, ул. Ленина, 6</span>
+        <strong>Телефон: </strong>8-(38453)-6-48-88
+        </body></html>
+        """.encode()
+        outcome = parse_artifact(
+            payload,
+            url="http://kemerovo.izbirkom.ru/site-tik/tik001/",
+            subject_code="42",
+            retrieved_at=NOW,
+        )
+        self.assertEqual("adapter:kemerovo_tik_directory", outcome.parser)
+        self.assertEqual(1, outcome.contacts[0].commission_number)
+        self.assertEqual("8-(38453)-6-48-88", outcome.contacts[0].commission_phone)
+        self.assertEqual("regional_adapter_kemerovo_tik", outcome.contacts[0].source.source_type)
+
+        remapped = parse_artifact(
+            payload,
+            url="http://kemerovo.izbirkom.ru/site-tik/tik043/",
+            subject_code="42",
+            retrieved_at=NOW,
+        )
+        self.assertEqual(19, remapped.contacts[0].commission_number)
+
+    def test_kemerovo_adapter_seeds_are_bounded(self) -> None:
+        urls = seed_urls("42", "http://kemerovo.izbirkom.ru/")
+        self.assertEqual(47, len(urls))
+        self.assertTrue(urls[0].endswith("/tik001/"))
+        self.assertTrue(urls[-1].endswith("/tik047/"))
+        self.assertEqual((), seed_urls("58", "http://penza.izbirkom.ru/"))
+
     def test_parses_explicit_csv_uik_rows(self) -> None:
         payload = (
             "Номер УИК;Адрес комиссии;Телефон комиссии;Адрес помещения для голосования\n"
@@ -327,6 +363,43 @@ class CrawlTests(unittest.TestCase):
             sorted(item["requestedUrl"] for item in manifest["artifacts"]),
             [item["requestedUrl"] for item in manifest["artifacts"]],
         )
+
+    def test_cached_aggregation_preserves_regions_outside_target(self) -> None:
+        second = RegionSource(
+            "2",
+            "Second Region",
+            "https://second.test/",
+            ("https://second.test/",),
+            ("second.test",),
+            1,
+            0,
+        )
+        bodies = {
+            "https://official.test/": response(
+                "https://official.test/",
+                "<h1>ТИК Центральная</h1><p>Телефон: 1234567</p>",
+            ),
+            "https://second.test/": response(
+                "https://second.test/",
+                "<h1>ТИК Северная</h1><p>Телефон: 7654321</p>",
+            ),
+        }
+        with tempfile.TemporaryDirectory() as directory:
+            output = Path(directory)
+            crawl_catalog(
+                [self.region(max_pages=1, max_depth=0)],
+                FakeFetcher(bodies),
+                output,
+                concurrency=1,
+                search_terms=(),
+            )
+            crawl_catalog([second], FakeFetcher(bodies), output, concurrency=1, search_terms=())
+            summary = aggregate_cached_regions(
+                [self.region(max_pages=1, max_depth=0), second], output
+            )
+            contacts = (output / "contacts.jsonl").read_text().splitlines()
+        self.assertEqual(2, summary["contacts"]["total"])
+        self.assertEqual(2, len(contacts))
 
 
 if __name__ == "__main__":

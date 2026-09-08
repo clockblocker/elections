@@ -34,6 +34,8 @@ import requests
 
 from .io import write_jsonl
 from .models import CommissionContact, SourceEvidence, canonical_region_code
+from .regional_adapters import parse_html as parse_html_adapter
+from .regional_adapters import seed_urls as adapter_seed_urls
 
 DEFAULT_SEARCH_TERMS = (
     "территориальные избирательные комиссии адреса телефоны",
@@ -701,12 +703,25 @@ def parse_artifact(
             html = _HTML()
             html.feed(_decode(payload))
             html.close()
-            contacts = []
-            for table in html.tables:
-                contacts.extend(_records_contacts(table, subject_code=subject_code, source=source))
-            contacts.extend(
-                _labelled_html_contacts(html.text, subject_code=subject_code, source=source)
+            adapted = parse_html_adapter(
+                subject_code=subject_code,
+                url=url,
+                title=html.title,
+                text=html.text,
+                source=source,
             )
+            if adapted is not None:
+                parser = f"adapter:{adapted.name}"
+                contacts = list(adapted.contacts)
+            else:
+                contacts = []
+                for table in html.tables:
+                    contacts.extend(
+                        _records_contacts(table, subject_code=subject_code, source=source)
+                    )
+                contacts.extend(
+                    _labelled_html_contacts(html.text, subject_code=subject_code, source=source)
+                )
     except (csv.Error, json.JSONDecodeError, UnicodeError, ValueError) as error:
         return ParseOutcome((), parser, "unresolved", f"parse error: {error}")
     result = _deduplicate(contacts)
@@ -825,7 +840,13 @@ def crawl_region(
         for term in search_terms
         if _clean(term)
     ]
-    initial = sorted({*region.seed_urls, *(url for url in search_urls if url)})
+    initial = sorted(
+        {
+            *region.seed_urls,
+            *adapter_seed_urls(region.code, region.base_url),
+            *(url for url in search_urls if url),
+        }
+    )
     pending: deque[tuple[str, int, str]] = deque((url, 0, "") for url in initial)
     queued = set(initial)
     visited: set[str] = set()
@@ -1136,6 +1157,75 @@ def crawl_catalog(
     return summary
 
 
+def aggregate_cached_regions(regions: Sequence[RegionSource], output_dir: Path) -> dict[str, Any]:
+    """Rebuild global outputs from every available per-region result."""
+
+    contacts: list[CommissionContact] = []
+    summaries: list[dict[str, Any]] = []
+    artifacts: list[dict[str, Any]] = []
+    for region in regions:
+        region_dir = output_dir / "regions" / region.code
+        contacts_path = region_dir / "contacts.jsonl"
+        summary_path = region_dir / "summary.json"
+        manifest_path = region_dir / "manifest.json"
+        if contacts_path.is_file():
+            for line in contacts_path.read_text(encoding="utf-8").splitlines():
+                if line.strip():
+                    contacts.append(CommissionContact.from_dict(json.loads(line)))
+        if summary_path.is_file():
+            summaries.append(json.loads(summary_path.read_text(encoding="utf-8")))
+        if manifest_path.is_file():
+            artifacts.extend(
+                json.loads(manifest_path.read_text(encoding="utf-8")).get("artifacts", [])
+            )
+
+    final_contacts = _deduplicate(contacts)
+    contact_counts = Counter(contact.commission_type for contact in final_contacts)
+    summary = {
+        "schemaVersion": 1,
+        "regions": len(regions),
+        "regionsCompleted": len(summaries),
+        "regionsWithContacts": sum(item.get("contacts", 0) > 0 for item in summaries),
+        "contacts": {
+            "total": len(final_contacts),
+            "tik": contact_counts["tik"],
+            "uik": contact_counts["uik"],
+            "withCommissionAddress": sum(bool(item.commission_address) for item in final_contacts),
+            "withCommissionPhone": sum(bool(item.commission_phone) for item in final_contacts),
+            "withVotingAddress": sum(bool(item.voting_address) for item in final_contacts),
+            "withVotingPhone": sum(bool(item.voting_phone) for item in final_contacts),
+        },
+        "artifacts": {
+            "total": len(artifacts),
+            "parsed": sum(item.get("parseStatus") == "parsed" for item in artifacts),
+            "unresolved": sum(item.get("parseStatus") == "unresolved" for item in artifacts),
+            "failures": sum(
+                item.get("parseStatus") in {"fetch_failed", "http_error", "rejected_redirect"}
+                for item in artifacts
+            ),
+        },
+        "regionCoverage": sorted(
+            summaries,
+            key=lambda item: (
+                int(item["regionCode"]) if str(item.get("regionCode", "")).isdigit() else 10_000,
+                str(item.get("regionCode", "")),
+            ),
+        ),
+    }
+    write_jsonl(output_dir / "contacts.jsonl", (item.to_dict() for item in final_contacts))
+    _write_json(
+        output_dir / "manifest.json",
+        {
+            "schemaVersion": 1,
+            "artifacts": sorted(
+                artifacts, key=lambda item: (item["requestedUrl"], item.get("url", ""))
+            ),
+        },
+    )
+    _write_json(output_dir / "summary.json", summary)
+    return summary
+
+
 def run_regional_crawl(
     catalog_path: Path,
     output_dir: Path,
@@ -1146,17 +1236,25 @@ def run_regional_crawl(
     timeout: float = 30.0,
     refresh: bool = False,
     cache_only: bool = False,
+    region_codes: Sequence[str] | None = None,
 ) -> dict[str, Any]:
     """Convenience entrypoint used by the CLI/assembler orchestration."""
 
     regions = load_catalog(catalog_path)
+    selected = regions
+    if region_codes:
+        requested = {canonical_region_code(code) for code in region_codes}
+        known = {region.code for region in regions}
+        if missing := sorted(requested - known):
+            raise ValueError(f"unknown region codes: {', '.join(missing)}")
+        selected = [region for region in regions if region.code in requested]
     fetcher = RequestsFetcher(
         proxy_url=proxy_url,
         timeout=timeout,
         concurrency=concurrency,
     )
-    return crawl_catalog(
-        regions,
+    crawl_catalog(
+        selected,
         fetcher,
         output_dir,
         max_pages_per_region=max_pages_per_region,
@@ -1164,3 +1262,4 @@ def run_regional_crawl(
         refresh=refresh,
         cache_only=cache_only,
     )
+    return aggregate_cached_regions(regions, output_dir)

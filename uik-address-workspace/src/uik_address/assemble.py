@@ -89,6 +89,7 @@ def _contact_score(contact: CommissionContact) -> tuple[int, int, int, str, str]
         "regional-json": 25,
         "regional-csv": 20,
         "regional-html": 10,
+        "regional-adapter-kemerovo-tik": 35,
     }.get(source_type, 0)
     completeness = sum(
         bool(value.strip())

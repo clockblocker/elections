@@ -32,11 +32,20 @@ PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli crawl-regional
 PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli assemble
 ```
 
+For incremental enrichment, target one or more catalog regions without discarding
+the cached results for the others:
+
+```bash
+PYTHONPATH=src ../proper-app/.venv/bin/python -m uik_address.cli crawl-regional --region-code 42
+```
+
 ## Outputs
 
 - `work/uik-addresses-2026-public.csv` — the requested 11-column handoff.
 - `work/uik-addresses-2026.csv` — audit-friendly UTF-8-with-BOM CSV with match and provenance fields.
 - `work/coverage.json` — exact matched/address/phone counts.
+- `work/gaps.csv` — one row per TIK, ranked by UIKs still lacking both a polling
+  address and a TIK fallback.
 - `work/backbone.jsonl` — Duma-only UIK-to-TIK hierarchy.
 - `work/cec/` and `work/regional/` — normalized contacts, crawl summaries,
   manifests, and content-addressed raw responses.

@@ -6,4 +6,5 @@ __pycache__/
 # Large reproducible crawl and assembly intermediates stay local.
 work/*
 !work/coverage.json
+!work/gaps.csv
 !work/uik-addresses-2026-public.csv

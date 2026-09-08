@@ -11,6 +11,7 @@ from pathlib import Path
 from .assemble import assemble_rows, write_coverage, write_csv, write_public_csv
 from .backbone import coverage_summary, extract_backbone, write_backbone_jsonl
 from .cec import crawl_cec_contacts
+from .gaps import write_gaps
 from .io import read_jsonl
 from .models import BackboneRow, CommissionContact
 from .regional import run_regional_crawl
@@ -61,6 +62,7 @@ def _assemble(
     output_rows, coverage = assemble_rows(backbone, contacts)
     write_csv(work_root / "uik-addresses-2026.csv", output_rows)
     write_public_csv(work_root / "uik-addresses-2026-public.csv", output_rows)
+    write_gaps(work_root / "gaps.csv", output_rows)
     write_coverage(work_root / "coverage.json", coverage)
     return coverage
 
@@ -115,6 +117,9 @@ def build_parser() -> argparse.ArgumentParser:
     regional.add_argument("--max-pages-per-region", type=int, default=30)
     regional.add_argument("--concurrency", type=int, default=6)
     regional.add_argument(
+        "--region-code", action="append", help="crawl only this region; repeatable"
+    )
+    regional.add_argument(
         "--cache-only", action="store_true", help="rebuild outputs without network requests"
     )
 
@@ -132,6 +137,7 @@ def build_parser() -> argparse.ArgumentParser:
     _add_network(run)
     run.add_argument("--max-pages-per-region", type=int, default=30)
     run.add_argument("--concurrency", type=int, default=6)
+    run.add_argument("--region-code", action="append", help="crawl only this region; repeatable")
     run.add_argument("--page-size", type=int, default=1_000)
     run.add_argument("--no-report-42", action="store_true")
     run.add_argument("--skip-cec", action="store_true")
@@ -204,6 +210,7 @@ def main(argv: Sequence[str] | None = None) -> int:
             concurrency=args.concurrency,
             refresh=args.refresh,
             cache_only=args.cache_only,
+            region_codes=args.region_code,
         )
         _print_result(_compact_crawl_summary("regional", summary))
         return 0
@@ -263,6 +270,7 @@ def main(argv: Sequence[str] | None = None) -> int:
             max_pages_per_region=args.max_pages_per_region,
             concurrency=args.concurrency,
             refresh=args.refresh,
+            region_codes=args.region_code,
         )
     contacts = _load_contacts(
         [work_root / "cec" / "contacts.jsonl", work_root / "regional" / "contacts.jsonl"]
