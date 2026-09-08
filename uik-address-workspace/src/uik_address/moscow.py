@@ -115,6 +115,8 @@ def parse_moscow_response(
 ) -> tuple[CommissionContact | None, str]:
     """Parse a Moscow response, rejecting records not proven current for Duma 2026."""
 
+    if (urllib.parse.urlsplit(url).hostname or "").casefold() != "www.mosgorizbirkom.ru":
+        return None, "response URL is outside the Moscow election commission host"
     if status != 200:
         return None, f"HTTP {status}"
     try:

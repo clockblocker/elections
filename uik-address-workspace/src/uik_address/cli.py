@@ -153,7 +153,7 @@ def build_parser() -> argparse.ArgumentParser:
         help="contact JSONL; repeatable (defaults to CEC, regional, and Moscow outputs)",
     )
 
-    run = subparsers.add_parser("run", help="run backbone, both crawlers, and assembly")
+    run = subparsers.add_parser("run", help="run backbone, all crawlers, and assembly")
     _add_common_paths(run)
     _add_network(run)
     run.add_argument("--max-pages-per-region", type=int, default=30)

@@ -102,6 +102,15 @@ class MoscowParserTests(unittest.TestCase):
         self.assertIsNone(wrong_date)
         self.assertIn("not 2026-09-20", reason)
 
+        wrong_host, reason = parse_moscow_response(
+            body,
+            requested_number=146,
+            url="https://example.test/lookup?number=146",
+            retrieved_at=NOW,
+        )
+        self.assertIsNone(wrong_host)
+        self.assertIn("outside", reason)
+
 
 class MoscowCrawlerTests(unittest.TestCase):
     def test_archives_results_and_reuses_200_and_404_cache(self) -> None:
