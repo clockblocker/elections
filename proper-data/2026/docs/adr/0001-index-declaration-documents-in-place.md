@@ -8,3 +8,9 @@ and keeps incomplete or ambiguous coverage explicit instead of copying documents
 claiming a candidate-complete normalized dataset. This preserves source fidelity and
 avoids false equivalence between documents with different granularity, at the cost of
 requiring consumers to follow paths and parse the original formats.
+
+The consumer-facing `elections.sqlite3` database is a derived artifact and does not
+change that source-corpus decision. Its builder materializes a collision-safe
+`docs/declarations/` tree so every database path has one stable base directory. Normal
+files are hard-linked or copied; ZIP sources are expanded, provenance remains attached
+to the source archive, and candidate links target individual extracted members.

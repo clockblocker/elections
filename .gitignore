@@ -28,5 +28,6 @@ proper-app/research/**/__pycache__/
 data/raw/
 reports/generated/
 proper-app/db/duma-2021.sql
+proper-data/2026/docs/declarations/
 *.sqlite
 *.sqlite3

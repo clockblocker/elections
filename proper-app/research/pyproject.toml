@@ -7,7 +7,12 @@ requires-python = ">=3.11"
 [project.optional-dependencies]
 crawler = [
   "lxml>=5.3,<7",
+  "openpyxl>=3.1,<4",
+  "Pillow>=11,<13",
+  "pypdf>=6,<7",
+  "pypdfium2>=4.30,<5",
   "requests[socks]>=2.32,<3",
+  "xlrd>=2,<3",
 ]
 dev = [
   "ruff>=0.6,<1",

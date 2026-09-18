@@ -40,6 +40,22 @@ The data answers two separate questions without conflating them:
   federal party-list, and regional indexes. It references the original files in
   place and records unresolved regional coverage instead of treating silence as an
   empty result.
+- `campaign-finance/regions/<region-code>/` — exact official 2026 State Duma
+  election-fund reports plus normalized candidate/party snapshots. Region `0` is
+  the central CEC financing section; the other directories are regional commission
+  and district-commission publications discovered through official routes and site
+  search. Unrecognized documents are retained with an explicit `unparsed` status
+  rather than guessed values.
+- `docs/declarations/` — the generated, collision-safe document tree used by the
+  SQLite database. Ordinary documents are hard-linked when the filesystem permits
+  (copied otherwise); ZIP sources are expanded and only their member files appear
+  here.
+- `elections.sqlite3` — the generated query database. It contains normalized regions,
+  territories, election kinds, election levels, systems, elections, districts, all
+  candidate registrations, declaration files, audited candidate/file links,
+  campaign-finance documents, and parsed fund snapshots.
+- `build_election_database.py` — reproducibly rebuilds both generated outputs. Paths
+  in the database are relative to this directory.
 - `regional-declaration-sources.json` — the 89-region official-site catalog used by
   the regional crawler. Vetted 2026 State Duma pages are distinguished from guarded
   search fallbacks so historical elections and staff disclosures are not ingested.
@@ -89,8 +105,34 @@ proper-app/.venv/bin/python proper-data/2026/current2026.py crawl-declarations
 proper-app/.venv/bin/python proper-data/2026/crawl_cik_party_declarations.py
 proper-app/.venv/bin/python proper-data/2026/crawl_regional_declarations.py \
   --catalog proper-data/2026/regional-declaration-sources.json
+proper-app/.venv/bin/python proper-data/2026/crawl_campaign_finance.py
+proper-app/.venv/bin/python proper-data/2026/reparse_campaign_finance.py
 proper-app/.venv/bin/python proper-data/2026/build_declaration_corpus.py
+proper-app/.venv/bin/python proper-data/2026/build_election_database.py
 ```
+
+The database builder's Python readers are included in the `crawler` optional
+dependencies in `proper-app/research/pyproject.toml`. Image-only PDFs additionally
+require the `tesseract` executable with Russian language data (the Debian packages are
+`tesseract-ocr` and `tesseract-ocr-rus`).
+
+`candidate_details` resolves each candidate's election kind, level, system, territory,
+district, and region. `candidate_document_paths` is the direct candidate-to-file query
+surface. For example:
+
+```sql
+SELECT c.full_name, c.election_kind, c.region_name, c.territory_name,
+       p.category, p.document_path, p.match_method, p.confidence
+FROM candidate_details AS c
+JOIN candidate_document_paths AS p ON p.candidate_id = c.id
+WHERE c.full_name = 'Иванов Иван Иванович';
+```
+
+Candidate/document links are many-to-many. Exact full-name content matches receive the
+highest confidence. Unique Russian name-stem or surname/initial matches and explicit
+consolidated district scope are retained with lower confidence and a human-readable
+evidence field. ZIP members retain both the source archive hash and their member path;
+links always point to the extracted member, never to the ZIP container.
 
 Use `crawl --refresh` for a later snapshot. Candidate registrations can change before
 voting, so a retrieval timestamp is part of the evidence, not incidental metadata.
@@ -103,6 +145,25 @@ content-addressed response storage. Regional output is deliberately conservative
 a completed request with no matching documents is not evidence that a commission
 has published none, and failures or page-limit truncation remain explicit in each
 index and in `declarations/corpus.json`.
+
+Campaign-finance discovery starts from the central CEC financing section and uses
+the same vetted regional host catalog, bounded traversal, RU proxy, retry policy,
+and content-addressed response store. It searches the official sites for both fund
+receipts/spending disclosures and final financial-report terminology, and recognizes
+common State Duma route aliases such as `vybory-deputatov-gd`. Query the
+latest parsed observation for each fund without confusing an absent publication with
+a zero balance:
+
+```sql
+SELECT entity_name, as_of_date, received_total, spent_total, returned_total
+FROM latest_campaign_fund_snapshots;
+```
+
+The network-free reparser dispatches each preserved file to the spreadsheet,
+DOCX-table, legacy Office, text-PDF, scanned-PDF OCR, or recursive ZIP adapter. Every
+document records its semantic classification, template family, adapter, archive
+members, validation findings, and parse status. Invalid numeric rows remain in
+`campaign_fund_snapshots` for audit but are excluded from the latest-snapshot view.
 
 The decision to keep the declaration corpus as an index over source-owned documents
 is recorded in [ADR 0001](docs/adr/0001-index-declaration-documents-in-place.md).
