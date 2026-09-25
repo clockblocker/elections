@@ -391,16 +391,30 @@ retain the failed recovery URL, response hash, status, and validation reason. Th
 and 2007 reconciliation differences are also preserved exactly as displayed by the
 official TIK tables; generation does not rewrite either the aggregate or UIK values.
 
-## Nationwide Russian presidential crawls (2004–2024)
+## Nationwide Russian presidential crawls (2000–2024)
 
 The same restartable nationwide workflow covers every Russian presidential election
-for which the official GAS archive exposes a recursive TIK/UIK hierarchy: 2004, 2008,
-2012, 2018, and 2024. Their checked-in VRNs, hierarchy roots, and verified presidential
-report types (`227` TIK columns and `226` direct UIK protocols) are in
-`historical-nationwide.json`. The 2000 election remains a separate static legacy
-archive and is not represented as a GAS UIK/TIK protocol crawl.
+for which the official GAS archive exposes a recursive TIK/UIK hierarchy: 2000, 2004,
+2008, 2012, 2018, and 2024. Their checked-in VRNs, hierarchy roots, and verified
+presidential report types are in `historical-nationwide.json`. The live 2000 and 2024
+archives expose type-226 aggregate protocols at TIK scope but no promotable type-227
+UIK-column tables, so both elections require direct type-226 UIK recovery. The 2000
+GAS national aggregate is incomplete and is not the legal final-result oracle.
 
-For each `YEAR` in `2004 2008 2012 2018 2024`, use the historical nationwide commands
+The separate `legacy_president_2000.py` workflow preserves the CEC's static workbooks
+and Resolution 106/1149-3. It publishes corrected national and regional aggregates and
+the complete 2,736-TIK vote table to `proper-data/2000-president/results.json`, while
+retaining the pre-correction workbook values and marking the TIK rows as their original
+pre-correction version. Run its restartable stages with:
+
+```sh
+proper-app/.venv/bin/python proper-data/crawler/legacy_president_2000.py discover
+proper-app/.venv/bin/python proper-data/crawler/legacy_president_2000.py crawl
+proper-app/.venv/bin/python proper-data/crawler/legacy_president_2000.py build
+proper-app/.venv/bin/python proper-data/crawler/legacy_president_2000.py validate
+```
+
+For each `YEAR` in `2000 2004 2008 2012 2018 2024`, use the historical nationwide commands
 above with `gas-president-YEAR` in the raw/report paths and generate into
 `proper-data/YEAR-president`. Each plan must be `ready`; every acquired table must
 validate as the configured presidential contest before the offline build can promote

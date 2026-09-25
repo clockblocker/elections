@@ -304,6 +304,68 @@ class HistoricalFamilyTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "unexpected winner report type"):
             validate_registry_catalogs(dataset)
 
+    def test_2000_candidate_catalog_accepts_against_all_but_no_other_special_key(self):
+        source = {
+            "official_url": "http://old.izbirkom.ru/report?type=221",
+            "sha256": "a" * 64,
+            "report_type": 221,
+            "retrieved_at": "2026-09-25T00:00:00Z",
+            "final_url": "http://old.izbirkom.ru/report?type=221",
+            "provenance": "live-official",
+        }
+        winner_source = {
+            **source,
+            "official_url": "http://old.izbirkom.ru/report?type=226",
+            "final_url": "http://old.izbirkom.ru/report?type=226",
+            "report_type": 226,
+            "sha256": "b" * 64,
+        }
+        votes = {"gas:candidate-vibid:winner": 10, "special:against-all": 1}
+        dataset = {
+            "election": "2000-president",
+            "contests": {"candidate": {"tic": 226, "uik": 226}},
+            "relations": [],
+            "records": [{"candidate_votes": votes}],
+            "tik_protocols": [
+                {"tik_tvd": "tik-1", "candidate": {"votes": votes}}
+            ],
+            "candidate_catalog": {
+                "winner_candidate_vibid": "winner",
+                "candidates": [
+                    {
+                        "candidate_vibid": "winner",
+                        "candidate_key": "gas:candidate-vibid:winner",
+                        "full_name": "Иванов Иван Иванович",
+                        "nominating_entity": "Самовыдвижение",
+                        "registration_status": "зарегистрирован",
+                        "is_elected": True,
+                    }
+                ],
+                "source": source,
+                "winner_source": winner_source,
+            },
+            "registry_gates": {
+                "passed": True,
+                "sources_complete": True,
+                "registry_counts_complete": True,
+                "every_result_choice_matched_to_official_identity": True,
+                "identity_key_formulas_valid": True,
+                "uik_and_tik_vote_key_sets_valid": True,
+                "regular_and_special_winner_keys_exclusive": True,
+                "allowed_source_anomalies_exact": True,
+                "literal_elected_and_unique_highest_winner_agree": True,
+                "allowed_anomalies": [],
+                "errors": {},
+            },
+        }
+        validate_registry_catalogs(dataset)
+        dataset["records"][0]["candidate_votes"] = {
+            **votes,
+            "special:invented": 1,
+        }
+        with self.assertRaisesRegex(ValueError, "uncatalogued candidate"):
+            validate_registry_catalogs(dataset)
+
     def test_modern_presidential_candidate_registry_preserves_vibid_and_status(self):
         payload = """<html data-vrn="100100339410030"><table id="candidates-221-1">
         <tr><td>1</td><td><a href="?type=341&amp;vibid=winner">Иванов Иван Иванович</a></td>
