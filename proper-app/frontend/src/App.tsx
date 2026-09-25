@@ -38,7 +38,9 @@ function leadingOption(options: BallotOption[]): number | null {
 
 function electionLabel(election: ElectionSummary): string {
   const year = election.electionDate.slice(0, 4);
-  return election.ballot.kind === "party-list" ? `State Duma · ${year}` : `President · ${year}`;
+  if (election.ballot.kind === "party-list") return `State Duma · ${year}`;
+  if (election.ballot.kind === "mayoral") return `Moscow mayor · ${year}`;
+  return `President · ${year}`;
 }
 
 export default function App() {
@@ -88,7 +90,7 @@ export default function App() {
     return () => controller.abort();
   }, [electionSlug]);
 
-  // Always fit the same national family. Geography is a display slice and must not
+  // Always fit the same full-election family. Geography is a display slice and must not
   // change an individual protocol's baseline, calibration percentile, or q-value.
   useEffect(() => {
     if (!optionId || !metadata) return;
@@ -139,7 +141,7 @@ export default function App() {
   const option = metadata?.options.find((item) => item.id === optionId) ?? null;
   const election = elections.find((item) => item.slug === electionSlug) ?? null;
   const year = metadata?.election.electionDate.slice(0, 4) ?? electionSlug.slice(0, 4);
-  const targetNoun = metadata?.ballot.kind === "presidential" ? "candidate" : "party";
+  const targetNoun = metadata?.ballot.kind === "party-list" ? "party" : "candidate";
   const hasDegDataset = metadata?.coverage.degPolicy === "excluded-outside-protocol-cloud-model";
 
   useEffect(() => {
@@ -187,8 +189,8 @@ export default function App() {
 
   return <div className="app-shell">
     <header className="masthead">
-      <a className="brand" href="/"><span className="brand-year">{year}</span><span><strong>Physical Vote Field</strong><small>{metadata.ballot.kind === "party-list" ? "State Duma" : "Presidential election"} research edition</small></span></a>
-      <div className="scope-ribbon"><i /> Physical UIKs only <span>{hasDegDataset ? "DEG outside model" : "nationwide ballot field"}</span></div>
+      <a className="brand" href="/"><span className="brand-year">{year}</span><span><strong>Physical Vote Field</strong><small>{metadata.ballot.kind === "party-list" ? "State Duma" : metadata.ballot.kind === "mayoral" ? "Moscow mayoral election" : "Presidential election"} research edition</small></span></a>
+      <div className="scope-ribbon"><i /> Physical UIKs only <span>{hasDegDataset ? "DEG outside model" : metadata.ballot.kind === "mayoral" ? "Moscow ballot field" : "nationwide ballot field"}</span></div>
       <div className="header-actions"><button onClick={copyLink}>Copy analysis link</button><button className="primary" onClick={exportAnalysis} disabled={!analysis.value}>Export result</button></div>
     </header>
     {notice && <div className="toast" role="status">{notice}</div>}
@@ -209,7 +211,7 @@ export default function App() {
       </aside>
 
       <section className="analysis-column">
-        <div className="analysis-heading"><div><span className="eyebrow">02 · Election-wide protocol screen</span><h1>{option?.shortName ?? "Option"} turnout × result field</h1><p>{region ? `${metadata.regions.find((item) => item.key === region)?.name} · scores fixed to the all-UIK model` : `Russian Federation · robust core of ${analysis.value?.core.protocols.toLocaleString() ?? "all"} protocols`}</p></div>{loading && <span className="loading-pill">Loading protocols…</span>}</div>
+        <div className="analysis-heading"><div><span className="eyebrow">02 · Election-wide protocol screen</span><h1>{option?.shortName ?? "Option"} turnout × result field</h1><p>{region ? `${metadata.regions.find((item) => item.key === region)?.name} · scores fixed to the all-UIK model` : `${metadata.ballot.kind === "mayoral" ? "Moscow" : "Russian Federation"} · robust core of ${analysis.value?.core.protocols.toLocaleString() ?? "all"} protocols`}</p></div>{loading && <span className="loading-pill">Loading protocols…</span>}</div>
         {analysis.error && <div className="analysis-error">{analysis.error}</div>}
         {summary && <div className="metric-row">
           <article><span>P_sus review queue</span><strong>{integer.format(summary.flaggedProtocols)}</strong><small>score ≥ {thresholdPercent.format(parameters.reviewThreshold)}</small></article>

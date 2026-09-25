@@ -108,7 +108,9 @@ def has_single_member_districts(config: dict[str, Any]) -> bool:
 def enriched_relations(config: dict[str, Any]) -> list[dict[str, Any]]:
     """Rebuild relation identities from ancestors instead of stale saved reductions."""
     return hierarchy_summary(
-        config["nodes"], include_oik=has_single_member_districts(config)
+        config["nodes"],
+        include_oik=has_single_member_districts(config),
+        root_is_region=bool(config.get("root_is_region")),
     )["uik_to_tik"]
 
 
@@ -436,7 +438,9 @@ def discover(args: argparse.Namespace) -> int:
         for key in sorted(nodes)
     ]
     summary = hierarchy_summary(
-        output_nodes, include_oik=has_single_member_districts(config)
+        output_nodes,
+        include_oik=has_single_member_districts(config),
+        root_is_region=bool(config.get("root_is_region")),
     )
     by_id = {str(node["node_id"]): node for node in output_nodes}
     tik_ids = sorted({str(item["tik_tvd"]) for item in summary["uik_to_tik"]})
@@ -795,6 +799,7 @@ def discover(args: argparse.Namespace) -> int:
         "election": config["election"],
         "election_vrn": config["election_vrn"],
         "contests": config["contests"],
+        "root_is_region": bool(config.get("root_is_region")),
         "root_url": config["root_url"],
         "root_encoding": encoding,
         "nodes": output_nodes,

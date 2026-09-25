@@ -348,6 +348,18 @@ class DecodeAndHierarchyTests(unittest.TestCase):
         self.assertEqual(summary["uiks"], 1)
         self.assertEqual(summary["uik_to_tik"][0]["tik_tvd"], "tik")
 
+    def test_regional_election_can_treat_the_tree_root_as_the_region(self):
+        nodes = [
+            {"node_id": "region", "parent_id": None, "text": "Moscow", "region": "77", "load_on_demand": False},
+            {"node_id": "tik", "parent_id": "region", "text": "District", "region": "77", "load_on_demand": False},
+            {"node_id": "uik", "parent_id": "tik", "text": "УИК №1", "region": "77", "is_uik": True, "load_on_demand": False},
+        ]
+        summary = hierarchy_summary(nodes, root_is_region=True)
+        self.assertEqual(summary["regions"], 1)
+        self.assertEqual(summary["tiks"], 1)
+        self.assertEqual(summary["uik_to_tik"][0]["region_tvd"], "region")
+        self.assertEqual(summary["uik_to_tik"][0]["tik_tvd"], "tik")
+
     def test_plan_uses_exact_ids_and_all_report_classes(self):
         plan = make_plan(hierarchy_nodes(), direct_uik=True)
         self.assertEqual(plan["estimated_requests"], 4)

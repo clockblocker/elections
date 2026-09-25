@@ -655,8 +655,11 @@ def validate_registry_catalogs(dataset: dict[str, Any]) -> None:
     election = str(dataset.get("election", ""))
     if "party" in contests and not dataset.get("party_catalog"):
         raise ValueError("party election has no party catalog")
-    if election.endswith("-president") and not dataset.get("candidate_catalog"):
-        raise ValueError("presidential election has no candidate catalog")
+    is_at_large_candidate_election = (
+        "candidate" in contests and not election.endswith("-duma")
+    )
+    if is_at_large_candidate_election and not dataset.get("candidate_catalog"):
+        raise ValueError("at-large candidate election has no candidate catalog")
     if election.endswith("-duma") and "candidate" in contests and not dataset.get(
         "districts"
     ):
@@ -792,7 +795,7 @@ def validate_registry_catalogs(dataset: dict[str, Any]) -> None:
         ]
         candidate_ids = {item["candidateVibid"] for item in candidates}
         candidate_vote_keys = {item["voteKey"] for item in candidates}
-        if election == "2004-president":
+        if election in ("2000-president", "2004-president"):
             candidate_vote_keys.add("special:against-all")
         winner = _required_text(
             candidate_catalog, "winner_candidate_vibid", "winnerCandidateVibid"
@@ -810,7 +813,7 @@ def validate_registry_catalogs(dataset: dict[str, Any]) -> None:
         )
         winner_registry_source(
             candidate_catalog.get("winner_source", dataset.get("winner_source")),
-            allowed_report_types={226},
+            allowed_report_types={int(contests["candidate"]["uik"])},
         )
         result_keys: set[str] | None = None
         for record in dataset.get("records", []):
@@ -896,9 +899,9 @@ def ballot_name(dataset: dict[str, Any], contest: str) -> str:
     if contest == "party":
         return "party"
     return (
-        "presidential"
-        if str(dataset["election"]).endswith("-president")
-        else "single-member"
+        "single-member"
+        if str(dataset["election"]).endswith("-duma")
+        else "presidential"
     )
 
 
@@ -1166,7 +1169,9 @@ def write_district_catalog(
 def write_candidate_catalog(
     dataset: dict[str, Any], output: Path, declaration_prefix: str
 ) -> int:
-    if not str(dataset.get("election") or "").endswith("-president"):
+    if "candidate" not in dataset.get("contests", {}) or str(
+        dataset.get("election") or ""
+    ).endswith("-duma"):
         _remove_generated_file(output / "candidates.ts")
         return 0
     raw = dataset.get("candidate_catalog")
@@ -1194,7 +1199,8 @@ def write_candidate_catalog(
         raw_source, default_report_type=221, allowed_report_types={221}
     )
     converted_source["winnerSource"] = winner_registry_source(
-        raw_winner_source, allowed_report_types={226}
+        raw_winner_source,
+        allowed_report_types={int(dataset["contests"]["candidate"]["uik"])},
     )
     value = {
         "election": str(dataset["election"]),

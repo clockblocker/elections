@@ -151,6 +151,16 @@ def parse_candidate_registry(
                 nomination_status = values[6]
                 registration_status = values[7]
                 election_status = values[8]
+            elif scope == "election" and len(values) >= 7:
+                # Regional executive elections use the same type=221 registry,
+                # but omit the federal-only columns between the nominator and
+                # the three status fields.
+                district_number = None
+                birth_date = values[2]
+                nominating_entity = values[3]
+                nomination_status = values[4]
+                registration_status = values[5]
+                election_status = values[6]
             else:
                 continue
         elif len(values) >= 10:

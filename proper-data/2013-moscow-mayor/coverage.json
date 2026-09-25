@@ -1,0 +1,54 @@
+{
+  "schema_version": 3,
+  "election": "2013-moscow-mayor",
+  "regions": [
+    {
+      "region": "77",
+      "regionCode": "77",
+      "regionTvd": "27720001368293",
+      "regionName": "Московская городская избирательная комиссия",
+      "discovered_tik_count": 127,
+      "discovered_uik_count": 3597,
+      "uiks_with_candidate_results": 3597,
+      "uiks_with_known_tik": 3597,
+      "missing_report_types": [],
+      "reconciliation_status": "passed"
+    }
+  ],
+  "registry_gates": {
+    "sources_complete": true,
+    "registry_counts_complete": true,
+    "every_result_choice_matched_to_official_identity": true,
+    "identity_key_formulas_valid": true,
+    "uik_and_tik_vote_key_sets_valid": true,
+    "regular_and_special_winner_keys_exclusive": true,
+    "allowed_source_anomalies_exact": true,
+    "literal_elected_and_unique_highest_winner_agree": true,
+    "allowed_anomalies": [],
+    "errors": {
+      "sources": [],
+      "registry": [],
+      "identity": [],
+      "winner": []
+    },
+    "passed": true,
+    "publishable": true
+  },
+  "summary": {
+    "regions": 1,
+    "districts": 0,
+    "tiks": 127,
+    "uiks": 3597,
+    "complete_uiks": 3597,
+    "missing_hierarchy_uiks": 0,
+    "incomplete_uiks": 0,
+    "reconciliation_failures": 0,
+    "build_errors": 0,
+    "duplicate_conflicts": 0,
+    "direct_recovery_requests": 0,
+    "direct_recovery_valid": 0,
+    "registry_sources_complete": true,
+    "registry_gates_passed": true
+  },
+  "failed_direct_recovery": []
+}

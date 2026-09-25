@@ -62,6 +62,29 @@ class FakeClock:
 
 
 class HistoricalFamilyTests(unittest.TestCase):
+    def test_regional_candidate_registry_uses_compact_status_columns(self):
+        payload = """
+        <html><body>
+          <a href="?vrn=27720001368289">Election</a>
+          <table><tr>
+            <td>1</td>
+            <td><a href="?type=341&amp;vibid=123">Иванов Иван Иванович</a></td>
+            <td>01.02.1970</td><td>Самовыдвижение</td>
+            <td>выдвинут</td><td>зарегистрирован</td><td>избран</td>
+          </tr></table>
+        </body></html>
+        """.encode()
+        parsed = parse_candidate_registry(
+            payload,
+            "http://old.izbirkom.ru/region/izbirkom?vrn=27720001368289&type=221",
+            election_vrn="27720001368289",
+            scope="election",
+        )
+        self.assertTrue(parsed["valid_candidate_registry"])
+        self.assertEqual(parsed["candidate_count"], 1)
+        self.assertEqual(parsed["candidates"][0]["registration_status"], "зарегистрирован")
+        self.assertTrue(parsed["candidates"][0]["is_elected"])
+
     def test_district_catalog_requires_and_serializes_winner_proof(self):
         winner_source = {
             "official_url": "http://old.izbirkom.ru/result?type=223",

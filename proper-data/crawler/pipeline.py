@@ -47,7 +47,7 @@ def merge_hierarchy(payloads: Iterable[tuple[bytes, str]]) -> list[dict[str, Any
 
 
 def hierarchy_summary(
-    nodes: list[dict[str, Any]], *, include_oik: bool = False
+    nodes: list[dict[str, Any]], *, include_oik: bool = False, root_is_region: bool = False
 ) -> dict[str, Any]:
     by_id = {str(node["node_id"]): node for node in nodes if node.get("node_id")}
     children: defaultdict[str, list[dict[str, Any]]] = defaultdict(list)
@@ -65,11 +65,15 @@ def hierarchy_summary(
         for node in nodes
         if node.get("node_id") and node.get("parent_id") is None
     }
-    region_ids = {
-        str(node["node_id"])
-        for node in nodes
-        if node.get("node_id") and str(node.get("parent_id")) in root_ids
-    }
+    region_ids = (
+        root_ids
+        if root_is_region
+        else {
+            str(node["node_id"])
+            for node in nodes
+            if node.get("node_id") and str(node.get("parent_id")) in root_ids
+        }
+    )
     unresolved = [
         str(node["node_id"])
         for node in nodes

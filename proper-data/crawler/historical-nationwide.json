@@ -1,6 +1,30 @@
 {
   "schema_version": 1,
   "elections": {
+    "2000": {
+      "election": "2000-president",
+      "election_vrn": "10010001189753",
+      "root_url": "http://old.izbirkom.ru/tvdTree?vrn=10010001189753&tvd=10010001189756",
+      "contests": {
+        "candidate": {"tic": 226, "uik": 226}
+      },
+      "registry_reports": {
+        "candidate": {
+          "report_type": 221,
+          "scope": "election",
+          "expected_count": 33,
+          "expected_unique_count": 33,
+          "expected_registered_count": 11,
+          "expected_literal_elected_count": 1,
+          "official_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=10010001189756&vrn=10010001189753&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=10010001189753&type=221"
+        },
+        "winner": {
+          "report_type": 226,
+          "scope": "election",
+          "official_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=10010001189756&vrn=10010001189753&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=10010001189756&type=226"
+        }
+      }
+    },
     "2004": {
       "election": "2004-president",
       "election_vrn": "1001000882950",
@@ -83,6 +107,31 @@
           "report_type": 226,
           "scope": "election",
           "official_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100031793509&vrn=100100031793505&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=100100031793509&type=226"
+        }
+      }
+    },
+    "2013": {
+      "election": "2013-moscow-mayor",
+      "election_vrn": "27720001368289",
+      "root_is_region": true,
+      "root_url": "http://old.izbirkom.ru/tvdTree?vrn=27720001368289&tvd=27720001368293",
+      "contests": {
+        "candidate": {"tic": 222, "uik": 234}
+      },
+      "registry_reports": {
+        "candidate": {
+          "report_type": 221,
+          "scope": "election",
+          "expected_count": 41,
+          "expected_unique_count": 41,
+          "expected_registered_count": 6,
+          "expected_literal_elected_count": 1,
+          "official_url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=0&tvd=27720001368293&vrn=27720001368289&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001368289&type=221"
+        },
+        "winner": {
+          "report_type": 234,
+          "scope": "election",
+          "official_url": "http://old.izbirkom.ru/region/region/moscow-city?action=show&root=0&tvd=27720001368293&vrn=27720001368289&region=77&global=&sub_region=77&prver=0&pronetvd=null&vibid=27720001368293&type=234"
         }
       }
     },

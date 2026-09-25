@@ -42,6 +42,17 @@ describe("multi-election import boundary", () => {
     expect(accountingValues(protocol)).toEqual(Array.from({ length: 12 }, (_, index) => index));
   });
 
+  test("uses the election-declared zero for a missing statutory accounting row", () => {
+    const withoutEarly = {
+      ...protocol,
+      election: "2013-moscow-mayor",
+      reportType: 234,
+      accounting: Object.fromEntries(Object.entries(accounting).filter(([label]) => !label.includes("досрочно")))
+    } as ElectionProtocol;
+    expect(accountingValues(withoutEarly, electionConfig("2013-moscow-mayor"))[2]).toBe(0);
+    expect(() => accountingValues(withoutEarly, electionConfig("2004-president"))).toThrow();
+  });
+
   test("builds positional bulk placeholders", () => {
     expect(placeholders(2, 3)).toBe("($1,$2,$3),($4,$5,$6)");
   });

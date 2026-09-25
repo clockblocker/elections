@@ -10,7 +10,8 @@ State Duma federal party-list elections in 2003, 2007, 2011, 2016, and 2021, plu
 presidential elections in 2004, 2008, 2012, 2018, and 2024. Remote electronic voting
 (DEG) is outside the model and is never merged into or compared with physical
 precincts. Single-member State Duma ballots are district-specific, so they remain
-outside the nationwide option model.
+outside the nationwide option model. The regional collection also includes the complete
+3,597-UIK 2013 Moscow mayoral election.
 
 ## Native setup (no Docker)
 
@@ -54,6 +55,7 @@ bun run build
 bun run db:migrate
 bun run db:import
 bun run --cwd backend db:import:one -- 2024-president
+bun run --cwd backend db:import:one -- 2013-moscow-mayor
 .venv/bin/python -m unittest discover -s research/tests -v
 ```
 

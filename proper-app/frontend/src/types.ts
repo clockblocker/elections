@@ -11,7 +11,7 @@ export interface ElectionSummary {
   slug: string;
   name: string;
   electionDate: string;
-  ballot: { kind: "party-list" | "presidential"; name: string };
+  ballot: { kind: "party-list" | "presidential" | "mayoral"; name: string };
   importedProtocols: number | null;
   missingProtocols: number | null;
 }
@@ -25,7 +25,7 @@ export interface Region {
 
 export interface Metadata {
   election: { slug: string; name: string; electionDate: string; scopeNote: string };
-  ballot: { kind: "party-list" | "presidential"; name: string };
+  ballot: { kind: "party-list" | "presidential" | "mayoral"; name: string };
   coverage: {
     regions: number; tiks: number; discoveredUiks: number; importedProtocols: number;
     missingProtocols: number; degPolicy: string; updatedAt: string;

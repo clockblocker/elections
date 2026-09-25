@@ -179,7 +179,7 @@ async function importShard(
     const protocolIds = new Map(protocolRows.map((row) => [String(row.uik_tvd), String(row.id)]));
 
     await bulk(executor, "ballot_accounting", ["protocol_id", ...ACCOUNTING_COLUMNS],
-      records.map((record) => [protocolIds.get(record.uikTvd), ...accountingValues(record)]),
+      records.map((record) => [protocolIds.get(record.uikTvd), ...accountingValues(record, config)]),
       `ON CONFLICT (protocol_id) DO UPDATE SET ${ACCOUNTING_COLUMNS.map((column) => `${column} = EXCLUDED.${column}`).join(", ")}`);
 
     const voteRows = records.flatMap((record) => Object.entries(record.votes).map(([key, votes]) => {

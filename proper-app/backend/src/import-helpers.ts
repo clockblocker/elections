@@ -31,10 +31,13 @@ const ACCOUNTING_MATCHERS: readonly ((label: string) => boolean)[] = [
   (label) => /бюллет/.test(label) && /не учтен/.test(label)
 ];
 
-export function accountingValues(protocol: ElectionProtocol): number[] {
+export function accountingValues(protocol: ElectionProtocol, config?: ElectionConfig): number[] {
   const entries = Object.entries(protocol.accounting).map(([label, value]) => [label.toLocaleLowerCase("ru"), label, value] as const);
   return ACCOUNTING_MATCHERS.map((matches, index) => {
     const found = entries.filter(([normalized]) => matches(normalized));
+    if (!found.length && config?.zeroWhenMissingAccounting?.includes(ACCOUNTING_COLUMNS[index] as "ballots_issued_early")) {
+      return 0;
+    }
     if (found.length !== 1) {
       throw new Error(`Expected one ${ACCOUNTING_COLUMNS[index]} field for UIK ${protocol.uikTvd}, found ${found.length}`);
     }
@@ -56,7 +59,7 @@ function cleanPartyName(name: string): string {
 
 export function shortOptionName(name: string, kind: ElectionConfig["ballotKind"]): string {
   if (name.toLocaleUpperCase("ru").includes("ПРОТИВ ВСЕХ")) return "Против всех";
-  if (kind === "presidential") return name.split(/\s+/)[0] || name;
+  if (kind === "presidential" || kind === "mayoral") return name.split(/\s+/)[0] || name;
   const normalized = name.toLocaleUpperCase("ru");
   if (normalized.includes("КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ")) return "КПРФ";
   if (normalized.includes("ЕДИНАЯ РОССИЯ")) return "Единая Россия";

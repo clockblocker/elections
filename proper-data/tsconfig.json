@@ -7,5 +7,5 @@
     "noEmit": true,
     "skipLibCheck": true
   },
-  "include": ["2021-duma/**/*.ts", "2011-duma/**/*.ts"]
+  "include": ["2021-duma/**/*.ts", "2011-duma/**/*.ts", "2013-moscow-mayor/**/*.ts"]
 }

@@ -439,6 +439,48 @@ values are rewritten to force agreement. Exact missing URLs, response hashes, st
 validation result, and per-region reconciliation status are in each generated
 `coverage.json`.
 
+## 2013 Moscow mayoral crawl
+
+The historical workflow also supports the regional 8 September 2013 Moscow mayoral
+election. Its official VRN, Moscow commission root, type-222 TIK column report,
+type-234 direct result, and type-221 candidate registry are checked into
+`historical-nationwide.json`. Because this tree starts at the regional commission,
+`root_is_region` keeps its 127 child commissions as TIKs rather than inventing 127
+regions.
+
+```sh
+proper-app/.venv/bin/python proper-data/crawler/historical_nationwide.py discover \
+  --year 2013 --raw-dir data/raw/gas-moscow-mayor-2013 \
+  --output reports/generated/gas-moscow-mayor-2013/hierarchy.json
+proper-app/.venv/bin/python proper-data/crawler/historical_nationwide.py plan \
+  --year 2013 --raw-dir data/raw/gas-moscow-mayor-2013 \
+  --hierarchy reports/generated/gas-moscow-mayor-2013/hierarchy.json \
+  --output reports/generated/gas-moscow-mayor-2013/plan.json
+proper-app/.venv/bin/python proper-data/crawler/historical_nationwide.py crawl \
+  --year 2013 --raw-dir data/raw/gas-moscow-mayor-2013 \
+  --plan reports/generated/gas-moscow-mayor-2013/plan.json \
+  --report reports/generated/gas-moscow-mayor-2013/crawl.json
+proper-app/.venv/bin/python proper-data/crawler/historical_nationwide.py build \
+  --year 2013 --raw-dir data/raw/gas-moscow-mayor-2013 \
+  --hierarchy reports/generated/gas-moscow-mayor-2013/hierarchy.json \
+  --crawl-report reports/generated/gas-moscow-mayor-2013/crawl.json \
+  --output reports/generated/gas-moscow-mayor-2013/protocols.json
+proper-app/.venv/bin/python proper-data/crawler/historical_nationwide.py validate \
+  --year 2013 --raw-dir data/raw/gas-moscow-mayor-2013 \
+  --hierarchy reports/generated/gas-moscow-mayor-2013/hierarchy.json \
+  --protocols reports/generated/gas-moscow-mayor-2013/protocols.json \
+  --output proper-data/2013-moscow-mayor/coverage.json
+proper-app/.venv/bin/python proper-data/crawler/generate_historical_typescript.py \
+  reports/generated/gas-moscow-mayor-2013/protocols.json \
+  --output proper-data/2013-moscow-mayor --shard-size 250
+```
+
+The completed collection has 1 region, 127 TIKs, and 3,597/3,597 UIKs. Every TIK
+aggregate reconciles to its precinct columns; there are no missing protocols, parser
+errors, duplicate conflicts, or registry-gate failures. The candidate registry retains
+all 41 official history rows, including the six registered ballot candidates and the
+one elected candidate.
+
 ## Official identity catalogs for historical nationwide elections
 
 The nationwide workflow also crawls the exact official GAS identity reports linked

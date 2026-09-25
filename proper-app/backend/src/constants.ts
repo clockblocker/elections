@@ -5,6 +5,7 @@ export type ElectionSlug =
   | "2008-president"
   | "2011-duma"
   | "2012-president"
+  | "2013-moscow-mayor"
   | "2016-duma"
   | "2018-president"
   | "2021-duma"
@@ -15,13 +16,14 @@ export interface ElectionConfig {
   name: string;
   electionDate: string;
   year: number;
-  electionKind: "duma" | "president";
+  electionKind: "duma" | "president" | "mayor";
   ballotSourceKind: "party" | "presidential";
-  ballotKind: "party-list" | "presidential";
+  ballotKind: "party-list" | "presidential" | "mayoral";
   ballotName: string;
-  reportType: 226 | 242 | 430;
+  reportType: 226 | 234 | 242 | 430;
   coverageResultKey: "uiks_with_party_results" | "uiks_with_candidate_results";
   catalogFile: "parties.ts" | "candidates.ts" | null;
+  zeroWhenMissingAccounting?: readonly "ballots_issued_early"[];
   scopeNote: string;
 }
 
@@ -62,6 +64,14 @@ export const ELECTIONS: readonly ElectionConfig[] = [
     year: 2012, electionKind: "president", ballotSourceKind: "presidential", ballotKind: "presidential",
     ballotName: "Presidential ballot", reportType: 226, coverageResultKey: "uiks_with_candidate_results",
     catalogFile: "candidates.ts", scopeNote: "Presidential results at physical UIKs."
+  },
+  {
+    slug: "2013-moscow-mayor", name: "Moscow mayoral election", electionDate: "2013-09-08",
+    year: 2013, electionKind: "mayor", ballotSourceKind: "presidential", ballotKind: "mayoral",
+    ballotName: "Mayoral ballot", reportType: 234, coverageResultKey: "uiks_with_candidate_results",
+    catalogFile: "candidates.ts",
+    zeroWhenMissingAccounting: ["ballots_issued_early"],
+    scopeNote: "Moscow mayoral results at physical UIKs."
   },
   {
     slug: "2016-duma", name: "State Duma election, seventh convocation", electionDate: "2016-09-18",
